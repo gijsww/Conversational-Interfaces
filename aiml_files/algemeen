@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    <category>
+      <pattern> # <set>groeten</set> # </pattern>
+      <template>Hoi! Ik ben een chatbot van de Rijksuniversiteit Groningen. Stel me een vraag! </template>
+    </category>
+    
+    <category>
+        <pattern>*</pattern>
+        <template>Sorry, daar heb ik geen antwoord op. Zou je je vraag anders kunnen formuleren?
+    Ik kan vragen beantwoorden over de volgende onderwerpen: in- en uitschrijven, geldzaken, begeleiding en advies, studieloopbaan en carrière, rechtspositie en activiteiten naast je studie</template>
+    </category>
+    
+    <category>
+        <pattern># immigratie # </pattern>
+        <template>Sorry, ik beantwoord geen vragen die betrekking hebben tot immigratie.
+        Als je meer informatie wilt over immigratie, klik dan op deze link.
+            <button>
+                <text>Klik hier</text>
+                <url>https://www.rug.nl/education/faq/?tcid=verint_10_7396_7396</url>
+            </button>
+        </template>
+    </category>
+    
+</aiml>
