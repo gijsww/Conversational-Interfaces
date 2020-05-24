@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="2.0">
     <category> 
-      <pattern> # <set>groeten</set> # </pattern>
+      <pattern># <set>groeten</set> #</pattern>
       <template>Hoi! Ik ben een chatbot van de Rijksuniversiteit Groningen. Stel me een vraag! </template>
     </category>
     
     <category>
         <pattern>*</pattern>
         <template>Sorry, daar heb ik geen antwoord op. Zou je je vraag anders kunnen formuleren?
-    Ik kan vragen beantwoorden over de volgende onderwerpen: in- en uitschrijven, geldzaken, begeleiding en advies, studieloopbaan en carrière, rechtspositie en activiteiten naast je studie</template>
+    Ik kan vragen beantwoorden over onderwerpen als: In- en uitschrijven, geldzaken, begeleiding en advies, studieloopbaan en carrière, rechtspositie en activiteiten naast je studie</template>
     </category>
     
     <category>
@@ -21,5 +21,132 @@
             </button>
         </template>
     </category>
+
+    <category>
+        <pattern>Wat is 1 plus 1</pattern>
+        <template>2.
+        </template>
+    </category>
     
+    <category>
+        <pattern>Waarom zijn brandweer wagens rood</pattern>
+        <template>Omdat ze acht wielen hebben en vier mensen aan boord, en er zitten twaalf inches in een foot, en een fooot is een heerser, en Queen Elizabeth was een heerser, en Queen Elizabeth ook een schip, en een schip zeilt over de oceanen, en in de oceanen zijn vissen, en vissen hebben vinnen, en the Finnen vochten tegen de Russen, en de Russen zijn rood, and brandweerwagens haasten zich altijd("russian" around).
+        </template>
+    </category>
+
+    <category>
+        <pattern>Hoe oud ben je</pattern>
+        <template>2 maanden.
+        </template>
+    </category>
+
+    <category>
+        <pattern>Hoe heet je</pattern>
+        <template>Ik heet Ruggibot, hoe heet jij?
+        </template>
+    </category>
+
+    <category>
+        <pattern>*</pattern>
+        <that>^ hoe heet jij ^</that>
+        <template>Wat een mooie naam!
+        </template>
+    </category>    
+
+    <category>
+        <pattern>Wat is je geslacht</pattern>
+        <template>Dat zeg ik lekker niet
+        </template>
+    </category>    
+
+    <category>
+        <pattern>Vertel eens iets grappigs</pattern>
+        <template>
+            <random>
+                <li>Als je een stuk biefstuk laat garen door de zon... Mag je dan spreken van een zonnesteak?</li>
+                <li>Hoe vervelend je dag  ook is, onthoud altijd dat iemand ergens op de wereld nu met zijn voet op een legoblokje stapt.</li>
+                <li>Wat is het toppunt van carrière maken? Eieren die advocaat willen worden.</li>
+                <li>Waarom kan een ei niet bevriezen? Omdat er een dooier in zit.</li>
+                <li>Welke salade helpt het best tegen jeuk? Krabsalade.</li>
+            </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern># kop of munt #</pattern>
+        <template><random>
+        <li>Kop.</li>
+        <li>Munt.</li>
+        <li>Het is kop.</li>
+        <li>Het is munt.</li>
+        <li>Deze keer is het kop.</li>
+        <li>Deze keer is het munt.</li>
+        </random>
+        </template>
+    </category>    
+
+    <category>
+        <pattern>Kun je ook moppen vertellen</pattern>
+        <template><srai>Vertel eens iets grappigs</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>^ mop ^</pattern>
+        <template> <srai>Vertel eens iets grappigs</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>^ what ^</pattern>
+        <template> Sorry, ik praat alleen Nederlands. <br></br>
+        Sorry, I only speak Dutch.
+        </template>
+    </category>
+
+    <category>
+        <pattern>^ why ^</pattern>
+        <template> <srai>^ what ^</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>^ how ^</pattern>
+        <template> <srai>^ what ^</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>^ can ^</pattern>
+        <template> <srai>^ what ^</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>^ know ^</pattern>
+        <template> <srai>^ what ^</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>Waar staat RUG voor</pattern>
+        <template> RUG is de afkorting van de naam van de Rijksuniversteid Groningen.
+        </template>
+    </category>
+
+    <category>
+        <pattern>Hoe lang bestaat de universteit al</pattern>
+        <template> De Rijksuniversteit Groningen is opgericht in 1614.
+        </template>
+    </category>
+
+    <category>
+        <pattern>Hoe oud is de RUG</pattern>
+        <template> <srai>Hoe lang bestaat de universteit al</srai>
+        </template>
+    </category>
+
+
+
+
 </aiml>
