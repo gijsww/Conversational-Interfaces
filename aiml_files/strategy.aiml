@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+<pattern>JA</pattern>
+<that>* is hiermee je vraag over ^ beantwoord </that>
+<template>Fijn! wil je nog iets weten over <get name = "topic"/>?<br></br>
+Of stel een andere vraag<br></br>
+<reply>
+<text><get name = "topic"/></text>
+<postback><get name = "topic"/></postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>NEE</pattern>
+<that>* is hiermee je vraag over ^ beantwoord </that>
+<template>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen:<br></br>
+<srai><get name = "topic"/></srai>
+</template>
+</category>
+
+</aiml>

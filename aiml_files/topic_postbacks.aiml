@@ -1,0 +1,2242 @@
+<?xml version="1.0" encoding="UTF-8"?><aiml version="2.0">
+<category>
+<pattern>
+Aanmelden
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wat is het verschil tussen aanmelden en inschrijven?</text>
+<postback>Wat is het verschil tussen aanmelden en inschrijven</postback>
+</reply>
+<reply>
+<text>Hoe meld ik me aan voor een bacheloropleiding?</text>
+<postback>Hoe meld ik me aan voor een bacheloropleiding</postback>
+</reply>
+<reply>
+<text>Hoe meld ik me aan voor een masteropleiding?</text>
+<postback>Hoe meld ik me aan voor een masteropleiding</postback>
+</reply>
+<reply>
+<text>Ik heb me aangemeld via Studielink Wat moet ik nu doen?</text>
+<postback>Ik heb me aangemeld via Studielink Wat moet ik nu doen</postback>
+</reply>
+<reply>
+<text>Wat moet ik doen als mijn persoonsgegevens volgens Studielink niet gecontroleerd kunnen worden?</text>
+<postback>Wat moet ik doen als mijn persoonsgegevens volgens Studielink niet gecontroleerd kunnen worden</postback>
+</reply>
+<reply>
+<text>Wat moet ik doen als er iets mis gaat met mijn aanmelding via Studielink?</text>
+<postback>Wat moet ik doen als er iets mis gaat met mijn aanmelding via Studielink</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Toelating / vooropleiding
+</pattern>
+<template>
+<srai>Welke opleidingen geven rechtstreeks toelating tot de universiteit </srai>
+</template>
+</category>
+
+<category>
+<pattern>
+VWO vooropleiding
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Ben ik met een vwodiploma toelaatbaar tot een bacheloropleiding?</text>
+<postback>Ben ik met een vwodiploma toelaatbaar tot een bacheloropleiding</postback>
+</reply>
+<reply>
+<text>Ben ik met een vwodiploma oude stijl toelaatbaar tot een bacheloropleiding?</text>
+<postback>Ben ik met een vwodiploma oude stijl toelaatbaar tot een bacheloropleiding</postback>
+</reply>
+<reply>
+<text>Wat kan ik doen als mijn profiel niet toereikend is voor de opleiding van mijn voorkeur?</text>
+<postback>Wat kan ik doen als mijn profiel niet toereikend is voor de opleiding van mijn voorkeur</postback>
+</reply>
+<reply>
+<text>Kan ik ook toegelaten worden met deelcertificaten als ik mijn VWO diploma niet haal?</text>
+<postback>Kan ik ook toegelaten worden met deelcertificaten als ik mijn VWO diploma niet haal</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+HBO vooropleiding bachelor en propedeuse
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding?</text>
+<postback>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding</postback>
+</reply>
+<reply>
+<text>Maakt het uit welke hbopropedeuse ik heb gehaald als ik naar de universiteit wil?</text>
+<postback>Maakt het uit welke hbopropedeuse ik heb gehaald als ik naar de universiteit wil</postback>
+</reply>
+<reply>
+<text>Kan ik instromen in een hoger studiejaar?</text>
+<postback>Kan ik instromen in een hoger studiejaar</postback>
+</reply>
+<reply>
+<text>Kan ik met een hbobachelordiploma instromen in een masterprogramma?</text>
+<postback>Kan ik met een hbobachelordiploma instromen in een masterprogramma</postback>
+</reply>
+<reply>
+<text>Heb ik recht op extra studiefinanciering?</text>
+<postback>Heb ik recht op extra studiefinanciering</postback>
+</reply>
+<reply>
+<text>Kan ik stoppen als het niet bevalt?</text>
+<postback>Kan ik stoppen als het niet bevalt</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Buitenlandse vooropleiding
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Ben ik met een buitenlandse diploma toelaatbaar tot de universiteit?</text>
+<postback>Ben ik met een buitenlandse diploma toelaatbaar tot de universiteit</postback>
+</reply>
+<reply>
+<text>Toelating via het voorbereidend jaar voor anderstaligen?</text>
+<postback>Toelating via het voorbereidend jaar voor anderstaligen</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Andere vooropleiding
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Ik heb niet de juiste vooropleiding Kan ik dan toch naar de universiteit?</text>
+<postback>Ik heb niet de juiste vooropleiding Kan ik dan toch naar de universiteit</postback>
+</reply>
+<reply>
+<text>Ik heb een havodiploma Wat zijn de mogelijkheden?</text>
+<postback>Ik heb een havodiploma Wat zijn de mogelijkheden</postback>
+</reply>
+<reply>
+<text>Toelating via het voorbereidend jaar voor anderstaligen?</text>
+<postback>Toelating via het voorbereidend jaar voor anderstaligen</postback>
+</reply>
+<reply>
+<text>Colloquium doctum?</text>
+<postback>Colloquium doctum</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Universitaire bachelor
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Kan ik met een universitair bachelordiploma instromen in een masterprogramma van de RUG?</text>
+<postback>Kan ik met een universitair bachelordiploma instromen in een masterprogramma van de RUG</postback>
+</reply>
+<reply>
+<text>Ik wil beginnen aan mastervakken en heb mijn bacheloropleiding nog niet afgerond Kan ik me alvast registreren voor de masteropleiding?</text>
+<postback>Ik wil beginnen aan mastervakken en heb mijn bacheloropleiding nog niet afgerond Kan ik me alvast registreren voor de masteropleiding</postback>
+</reply>
+<reply>
+<text>Hoe meld ik me aan voor een researchmaster of andere master met aanvullende toelatingseisen?</text>
+<postback>Hoe meld ik me aan voor een researchmaster of andere master met aanvullende toelatingseisen</postback>
+</reply>
+<reply>
+<text>Wat is een verklaring toelating tot het afsluitend examen VTAE?</text>
+<postback>Wat is een verklaring toelating tot het afsluitend examen VTAE</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Selectie en plaatsing numerus fixusopleiding
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wat is een numerus fixusopleiding?</text>
+<postback>Wat is een numerus fixusopleiding</postback>
+</reply>
+<reply>
+<text>Voor welke opleidingen aan de Rijksuniversiteit Groningen is er een selectie?</text>
+<postback>Voor welke opleidingen aan de Rijksuniversiteit Groningen is er een selectie</postback>
+</reply>
+<reply>
+<text>Hoe zit het met de matching?</text>
+<postback>Hoe zit het met de matching</postback>
+</reply>
+<reply>
+<text>Voor welke datum moet ik mij aanmelden in Studielink?</text>
+<postback>Voor welke datum moet ik mij aanmelden in Studielink</postback>
+</reply>
+<reply>
+<text>Waar vind ik meer informatie over de selectie?</text>
+<postback>Waar vind ik meer informatie over de selectie</postback>
+</reply>
+<reply>
+<text>Hoe kan ik bezwaar aantekenen?</text>
+<postback>Hoe kan ik bezwaar aantekenen</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Aanmelden numerus fixusopleiding
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Hoe meld ik me aan voor een numerus fixusopleiding?</text>
+<postback>Hoe meld ik me aan voor een numerus fixusopleiding</postback>
+</reply>
+<reply>
+<text>Voor hoeveel numerus fixusopleiding kan ik mij aanmelden?</text>
+<postback>Voor hoeveel numerus fixusopleiding kan ik mij aanmelden</postback>
+</reply>
+<reply>
+<text>Ik sta al bij de RUG ingeschreven en wil meedoen aan de selectie voor een fixusopleiding Moet ik me ook aanmelden bij Studielink?</text>
+<postback>Ik sta al bij de RUG ingeschreven en wil meedoen aan de selectie voor een fixusopleiding Moet ik me ook aanmelden bij Studielink</postback>
+</reply>
+<reply>
+<text>Ik heb al een HBOV diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie?</text>
+<postback>Ik heb al een HBOV diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie</postback>
+</reply>
+<reply>
+<text>Moeten mijn persoonsgegevens geverifieerd zijn voordat ik mee kan doen aan de selectie?</text>
+<postback>Moeten mijn persoonsgegevens geverifieerd zijn voordat ik mee kan doen aan de selectie</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Selectiepogingen
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Hoe vaak mag ik mee doen aan de selectie?</text>
+<postback>Hoe vaak mag ik mee doen aan de selectie</postback>
+</reply>
+<reply>
+<text>Hoe weet ik of ik al een selectiepoging hebt verbruikt?</text>
+<postback>Hoe weet ik of ik al een selectiepoging hebt verbruikt</postback>
+</reply>
+<reply>
+<text>Wat moet ik doen als het aantal geregistreerde selectiepogingen niet klopt?</text>
+<postback>Wat moet ik doen als het aantal geregistreerde selectiepogingen niet klopt</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Uitslag en bewijs van toelating
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wanneer weet ik of ik ben geselecteerd?</text>
+<postback>Wanneer weet ik of ik ben geselecteerd</postback>
+</reply>
+<reply>
+<text>Wat moet ik doen als ik ben geselecteerd?</text>
+<postback>Wat moet ik doen als ik ben geselecteerd</postback>
+</reply>
+<reply>
+<text>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal?</text>
+<postback>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Matching aan de RUG
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wat is matching en waarom moet ik meedoen?</text>
+<postback>Wat is matching en waarom moet ik meedoen</postback>
+</reply>
+<reply>
+<text>Hoe ziet matching er uit?</text>
+<postback>Hoe ziet matching er uit</postback>
+</reply>
+<reply>
+<text>Is matching hetzelfde als selectie?</text>
+<postback>Is matching hetzelfde als selectie</postback>
+</reply>
+<reply>
+<text>Is er matching bij alle opleidingen?</text>
+<postback>Is er matching bij alle opleidingen</postback>
+</reply>
+<reply>
+<text>Wanneer zijn de matchingsdagen?</text>
+<postback>Wanneer zijn de matchingsdagen</postback>
+</reply>
+<reply>
+<text>Wat als ik niet kan komen op de matchingsdag?</text>
+<postback>Wat als ik niet kan komen op de matchingsdag</postback>
+</reply>
+<reply>
+<text>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen?</text>
+<postback>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</postback>
+</reply>
+<reply>
+<text>Wat als de opleiding niet bij me past?</text>
+<postback>Wat als de opleiding niet bij me past</postback>
+</reply>
+<reply>
+<text>Wat kan ik doen als ik voor of na matching studiekeuzevragen heb?</text>
+<postback>Wat kan ik doen als ik voor of na matching studiekeuzevragen heb</postback>
+</reply>
+<reply>
+<text>Wanneer heb ik aan de studiekeuzecheck voldaan?</text>
+<postback>Wanneer heb ik aan de studiekeuzecheck voldaan</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Inschrijvingsprocedure
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Hoe schrijf ik me in bij de RUG?</text>
+<postback>Hoe schrijf ik me in bij de RUG</postback>
+</reply>
+<reply>
+<text>Moet ik me ieder jaar opnieuw inschrijven?</text>
+<postback>Moet ik me ieder jaar opnieuw inschrijven</postback>
+</reply>
+<reply>
+<text>Tot wanneer kan ik me inschrijven?</text>
+<postback>Tot wanneer kan ik me inschrijven</postback>
+</reply>
+<reply>
+<text>Kan ik me later in het studiejaar inschrijven?</text>
+<postback>Kan ik me later in het studiejaar inschrijven</postback>
+</reply>
+<reply>
+<text>Studielink geeft aan dat ik mij binnen tien dagen moet inschrijven omdat anders mijn plaatsingsbewijs vervalt?</text>
+<postback>Studielink geeft aan dat ik mij binnen tien dagen moet inschrijven omdat anders mijn plaatsingsbewijs vervalt</postback>
+</reply>
+<reply>
+<text>Hoe word ik op de hoogte gehouden van mijn inschrijvingsverzoek?</text>
+<postback>Hoe word ik op de hoogte gehouden van mijn inschrijvingsverzoek</postback>
+</reply>
+<reply>
+<text>Wanneer moet ik me inschrijven als ik vakken wil volgen die pas in het tweede half jaar worden gegeven?</text>
+<postback>Wanneer moet ik me inschrijven als ik vakken wil volgen die pas in het tweede half jaar worden gegeven</postback>
+</reply>
+<reply>
+<text>Hoe weet ik dat mijn herinschrijving in orde is?</text>
+<postback>Hoe weet ik dat mijn herinschrijving in orde is</postback>
+</reply>
+<reply>
+<text>Ik stond vorig studiejaar niet ingeschreven Hoe kan ik me weer inschrijven?</text>
+<postback>Ik stond vorig studiejaar niet ingeschreven Hoe kan ik me weer inschrijven</postback>
+</reply>
+<reply>
+<text>Houd ik mijn eigen studentnummer als ik me weer opnieuw in wil schrijven?</text>
+<postback>Houd ik mijn eigen studentnummer als ik me weer opnieuw in wil schrijven</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Premasterprogramma's
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wat is een premasterprogramma?</text>
+<postback>Wat is een premasterprogramma</postback>
+</reply>
+<reply>
+<text>Hoe schrijf ik me in voor een premasterprogramma?</text>
+<postback>Hoe schrijf ik me in voor een premasterprogramma</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Inschrijving wijzigen
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Ik ga halverwege het studiejaar aan mijn master beginnen Moet ik me er alvast voor inschrijven?</text>
+<postback>Ik ga halverwege het studiejaar aan mijn master beginnen Moet ik me er alvast voor inschrijven</postback>
+</reply>
+<reply>
+<text>Ik ga volgend jaar een andere opleiding doen aan de RUG dan dit jaar Hoe geef ik dit aan?</text>
+<postback>Ik ga volgend jaar een andere opleiding doen aan de RUG dan dit jaar Hoe geef ik dit aan</postback>
+</reply>
+<reply>
+<text>Ik doe twee studies aan de RUG maar ik wil met één daarvan stoppen Hoe doe ik dat?</text>
+<postback>Ik doe twee studies aan de RUG maar ik wil met één daarvan stoppen Hoe doe ik dat</postback>
+</reply>
+<reply>
+<text>Hoe verander ik van studie tijdens het collegejaar?</text>
+<postback>Hoe verander ik van studie tijdens het collegejaar</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Voor meer studies inschrijven
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Ik sta ingeschreven bij de RUG en ik wil me ook inschrijven bij een andere instelling Wat moet ik doen?</text>
+<postback>Ik sta ingeschreven bij de RUG en ik wil me ook inschrijven bij een andere instelling Wat moet ik doen</postback>
+</reply>
+<reply>
+<text>Ik wil twee studies doen aan de RUG Kan dat Hoe regel ik dat?</text>
+<postback>Ik wil twee studies doen aan de RUG Kan dat Hoe regel ik dat</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Inschrijven
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Kan ik mijn inschrijving annuleren?</text>
+<postback>Kan ik mijn inschrijving annuleren</postback>
+</reply>
+<reply>
+<text>Inschrijfprocedure nietNederlandse vooropleiding?</text>
+<postback>Inschrijfprocedure nietNederlandse vooropleiding</postback>
+</reply>
+<reply>
+<text>Instroommomenten?</text>
+<postback>Instroommomenten</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Herinschrijven
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Hoe kan ik mij herinschrijven?</text>
+<postback>Hoe kan ik mij herinschrijven</postback>
+</reply>
+<reply>
+<text>Wat moet ik doen als het niet lukt om via Studielink een herinschrijving te doen?</text>
+<postback>Wat moet ik doen als het niet lukt om via Studielink een herinschrijving te doen</postback>
+</reply>
+<reply>
+<text>Wat moet ik doen als ik me niet wil herinschrijven?</text>
+<postback>Wat moet ik doen als ik me niet wil herinschrijven</postback>
+</reply>
+<reply>
+<text>Moet ik mij herinschrijven als ik nog niet weet of ik voor 1 september afstudeer?</text>
+<postback>Moet ik mij herinschrijven als ik nog niet weet of ik voor 1 september afstudeer</postback>
+</reply>
+<reply>
+<text>Moet ik mij nog herinschrijven als ik mijn diploma in september krijg?</text>
+<postback>Moet ik mij nog herinschrijven als ik mijn diploma in september krijg</postback>
+</reply>
+<reply>
+<text>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden?</text>
+<postback>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Uitschrijven
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Hoe moet ik mij uitschrijven?</text>
+<postback>Hoe moet ik mij uitschrijven</postback>
+</reply>
+<reply>
+<text>Word ik na mijn afstuderen automatisch uitgeschreven?</text>
+<postback>Word ik na mijn afstuderen automatisch uitgeschreven</postback>
+</reply>
+<reply>
+<text>Per wanneer word ik uitgeschreven?</text>
+<postback>Per wanneer word ik uitgeschreven</postback>
+</reply>
+<reply>
+<text>Ik doe twee studies aan de RUG en ik wil met een daarvan stoppen Hoe doe ik dat?</text>
+<postback>Ik doe twee studies aan de RUG en ik wil met een daarvan stoppen Hoe doe ik dat</postback>
+</reply>
+<reply>
+<text>Wat moet ik doen als ik een verkeerde uitschrijvingsdatum in Studielink heb ingevuld?</text>
+<postback>Wat moet ik doen als ik een verkeerde uitschrijvingsdatum in Studielink heb ingevuld</postback>
+</reply>
+<reply>
+<text>Kan ik mijn verzoek tot uitschrijven terugdraaien?</text>
+<postback>Kan ik mijn verzoek tot uitschrijven terugdraaien</postback>
+</reply>
+<reply>
+<text>Restitutie collegegeld?</text>
+<postback>Restitutie collegegeld</postback>
+</reply>
+<reply>
+<text>Gevolgen uitschrijving voor studiefinanciering DUO?</text>
+<postback>Gevolgen uitschrijving voor studiefinanciering DUO</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Studielink
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Animatiefilmpje over Nieuwe Studielink?</text>
+<postback>Animatiefilmpje over Nieuwe Studielink</postback>
+</reply>
+<reply>
+<text>Ik heb een Nederlands woonadres?</text>
+<postback>Ik heb een Nederlands woonadres</postback>
+</reply>
+<reply>
+<text>Ik heb geen Nederlands woonadres?</text>
+<postback>Ik heb geen Nederlands woonadres</postback>
+</reply>
+<reply>
+<text>Ik log in met DigiD?</text>
+<postback>Ik log in met DigiD</postback>
+</reply>
+<reply>
+<text>Wat is Studielink?</text>
+<postback>Wat is Studielink</postback>
+</reply>
+<reply>
+<text>Waar kan ik terecht met mijn vragen over het gebruik van Studielink?</text>
+<postback>Waar kan ik terecht met mijn vragen over het gebruik van Studielink</postback>
+</reply>
+<reply>
+<text>Storingen en onderhoud Studielink?</text>
+<postback>Storingen en onderhoud Studielink</postback>
+</reply>
+<reply>
+<text>Studielink stappenplannen?</text>
+<postback>Studielink stappenplannen</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+RUGaccount voor studenten
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wat is een RUGaccount?</text>
+<postback>Wat is een RUGaccount</postback>
+</reply>
+<reply>
+<text>Wanneer heb ik recht op een RUGaccount?</text>
+<postback>Wanneer heb ik recht op een RUGaccount</postback>
+</reply>
+<reply>
+<text>Hoe kan ik mijn RUGaccount activeren?</text>
+<postback>Hoe kan ik mijn RUGaccount activeren</postback>
+</reply>
+<reply>
+<text>Hoe lang blijft mijn RUGaccount actief?</text>
+<postback>Hoe lang blijft mijn RUGaccount actief</postback>
+</reply>
+<reply>
+<text>Kan ik na uitschrijven langer toegang krijgen tot mijn RUGaccount?</text>
+<postback>Kan ik na uitschrijven langer toegang krijgen tot mijn RUGaccount</postback>
+</reply>
+<reply>
+<text>Mijn studie eindigt hoe stel ik mijn gegevens veilig?</text>
+<postback>Mijn studie eindigt hoe stel ik mijn gegevens veilig</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Aanmaken RUGaccount
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wanneer krijg ik mijn RUGaccount?</text>
+<postback>Wanneer krijg ik mijn RUGaccount</postback>
+</reply>
+<reply>
+<text>Wanneer weet ik of mijn RUGaccount beschikbaar is?</text>
+<postback>Wanneer weet ik of mijn RUGaccount beschikbaar is</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Blokkeren RUGaccount
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Waarom is mijn RUGaccount geblokkeerd?</text>
+<postback>Waarom is mijn RUGaccount geblokkeerd</postback>
+</reply>
+<reply>
+<text>Hoe kan ik mijn RUGaccount laten deblokkeren?</text>
+<postback>Hoe kan ik mijn RUGaccount laten deblokkeren</postback>
+</reply>
+<reply>
+<text>Ik heb een termijn van het collegegeld betaald Wanneer wordt mijn RUGaccount gedeblokkeerd?</text>
+<postback>Ik heb een termijn van het collegegeld betaald Wanneer wordt mijn RUGaccount gedeblokkeerd</postback>
+</reply>
+<reply>
+<text>Kan ik nog mail ontvangen of versturen als mijn RUGaccount is geblokkeerd?</text>
+<postback>Kan ik nog mail ontvangen of versturen als mijn RUGaccount is geblokkeerd</postback>
+</reply>
+<reply>
+<text>Wat gebeurt er met mijn gegevens als mijn RUGaccount is geblokkeerd?</text>
+<postback>Wat gebeurt er met mijn gegevens als mijn RUGaccount is geblokkeerd</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Opheffen RUGaccount
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wanneer wordt mijn RUGaccount opgeheven?</text>
+<postback>Wanneer wordt mijn RUGaccount opgeheven</postback>
+</reply>
+<reply>
+<text>Hoe weet ik wanneer mijn RUGaccount wordt opgeheven?</text>
+<postback>Hoe weet ik wanneer mijn RUGaccount wordt opgeheven</postback>
+</reply>
+<reply>
+<text>Wat gebeurt er met mijn RUGaccount als ik binnen een jaar met een nieuwe opleiding begin?</text>
+<postback>Wat gebeurt er met mijn RUGaccount als ik binnen een jaar met een nieuwe opleiding begin</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+RUGpas
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wat is een RUGpas?</text>
+<postback>Wat is een RUGpas</postback>
+</reply>
+<reply>
+<text>Hoe kan ik een pasfoto voor de RUGpas uploaden?</text>
+<postback>Hoe kan ik een pasfoto voor de RUGpas uploaden</postback>
+</reply>
+<reply>
+<text>Ik ben mijn RUGpas kwijt cq deze is gestolen Hoe kom ik aan een nieuwe?</text>
+<postback>Ik ben mijn RUGpas kwijt cq deze is gestolen Hoe kom ik aan een nieuwe</postback>
+</reply>
+<reply>
+<text>Hoe kan ik geld storten op mijn RUGpas?</text>
+<postback>Hoe kan ik geld storten op mijn RUGpas</postback>
+</reply>
+<reply>
+<text>Krijg ik elk studiejaar een nieuwe RUGpas?</text>
+<postback>Krijg ik elk studiejaar een nieuwe RUGpas</postback>
+</reply>
+<reply>
+<text>Wat moet ik doen als ik een nieuwe pasfoto op mijn RUGpas wil?</text>
+<postback>Wat moet ik doen als ik een nieuwe pasfoto op mijn RUGpas wil</postback>
+</reply>
+<reply>
+<text>Ik heb mijn RUGpas nodig voor inschrijving bij mijn studentenvereniging of sportvereniging Kan ik alvast een inschrijfbewijs krijgen van de universiteit?</text>
+<postback>Ik heb mijn RUGpas nodig voor inschrijving bij mijn studentenvereniging of sportvereniging Kan ik alvast een inschrijfbewijs krijgen van de universiteit</postback>
+</reply>
+<reply>
+<text>Wanneer ontvang ik mijn RUGpas als ik me tijdens het studiejaar inschrijf?</text>
+<postback>Wanneer ontvang ik mijn RUGpas als ik me tijdens het studiejaar inschrijf</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Introductieperiode
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Veiligheid en toezicht tijdens de introductieperiode?</text>
+<postback>Veiligheid en toezicht tijdens de introductieperiode</postback>
+</reply>
+<reply>
+<text>KEIweek: Introductieweek van de studentenstad?</text>
+<postback>KEIweek: Introductieweek van de studentenstad</postback>
+</reply>
+<reply>
+<text>Hoe meld ik me aan voor de KEIweek?</text>
+<postback>Hoe meld ik me aan voor de KEIweek</postback>
+</reply>
+<reply>
+<text>Hoe kies ik voor een gezelligheidsvereniging?</text>
+<postback>Hoe kies ik voor een gezelligheidsvereniging</postback>
+</reply>
+<reply>
+<text>Hoe meld ik me aan voor de introductie van een gezelligheidsvereniging?</text>
+<postback>Hoe meld ik me aan voor de introductie van een gezelligheidsvereniging</postback>
+</reply>
+<reply>
+<text>Hoe meld ik me aan voor de introductie van een facultaire studievereniging?</text>
+<postback>Hoe meld ik me aan voor de introductie van een facultaire studievereniging</postback>
+</reply>
+<reply>
+<text>Is er een introductieperiode voor internationale studenten?</text>
+<postback>Is er een introductieperiode voor internationale studenten</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Introductieperiode academische kalender en vakanties
+</pattern>
+<template>
+<srai>Vakanties en religieuze vrije dagen </srai>
+</template>
+</category>
+
+<category>
+<pattern>
+Vakken tentamens boeken
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Waar vind ik het rooster voor vakken en tentamens?</text>
+<postback>Waar vind ik het rooster voor vakken en tentamens</postback>
+</reply>
+<reply>
+<text>Hoe schrijf ik me in voor vakken en tentamens?</text>
+<postback>Hoe schrijf ik me in voor vakken en tentamens</postback>
+</reply>
+<reply>
+<text>Waar vind ik mijn tentamenuitslagen en studieresultaten?</text>
+<postback>Waar vind ik mijn tentamenuitslagen en studieresultaten</postback>
+</reply>
+<reply>
+<text>Hoe kom ik aan een cijferlijst?</text>
+<postback>Hoe kom ik aan een cijferlijst</postback>
+</reply>
+<reply>
+<text>Welke boeken heb ik nodig en hoeveel kosten die?</text>
+<postback>Welke boeken heb ik nodig en hoeveel kosten die</postback>
+</reply>
+<reply>
+<text>Hoe kom ik aan boeken?</text>
+<postback>Hoe kom ik aan boeken</postback>
+</reply>
+<reply>
+<text>Wat zijn minoren?</text>
+<postback>Wat zijn minoren</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Aanmelden in en uitschrijven
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Mijn adreswijziging doorgeven?</text>
+<postback>Mijn adreswijziging doorgeven</postback>
+</reply>
+<reply>
+<text>Verklaring van inschrijving?</text>
+<postback>Verklaring van inschrijving</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Inschrijvingsvormen
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Opbouw van een universitaire opleiding?</text>
+<postback>Opbouw van een universitaire opleiding</postback>
+</reply>
+<reply>
+<text>Voltijdstudie?</text>
+<postback>Voltijdstudie</postback>
+</reply>
+<reply>
+<text>Deeltijdstudie?</text>
+<postback>Deeltijdstudie</postback>
+</reply>
+<reply>
+<text>Duaal student?</text>
+<postback>Duaal student</postback>
+</reply>
+<reply>
+<text>Schakelprogramma's?</text>
+<postback>Schakelprogramma's</postback>
+</reply>
+<reply>
+<text>Contractonderwijs en open colleges?</text>
+<postback>Contractonderwijs en open colleges</postback>
+</reply>
+<reply>
+<text>Uitwisselingsprogramma's?</text>
+<postback>Uitwisselingsprogramma's</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Collegegeldtarieven
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wettelijk collegegeldtarief?</text>
+<postback>Wettelijk collegegeldtarief</postback>
+</reply>
+<reply>
+<text>Instellingscollegegeldtarief?</text>
+<postback>Instellingscollegegeldtarief</postback>
+</reply>
+<reply>
+<text>Toelichting op hoogte instellingscollegegeld?</text>
+<postback>Toelichting op hoogte instellingscollegegeld</postback>
+</reply>
+<reply>
+<text>Tarieven bacheloropleidingen?</text>
+<postback>Tarieven bacheloropleidingen</postback>
+</reply>
+<reply>
+<text>Tarieven masteropleidingen?</text>
+<postback>Tarieven masteropleidingen</postback>
+</reply>
+<reply>
+<text>Vergoeding premasterprogramma?</text>
+<postback>Vergoeding premasterprogramma</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Betaling collegegeld
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Op welke manieren kan ik mijn collegegeld betalen?</text>
+<postback>Op welke manieren kan ik mijn collegegeld betalen</postback>
+</reply>
+<reply>
+<text>Ik wil het collegegeld in één keer betalen Hoe doe ik dat?</text>
+<postback>Ik wil het collegegeld in één keer betalen Hoe doe ik dat</postback>
+</reply>
+<reply>
+<text>Kan ik ook contant betalen?</text>
+<postback>Kan ik ook contant betalen</postback>
+</reply>
+<reply>
+<text>Mijn werkgever betaalt het collegegeld maar kan dit niet doen via de machtiging Wat nu?</text>
+<postback>Mijn werkgever betaalt het collegegeld maar kan dit niet doen via de machtiging Wat nu</postback>
+</reply>
+<reply>
+<text>Mijn ouders betalen mijn collegegeld Hoe regel ik dat?</text>
+<postback>Mijn ouders betalen mijn collegegeld Hoe regel ik dat</postback>
+</reply>
+<reply>
+<text>Ik betaal mijn collegegeld in één keer Wanneer wordt dit afgeschreven?</text>
+<postback>Ik betaal mijn collegegeld in één keer Wanneer wordt dit afgeschreven</postback>
+</reply>
+<reply>
+<text>Voor wanneer moet ik het collegegeld betalen?</text>
+<postback>Voor wanneer moet ik het collegegeld betalen</postback>
+</reply>
+<reply>
+<text>Kan ik mijn betalingsgegevens wijzigen in Studielink?</text>
+<postback>Kan ik mijn betalingsgegevens wijzigen in Studielink</postback>
+</reply>
+<reply>
+<text>Collegegeld betalen via Tikkie?</text>
+<postback>Collegegeld betalen via Tikkie</postback>
+</reply>
+<reply>
+<text>Wat zijn de voorwaarden betaling collegegeld per machtiging?</text>
+<postback>Wat zijn de voorwaarden betaling collegegeld per machtiging</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Collegegeld in termijnen betalen
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Hoe zorg ik er voor dat ik in termijnen kan betalen?</text>
+<postback>Hoe zorg ik er voor dat ik in termijnen kan betalen</postback>
+</reply>
+<reply>
+<text>Wanneer worden de termijnen afgeschreven en hoeveel geld wordt er dan afgeschreven?</text>
+<postback>Wanneer worden de termijnen afgeschreven en hoeveel geld wordt er dan afgeschreven</postback>
+</reply>
+<reply>
+<text>Ik betaal het collegegeld in termijnen Ik heb onvoldoende saldo voor de overschrijving Wat nu?</text>
+<postback>Ik betaal het collegegeld in termijnen Ik heb onvoldoende saldo voor de overschrijving Wat nu</postback>
+</reply>
+<reply>
+<text>Ik schrijf me in de loop van het studiejaar in Kan ik dan ook mijn collegegeld in termijnen betalen?</text>
+<postback>Ik schrijf me in de loop van het studiejaar in Kan ik dan ook mijn collegegeld in termijnen betalen</postback>
+</reply>
+<reply>
+<text>Mijn termijn bedrag is nog niet afgeschreven terwijl ik voldoende saldo had?</text>
+<postback>Mijn termijn bedrag is nog niet afgeschreven terwijl ik voldoende saldo had</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Restitutie collegegeld
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wanneer krijg ik collegegeld terug?</text>
+<postback>Wanneer krijg ik collegegeld terug</postback>
+</reply>
+<reply>
+<text>Ik studeer binnenkort af Kan ik collegegeld terug krijgen?</text>
+<postback>Ik studeer binnenkort af Kan ik collegegeld terug krijgen</postback>
+</reply>
+<reply>
+<text>Ik ben afgestudeerd en heb een verzoek tot uitschrijving/restitutie collegegeld gedaan Toch wordt er nog steeds collegegeld van mijn rekening afgeschreven Klopt dit wel?</text>
+<postback>Ik ben afgestudeerd en heb een verzoek tot uitschrijving/restitutie collegegeld gedaan Toch wordt er nog steeds collegegeld van mijn rekening afgeschreven Klopt dit wel</postback>
+</reply>
+<reply>
+<text>Wanneer krijg ik geen collegegeld terug?</text>
+<postback>Wanneer krijg ik geen collegegeld terug</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Onvoldoende saldo
+</pattern>
+<template>
+<srai>Wat gebeurt er als ik onvoldoende saldo heb voor de afschrijving van het collegegeld </srai>
+</template>
+</category>
+
+<category>
+<pattern>
+Tweede opleiding
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Hoeveel collegegeld moet ik betalen als ik voor meerdere opleidingen ingeschreven sta?</text>
+<postback>Hoeveel collegegeld moet ik betalen als ik voor meerdere opleidingen ingeschreven sta</postback>
+</reply>
+<reply>
+<text>Moet ik twee keer collegegeld betalen als ik twee opleidingen aan de Rijksuniversiteit Groningen volg?</text>
+<postback>Moet ik twee keer collegegeld betalen als ik twee opleidingen aan de Rijksuniversiteit Groningen volg</postback>
+</reply>
+<reply>
+<text>Wat is een Bewijs Betaald Collegegeld?</text>
+<postback>Wat is een Bewijs Betaald Collegegeld</postback>
+</reply>
+<reply>
+<text>Ik studeer naast de RUG ook aan een andere onderwijsinstelling in Nederland Hoe kom ik aan een Bewijs Betaald Collegegeld?</text>
+<postback>Ik studeer naast de RUG ook aan een andere onderwijsinstelling in Nederland Hoe kom ik aan een Bewijs Betaald Collegegeld</postback>
+</reply>
+<reply>
+<text>Ik betaal in termijnen en nog niet alle termijnen zijn voldaan Kan ik dan toch een Bewijs Betaald Collegegeld krijgen?</text>
+<postback>Ik betaal in termijnen en nog niet alle termijnen zijn voldaan Kan ik dan toch een Bewijs Betaald Collegegeld krijgen</postback>
+</reply>
+<reply>
+<text>Ik heb aan een andere instelling al collegegeld betaald Moet ik dat ook aan de Rijksuniversiteit Groningen doen?</text>
+<postback>Ik heb aan een andere instelling al collegegeld betaald Moet ik dat ook aan de Rijksuniversiteit Groningen doen</postback>
+</reply>
+<reply>
+<text>Wat gebeurt er als ik één van de opleidingen afrond?</text>
+<postback>Wat gebeurt er als ik één van de opleidingen afrond</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Halvering wettelijk collegegeld voor eerstejaars
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Waarom halvering collegegeld eerstejaars?</text>
+<postback>Waarom halvering collegegeld eerstejaars</postback>
+</reply>
+<reply>
+<text>Voorwaarden voor 1 jaar half collegegegeld?</text>
+<postback>Voorwaarden voor 1 jaar half collegegegeld</postback>
+</reply>
+<reply>
+<text>Voorwaarden voor tweede jaar half collegegeld lerarenopleiding?</text>
+<postback>Voorwaarden voor tweede jaar half collegegeld lerarenopleiding</postback>
+</reply>
+<reply>
+<text>Voor sommige studenten nog steeds volledig collegegeld?</text>
+<postback>Voor sommige studenten nog steeds volledig collegegeld</postback>
+</reply>
+<reply>
+<text>Wat gebeurt er als ik mijn collegegeld al heb betaald?</text>
+<postback>Wat gebeurt er als ik mijn collegegeld al heb betaald</postback>
+</reply>
+<reply>
+<text>Infographic collegegeldverlaging; wat geldt voor jou?</text>
+<postback>Infographic collegegeldverlaging; wat geldt voor jou</postback>
+</reply>
+<reply>
+<text>Waar vind ik meer informatie?</text>
+<postback>Waar vind ik meer informatie</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Financiële ondersteuning
+</pattern>
+<template>
+<srai>Financiële regeling voor studenten met een functiebeperking </srai>
+</template>
+</category>
+
+<category>
+<pattern>
+Noodsituaties
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wat kan ik doen als ik onvoorziene financiële problemen tegen kom?</text>
+<postback>Wat kan ik doen als ik onvoorziene financiële problemen tegen kom</postback>
+</reply>
+<reply>
+<text>Wat moet ik doen als ik geen geld heb om een dyslexieonderzoek te laten doen?</text>
+<postback>Wat moet ik doen als ik geen geld heb om een dyslexieonderzoek te laten doen</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Profileringsfonds
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wat is het Profileringsfonds?</text>
+<postback>Wat is het Profileringsfonds</postback>
+</reply>
+<reply>
+<text>Wat zijn de voorwaarden?</text>
+<postback>Wat zijn de voorwaarden</postback>
+</reply>
+<reply>
+<text>Hoe dien ik een aanvraag voor het Profileringsfonds in?</text>
+<postback>Hoe dien ik een aanvraag voor het Profileringsfonds in</postback>
+</reply>
+<reply>
+<text>Hoe kan ik de status van mijn aanvraag bijhouden?</text>
+<postback>Hoe kan ik de status van mijn aanvraag bijhouden</postback>
+</reply>
+<reply>
+<text>Wanneer ontvang ik het besluit van het College van Bestuur?</text>
+<postback>Wanneer ontvang ik het besluit van het College van Bestuur</postback>
+</reply>
+<reply>
+<text>Wat moet ik doen als ik het niet eens ben met het collegebesluit?</text>
+<postback>Wat moet ik doen als ik het niet eens ben met het collegebesluit</postback>
+</reply>
+<reply>
+<text>De statusbalk van de aanvraag geeft ‘bewijsstukken ontbreken aan’ Hoe weet ik welke bewijsstukken ontbreken?</text>
+<postback>De statusbalk van de aanvraag geeft ‘bewijsstukken ontbreken aan’ Hoe weet ik welke bewijsstukken ontbreken</postback>
+</reply>
+<reply>
+<text>Wat moet ik doen als ik geen 'Bericht Studiefinanciering' over de gevraagde basisbeursperiode meer heb?</text>
+<postback>Wat moet ik doen als ik geen 'Bericht Studiefinanciering' over de gevraagde basisbeursperiode meer heb</postback>
+</reply>
+<reply>
+<text>Wat is een Verklaring Bestuursperiode?</text>
+<postback>Wat is een Verklaring Bestuursperiode</postback>
+</reply>
+<reply>
+<text>Welke bewijsstukken moet ik inleveren?</text>
+<postback>Welke bewijsstukken moet ik inleveren</postback>
+</reply>
+<reply>
+<text>Hoe kan ik de UFC bereiken?</text>
+<postback>Hoe kan ik de UFC bereiken</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Studiefinanciering DUO
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Sociaal leenstelsel per 1 september 2015?</text>
+<postback>Sociaal leenstelsel per 1 september 2015</postback>
+</reply>
+<reply>
+<text>Wanneer heb ik recht op studiefinanciering?</text>
+<postback>Wanneer heb ik recht op studiefinanciering</postback>
+</reply>
+<reply>
+<text>Hoe vraag ik studiefinanciering aan?</text>
+<postback>Hoe vraag ik studiefinanciering aan</postback>
+</reply>
+<reply>
+<text>Wat is een prestatiebeurs?</text>
+<postback>Wat is een prestatiebeurs</postback>
+</reply>
+<reply>
+<text>Wat is het sociaal leenstelsel studievoorschot?</text>
+<postback>Wat is het sociaal leenstelsel studievoorschot</postback>
+</reply>
+<reply>
+<text>Wat is de overgangsregeling voor bachelorstudenten die voor 1 september 2015 een prestatiebeurs krijgen?</text>
+<postback>Wat is de overgangsregeling voor bachelorstudenten die voor 1 september 2015 een prestatiebeurs krijgen</postback>
+</reply>
+<reply>
+<text>Wat zijn de gevolgen als ik vanaf 1 september 2015 met mijn masteropleiding begin?</text>
+<postback>Wat zijn de gevolgen als ik vanaf 1 september 2015 met mijn masteropleiding begin</postback>
+</reply>
+<reply>
+<text>Bepaal je rechten vanaf september 2015 via de test op de DUOwebsite?</text>
+<postback>Bepaal je rechten vanaf september 2015 via de test op de DUOwebsite</postback>
+</reply>
+<reply>
+<text>Wat is het collegegeldkrediet?</text>
+<postback>Wat is het collegegeldkrediet</postback>
+</reply>
+<reply>
+<text>Wat houdt de 1februari regeling precies in?</text>
+<postback>Wat houdt de 1februari regeling precies in</postback>
+</reply>
+<reply>
+<text>Ik ben helemaal door mijn studiefinanciering heen en moet nog een half jaar studeren Wat nu?</text>
+<postback>Ik ben helemaal door mijn studiefinanciering heen en moet nog een half jaar studeren Wat nu</postback>
+</reply>
+<reply>
+<text>Mag ik naast de studiefinanciering bijverdienen?</text>
+<postback>Mag ik naast de studiefinanciering bijverdienen</postback>
+</reply>
+<reply>
+<text>Welke landen behoren tot de EU/EER?</text>
+<postback>Welke landen behoren tot de EU/EER</postback>
+</reply>
+<reply>
+<text>Bij wie kan ik terecht met een persoonlijke vraag?</text>
+<postback>Bij wie kan ik terecht met een persoonlijke vraag</postback>
+</reply>
+<reply>
+<text>Wordt mijn studiefinanciering automatisch stopgezet als ik ben uitgeschreven?</text>
+<postback>Wordt mijn studiefinanciering automatisch stopgezet als ik ben uitgeschreven</postback>
+</reply>
+<reply>
+<text>Ik stop voor 1 februari met mijn studie Moet ik mijn studiefinanciering dan terugbetalen?</text>
+<postback>Ik stop voor 1 februari met mijn studie Moet ik mijn studiefinanciering dan terugbetalen</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Studiebeurzen
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Grantfinder?</text>
+<postback>Grantfinder</postback>
+</reply>
+<reply>
+<text>Erik Bleumink Fonds?</text>
+<postback>Erik Bleumink Fonds</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Studiekosten
+</pattern>
+<template>
+<srai>Studeren wat kost dat </srai>
+</template>
+</category>
+
+<category>
+<pattern>
+Verzekeringen
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Welke verzekeringen heb je nodig?</text>
+<postback>Welke verzekeringen heb je nodig</postback>
+</reply>
+<reply>
+<text>Kunnen studenten zich voordelig tegen ziektekosten verzekeren?</text>
+<postback>Kunnen studenten zich voordelig tegen ziektekosten verzekeren</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Studentenorganisaties
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Facultaire of opleidingsverenigingen?</text>
+<postback>Facultaire of opleidingsverenigingen</postback>
+</reply>
+<reply>
+<text>Gezelligheidsverenigingen?</text>
+<postback>Gezelligheidsverenigingen</postback>
+</reply>
+<reply>
+<text>Politieke organisaties?</text>
+<postback>Politieke organisaties</postback>
+</reply>
+<reply>
+<text>Studentensport?</text>
+<postback>Studentensport</postback>
+</reply>
+<reply>
+<text>Culturele verenigingen?</text>
+<postback>Culturele verenigingen</postback>
+</reply>
+<reply>
+<text>Internationale studentenverenigingen?</text>
+<postback>Internationale studentenverenigingen</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Aanmelding en selectieprocedure
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Hoe moet ik mij aanmelden?</text>
+<postback>Hoe moet ik mij aanmelden</postback>
+</reply>
+<reply>
+<text>Kan ik ook zelf solliciteren naar een plaats in het Honours College of moet ik wachten tot ik een uitnodiging krijg?</text>
+<postback>Kan ik ook zelf solliciteren naar een plaats in het Honours College of moet ik wachten tot ik een uitnodiging krijg</postback>
+</reply>
+<reply>
+<text>Ik ben zeer gemotiveerd voor het Honours College maar voldoe niet aan de eisen?</text>
+<postback>Ik ben zeer gemotiveerd voor het Honours College maar voldoe niet aan de eisen</postback>
+</reply>
+<reply>
+<text>Ik ben zeer gemotiveerd en ik verwacht aan de eisen te voldoen maar ik heb geen uitnodiging ontvangen?</text>
+<postback>Ik ben zeer gemotiveerd en ik verwacht aan de eisen te voldoen maar ik heb geen uitnodiging ontvangen</postback>
+</reply>
+<reply>
+<text>Ik heb gesolliciteerd maar ik heb nog niets gehoord?</text>
+<postback>Ik heb gesolliciteerd maar ik heb nog niets gehoord</postback>
+</reply>
+<reply>
+<text>Ik ben geen Nederlandse student en ik spreek alleen Engels Kan ik mij aanmelden voor het Honours College programma?</text>
+<postback>Ik ben geen Nederlandse student en ik spreek alleen Engels Kan ik mij aanmelden voor het Honours College programma</postback>
+</reply>
+<reply>
+<text>Ik had op mijn eindexamen een 5 voor Engels en de rest waren allemaal goede cijfers Is dat een bezwaar?</text>
+<postback>Ik had op mijn eindexamen een 5 voor Engels en de rest waren allemaal goede cijfers Is dat een bezwaar</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Onderwijs  honoursprogramma
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wat is de opzet en de inhoud van het Honoursprogramma?</text>
+<postback>Wat is de opzet en de inhoud van het Honoursprogramma</postback>
+</reply>
+<reply>
+<text>Hoe ziet mijn verdiepende facultaire programma eruit?</text>
+<postback>Hoe ziet mijn verdiepende facultaire programma eruit</postback>
+</reply>
+<reply>
+<text>Hoe ziet het verbredende programma eruit?</text>
+<postback>Hoe ziet het verbredende programma eruit</postback>
+</reply>
+<reply>
+<text>Wat is de Petrus Camper Leergang?</text>
+<postback>Wat is de Petrus Camper Leergang</postback>
+</reply>
+<reply>
+<text>Wordt al het onderwijs in het Engels gegeven?</text>
+<postback>Wordt al het onderwijs in het Engels gegeven</postback>
+</reply>
+<reply>
+<text>Kan ik ook het hele programma in het Engels doen?</text>
+<postback>Kan ik ook het hele programma in het Engels doen</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Aankomende Honours College student
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wat heb ik eraan om het Honours College te doen Wat levert het me op?</text>
+<postback>Wat heb ik eraan om het Honours College te doen Wat levert het me op</postback>
+</reply>
+<reply>
+<text>Wat is het verschil tussen bij voorbeeld het University College Utrecht of de Roosevelt Academy in Middelburg en het Groningen Honours College?</text>
+<postback>Wat is het verschil tussen bij voorbeeld het University College Utrecht of de Roosevelt Academy in Middelburg en het Groningen Honours College</postback>
+</reply>
+<reply>
+<text>Ik twijfel tussen solliciteren voor het Honours College en een tweede studie erbij doen Wat kan ik het beste doen?</text>
+<postback>Ik twijfel tussen solliciteren voor het Honours College en een tweede studie erbij doen Wat kan ik het beste doen</postback>
+</reply>
+<reply>
+<text>Kost het Honours College veel tijd Kan ik er nog wat anders bij doen?</text>
+<postback>Kost het Honours College veel tijd Kan ik er nog wat anders bij doen</postback>
+</reply>
+<reply>
+<text>Zijn er extra kosten aan verbonden zoals collegegeld?</text>
+<postback>Zijn er extra kosten aan verbonden zoals collegegeld</postback>
+</reply>
+<reply>
+<text>Ik ben nu 2e jaars student en heb mijn propedeuse gehaald kan ik nog instromen / meedoen?</text>
+<postback>Ik ben nu 2e jaars student en heb mijn propedeuse gehaald kan ik nog instromen / meedoen</postback>
+</reply>
+<reply>
+<text>Ik wil eerst mijn propedeuse halen en dan in het Honours College instromen?</text>
+<postback>Ik wil eerst mijn propedeuse halen en dan in het Honours College instromen</postback>
+</reply>
+<reply>
+<text>Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buitenland om daar te studeren Kan dat?</text>
+<postback>Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buitenland om daar te studeren Kan dat</postback>
+</reply>
+<reply>
+<text>Mijn broer/zus/neef/nicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen?</text>
+<postback>Mijn broer/zus/neef/nicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen</postback>
+</reply>
+<reply>
+<text>Als ik niet meedoe aan het Honours College krijg ik dan minder goed onderwijs?</text>
+<postback>Als ik niet meedoe aan het Honours College krijg ik dan minder goed onderwijs</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Honours College student
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Ik heb mijn Honours College programma afgerond maar mijn bachelor nog niet Mag ik meedoen met de Honours College buluitreiking?</text>
+<postback>Ik heb mijn Honours College programma afgerond maar mijn bachelor nog niet Mag ik meedoen met de Honours College buluitreiking</postback>
+</reply>
+<reply>
+<text>Ik vond het Honours College erg leuk en doe het daar ook goed maar mijn gewone studie gaat wat minder Nu hoor ik dat ik moet stoppen Waarom?</text>
+<postback>Ik vond het Honours College erg leuk en doe het daar ook goed maar mijn gewone studie gaat wat minder Nu hoor ik dat ik moet stoppen Waarom</postback>
+</reply>
+<reply>
+<text>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen bestuur Moet ik nu stoppen?</text>
+<postback>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen bestuur Moet ik nu stoppen</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Studeren in het buitenland
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Welke mogelijkheden zijn er om in het buitenland te studeren?</text>
+<postback>Welke mogelijkheden zijn er om in het buitenland te studeren</postback>
+</reply>
+<reply>
+<text>Waar kan ik heen?</text>
+<postback>Waar kan ik heen</postback>
+</reply>
+<reply>
+<text>Is het verstandiger om tijdens mijn bachelorperiode naar het buitenland te gaan of tijdens mijn masterperiode?</text>
+<postback>Is het verstandiger om tijdens mijn bachelorperiode naar het buitenland te gaan of tijdens mijn masterperiode</postback>
+</reply>
+<reply>
+<text>Waar vind ik informatie over de vakken die ik in het buitenland kan volgen?</text>
+<postback>Waar vind ik informatie over de vakken die ik in het buitenland kan volgen</postback>
+</reply>
+<reply>
+<text>Zijn er taaleisen voor een uitwisseling?</text>
+<postback>Zijn er taaleisen voor een uitwisseling</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Stage in het buitenland
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Ik wil graag stage lopen in het buitenland Is daar meer informatie over?</text>
+<postback>Ik wil graag stage lopen in het buitenland Is daar meer informatie over</postback>
+</reply>
+<reply>
+<text>Wat zijn de mogelijkheden voor het doen van onderzoek in het buitenland?</text>
+<postback>Wat zijn de mogelijkheden voor het doen van onderzoek in het buitenland</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Financien
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wat zijn globaal de kosten van een uitwisseling?</text>
+<postback>Wat zijn globaal de kosten van een uitwisseling</postback>
+</reply>
+<reply>
+<text>Hoe kan ik een verblijf in het buitenland financieren?</text>
+<postback>Hoe kan ik een verblijf in het buitenland financieren</postback>
+</reply>
+<reply>
+<text>Moet ik collegegeld betalen als ik tijdelijk in het buitenland ga studeren?</text>
+<postback>Moet ik collegegeld betalen als ik tijdelijk in het buitenland ga studeren</postback>
+</reply>
+<reply>
+<text>Hoe kan ik een beurs voor een uitwisselingsprogramma aanvragen?</text>
+<postback>Hoe kan ik een beurs voor een uitwisselingsprogramma aanvragen</postback>
+</reply>
+<reply>
+<text>Ik heb een beurs voor een uitwisselingsprogramma aangevraagd Wanneer hoor ik of ik de beurs krijg?</text>
+<postback>Ik heb een beurs voor een uitwisselingsprogramma aangevraagd Wanneer hoor ik of ik de beurs krijg</postback>
+</reply>
+<reply>
+<text>Ik heb voor een particulier fonds een aanbevelingsbrief nodig van een studentendecaan Hoe kom ik daar aan?</text>
+<postback>Ik heb voor een particulier fonds een aanbevelingsbrief nodig van een studentendecaan Hoe kom ik daar aan</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Praktische zaken
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Waar moet ik beginnen?</text>
+<postback>Waar moet ik beginnen</postback>
+</reply>
+<reply>
+<text>Wanneer moet ik beginnen?</text>
+<postback>Wanneer moet ik beginnen</postback>
+</reply>
+<reply>
+<text>Is er een checklist met wat ik allemaal moet regelen?</text>
+<postback>Is er een checklist met wat ik allemaal moet regelen</postback>
+</reply>
+<reply>
+<text>Hoe kan ik me aanmelden voor een uitwisselingsprogramma?</text>
+<postback>Hoe kan ik me aanmelden voor een uitwisselingsprogramma</postback>
+</reply>
+<reply>
+<text>Kan ik mijn kamer onderverhuren?</text>
+<postback>Kan ik mijn kamer onderverhuren</postback>
+</reply>
+<reply>
+<text>Hoe kom ik aan een International Student Identity Card?</text>
+<postback>Hoe kom ik aan een International Student Identity Card</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Bindend Studieadvies BSA
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wat is een BSA?</text>
+<postback>Wat is een BSA</postback>
+</reply>
+<reply>
+<text>Voor wie geldt het Bindend Studieadvies?</text>
+<postback>Voor wie geldt het Bindend Studieadvies</postback>
+</reply>
+<reply>
+<text>Ik heb al een propedeuse gehaald en ik ga een nieuwe studie volgen val ik dan onder het BSAregime?</text>
+<postback>Ik heb al een propedeuse gehaald en ik ga een nieuwe studie volgen val ik dan onder het BSAregime</postback>
+</reply>
+<reply>
+<text>Hoeveel punten moet ik halen om een positief studieadvies te krijgen?</text>
+<postback>Hoeveel punten moet ik halen om een positief studieadvies te krijgen</postback>
+</reply>
+<reply>
+<text>Tellen vrijstellingen mee in de BSAnorm?</text>
+<postback>Tellen vrijstellingen mee in de BSAnorm</postback>
+</reply>
+<reply>
+<text>Kan een Bindend Studieadvies voor meer dan één opleiding gelden?</text>
+<postback>Kan een Bindend Studieadvies voor meer dan één opleiding gelden</postback>
+</reply>
+<reply>
+<text>Hoelang mag ik me niet inschrijven bij een opleiding als ik een BSA heb gekregen?</text>
+<postback>Hoelang mag ik me niet inschrijven bij een opleiding als ik een BSA heb gekregen</postback>
+</reply>
+<reply>
+<text>Ik sta bij meer dan één opleiding ingeschreven Moet ik dan bij beide opleidingen 45 punten halen?</text>
+<postback>Ik sta bij meer dan één opleiding ingeschreven Moet ik dan bij beide opleidingen 45 punten halen</postback>
+</reply>
+<reply>
+<text>Wat gebeurd er als ik meerdere opleidingen volg en ik bij geen enkele 45 punten haal?</text>
+<postback>Wat gebeurd er als ik meerdere opleidingen volg en ik bij geen enkele 45 punten haal</postback>
+</reply>
+<reply>
+<text>Hoeveel punten moet ik halen als ik mij na 1 februari inschrijf voor een twee opleiding?</text>
+<postback>Hoeveel punten moet ik halen als ik mij na 1 februari inschrijf voor een twee opleiding</postback>
+</reply>
+<reply>
+<text>Hoeveel punten moet ik halen als ik mij tussen 1 september en 1 februari inschrijf?</text>
+<postback>Hoeveel punten moet ik halen als ik mij tussen 1 september en 1 februari inschrijf</postback>
+</reply>
+<reply>
+<text>Hoeveel punten moet ik halen als ik mij na 1 februari inschrijf?</text>
+<postback>Hoeveel punten moet ik halen als ik mij na 1 februari inschrijf</postback>
+</reply>
+<reply>
+<text>Ik wil stoppen met studeren aan de Rijksuniversiteit Groningen krijg ik nog een BSA?</text>
+<postback>Ik wil stoppen met studeren aan de Rijksuniversiteit Groningen krijg ik nog een BSA</postback>
+</reply>
+<reply>
+<text>Wat moet ik doen als ik door persoonlijke omstandigheden mijn BSA niet kan halen?</text>
+<postback>Wat moet ik doen als ik door persoonlijke omstandigheden mijn BSA niet kan halen</postback>
+</reply>
+<reply>
+<text>Waar kan ik informatie vinden over het Bindend Studieadvies bij mijn opleiding?</text>
+<postback>Waar kan ik informatie vinden over het Bindend Studieadvies bij mijn opleiding</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Studeren met een functiebeperking
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wat is een functiebeperking?</text>
+<postback>Wat is een functiebeperking</postback>
+</reply>
+<reply>
+<text>Welke voorzieningen biedt de RUG aan studenten met een functiebeperking?</text>
+<postback>Welke voorzieningen biedt de RUG aan studenten met een functiebeperking</postback>
+</reply>
+<reply>
+<text>Welke financiële regelingen bestaan er voor studenten met een functiebeperking?</text>
+<postback>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</postback>
+</reply>
+<reply>
+<text>Wat moet ik doen om in aanmerking voor universitaire voorzieningen te komen?</text>
+<postback>Wat moet ik doen om in aanmerking voor universitaire voorzieningen te komen</postback>
+</reply>
+<reply>
+<text>Hoe kan ik RSI voorkomen?</text>
+<postback>Hoe kan ik RSI voorkomen</postback>
+</reply>
+<reply>
+<text>Ik heb dure begeleiding nodig waarvoor ik me niet kan verzekeren Is er hulp mogelijk?</text>
+<postback>Ik heb dure begeleiding nodig waarvoor ik me niet kan verzekeren Is er hulp mogelijk</postback>
+</reply>
+<reply>
+<text>Ik heb dyslexie Wat kan ik doen?</text>
+<postback>Ik heb dyslexie Wat kan ik doen</postback>
+</reply>
+<reply>
+<text>Ik heb een aan autisme verwante stoornis Is er hulp mogelijk?</text>
+<postback>Ik heb een aan autisme verwante stoornis Is er hulp mogelijk</postback>
+</reply>
+<reply>
+<text>Ik heb ADHD Hoe kan ik daarmee studeren?</text>
+<postback>Ik heb ADHD Hoe kan ik daarmee studeren</postback>
+</reply>
+<reply>
+<text>Wat doet de Advies Commissie Functiebeperkte studenten en hoe kan ik me er voor aanmelden?</text>
+<postback>Wat doet de Advies Commissie Functiebeperkte studenten en hoe kan ik me er voor aanmelden</postback>
+</reply>
+<reply>
+<text>Ik heb een functiebeperking en ben afhankelijk van een auto Kan ik een parkeerplaats krijgen?</text>
+<postback>Ik heb een functiebeperking en ben afhankelijk van een auto Kan ik een parkeerplaats krijgen</postback>
+</reply>
+<reply>
+<text>Handicap + Studie expertisecentrum voor onderwijs en handicap?</text>
+<postback>Handicap + Studie expertisecentrum voor onderwijs en handicap</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Studiedips en andere studieproblemen
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wat kan ik doen als ik last heb van faalangst of tentamenvrees?</text>
+<postback>Wat kan ik doen als ik last heb van faalangst of tentamenvrees</postback>
+</reply>
+<reply>
+<text>Ik heb moeite met het schrijven van mijn scriptie Is er hulp?</text>
+<postback>Ik heb moeite met het schrijven van mijn scriptie Is er hulp</postback>
+</reply>
+<reply>
+<text>Studeren is moeilijker dan ik dacht Wat nu?</text>
+<postback>Studeren is moeilijker dan ik dacht Wat nu</postback>
+</reply>
+<reply>
+<text>Hoe kan ik een tekst beter bestuderen en onthouden?</text>
+<postback>Hoe kan ik een tekst beter bestuderen en onthouden</postback>
+</reply>
+<reply>
+<text>Ik kan me niet goed concentreren Wat kan ik daaraan doen?</text>
+<postback>Ik kan me niet goed concentreren Wat kan ik daaraan doen</postback>
+</reply>
+<reply>
+<text>Hoe kan ik mij beter voorbereiden op tentamens?</text>
+<postback>Hoe kan ik mij beter voorbereiden op tentamens</postback>
+</reply>
+<reply>
+<text>Mijn studie loopt niet goed en ik weet niet waar dat aan ligt Hoe kom ik hier achter?</text>
+<postback>Mijn studie loopt niet goed en ik weet niet waar dat aan ligt Hoe kom ik hier achter</postback>
+</reply>
+<reply>
+<text>Studeren in Nederland is soms best ingewikkeld Zijn er cursussen voor internationale studenten?</text>
+<postback>Studeren in Nederland is soms best ingewikkeld Zijn er cursussen voor internationale studenten</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Studiekeuze
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Ik ben eerste of tweedejaars student en twijfel over mijn studiekeuze Wat kan ik doen?</text>
+<postback>Ik ben eerste of tweedejaars student en twijfel over mijn studiekeuze Wat kan ik doen</postback>
+</reply>
+<reply>
+<text>Ik weet niet welke master ik moet kiezen Kan ik daar begeleiding bij krijgen?</text>
+<postback>Ik weet niet welke master ik moet kiezen Kan ik daar begeleiding bij krijgen</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Studievertraging
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Wat moet ik doen als ik studievertraging heb?</text>
+<postback>Wat moet ik doen als ik studievertraging heb</postback>
+</reply>
+<reply>
+<text>Ik heb studievertraging Moet ik dan naar een studieadviseur en/of een studentendecaan?</text>
+<postback>Ik heb studievertraging Moet ik dan naar een studieadviseur en/of een studentendecaan</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Studieloopbaan en carrière
+</pattern>
+<template>
+<srai>Career Services </srai>
+</template>
+</category>
+
+<category>
+<pattern>
+al ewest
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Hoe moet ik mij aanmelden?</text>
+<postback>Hoe moet ik mij aanmelden</postback>
+</reply>
+<reply>
+<text>Kan ik ook zelf solliciteren naar een plaats in het Honours College of moet ik wachten tot ik een uitnodiging krijg?</text>
+<postback>Kan ik ook zelf solliciteren naar een plaats in het Honours College of moet ik wachten tot ik een uitnodiging krijg</postback>
+</reply>
+<reply>
+<text>Ik ben zeer gemotiveerd voor het Honours College maar voldoe niet aan de eisen?</text>
+<postback>Ik ben zeer gemotiveerd voor het Honours College maar voldoe niet aan de eisen</postback>
+</reply>
+<reply>
+<text>Ik ben zeer gemotiveerd en ik verwacht aan de eisen te voldoen maar ik heb geen uitnodiging ontvangen?</text>
+<postback>Ik ben zeer gemotiveerd en ik verwacht aan de eisen te voldoen maar ik heb geen uitnodiging ontvangen</postback>
+</reply>
+<reply>
+<text>Ik heb gesolliciteerd maar ik heb nog niets gehoord?</text>
+<postback>Ik heb gesolliciteerd maar ik heb nog niets gehoord</postback>
+</reply>
+<reply>
+<text>Ik ben geen Nederlandse student en ik spreek alleen Engels Kan ik mij aanmelden voor het Honours College programma?</text>
+<postback>Ik ben geen Nederlandse student en ik spreek alleen Engels Kan ik mij aanmelden voor het Honours College programma</postback>
+</reply>
+<reply>
+<text>Ik had op mijn eindexamen een 5 voor Engels en de rest waren allemaal goede cijfers Is dat een bezwaar?</text>
+<postback>Ik had op mijn eindexamen een 5 voor Engels en de rest waren allemaal goede cijfers Is dat een bezwaar</postback>
+</reply>
+<reply>
+<text>Wat is de opzet en de inhoud van het Honoursprogramma?</text>
+<postback>Wat is de opzet en de inhoud van het Honoursprogramma</postback>
+</reply>
+<reply>
+<text>Hoe ziet mijn verdiepende facultaire programma eruit?</text>
+<postback>Hoe ziet mijn verdiepende facultaire programma eruit</postback>
+</reply>
+<reply>
+<text>Hoe ziet het verbredende programma eruit?</text>
+<postback>Hoe ziet het verbredende programma eruit</postback>
+</reply>
+<reply>
+<text>Wat is de Petrus Camper Leergang?</text>
+<postback>Wat is de Petrus Camper Leergang</postback>
+</reply>
+<reply>
+<text>Wordt al het onderwijs in het Engels gegeven?</text>
+<postback>Wordt al het onderwijs in het Engels gegeven</postback>
+</reply>
+<reply>
+<text>Kan ik ook het hele programma in het Engels doen?</text>
+<postback>Kan ik ook het hele programma in het Engels doen</postback>
+</reply>
+<reply>
+<text>Wat heb ik eraan om het Honours College te doen Wat levert het me op?</text>
+<postback>Wat heb ik eraan om het Honours College te doen Wat levert het me op</postback>
+</reply>
+<reply>
+<text>Wat is het verschil tussen bij voorbeeld het University College Utrecht of de Roosevelt Academy in Middelburg en het Groningen Honours College?</text>
+<postback>Wat is het verschil tussen bij voorbeeld het University College Utrecht of de Roosevelt Academy in Middelburg en het Groningen Honours College</postback>
+</reply>
+<reply>
+<text>Ik twijfel tussen solliciteren voor het Honours College en een tweede studie erbij doen Wat kan ik het beste doen?</text>
+<postback>Ik twijfel tussen solliciteren voor het Honours College en een tweede studie erbij doen Wat kan ik het beste doen</postback>
+</reply>
+<reply>
+<text>Kost het Honours College veel tijd Kan ik er nog wat anders bij doen?</text>
+<postback>Kost het Honours College veel tijd Kan ik er nog wat anders bij doen</postback>
+</reply>
+<reply>
+<text>Zijn er extra kosten aan verbonden zoals collegegeld?</text>
+<postback>Zijn er extra kosten aan verbonden zoals collegegeld</postback>
+</reply>
+<reply>
+<text>Ik ben nu 2e jaars student en heb mijn propedeuse gehaald kan ik nog instromen / meedoen?</text>
+<postback>Ik ben nu 2e jaars student en heb mijn propedeuse gehaald kan ik nog instromen / meedoen</postback>
+</reply>
+<reply>
+<text>Ik wil eerst mijn propedeuse halen en dan in het Honours College instromen?</text>
+<postback>Ik wil eerst mijn propedeuse halen en dan in het Honours College instromen</postback>
+</reply>
+<reply>
+<text>Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buitenland om daar te studeren Kan dat?</text>
+<postback>Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buitenland om daar te studeren Kan dat</postback>
+</reply>
+<reply>
+<text>Mijn broer/zus/neef/nicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen?</text>
+<postback>Mijn broer/zus/neef/nicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen</postback>
+</reply>
+<reply>
+<text>Als ik niet meedoe aan het Honours College krijg ik dan minder goed onderwijs?</text>
+<postback>Als ik niet meedoe aan het Honours College krijg ik dan minder goed onderwijs</postback>
+</reply>
+<reply>
+<text>Ik heb mijn Honours College programma afgerond maar mijn bachelor nog niet Mag ik meedoen met de Honours College buluitreiking?</text>
+<postback>Ik heb mijn Honours College programma afgerond maar mijn bachelor nog niet Mag ik meedoen met de Honours College buluitreiking</postback>
+</reply>
+<reply>
+<text>Ik vond het Honours College erg leuk en doe het daar ook goed maar mijn gewone studie gaat wat minder Nu hoor ik dat ik moet stoppen Waarom?</text>
+<postback>Ik vond het Honours College erg leuk en doe het daar ook goed maar mijn gewone studie gaat wat minder Nu hoor ik dat ik moet stoppen Waarom</postback>
+</reply>
+<reply>
+<text>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen bestuur Moet ik nu stoppen?</text>
+<postback>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen bestuur Moet ik nu stoppen</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Academische ontwikkeling
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Welke trainingen en cursussen biedt de RUG aan?</text>
+<postback>Welke trainingen en cursussen biedt de RUG aan</postback>
+</reply>
+<reply>
+<text>Ik zoek een training schrijfvaardigheid?</text>
+<postback>Ik zoek een training schrijfvaardigheid</postback>
+</reply>
+<reply>
+<text>Kan ik een cursus snellezen volgen?</text>
+<postback>Kan ik een cursus snellezen volgen</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Titulatuur / graden
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Ik heb meerdere titels behaald Mag ik die allemaal voeren?</text>
+<postback>Ik heb meerdere titels behaald Mag ik die allemaal voeren</postback>
+</reply>
+<reply>
+<text>Ik heb na 2002 een universitaire opleiding afgerond Mag ik in plaats van de titel MSc of MA bijvoorbeeld de titel drs voeren?</text>
+<postback>Ik heb na 2002 een universitaire opleiding afgerond Mag ik in plaats van de titel MSc of MA bijvoorbeeld de titel drs voeren</postback>
+</reply>
+<reply>
+<text>Ik heb voor 2002 een universitaire opleiding afgerond Mag ik in plaats van mijn drs mr of irtitel de titels MSc MA of LLM voeren?</text>
+<postback>Ik heb voor 2002 een universitaire opleiding afgerond Mag ik in plaats van mijn drs mr of irtitel de titels MSc MA of LLM voeren</postback>
+</reply>
+<reply>
+<text>Ik heb een universitaire masteropleiding in het buitenland gevolgd Mag ik de Nederlandse titel drs voeren?</text>
+<postback>Ik heb een universitaire masteropleiding in het buitenland gevolgd Mag ik de Nederlandse titel drs voeren</postback>
+</reply>
+<reply>
+<text>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren?</text>
+<postback>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren</postback>
+</reply>
+<reply>
+<text>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren?</text>
+<postback>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren</postback>
+</reply>
+<reply>
+<text>Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren?</text>
+<postback>Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren</postback>
+</reply>
+<reply>
+<text>Ik heb een Associate degree afgerond Welke titel mag ik voeren?</text>
+<postback>Ik heb een Associate degree afgerond Welke titel mag ik voeren</postback>
+</reply>
+<reply>
+<text>Ik heb een posthbocursus gevolgd Mag ik een titel voeren?</text>
+<postback>Ik heb een posthbocursus gevolgd Mag ik een titel voeren</postback>
+</reply>
+<reply>
+<text>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
+<postback>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
+</reply>
+<reply>
+<text>Ik heb een afgeronde MOopleiding 1e en 2e graad Mag ik de titel Master of Education M ED voeren?</text>
+<postback>Ik heb een afgeronde MOopleiding 1e en 2e graad Mag ik de titel Master of Education M ED voeren</postback>
+</reply>
+<reply>
+<text>Mag ik een beschermde titel voeren als ik geen opleiding in het hoger onderwijs heb afgerond?</text>
+<postback>Mag ik een beschermde titel voeren als ik geen opleiding in het hoger onderwijs heb afgerond</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Alumni
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Ik ben alumnus en wil een adreswijziging doorgeven?</text>
+<postback>Ik ben alumnus en wil een adreswijziging doorgeven</postback>
+</reply>
+<reply>
+<text>Wat moet ik doen als ik mijn bul kwijt ben?</text>
+<postback>Wat moet ik doen als ik mijn bul kwijt ben</postback>
+</reply>
+<reply>
+<text>Hoe kom ik aan een gewaarmerkte kopie van mijn diploma/cijferlijst?</text>
+<postback>Hoe kom ik aan een gewaarmerkte kopie van mijn diploma/cijferlijst</postback>
+</reply>
+<reply>
+<text>Hoe kom ik aan een Engelstalige examenverklaring?</text>
+<postback>Hoe kom ik aan een Engelstalige examenverklaring</postback>
+</reply>
+<reply>
+<text>Je steun aan het Eric Bleumink Fonds?</text>
+<postback>Je steun aan het Eric Bleumink Fonds</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Rechtspositie
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Onderwijs en examenregelingen OER?</text>
+<postback>Onderwijs en examenregelingen OER</postback>
+</reply>
+<reply>
+<text>Studentenstatuut?</text>
+<postback>Studentenstatuut</postback>
+</reply>
+<reply>
+<text>Klachten bezwaar en beroep?</text>
+<postback>Klachten bezwaar en beroep</postback>
+</reply>
+<reply>
+<text>Vertrouwenspersoon en studentendecaan?</text>
+<postback>Vertrouwenspersoon en studentendecaan</postback>
+</reply>
+<reply>
+<text>Meer informatie rechtspositie?</text>
+<postback>Meer informatie rechtspositie</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Adressen en openingstijden
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Information Services?</text>
+<postback>Information Services</postback>
+</reply>
+<reply>
+<text>Admissions Office?</text>
+<postback>Admissions Office</postback>
+</reply>
+<reply>
+<text>Studenten Service Centrum SSC?</text>
+<postback>Studenten Service Centrum SSC</postback>
+</reply>
+<reply>
+<text>Onderwijsadministraties?</text>
+<postback>Onderwijsadministraties</postback>
+</reply>
+<reply>
+<text>Studieadviseurs?</text>
+<postback>Studieadviseurs</postback>
+</reply>
+<reply>
+<text>Universitaire kas?</text>
+<postback>Universitaire kas</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Adressen en openingstijden]
+</pattern>
+<template>
+<srai>DUO </srai>
+</template>
+</category>
+
+<category>
+<pattern>
+Voorzieningen
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Huisarts in Groningen?</text>
+<postback>Huisarts in Groningen</postback>
+</reply>
+<reply>
+<text>Huisvesting?</text>
+<postback>Huisvesting</postback>
+</reply>
+<reply>
+<text>Universiteitskrant?</text>
+<postback>Universiteitskrant</postback>
+</reply>
+<reply>
+<text>Universiteitsbibliotheek?</text>
+<postback>Universiteitsbibliotheek</postback>
+</reply>
+<reply>
+<text>Kennisbank met meest gestelde vragen over ICT?</text>
+<postback>Kennisbank met meest gestelde vragen over ICT</postback>
+</reply>
+<reply>
+<text>Facultaire of opleidingsverenigingen?</text>
+<postback>Facultaire of opleidingsverenigingen</postback>
+</reply>
+<reply>
+<text>Gezelligheidsverenigingen?</text>
+<postback>Gezelligheidsverenigingen</postback>
+</reply>
+<reply>
+<text>Politieke organisaties?</text>
+<postback>Politieke organisaties</postback>
+</reply>
+<reply>
+<text>Studentensport?</text>
+<postback>Studentensport</postback>
+</reply>
+<reply>
+<text>Culturele verenigingen?</text>
+<postback>Culturele verenigingen</postback>
+</reply>
+<reply>
+<text>Internationale studentenverenigingen?</text>
+<postback>Internationale studentenverenigingen</postback>
+</reply>
+<reply>
+<text>Facultaire kennisbanken?</text>
+<postback>Facultaire kennisbanken</postback>
+</reply>
+<reply>
+<text>Studentendecaan?</text>
+<postback>Studentendecaan</postback>
+</reply>
+<reply>
+<text>Studentenpsycholoog?</text>
+<postback>Studentenpsycholoog</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Formulieren overzicht
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Aanvraagformulier factuur werkgever?</text>
+<postback>Aanvraagformulier factuur werkgever</postback>
+</reply>
+<reply>
+<text>Toelating tot bijvak bachelor of master?</text>
+<postback>Toelating tot bijvak bachelor of master</postback>
+</reply>
+<reply>
+<text>Verklaring toelating afsluitend examen VTAE?</text>
+<postback>Verklaring toelating afsluitend examen VTAE</postback>
+</reply>
+<reply>
+<text>Klachtenformulier CLRS?</text>
+<postback>Klachtenformulier CLRS</postback>
+</reply>
+<reply>
+<text>Bezwaar en beroepformulier CLRS?</text>
+<postback>Bezwaar en beroepformulier CLRS</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Aanvragen verklaringen student
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Verklaring van inschrijving?</text>
+<postback>Verklaring van inschrijving</postback>
+</reply>
+<reply>
+<text>Verklaring betaald collegegeld?</text>
+<postback>Verklaring betaald collegegeld</postback>
+</reply>
+<reply>
+<text>Examenverklaring?</text>
+<postback>Examenverklaring</postback>
+</reply>
+<reply>
+<text>Gewaarmerkte kopie diploma RUG?</text>
+<postback>Gewaarmerkte kopie diploma RUG</postback>
+</reply>
+<reply>
+<text>Verklaring beëindiging inschrijving bij afstuderen?</text>
+<postback>Verklaring beëindiging inschrijving bij afstuderen</postback>
+</reply>
+<reply>
+<text>Bewijs betaald collegegeld BBC voor andere instelling?</text>
+<postback>Bewijs betaald collegegeld BBC voor andere instelling</postback>
+</reply>
+<reply>
+<text>Tekenen en stempelen van verklaringen voor instanties?</text>
+<postback>Tekenen en stempelen van verklaringen voor instanties</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Formulier verklaring en handleiding
+</pattern>
+<template>
+<srai>Aanvragen verklaring door organisatie </srai>
+</template>
+</category>
+
+<category>
+<pattern>
+Regelingen overzicht
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Onderwijs en examenregelingen OER?</text>
+<postback>Onderwijs en examenregelingen OER</postback>
+</reply>
+<reply>
+<text>Profileringsfondsregeling?</text>
+<postback>Profileringsfondsregeling</postback>
+</reply>
+<reply>
+<text>Regeling Inschrijving en Collegegeld RIC?</text>
+<postback>Regeling Inschrijving en Collegegeld RIC</postback>
+</reply>
+<reply>
+<text>Studentenstatuut?</text>
+<postback>Studentenstatuut</postback>
+</reply>
+<reply>
+<text>Handboek Bindend Studieadvies BSA?</text>
+<postback>Handboek Bindend Studieadvies BSA</postback>
+</reply>
+<reply>
+<text>Meer informatie regelingen?</text>
+<postback>Meer informatie regelingen</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+Handleidingen overzicht
+</pattern>
+<template>
+Wat wil je precies weten?<br></br><br></br>
+<reply>
+<text>Handleidingen Studielink?</text>
+<postback>Handleidingen Studielink</postback>
+</reply>
+<reply>
+<text>Handleidingen OAS?</text>
+<postback>Handleidingen OAS</postback>
+</reply>
+<reply>
+<text>Handleiding foto RUGpas uploaden?</text>
+<postback>Handleiding foto RUGpas uploaden</postback>
+</reply>
+<reply>
+<text>Handleiding verklaring van inschrijving downloaden?</text>
+<postback>Handleiding verklaring van inschrijving downloaden</postback>
+</reply>
+</template>
+</category>
+
+</aiml>
