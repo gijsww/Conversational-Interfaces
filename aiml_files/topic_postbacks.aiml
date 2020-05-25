@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><aiml version="2.0">
 <category>
 <pattern>
-Aanmelden
+aanmelden
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wat is het verschil tussen aanmelden en inschrijven?</text>
 <postback>Wat is het verschil tussen aanmelden en inschrijven</postback>
@@ -34,7 +34,7 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Toelating / vooropleiding
+toelating / vooropleiding
 </pattern>
 <template>
 <srai>Welke opleidingen geven rechtstreeks toelating tot de universiteit </srai>
@@ -43,10 +43,10 @@ Toelating / vooropleiding
 
 <category>
 <pattern>
-VWO vooropleiding
+vwo vooropleiding
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Ben ik met een vwodiploma toelaatbaar tot een bacheloropleiding?</text>
 <postback>Ben ik met een vwodiploma toelaatbaar tot een bacheloropleiding</postback>
@@ -68,10 +68,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-HBO vooropleiding bachelor en propedeuse
+hbo vooropleiding (bachelor en propedeuse)
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding?</text>
 <postback>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding</postback>
@@ -101,10 +101,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Buitenlandse vooropleiding
+buitenlandse vooropleiding
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Ben ik met een buitenlandse diploma toelaatbaar tot de universiteit?</text>
 <postback>Ben ik met een buitenlandse diploma toelaatbaar tot de universiteit</postback>
@@ -118,10 +118,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Andere vooropleiding
+andere vooropleiding
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Ik heb niet de juiste vooropleiding Kan ik dan toch naar de universiteit?</text>
 <postback>Ik heb niet de juiste vooropleiding Kan ik dan toch naar de universiteit</postback>
@@ -143,10 +143,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Universitaire bachelor
+universitaire bachelor
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Kan ik met een universitair bachelordiploma instromen in een masterprogramma van de RUG?</text>
 <postback>Kan ik met een universitair bachelordiploma instromen in een masterprogramma van de RUG</postback>
@@ -160,18 +160,18 @@ Wat wil je precies weten?<br></br><br></br>
 <postback>Hoe meld ik me aan voor een researchmaster of andere master met aanvullende toelatingseisen</postback>
 </reply>
 <reply>
-<text>Wat is een verklaring toelating tot het afsluitend examen VTAE?</text>
-<postback>Wat is een verklaring toelating tot het afsluitend examen VTAE</postback>
+<text>Wat is een verklaring toelating tot het afsluitend examen (VTAE)?</text>
+<postback>Wat is een verklaring toelating tot het afsluitend examen (VTAE)</postback>
 </reply>
 </template>
 </category>
 
 <category>
 <pattern>
-Selectie en plaatsing numerus fixusopleiding
+selectie en plaatsing numerus fixusopleiding
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wat is een numerus fixusopleiding?</text>
 <postback>Wat is een numerus fixusopleiding</postback>
@@ -201,10 +201,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Aanmelden numerus fixusopleiding
+aanmelden numerus fixusopleiding
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Hoe meld ik me aan voor een numerus fixusopleiding?</text>
 <postback>Hoe meld ik me aan voor een numerus fixusopleiding</postback>
@@ -230,10 +230,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Selectiepogingen
+selectiepogingen
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Hoe vaak mag ik mee doen aan de selectie?</text>
 <postback>Hoe vaak mag ik mee doen aan de selectie</postback>
@@ -251,10 +251,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Uitslag en bewijs van toelating
+uitslag en bewijs van toelating
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wanneer weet ik of ik ben geselecteerd?</text>
 <postback>Wanneer weet ik of ik ben geselecteerd</postback>
@@ -272,10 +272,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Matching aan de RUG
+matching aan de rug
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wat is matching en waarom moet ik meedoen?</text>
 <postback>Wat is matching en waarom moet ik meedoen</postback>
@@ -321,10 +321,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Inschrijvingsprocedure
+inschrijvingsprocedure
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Hoe schrijf ik me in bij de RUG?</text>
 <postback>Hoe schrijf ik me in bij de RUG</postback>
@@ -354,8 +354,8 @@ Wat wil je precies weten?<br></br><br></br>
 <postback>Wanneer moet ik me inschrijven als ik vakken wil volgen die pas in het tweede half jaar worden gegeven</postback>
 </reply>
 <reply>
-<text>Hoe weet ik dat mijn herinschrijving in orde is?</text>
-<postback>Hoe weet ik dat mijn herinschrijving in orde is</postback>
+<text>Hoe weet ik dat mijn (her)inschrijving in orde is?</text>
+<postback>Hoe weet ik dat mijn (her)inschrijving in orde is</postback>
 </reply>
 <reply>
 <text>Ik stond vorig studiejaar niet ingeschreven Hoe kan ik me weer inschrijven?</text>
@@ -370,10 +370,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Premasterprogramma's
+premasterprogramma's
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wat is een premasterprogramma?</text>
 <postback>Wat is een premasterprogramma</postback>
@@ -387,10 +387,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Inschrijving wijzigen
+inschrijving wijzigen
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Ik ga halverwege het studiejaar aan mijn master beginnen Moet ik me er alvast voor inschrijven?</text>
 <postback>Ik ga halverwege het studiejaar aan mijn master beginnen Moet ik me er alvast voor inschrijven</postback>
@@ -412,10 +412,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Voor meer studies inschrijven
+voor meer studies inschrijven
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Ik sta ingeschreven bij de RUG en ik wil me ook inschrijven bij een andere instelling Wat moet ik doen?</text>
 <postback>Ik sta ingeschreven bij de RUG en ik wil me ook inschrijven bij een andere instelling Wat moet ik doen</postback>
@@ -429,10 +429,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Inschrijven
+inschrijven
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Kan ik mijn inschrijving annuleren?</text>
 <postback>Kan ik mijn inschrijving annuleren</postback>
@@ -450,10 +450,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Herinschrijven
+herinschrijven
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Hoe kan ik mij herinschrijven?</text>
 <postback>Hoe kan ik mij herinschrijven</postback>
@@ -483,10 +483,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Uitschrijven
+uitschrijven
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Hoe moet ik mij uitschrijven?</text>
 <postback>Hoe moet ik mij uitschrijven</postback>
@@ -516,18 +516,18 @@ Wat wil je precies weten?<br></br><br></br>
 <postback>Restitutie collegegeld</postback>
 </reply>
 <reply>
-<text>Gevolgen uitschrijving voor studiefinanciering DUO?</text>
-<postback>Gevolgen uitschrijving voor studiefinanciering DUO</postback>
+<text>Gevolgen uitschrijving voor studiefinanciering (DUO)?</text>
+<postback>Gevolgen uitschrijving voor studiefinanciering (DUO)</postback>
 </reply>
 </template>
 </category>
 
 <category>
 <pattern>
-Studielink
+studielink
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Animatiefilmpje over Nieuwe Studielink?</text>
 <postback>Animatiefilmpje over Nieuwe Studielink</postback>
@@ -565,10 +565,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-RUGaccount voor studenten
+rugaccount (voor studenten)
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wat is een RUGaccount?</text>
 <postback>Wat is een RUGaccount</postback>
@@ -598,10 +598,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Aanmaken RUGaccount
+aanmaken rugaccount
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wanneer krijg ik mijn RUGaccount?</text>
 <postback>Wanneer krijg ik mijn RUGaccount</postback>
@@ -615,10 +615,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Blokkeren RUGaccount
+blokkeren rugaccount
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Waarom is mijn RUGaccount geblokkeerd?</text>
 <postback>Waarom is mijn RUGaccount geblokkeerd</postback>
@@ -628,8 +628,8 @@ Wat wil je precies weten?<br></br><br></br>
 <postback>Hoe kan ik mijn RUGaccount laten deblokkeren</postback>
 </reply>
 <reply>
-<text>Ik heb een termijn van het collegegeld betaald Wanneer wordt mijn RUGaccount gedeblokkeerd?</text>
-<postback>Ik heb een termijn van het collegegeld betaald Wanneer wordt mijn RUGaccount gedeblokkeerd</postback>
+<text>Ik heb (een termijn van) het collegegeld betaald Wanneer wordt mijn RUGaccount gedeblokkeerd?</text>
+<postback>Ik heb (een termijn van) het collegegeld betaald Wanneer wordt mijn RUGaccount gedeblokkeerd</postback>
 </reply>
 <reply>
 <text>Kan ik nog mail ontvangen of versturen als mijn RUGaccount is geblokkeerd?</text>
@@ -644,10 +644,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Opheffen RUGaccount
+opheffen rugaccount
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wanneer wordt mijn RUGaccount opgeheven?</text>
 <postback>Wanneer wordt mijn RUGaccount opgeheven</postback>
@@ -665,10 +665,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-RUGpas
+rugpas
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wat is een RUGpas?</text>
 <postback>Wat is een RUGpas</postback>
@@ -706,10 +706,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Introductieperiode
+introductieperiode
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Veiligheid en toezicht tijdens de introductieperiode?</text>
 <postback>Veiligheid en toezicht tijdens de introductieperiode</postback>
@@ -743,19 +743,19 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Introductieperiode academische kalender en vakanties
+introductieperiode academische kalender en vakanties
 </pattern>
 <template>
-<srai>Vakanties en religieuze vrije dagen </srai>
+<srai>Vakanties en (religieuze) vrije dagen </srai>
 </template>
 </category>
 
 <category>
 <pattern>
-Vakken tentamens boeken
+vakken tentamens boeken
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Waar vind ik het rooster voor vakken en tentamens?</text>
 <postback>Waar vind ik het rooster voor vakken en tentamens</postback>
@@ -789,10 +789,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Aanmelden in en uitschrijven
+aanmelden in en uitschrijven
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Mijn adreswijziging doorgeven?</text>
 <postback>Mijn adreswijziging doorgeven</postback>
@@ -806,10 +806,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Inschrijvingsvormen
+inschrijvingsvormen
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Opbouw van een universitaire opleiding?</text>
 <postback>Opbouw van een universitaire opleiding</postback>
@@ -843,10 +843,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Collegegeldtarieven
+collegegeldtarieven
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wettelijk collegegeldtarief?</text>
 <postback>Wettelijk collegegeldtarief</postback>
@@ -876,10 +876,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Betaling collegegeld
+betaling collegegeld
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Op welke manieren kan ik mijn collegegeld betalen?</text>
 <postback>Op welke manieren kan ik mijn collegegeld betalen</postback>
@@ -925,10 +925,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Collegegeld in termijnen betalen
+collegegeld in termijnen betalen
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Hoe zorg ik er voor dat ik in termijnen kan betalen?</text>
 <postback>Hoe zorg ik er voor dat ik in termijnen kan betalen</postback>
@@ -954,10 +954,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Restitutie collegegeld
+restitutie collegegeld
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wanneer krijg ik collegegeld terug?</text>
 <postback>Wanneer krijg ik collegegeld terug</postback>
@@ -979,7 +979,7 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Onvoldoende saldo
+onvoldoende saldo
 </pattern>
 <template>
 <srai>Wat gebeurt er als ik onvoldoende saldo heb voor de afschrijving van het collegegeld </srai>
@@ -988,10 +988,10 @@ Onvoldoende saldo
 
 <category>
 <pattern>
-Tweede opleiding
+tweede opleiding
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Hoeveel collegegeld moet ik betalen als ik voor meerdere opleidingen ingeschreven sta?</text>
 <postback>Hoeveel collegegeld moet ik betalen als ik voor meerdere opleidingen ingeschreven sta</postback>
@@ -1025,10 +1025,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Halvering wettelijk collegegeld voor eerstejaars
+halvering wettelijk collegegeld voor eerstejaars
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Waarom halvering collegegeld eerstejaars?</text>
 <postback>Waarom halvering collegegeld eerstejaars</postback>
@@ -1062,7 +1062,7 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Financiële ondersteuning
+financiële ondersteuning
 </pattern>
 <template>
 <srai>Financiële regeling voor studenten met een functiebeperking </srai>
@@ -1071,10 +1071,10 @@ Financiële ondersteuning
 
 <category>
 <pattern>
-Noodsituaties
+noodsituaties
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wat kan ik doen als ik onvoorziene financiële problemen tegen kom?</text>
 <postback>Wat kan ik doen als ik onvoorziene financiële problemen tegen kom</postback>
@@ -1088,10 +1088,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Profileringsfonds
+profileringsfonds
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wat is het Profileringsfonds?</text>
 <postback>Wat is het Profileringsfonds</postback>
@@ -1121,8 +1121,8 @@ Wat wil je precies weten?<br></br><br></br>
 <postback>De statusbalk van de aanvraag geeft ‘bewijsstukken ontbreken aan’ Hoe weet ik welke bewijsstukken ontbreken</postback>
 </reply>
 <reply>
-<text>Wat moet ik doen als ik geen 'Bericht Studiefinanciering' over de gevraagde basisbeursperiode meer heb?</text>
-<postback>Wat moet ik doen als ik geen 'Bericht Studiefinanciering' over de gevraagde basisbeursperiode meer heb</postback>
+<text>Wat moet ik doen als ik geen 'Bericht Studiefinanciering' over de gevraagde basisbeursperiode (meer) heb?</text>
+<postback>Wat moet ik doen als ik geen 'Bericht Studiefinanciering' over de gevraagde basisbeursperiode (meer) heb</postback>
 </reply>
 <reply>
 <text>Wat is een Verklaring Bestuursperiode?</text>
@@ -1141,10 +1141,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Studiefinanciering DUO
+studiefinanciering (duo)
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Sociaal leenstelsel per 1 september 2015?</text>
 <postback>Sociaal leenstelsel per 1 september 2015</postback>
@@ -1162,8 +1162,8 @@ Wat wil je precies weten?<br></br><br></br>
 <postback>Wat is een prestatiebeurs</postback>
 </reply>
 <reply>
-<text>Wat is het sociaal leenstelsel studievoorschot?</text>
-<postback>Wat is het sociaal leenstelsel studievoorschot</postback>
+<text>Wat is het sociaal leenstelsel (studievoorschot)?</text>
+<postback>Wat is het sociaal leenstelsel (studievoorschot)</postback>
 </reply>
 <reply>
 <text>Wat is de overgangsregeling voor bachelorstudenten die voor 1 september 2015 een prestatiebeurs krijgen?</text>
@@ -1214,10 +1214,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Studiebeurzen
+studiebeurzen
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Grantfinder?</text>
 <postback>Grantfinder</postback>
@@ -1231,7 +1231,7 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Studiekosten
+studiekosten
 </pattern>
 <template>
 <srai>Studeren wat kost dat </srai>
@@ -1240,10 +1240,10 @@ Studiekosten
 
 <category>
 <pattern>
-Verzekeringen
+verzekeringen
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Welke verzekeringen heb je nodig?</text>
 <postback>Welke verzekeringen heb je nodig</postback>
@@ -1257,10 +1257,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Studentenorganisaties
+studentenorganisaties
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Facultaire of opleidingsverenigingen?</text>
 <postback>Facultaire of opleidingsverenigingen</postback>
@@ -1290,10 +1290,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Aanmelding en selectieprocedure
+aanmelding en selectieprocedure
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Hoe moet ik mij aanmelden?</text>
 <postback>Hoe moet ik mij aanmelden</postback>
@@ -1327,10 +1327,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Onderwijs  honoursprogramma
+onderwijs  honoursprogramma
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wat is de opzet en de inhoud van het Honoursprogramma?</text>
 <postback>Wat is de opzet en de inhoud van het Honoursprogramma</postback>
@@ -1360,10 +1360,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Aankomende Honours College student
+aankomende honours college student
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wat heb ik eraan om het Honours College te doen Wat levert het me op?</text>
 <postback>Wat heb ik eraan om het Honours College te doen Wat levert het me op</postback>
@@ -1409,10 +1409,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Honours College student
+honours college student
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Ik heb mijn Honours College programma afgerond maar mijn bachelor nog niet Mag ik meedoen met de Honours College buluitreiking?</text>
 <postback>Ik heb mijn Honours College programma afgerond maar mijn bachelor nog niet Mag ik meedoen met de Honours College buluitreiking</postback>
@@ -1422,18 +1422,18 @@ Wat wil je precies weten?<br></br><br></br>
 <postback>Ik vond het Honours College erg leuk en doe het daar ook goed maar mijn gewone studie gaat wat minder Nu hoor ik dat ik moet stoppen Waarom</postback>
 </reply>
 <reply>
-<text>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen bestuur Moet ik nu stoppen?</text>
-<postback>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen bestuur Moet ik nu stoppen</postback>
+<text>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen (bestuur) Moet ik nu stoppen?</text>
+<postback>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen (bestuur) Moet ik nu stoppen</postback>
 </reply>
 </template>
 </category>
 
 <category>
 <pattern>
-Studeren in het buitenland
+studeren in het buitenland
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Welke mogelijkheden zijn er om in het buitenland te studeren?</text>
 <postback>Welke mogelijkheden zijn er om in het buitenland te studeren</postback>
@@ -1459,10 +1459,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Stage in het buitenland
+stage in het buitenland
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Ik wil graag stage lopen in het buitenland Is daar meer informatie over?</text>
 <postback>Ik wil graag stage lopen in het buitenland Is daar meer informatie over</postback>
@@ -1476,10 +1476,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Financien
+financien
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wat zijn globaal de kosten van een uitwisseling?</text>
 <postback>Wat zijn globaal de kosten van een uitwisseling</postback>
@@ -1509,10 +1509,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Praktische zaken
+praktische zaken
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Waar moet ik beginnen?</text>
 <postback>Waar moet ik beginnen</postback>
@@ -1542,10 +1542,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Bindend Studieadvies BSA
+bindend studieadvies (bsa)
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wat is een BSA?</text>
 <postback>Wat is een BSA</postback>
@@ -1611,10 +1611,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Studeren met een functiebeperking
+studeren met een functiebeperking
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wat is een functiebeperking?</text>
 <postback>Wat is een functiebeperking</postback>
@@ -1668,10 +1668,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Studiedips en andere studieproblemen
+studiedips en andere studieproblemen
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wat kan ik doen als ik last heb van faalangst of tentamenvrees?</text>
 <postback>Wat kan ik doen als ik last heb van faalangst of tentamenvrees</postback>
@@ -1709,10 +1709,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Studiekeuze
+studiekeuze
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Ik ben eerste of tweedejaars student en twijfel over mijn studiekeuze Wat kan ik doen?</text>
 <postback>Ik ben eerste of tweedejaars student en twijfel over mijn studiekeuze Wat kan ik doen</postback>
@@ -1726,10 +1726,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Studievertraging
+studievertraging
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wat moet ik doen als ik studievertraging heb?</text>
 <postback>Wat moet ik doen als ik studievertraging heb</postback>
@@ -1743,7 +1743,7 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Studieloopbaan en carrière
+studieloopbaan en carrière
 </pattern>
 <template>
 <srai>Career Services </srai>
@@ -1752,10 +1752,123 @@ Studieloopbaan en carrière
 
 <category>
 <pattern>
-Academische ontwikkeling
+al ewest
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
+<reply>
+<text>Hoe moet ik mij aanmelden?</text>
+<postback>Hoe moet ik mij aanmelden</postback>
+</reply>
+<reply>
+<text>Kan ik ook zelf solliciteren naar een plaats in het Honours College of moet ik wachten tot ik een uitnodiging krijg?</text>
+<postback>Kan ik ook zelf solliciteren naar een plaats in het Honours College of moet ik wachten tot ik een uitnodiging krijg</postback>
+</reply>
+<reply>
+<text>Ik ben zeer gemotiveerd voor het Honours College maar voldoe niet aan de eisen?</text>
+<postback>Ik ben zeer gemotiveerd voor het Honours College maar voldoe niet aan de eisen</postback>
+</reply>
+<reply>
+<text>Ik ben zeer gemotiveerd en ik verwacht aan de eisen te voldoen maar ik heb geen uitnodiging ontvangen?</text>
+<postback>Ik ben zeer gemotiveerd en ik verwacht aan de eisen te voldoen maar ik heb geen uitnodiging ontvangen</postback>
+</reply>
+<reply>
+<text>Ik heb gesolliciteerd maar ik heb nog niets gehoord?</text>
+<postback>Ik heb gesolliciteerd maar ik heb nog niets gehoord</postback>
+</reply>
+<reply>
+<text>Ik ben geen Nederlandse student en ik spreek alleen Engels Kan ik mij aanmelden voor het Honours College programma?</text>
+<postback>Ik ben geen Nederlandse student en ik spreek alleen Engels Kan ik mij aanmelden voor het Honours College programma</postback>
+</reply>
+<reply>
+<text>Ik had op mijn eindexamen een 5 voor Engels en de rest waren allemaal goede cijfers Is dat een bezwaar?</text>
+<postback>Ik had op mijn eindexamen een 5 voor Engels en de rest waren allemaal goede cijfers Is dat een bezwaar</postback>
+</reply>
+<reply>
+<text>Wat is de opzet en de inhoud van het Honoursprogramma?</text>
+<postback>Wat is de opzet en de inhoud van het Honoursprogramma</postback>
+</reply>
+<reply>
+<text>Hoe ziet mijn verdiepende facultaire programma eruit?</text>
+<postback>Hoe ziet mijn verdiepende facultaire programma eruit</postback>
+</reply>
+<reply>
+<text>Hoe ziet het verbredende programma eruit?</text>
+<postback>Hoe ziet het verbredende programma eruit</postback>
+</reply>
+<reply>
+<text>Wat is de Petrus Camper Leergang?</text>
+<postback>Wat is de Petrus Camper Leergang</postback>
+</reply>
+<reply>
+<text>Wordt al het onderwijs in het Engels gegeven?</text>
+<postback>Wordt al het onderwijs in het Engels gegeven</postback>
+</reply>
+<reply>
+<text>Kan ik ook het hele programma in het Engels doen?</text>
+<postback>Kan ik ook het hele programma in het Engels doen</postback>
+</reply>
+<reply>
+<text>Wat heb ik eraan om het Honours College te doen Wat levert het me op?</text>
+<postback>Wat heb ik eraan om het Honours College te doen Wat levert het me op</postback>
+</reply>
+<reply>
+<text>Wat is het verschil tussen bij voorbeeld het University College Utrecht of de Roosevelt Academy in Middelburg en het Groningen Honours College?</text>
+<postback>Wat is het verschil tussen bij voorbeeld het University College Utrecht of de Roosevelt Academy in Middelburg en het Groningen Honours College</postback>
+</reply>
+<reply>
+<text>Ik twijfel tussen solliciteren voor het Honours College en een tweede studie erbij doen Wat kan ik het beste doen?</text>
+<postback>Ik twijfel tussen solliciteren voor het Honours College en een tweede studie erbij doen Wat kan ik het beste doen</postback>
+</reply>
+<reply>
+<text>Kost het Honours College veel tijd Kan ik er nog wat anders bij doen?</text>
+<postback>Kost het Honours College veel tijd Kan ik er nog wat anders bij doen</postback>
+</reply>
+<reply>
+<text>Zijn er extra kosten aan verbonden zoals collegegeld?</text>
+<postback>Zijn er extra kosten aan verbonden zoals collegegeld</postback>
+</reply>
+<reply>
+<text>Ik ben nu 2e jaars student en heb mijn propedeuse gehaald kan ik nog instromen / meedoen?</text>
+<postback>Ik ben nu 2e jaars student en heb mijn propedeuse gehaald kan ik nog instromen / meedoen</postback>
+</reply>
+<reply>
+<text>Ik wil eerst mijn propedeuse halen en dan in het Honours College instromen?</text>
+<postback>Ik wil eerst mijn propedeuse halen en dan in het Honours College instromen</postback>
+</reply>
+<reply>
+<text>Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buitenland om daar te studeren Kan dat?</text>
+<postback>Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buitenland om daar te studeren Kan dat</postback>
+</reply>
+<reply>
+<text>Mijn broer/zus/neef/nicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen?</text>
+<postback>Mijn broer/zus/neef/nicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen</postback>
+</reply>
+<reply>
+<text>Als ik niet meedoe aan het Honours College krijg ik dan minder goed onderwijs?</text>
+<postback>Als ik niet meedoe aan het Honours College krijg ik dan minder goed onderwijs</postback>
+</reply>
+<reply>
+<text>Ik heb mijn Honours College programma afgerond maar mijn bachelor nog niet Mag ik meedoen met de Honours College buluitreiking?</text>
+<postback>Ik heb mijn Honours College programma afgerond maar mijn bachelor nog niet Mag ik meedoen met de Honours College buluitreiking</postback>
+</reply>
+<reply>
+<text>Ik vond het Honours College erg leuk en doe het daar ook goed maar mijn gewone studie gaat wat minder Nu hoor ik dat ik moet stoppen Waarom?</text>
+<postback>Ik vond het Honours College erg leuk en doe het daar ook goed maar mijn gewone studie gaat wat minder Nu hoor ik dat ik moet stoppen Waarom</postback>
+</reply>
+<reply>
+<text>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen (bestuur) Moet ik nu stoppen?</text>
+<postback>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen (bestuur) Moet ik nu stoppen</postback>
+</reply>
+</template>
+</category>
+
+<category>
+<pattern>
+academische ontwikkeling
+</pattern>
+<template>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Welke trainingen en cursussen biedt de RUG aan?</text>
 <postback>Welke trainingen en cursussen biedt de RUG aan</postback>
@@ -1773,10 +1886,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Titulatuur / graden
+titulatuur / graden
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Ik heb meerdere titels behaald Mag ik die allemaal voeren?</text>
 <postback>Ik heb meerdere titels behaald Mag ik die allemaal voeren</postback>
@@ -1818,8 +1931,8 @@ Wat wil je precies weten?<br></br><br></br>
 <postback>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een afgeronde MOopleiding 1e en 2e graad Mag ik de titel Master of Education M ED voeren?</text>
-<postback>Ik heb een afgeronde MOopleiding 1e en 2e graad Mag ik de titel Master of Education M ED voeren</postback>
+<text>Ik heb een afgeronde MOopleiding 1e en 2e graad Mag ik de titel Master of Education (M ED) voeren?</text>
+<postback>Ik heb een afgeronde MOopleiding 1e en 2e graad Mag ik de titel Master of Education (M ED) voeren</postback>
 </reply>
 <reply>
 <text>Mag ik een beschermde titel voeren als ik geen opleiding in het hoger onderwijs heb afgerond?</text>
@@ -1830,10 +1943,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Alumni
+alumni
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Ik ben alumnus en wil een adreswijziging doorgeven?</text>
 <postback>Ik ben alumnus en wil een adreswijziging doorgeven</postback>
@@ -1847,8 +1960,8 @@ Wat wil je precies weten?<br></br><br></br>
 <postback>Hoe kom ik aan een gewaarmerkte kopie van mijn diploma/cijferlijst</postback>
 </reply>
 <reply>
-<text>Hoe kom ik aan een Engelstalige examenverklaring?</text>
-<postback>Hoe kom ik aan een Engelstalige examenverklaring</postback>
+<text>Hoe kom ik aan een (Engelstalige) examenverklaring?</text>
+<postback>Hoe kom ik aan een (Engelstalige) examenverklaring</postback>
 </reply>
 <reply>
 <text>Je steun aan het Eric Bleumink Fonds?</text>
@@ -1859,13 +1972,13 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Rechtspositie
+rechtspositie
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
-<text>Onderwijs en examenregelingen OER?</text>
-<postback>Onderwijs en examenregelingen OER</postback>
+<text>Onderwijs en examenregelingen (OER)?</text>
+<postback>Onderwijs en examenregelingen (OER)</postback>
 </reply>
 <reply>
 <text>Studentenstatuut?</text>
@@ -1888,10 +2001,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Adressen en openingstijden
+adressen en openingstijden
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Information Services?</text>
 <postback>Information Services</postback>
@@ -1901,8 +2014,8 @@ Wat wil je precies weten?<br></br><br></br>
 <postback>Admissions Office</postback>
 </reply>
 <reply>
-<text>Studenten Service Centrum SSC?</text>
-<postback>Studenten Service Centrum SSC</postback>
+<text>Studenten Service Centrum (SSC)?</text>
+<postback>Studenten Service Centrum (SSC)</postback>
 </reply>
 <reply>
 <text>Onderwijsadministraties?</text>
@@ -1916,19 +2029,24 @@ Wat wil je precies weten?<br></br><br></br>
 <text>Universitaire kas?</text>
 <postback>Universitaire kas</postback>
 </reply>
-<reply>
-<text>DUO?</text>
-<postback>DUO</postback>
-</reply>
 </template>
 </category>
 
 <category>
 <pattern>
-Voorzieningen
+adressen en openingstijden]
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+<srai>DUO </srai>
+</template>
+</category>
+
+<category>
+<pattern>
+voorzieningen
+</pattern>
+<template>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Huisarts in Groningen?</text>
 <postback>Huisarts in Groningen</postback>
@@ -1990,10 +2108,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Formulieren overzicht
+formulieren (overzicht)
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Aanvraagformulier factuur werkgever?</text>
 <postback>Aanvraagformulier factuur werkgever</postback>
@@ -2003,26 +2121,26 @@ Wat wil je precies weten?<br></br><br></br>
 <postback>Toelating tot bijvak bachelor of master</postback>
 </reply>
 <reply>
-<text>Verklaring toelating afsluitend examen VTAE?</text>
-<postback>Verklaring toelating afsluitend examen VTAE</postback>
+<text>Verklaring toelating afsluitend examen (VTAE)?</text>
+<postback>Verklaring toelating afsluitend examen (VTAE)</postback>
 </reply>
 <reply>
-<text>Klachtenformulier CLRS?</text>
-<postback>Klachtenformulier CLRS</postback>
+<text>Klachtenformulier (CLRS)?</text>
+<postback>Klachtenformulier (CLRS)</postback>
 </reply>
 <reply>
-<text>Bezwaar en beroepformulier CLRS?</text>
-<postback>Bezwaar en beroepformulier CLRS</postback>
+<text>Bezwaar en beroepformulier (CLRS)?</text>
+<postback>Bezwaar en beroepformulier (CLRS)</postback>
 </reply>
 </template>
 </category>
 
 <category>
 <pattern>
-Aanvragen verklaringen student
+aanvragen verklaringen (student)
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Verklaring van inschrijving?</text>
 <postback>Verklaring van inschrijving</postback>
@@ -2044,8 +2162,8 @@ Wat wil je precies weten?<br></br><br></br>
 <postback>Verklaring beëindiging inschrijving bij afstuderen</postback>
 </reply>
 <reply>
-<text>Bewijs betaald collegegeld BBC voor andere instelling?</text>
-<postback>Bewijs betaald collegegeld BBC voor andere instelling</postback>
+<text>Bewijs betaald collegegeld (BBC) voor andere instelling?</text>
+<postback>Bewijs betaald collegegeld (BBC) voor andere instelling</postback>
 </reply>
 <reply>
 <text>Tekenen en stempelen van verklaringen voor instanties?</text>
@@ -2056,38 +2174,38 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Formulier verklaring en handleiding
+formulier verklaring en handleiding
 </pattern>
 <template>
-<srai>Aanvragen verklaring door organisatie </srai>
+<srai>Aanvragen verklaring (door organisatie) </srai>
 </template>
 </category>
 
 <category>
 <pattern>
-Regelingen overzicht
+regelingen (overzicht)
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
-<text>Onderwijs en examenregelingen OER?</text>
-<postback>Onderwijs en examenregelingen OER</postback>
+<text>Onderwijs en examenregelingen (OER)?</text>
+<postback>Onderwijs en examenregelingen (OER)</postback>
 </reply>
 <reply>
 <text>Profileringsfondsregeling?</text>
 <postback>Profileringsfondsregeling</postback>
 </reply>
 <reply>
-<text>Regeling Inschrijving en Collegegeld RIC?</text>
-<postback>Regeling Inschrijving en Collegegeld RIC</postback>
+<text>Regeling Inschrijving en Collegegeld (RIC)?</text>
+<postback>Regeling Inschrijving en Collegegeld (RIC)</postback>
 </reply>
 <reply>
 <text>Studentenstatuut?</text>
 <postback>Studentenstatuut</postback>
 </reply>
 <reply>
-<text>Handboek Bindend Studieadvies BSA?</text>
-<postback>Handboek Bindend Studieadvies BSA</postback>
+<text>Handboek Bindend Studieadvies (BSA)?</text>
+<postback>Handboek Bindend Studieadvies (BSA)</postback>
 </reply>
 <reply>
 <text>Meer informatie regelingen?</text>
@@ -2098,10 +2216,10 @@ Wat wil je precies weten?<br></br><br></br>
 
 <category>
 <pattern>
-Handleidingen overzicht
+handleidingen (overzicht)
 </pattern>
 <template>
-Wat wil je precies weten?<br></br><br></br>
+Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Handleidingen Studielink?</text>
 <postback>Handleidingen Studielink</postback>
