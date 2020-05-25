@@ -1,8 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="2.0">
     <category> 
-      <pattern># <set>groeten</set> #</pattern>
+      <pattern> hoi #</pattern>
       <template>Hoi! Ik ben een chatbot van de Rijksuniversiteit Groningen. Stel me een vraag! </template>
+    </category>
+    
+    <category> 
+      <pattern> hallo #</pattern>
+      <template><srai>hoi #</srai> </template>
+    </category>
+    
+    <category> 
+      <pattern> hi #</pattern>
+      <template><srai>hoi #</srai> </template>
+    </category>
+    
+    <category> 
+      <pattern> Goedendag #</pattern>
+      <template><srai>hoi #</srai> </template>
+    </category>
+    
+    <category> 
+      <pattern> Goedemiddag #</pattern>
+      <template><srai>hoi #</srai> </template>
+    </category>    
+
+    <category> 
+      <pattern> Goedemorgen #</pattern>
+      <template><srai>hoi #</srai> </template>
     </category>
     
     <category>
@@ -35,14 +60,92 @@
     </category>
 
     <category>
-        <pattern>Hoe oud ben je</pattern>
-        <template>2 maanden.
+        <pattern>waarom</pattern>
+        <template>
+        <random>
+        <li>Daarom.</li>
+        <li>Omdat ik het zeg.</li>
+        <li>Wat ben jij nieuwsgierig.</li>
+        </random>
         </template>
     </category>
 
     <category>
+        <pattern>help</pattern>
+        <template>
+        Waar kan ik je mee helpen?
+        Ik kan vragen beantwoorden over onderwerpen als: In- en uitschrijven, geldzaken, begeleiding en advies, studieloopbaan en carrière, rechtspositie en activiteiten naast je studie.
+        </template>
+    </category>
+
+    <category>
+        <pattern>Vertel iets over jezelf</pattern>
+        <template>Ik ben Ruggibot the chatbot van de Rijksuniversiteit Groningen. Ik ben gemaakt om studenten en aankomend studenten te helpen hun vragen te beantwoorden. Ben jij een student of een aankomend student?
+        </template>
+    </category>
+
+    <category>
+        <pattern>Wie ben je </pattern>
+        <template><srai>vertel iets over jezelf</srai></template>
+    </category>
+
+    <category>
+        <pattern>^ student ^</pattern>.
+        <that>^ student of een aankomend student ^</that>
+        <template>Wat leuk! In welk jaar van welke studie zit je?
+        </template>
+    </category>
+
+    <category>
+        <pattern> * </pattern>.
+        <that>^ welk jaar van welke studie zit je ^</that>
+        <template>Goed bezig! Dat lijkt mij ook een leuke studie. Welke vraag kan ik voor je beantwoorden?
+        </template>
+    </category>
+
+    <category>
+        <pattern>^ aankomend student ^</pattern>
+        <that>^ student of een aankomend student ^</that>
+        <template>Wat leuk dat je komt studeren in Groningen. Welke studie ga je doen?
+        </template>
+    </category>
+
+    <category>
+        <pattern> * </pattern>.
+        <that>^ Welke studie ga je doen ^</that>
+        <template>Dat lijkt mij ook een leuke studie. Welke vraag kan ik voor je beantwoorden?
+        </template>
+    </category>
+
+    <category>
+        <pattern>*</pattern>
+        <that>^ student of een aankomend student ^</that>
+        <template>Dat kan natuurlijk ook! Ik beantwoord graag je vragen. Stel me een vraag!
+        </template>
+    </category>
+
+    <category>
+        <pattern>Hoe oud ben je</pattern>
+        <template>2 maanden. Hoe oud ben jij?
+        </template>
+    </category>
+
+    <category>
+        <pattern>*</pattern>
+        <that>^ hoe oud ben jij ^</that>
+        <template>Mooie leeftijd!
+        </template>
+    </category> 
+
+    <category>
         <pattern>Hoe heet je</pattern>
         <template>Ik heet Ruggibot, hoe heet jij?
+        </template>
+    </category>
+
+    <category>
+        <pattern>Wat is je naam</pattern>
+        <template><srai>hoe heet je</srai>
         </template>
     </category>
 
@@ -55,7 +158,7 @@
 
     <category>
         <pattern>Wat is je geslacht</pattern>
-        <template>Dat zeg ik lekker niet
+        <template>Dat zeg ik liever niet.
         </template>
     </category>    
 

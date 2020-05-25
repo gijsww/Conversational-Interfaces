@@ -1,4 +1,4 @@
-<?xml version="10" encoding="UTF8"?><aiml version="20">
+<?xml version="1.0" encoding="UTF8"?><aiml version="2.0">
 <category>
 <pattern>
 ^ verschil ^
