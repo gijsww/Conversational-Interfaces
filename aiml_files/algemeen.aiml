@@ -30,10 +30,46 @@
       <template><srai>hoi #</srai> </template>
     </category>
     
+    <category> 
+      <pattern> # tot ziens #</pattern>
+      <template>
+      <random>
+      <li>Bedankt voor je vragen, tot de volgende keer! </li>
+      <li>Ik heb met plezier je vragen mogen beantwoorden, tot de volgende keer! </li>
+      <li>Bedankt dat ik je weer een stukje wijzer heb mogen maken over de Rijksuniversiteit Groningen, tot de volgende keer! </li>
+      </random>
+      </template>
+    </category>
+
+    <category> 
+      <pattern> # doei #</pattern>
+      <template><srai># tot ziens #</srai> </template>
+    </category>
+
+    <category> 
+      <pattern> # fijne dag #</pattern>
+      <template><srai># tot ziens #</srai> </template>
+    </category>
+
+    <category> 
+      <pattern> # tot de volgende keer #</pattern>
+      <template><srai># tot ziens #</srai> </template>
+    </category>
+
+
     <category>
         <pattern>*</pattern>
-        <template>Sorry, daar heb ik geen antwoord op. Zou je je vraag anders kunnen formuleren?
-    Ik kan vragen beantwoorden over onderwerpen als: In- en uitschrijven, geldzaken, begeleiding en advies, studieloopbaan en carrière, rechtspositie en activiteiten naast je studie</template>
+        <template>
+        <random> 
+            <li>Sorry, daar heb ik geen antwoord op. Zou je je vraag anders kunnen formuleren?
+    Ik kan vragen beantwoorden over onderwerpen als: In- en uitschrijven, geldzaken, begeleiding en advies, studieloopbaan en carrière, rechtspositie en activiteiten naast je studie.</li>
+            <li>Ik snap niet helemaal wat je vraagt. Je kunt mij alles vragen wat gerelateerd is aan de Rijksuniversiteit Groningen. Ook kan ik moppen vertellen en een munt voor je opgooien.</li>
+            <li> Hmm... Daar weet ik het antwoord niet op.  Ik kan je wel vertellen hoe oud de Rijskuniversiteit Groningen is!</li>
+            <li> Ik weet veel, maar helaas niet alles. Vraag me iets wat betrekking heeft op het studeren aan de Rijksuniversiteit Groningen.</li>
+        </random>
+
+
+        </template>
     </category>
     
     <category>
@@ -90,11 +126,24 @@
     </category>
 
     <category>
-        <pattern>^ student ^</pattern>.
+        <pattern>^ student ^</pattern>
         <that>^ student of een aankomend student ^</that>
-        <template>Wat leuk! In welk jaar van welke studie zit je?
+        <template><think><set name="info">student</set></think>
+        Wat leuk! In welk jaar van welke studie zit je?
         </template>
     </category>
+
+    <category>
+        <pattern>^ ben ik student of aankomend student ^</pattern>
+        <template>
+        <condition>
+          <li name="info" value="unknown">Je hebt me niet verteld of je een student of aankomend student bent.</li>
+          <li name="info" value="">Je hebt me niet verteld of je een student of aankomend student bent.</li>
+          <li>Je bent een <get name="info"/>!</li>
+        </condition>
+        </template>
+    </category>
+
 
     <category>
         <pattern> * </pattern>.
@@ -106,7 +155,8 @@
     <category>
         <pattern>^ aankomend student ^</pattern>
         <that>^ student of een aankomend student ^</that>
-        <template>Wat leuk dat je komt studeren in Groningen. Welke studie ga je doen?
+        <template><think><set name="info">aankomend student</set></think>
+        Wat leuk dat je komt studeren in Groningen. Welke studie ga je doen?
         </template>
     </category>
 
@@ -120,12 +170,13 @@
     <category>
         <pattern>*</pattern>
         <that>^ student of een aankomend student ^</that>
-        <template>Dat kan natuurlijk ook! Ik beantwoord graag je vragen. Stel me een vraag!
+        <template> <think><set name="info"><star/></set></think>
+            Dat kan natuurlijk ook! Ik beantwoord graag je vragen. Stel me een vraag!
         </template>
     </category>
 
     <category>
-        <pattern>Hoe oud ben je</pattern>
+        <pattern>Hoe oud ben ^</pattern>
         <template>2 maanden. Hoe oud ben jij?
         </template>
     </category>
@@ -138,7 +189,14 @@
     </category> 
 
     <category>
-        <pattern>Hoe heet je</pattern>
+        <pattern>hoe oud ben ik</pattern>.
+        <template>
+        Oeps... Dat ben ik vergeten!
+        </template>
+    </category>
+
+    <category>
+        <pattern>Hoe heet ^</pattern>
         <template>Ik heet Ruggibot, hoe heet jij?
         </template>
     </category>
@@ -152,9 +210,28 @@
     <category>
         <pattern>*</pattern>
         <that>^ hoe heet jij ^</that>
-        <template>Wat een mooie naam!
+        <template>
+            <think><set name="naam"><star/></set></think>
+            Wat een mooie naam!
         </template>
     </category>    
+
+    <category>
+        <pattern>^ hoe heet ik ^</pattern>
+        <template>
+        <condition>
+          <li name="naam" value="unknown">Je hebt me niet verteld hoe je heet. Hoe heet jij?</li>
+          <li name="naam" value="">Je hebt me niet verteld hoe je heet. Hoe heet jij?</li>
+          <li>Je heet <get name="naam"/>!</li>
+        </condition>
+        </template>
+    </category>
+
+    <category>
+        <pattern>^ wat is mijn naam ^</pattern>
+        <template><srai>^ hoe heet ik ^</srai>
+        </template>
+    </category>     
 
     <category>
         <pattern>Wat is je geslacht</pattern>
@@ -187,6 +264,13 @@
         </random>
         </template>
     </category>    
+
+     <category>
+        <pattern># munt op #</pattern>
+        <template><srai># kop of munt #</srai>
+        </template>
+    </category>
+
 
     <category>
         <pattern>Kun je ook moppen vertellen</pattern>

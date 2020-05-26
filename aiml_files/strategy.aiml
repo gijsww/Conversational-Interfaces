@@ -22,4 +22,20 @@ Misschien staat het antwoord dat je zoekt over <get name = "topic"/> tussen een 
 </template>
 </category>
 
+<category>
+<pattern> $ geen vragen $  </pattern>
+<that> ^ of stel me een andere vraag. </that>
+<template>Goed om te horen. Dan wens ik je een prettige dag.
+</template>
+</category>
+
+<category>
+<pattern>$ geen vraag $ </pattern>
+<template><srai>$ geen vragen $ </srai>
+</template>
+</category>
+
+
+
+
 </aiml>
