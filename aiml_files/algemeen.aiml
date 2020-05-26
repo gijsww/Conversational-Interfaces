@@ -56,6 +56,41 @@
       <template><srai># tot ziens #</srai> </template>
     </category>
 
+    <category> 
+      <pattern> # geen vragen #</pattern>
+      <template><srai># tot ziens #</srai> </template>
+    </category>
+
+    <category> 
+      <pattern> # geen vraag #</pattern>
+      <template><srai># tot ziens #</srai> </template>
+    </category>
+    
+    <category> 
+      <pattern> # voor mij is alles duidelijk #</pattern>
+      <template><srai># tot ziens #</srai> </template>
+    </category>
+    
+     <category> 
+      <pattern> # voor mij is alles duidelijk, #</pattern>
+      <template><srai># tot ziens #</srai> </template>
+    </category>
+    
+    <category> 
+      <pattern> # bedankt #</pattern>
+      <template><srai># tot ziens #</srai> </template>
+    </category>
+    
+    <category> 
+      <pattern> # dankjewel #</pattern>
+      <template><srai># tot ziens #</srai> </template>
+    </category>
+    
+    <category> 
+      <pattern> # dankje #</pattern>
+      <template><srai># tot ziens #</srai> </template>
+    </category>
+
 
     <category>
         <pattern>*</pattern>
