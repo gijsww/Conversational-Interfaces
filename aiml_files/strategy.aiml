@@ -2,10 +2,10 @@
 <aiml version="2.0">
 
 <category>
-<pattern>JA</pattern>
-<that>^ is hiermee je vraag over ^ beantwoord</that>
-<template>Fijn! Wil je nog iets weten over <get name = "topic"/>?<br></br>
-Of stel me een andere vraag.<br></br>
+<pattern>^ <set>ja</set> ^</pattern>
+<that>^ is hiermee je vraag over ^ beantwoord </that>
+<template>Fijn! Wil je nog iets weten over <get name = "topic"/>?<br/>
+Of stel me een andere vraag.<br/>
 <reply>
 <text><get name = "topic"/></text>
 <postback><get name = "topic"/></postback>
@@ -14,8 +14,8 @@ Of stel me een andere vraag.<br></br>
 </category>
 
 <category>
-<pattern>NEE</pattern>
-<that>^ is hiermee je vraag over ^ beantwoord</that>
+<pattern>^ <set>nee</set> ^</pattern>
+<that>^ is hiermee je vraag over ^ beantwoord </that>
 <template>
 <srai><get name = "topic"/></srai>
 </template>
