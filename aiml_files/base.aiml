@@ -6375,7 +6375,7 @@ https://student.portal.rug.nl/infonet/studenten/studenten-service-centrum/worksh
 Ik heb meerdere titels behaald Mag ik die allemaal voeren 
 </pattern>
 <template>
-<think><set name="topic">titulatuur / graden</set></think>
+<think><set name="topic">titulatuur en graden</set></think>
 Ja, dat mag. Maar je voert óf de Nederlandse titels bijvoorbeeld mr. drs. A. de Vries óf het internationale equivalent bijvoorbeeld A. de Vries, MA, LLM of A. de Vries, MSc, LLM.   Als je voor meerdere opleidingen dezelfde titel hebt behaald, mag je die titel één keer voeren. Als je voor meerdere opleidingen verschillende titels hebt behaald, kun je ze in combinatie voeren, bijvoorbeeld mr. ir. A Jansen.   Als je voor één opleiding een bachelorgraad hebt behaald en voor een andere opleiding een mastergraad, mag je zowel de bachelor- als mastertitel voeren. Je mag er echter ook voor kiezen om slechts één titel te gebruiken. Als je bijvoorbeeld een bachelor en master natuurkunde heeft behaald, dan kun je dit als volgt weergeven: A. de Vries BSc MSc.   Er is geen officieel voorschrift als het gaat om de volgorde van het voeren van titels of graden. In het algemeen wordt de hoogst behaalde titel het eerst vermeld.  Als je geen geaccrediteerde opleiding hebt gevolgd, heb je uiteraard ook geen daarbij behorende titel. Het is niet verboden om een andere titel te voeren, maar deze is in formele zin betekenisloos.   Er is op het moment een wetsvoorstel in de maak dat het onterecht voeren van titels strafbaar stelt.
 <br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
 </category>
@@ -6385,7 +6385,7 @@ Ja, dat mag. Maar je voert óf de Nederlandse titels bijvoorbeeld mr. drs. A. de 
 Ik heb na 2002 een universitaire opleiding afgerond Mag ik in plaats van de titel MSc of MA bijvoorbeeld de titel drs voeren 
 </pattern>
 <template>
-<think><set name="topic">titulatuur / graden</set></think>
+<think><set name="topic">titulatuur en graden</set></think>
 Ja, dat mag. Ook als je na de invoering van het bachelor-masterstelsel in 2002 een universitaire opleiding hebt afgerond, mag je in plaats van MSc of MA, de titel drs., mr. of ir. voeren, afhankelijk van de door u afgeronde opleiding.
 <br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
 </category>
@@ -6395,7 +6395,7 @@ Ja, dat mag. Ook als je na de invoering van het bachelor-masterstelsel in 2002 e
 Ik heb voor 2002 een universitaire opleiding afgerond Mag ik in plaats van mijn drs mr of irtitel de titels MSc MA of LLM voeren 
 </pattern>
 <template>
-<think><set name="topic">titulatuur / graden</set></think>
+<think><set name="topic">titulatuur en graden</set></think>
 Ja, dat mag. De titel moet echter wel bij de aard van je universitaire opleiding passen. Zo kies je bijvoorbeeld bij een technische of sociaalwetenschappelijke studie voor de toevoeging ‘of Science’ en bij een letterenstudie voor de toevoeging ‘of Arts’. Deze internationale titel plaats je achter je naam. Je mag beide titels echter niet gelijktijdig voeren in je naamsvermelding.
 <br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
 </category>
@@ -6405,7 +6405,7 @@ Ja, dat mag. De titel moet echter wel bij de aard van je universitaire opleiding
 Ik heb een universitaire masteropleiding in het buitenland gevolgd Mag ik de Nederlandse titel drs voeren 
 </pattern>
 <template>
-<think><set name="topic">titulatuur / graden</set></think>
+<think><set name="topic">titulatuur en graden</set></think>
 Nee, je mag niet zomaar de titel drs. voeren. De titel drs. is in Nederland een wettelijk beschermde titel die alleen wordt toegewezen aan afgestudeerden aan een Nederlandse universiteit. Je kunt echter wel op grond van buitenlandse diploma’s een Nederlandse titel aanvragen. Je kunt dat doen bij de Dienst Uitvoering Onderwijs DUO in Groningen. DUO is een onderdeel van het Ministerie van Onderwijs, Cultuur en Wetenschap. Informatie over hoe je de aanvraag kunt indienen en wat de voorwaarden zijn, staat op de pagina Een Nederlandse titel aanvragen op de DUO-website.
 <button>
 <text>
@@ -6423,7 +6423,7 @@ http://www.duo.nl/particulieren/diplomas/u-heeft-een-buitenlands-diploma/een-ned
 Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren 
 </pattern>
 <template>
-<think><set name="topic">titulatuur / graden</set></think>
+<think><set name="topic">titulatuur en graden</set></think>
 Dat hangt af van een aantal criteria. Tot 1986 bestond er in het hbo geen titulatuur behalve voor technische en agrarische opleidingen. Daaraan was de titel ingenieur ing. verbonden. Op grond van het Besluit Titulatuur Invoeringswet WHBO is het echter voor bepaalde vierjarige opleidingen van vóór 1986 alsnog mogelijk een titel te voeren. Als je opleiding in dit besluit genoemd wordt, mag je de titel van baccalaureus bc. voor je naam of de titel Bachelor B achter je naam voeren.
 <br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
 </category>
@@ -6433,7 +6433,7 @@ Dat hangt af van een aantal criteria. Tot 1986 bestond er in het hbo geen titula
 Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren 
 </pattern>
 <template>
-<think><set name="topic">titulatuur / graden</set></think>
+<think><set name="topic">titulatuur en graden</set></think>
 Als je na 1986 bent afgestudeerd aan een hbo-bacheloropleiding op het gebied van landbouw en natuurlijke omgeving of op het gebied van techniek, mag je de titel ingenieur ing. voeren. Voor andere afgeronde hbo-bacheloropleidingen mag je de titel baccalaureus bc. voeren.
 <br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
 </category>
@@ -6443,7 +6443,7 @@ Als je na 1986 bent afgestudeerd aan een hbo-bacheloropleiding op het gebied van
 Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren 
 </pattern>
 <template>
-<think><set name="topic">titulatuur / graden</set></think>
+<think><set name="topic">titulatuur en graden</set></think>
 Dat hangt ervan af wanneer je de opleiding hebt afgerond. Als je je hbo-masteropleiding vóór 1 januari 2014 hebt afgerond, mag je de mastertitel M voeren. Als je een hbo-masteropleiding hebt afgerond na 1 januari 2014, kun je mogelijk ook de titel MA of MSc voeren, maar alleen als de opleiding opnieuw is beoordeeld geaccrediteerd door de NVAO en deze titel de meest internationaal herkenbare is. Voor meer informatie over de juiste titelvoering, kun je contact opnemen met je onderwijsinstelling. Dit geldt overigens niet voor voortgezette hbo-opleidingen.
 <br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
 </category>
@@ -6453,7 +6453,7 @@ Dat hangt ervan af wanneer je de opleiding hebt afgerond. Als je je hbo-masterop
 Ik heb een Associate degree afgerond Welke titel mag ik voeren 
 </pattern>
 <template>
-<think><set name="topic">titulatuur / graden</set></think>
+<think><set name="topic">titulatuur en graden</set></think>
 Een afgeronde Associate degree geeft recht op de titel Ad. Deze titel plaats je achter je naam.
 <br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
 </category>
@@ -6463,7 +6463,7 @@ Een afgeronde Associate degree geeft recht op de titel Ad. Deze titel plaats je 
 Ik heb een posthbocursus gevolgd Mag ik een titel voeren 
 </pattern>
 <template>
-<think><set name="topic">titulatuur / graden</set></think>
+<think><set name="topic">titulatuur en graden</set></think>
 Aan post-hbo-cursussen zijn geen titels verbonden. Het is niet verboden om een andere titel dan de beschermde titels te voeren. Overigens is op het moment een wetsvoorstel in de maak dat het onterecht voeren van alle titels strafbaar stelt.
 <br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
 </category>
@@ -6473,7 +6473,7 @@ Aan post-hbo-cursussen zijn geen titels verbonden. Het is niet verboden om een a
 Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren 
 </pattern>
 <template>
-<think><set name="topic">titulatuur / graden</set></think>
+<think><set name="topic">titulatuur en graden</set></think>
 Ja, je mag de titel ing. voeren, maar niet gelijktijdig met de titel Bachelor. U mag de titels wel afwisselen. De titel ing. mag worden gevoerd als je een hbo-opleiding hebt gevolgd op het terrein van de landbouw en natuurlijke omgeving of op het gebied van de techniek, zoals opgenomen in het Centraal register opleidingen hoger onderwijs.
 <br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
 </category>
@@ -6483,7 +6483,7 @@ Ja, je mag de titel ing. voeren, maar niet gelijktijdig met de titel Bachelor. U
 Ik heb een afgeronde MOopleiding 1e en 2e graad Mag ik de titel Master of Education M ED voeren 
 </pattern>
 <template>
-<think><set name="topic">titulatuur / graden</set></think>
+<think><set name="topic">titulatuur en graden</set></think>
 Deze vraag wordt meestal gesteld in het kader van de prestatieafspraken, waarin is afgesproken dat MO-opleidingen als masterwaardig worden aangemerkt. Deze afspraak geeft echter niet het recht om de titel Master of Education te voeren. Als je voor 1987 de opleiding hebt afgerond, kun je de titel baccalaureus bc. voeren. Ben je na 1987 afgestudeerd, dan kun je kiezen tussen de titels baccalaureus bc. en Bachelor B..
 <br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
 </category>
@@ -6493,7 +6493,7 @@ Deze vraag wordt meestal gesteld in het kader van de prestatieafspraken, waarin 
 Mag ik een beschermde titel voeren als ik geen opleiding in het hoger onderwijs heb afgerond 
 </pattern>
 <template>
-<think><set name="topic">titulatuur / graden</set></think>
+<think><set name="topic">titulatuur en graden</set></think>
 Nee, dit mag niet. Beschermde titels zijn: dr., ir., mr., drs., ing., en bc. Alleen met een hbo- of universitair diploma mag je afhankelijk van je opleiding, deze titels voeren.
 <br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
 </category>

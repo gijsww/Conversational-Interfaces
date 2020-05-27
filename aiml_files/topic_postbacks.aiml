@@ -68,7 +68,7 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 
 <category>
 <pattern>
-hbo vooropleiding (bachelor en propedeuse)
+hbo vooropleiding bachelor en propedeuse
 </pattern>
 <template>
 Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
@@ -160,8 +160,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Hoe meld ik me aan voor een researchmaster of andere master met aanvullende toelatingseisen</postback>
 </reply>
 <reply>
-<text>Wat is een verklaring toelating tot het afsluitend examen (VTAE)?</text>
-<postback>Wat is een verklaring toelating tot het afsluitend examen (VTAE)</postback>
+<text>Wat is een verklaring toelating tot het afsluitend examen VTAE?</text>
+<postback>Wat is een verklaring toelating tot het afsluitend examen VTAE</postback>
 </reply>
 </template>
 </category>
@@ -354,8 +354,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Wanneer moet ik me inschrijven als ik vakken wil volgen die pas in het tweede half jaar worden gegeven</postback>
 </reply>
 <reply>
-<text>Hoe weet ik dat mijn (her)inschrijving in orde is?</text>
-<postback>Hoe weet ik dat mijn (her)inschrijving in orde is</postback>
+<text>Hoe weet ik dat mijn herinschrijving in orde is?</text>
+<postback>Hoe weet ik dat mijn herinschrijving in orde is</postback>
 </reply>
 <reply>
 <text>Ik stond vorig studiejaar niet ingeschreven Hoe kan ik me weer inschrijven?</text>
@@ -516,8 +516,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Restitutie collegegeld</postback>
 </reply>
 <reply>
-<text>Gevolgen uitschrijving voor studiefinanciering (DUO)?</text>
-<postback>Gevolgen uitschrijving voor studiefinanciering (DUO)</postback>
+<text>Gevolgen uitschrijving voor studiefinanciering DUO?</text>
+<postback>Gevolgen uitschrijving voor studiefinanciering DUO</postback>
 </reply>
 </template>
 </category>
@@ -565,7 +565,7 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 
 <category>
 <pattern>
-rugaccount (voor studenten)
+rugaccount voor studenten
 </pattern>
 <template>
 Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
@@ -628,8 +628,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Hoe kan ik mijn RUGaccount laten deblokkeren</postback>
 </reply>
 <reply>
-<text>Ik heb (een termijn van) het collegegeld betaald Wanneer wordt mijn RUGaccount gedeblokkeerd?</text>
-<postback>Ik heb (een termijn van) het collegegeld betaald Wanneer wordt mijn RUGaccount gedeblokkeerd</postback>
+<text>Ik heb een termijn van het collegegeld betaald Wanneer wordt mijn RUGaccount gedeblokkeerd?</text>
+<postback>Ik heb een termijn van het collegegeld betaald Wanneer wordt mijn RUGaccount gedeblokkeerd</postback>
 </reply>
 <reply>
 <text>Kan ik nog mail ontvangen of versturen als mijn RUGaccount is geblokkeerd?</text>
@@ -746,7 +746,7 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 introductieperiode academische kalender en vakanties
 </pattern>
 <template>
-<srai>Vakanties en (religieuze) vrije dagen </srai>
+<srai>Vakanties en religieuze vrije dagen </srai>
 </template>
 </category>
 
@@ -1121,8 +1121,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>De statusbalk van de aanvraag geeft ‘bewijsstukken ontbreken aan’ Hoe weet ik welke bewijsstukken ontbreken</postback>
 </reply>
 <reply>
-<text>Wat moet ik doen als ik geen 'Bericht Studiefinanciering' over de gevraagde basisbeursperiode (meer) heb?</text>
-<postback>Wat moet ik doen als ik geen 'Bericht Studiefinanciering' over de gevraagde basisbeursperiode (meer) heb</postback>
+<text>Wat moet ik doen als ik geen 'Bericht Studiefinanciering' over de gevraagde basisbeursperiode meer heb?</text>
+<postback>Wat moet ik doen als ik geen 'Bericht Studiefinanciering' over de gevraagde basisbeursperiode meer heb</postback>
 </reply>
 <reply>
 <text>Wat is een Verklaring Bestuursperiode?</text>
@@ -1141,7 +1141,7 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 
 <category>
 <pattern>
-studiefinanciering (duo)
+studiefinanciering duo
 </pattern>
 <template>
 Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
@@ -1162,8 +1162,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Wat is een prestatiebeurs</postback>
 </reply>
 <reply>
-<text>Wat is het sociaal leenstelsel (studievoorschot)?</text>
-<postback>Wat is het sociaal leenstelsel (studievoorschot)</postback>
+<text>Wat is het sociaal leenstelsel studievoorschot?</text>
+<postback>Wat is het sociaal leenstelsel studievoorschot</postback>
 </reply>
 <reply>
 <text>Wat is de overgangsregeling voor bachelorstudenten die voor 1 september 2015 een prestatiebeurs krijgen?</text>
@@ -1422,8 +1422,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Ik vond het Honours College erg leuk en doe het daar ook goed maar mijn gewone studie gaat wat minder Nu hoor ik dat ik moet stoppen Waarom</postback>
 </reply>
 <reply>
-<text>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen (bestuur) Moet ik nu stoppen?</text>
-<postback>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen (bestuur) Moet ik nu stoppen</postback>
+<text>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen bestuur Moet ik nu stoppen?</text>
+<postback>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen bestuur Moet ik nu stoppen</postback>
 </reply>
 </template>
 </category>
@@ -1542,7 +1542,7 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 
 <category>
 <pattern>
-bindend studieadvies (bsa)
+bindend studieadvies bsa
 </pattern>
 <template>
 Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
@@ -1857,8 +1857,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Ik vond het Honours College erg leuk en doe het daar ook goed maar mijn gewone studie gaat wat minder Nu hoor ik dat ik moet stoppen Waarom</postback>
 </reply>
 <reply>
-<text>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen (bestuur) Moet ik nu stoppen?</text>
-<postback>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen (bestuur) Moet ik nu stoppen</postback>
+<text>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen bestuur Moet ik nu stoppen?</text>
+<postback>Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen bestuur Moet ik nu stoppen</postback>
 </reply>
 </template>
 </category>
@@ -1886,7 +1886,7 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 
 <category>
 <pattern>
-titulatuur / graden
+titulatuur en graden
 </pattern>
 <template>
 Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
@@ -1931,8 +1931,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een afgeronde MOopleiding 1e en 2e graad Mag ik de titel Master of Education (M ED) voeren?</text>
-<postback>Ik heb een afgeronde MOopleiding 1e en 2e graad Mag ik de titel Master of Education (M ED) voeren</postback>
+<text>Ik heb een afgeronde MOopleiding 1e en 2e graad Mag ik de titel Master of Education M ED voeren?</text>
+<postback>Ik heb een afgeronde MOopleiding 1e en 2e graad Mag ik de titel Master of Education M ED voeren</postback>
 </reply>
 <reply>
 <text>Mag ik een beschermde titel voeren als ik geen opleiding in het hoger onderwijs heb afgerond?</text>
@@ -1960,8 +1960,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Hoe kom ik aan een gewaarmerkte kopie van mijn diploma/cijferlijst</postback>
 </reply>
 <reply>
-<text>Hoe kom ik aan een (Engelstalige) examenverklaring?</text>
-<postback>Hoe kom ik aan een (Engelstalige) examenverklaring</postback>
+<text>Hoe kom ik aan een Engelstalige examenverklaring?</text>
+<postback>Hoe kom ik aan een Engelstalige examenverklaring</postback>
 </reply>
 <reply>
 <text>Je steun aan het Eric Bleumink Fonds?</text>
@@ -1977,8 +1977,8 @@ rechtspositie
 <template>
 Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
-<text>Onderwijs en examenregelingen (OER)?</text>
-<postback>Onderwijs en examenregelingen (OER)</postback>
+<text>Onderwijs en examenregelingen OER?</text>
+<postback>Onderwijs en examenregelingen OER</postback>
 </reply>
 <reply>
 <text>Studentenstatuut?</text>
@@ -2014,8 +2014,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Admissions Office</postback>
 </reply>
 <reply>
-<text>Studenten Service Centrum (SSC)?</text>
-<postback>Studenten Service Centrum (SSC)</postback>
+<text>Studenten Service Centrum SSC?</text>
+<postback>Studenten Service Centrum SSC</postback>
 </reply>
 <reply>
 <text>Onderwijsadministraties?</text>
@@ -2108,7 +2108,7 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 
 <category>
 <pattern>
-formulieren (overzicht)
+formulieren overzicht
 </pattern>
 <template>
 Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
@@ -2121,23 +2121,23 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Toelating tot bijvak bachelor of master</postback>
 </reply>
 <reply>
-<text>Verklaring toelating afsluitend examen (VTAE)?</text>
-<postback>Verklaring toelating afsluitend examen (VTAE)</postback>
+<text>Verklaring toelating afsluitend examen VTAE?</text>
+<postback>Verklaring toelating afsluitend examen VTAE</postback>
 </reply>
 <reply>
-<text>Klachtenformulier (CLRS)?</text>
-<postback>Klachtenformulier (CLRS)</postback>
+<text>Klachtenformulier CLRS?</text>
+<postback>Klachtenformulier CLRS</postback>
 </reply>
 <reply>
-<text>Bezwaar en beroepformulier (CLRS)?</text>
-<postback>Bezwaar en beroepformulier (CLRS)</postback>
+<text>Bezwaar en beroepformulier CLRS?</text>
+<postback>Bezwaar en beroepformulier CLRS</postback>
 </reply>
 </template>
 </category>
 
 <category>
 <pattern>
-aanvragen verklaringen (student)
+aanvragen verklaringen student
 </pattern>
 <template>
 Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
@@ -2162,8 +2162,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Verklaring beëindiging inschrijving bij afstuderen</postback>
 </reply>
 <reply>
-<text>Bewijs betaald collegegeld (BBC) voor andere instelling?</text>
-<postback>Bewijs betaald collegegeld (BBC) voor andere instelling</postback>
+<text>Bewijs betaald collegegeld BBC voor andere instelling?</text>
+<postback>Bewijs betaald collegegeld BBC voor andere instelling</postback>
 </reply>
 <reply>
 <text>Tekenen en stempelen van verklaringen voor instanties?</text>
@@ -2177,35 +2177,35 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 formulier verklaring en handleiding
 </pattern>
 <template>
-<srai>Aanvragen verklaring (door organisatie) </srai>
+<srai>Aanvragen verklaring door organisatie </srai>
 </template>
 </category>
 
 <category>
 <pattern>
-regelingen (overzicht)
+regelingen overzicht
 </pattern>
 <template>
 Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
-<text>Onderwijs en examenregelingen (OER)?</text>
-<postback>Onderwijs en examenregelingen (OER)</postback>
+<text>Onderwijs en examenregelingen OER?</text>
+<postback>Onderwijs en examenregelingen OER</postback>
 </reply>
 <reply>
 <text>Profileringsfondsregeling?</text>
 <postback>Profileringsfondsregeling</postback>
 </reply>
 <reply>
-<text>Regeling Inschrijving en Collegegeld (RIC)?</text>
-<postback>Regeling Inschrijving en Collegegeld (RIC)</postback>
+<text>Regeling Inschrijving en Collegegeld RIC?</text>
+<postback>Regeling Inschrijving en Collegegeld RIC</postback>
 </reply>
 <reply>
 <text>Studentenstatuut?</text>
 <postback>Studentenstatuut</postback>
 </reply>
 <reply>
-<text>Handboek Bindend Studieadvies (BSA)?</text>
-<postback>Handboek Bindend Studieadvies (BSA)</postback>
+<text>Handboek Bindend Studieadvies BSA?</text>
+<postback>Handboek Bindend Studieadvies BSA</postback>
 </reply>
 <reply>
 <text>Meer informatie regelingen?</text>
@@ -2216,7 +2216,7 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 
 <category>
 <pattern>
-handleidingen (overzicht)
+handleidingen overzicht
 </pattern>
 <template>
 Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
