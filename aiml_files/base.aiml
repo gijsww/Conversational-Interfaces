@@ -23,7 +23,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/aanmelding-en-inschrijving/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -49,7 +49,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/international-students/admission-and-application/application-admission-procedure/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -75,7 +75,7 @@ Klik hier
 https://www.rug.nl/education/master/international-students/admission-and-application/application-admission-procedure/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -101,7 +101,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/aanmelding-en-inschrijving/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -127,7 +127,7 @@ Klik hier
 https://www.rug.nl/education/master/international-students/admission-and-application/application-admission-procedure/support/contact-admissions-office
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -145,7 +145,7 @@ Klik hier
 https://www.rug.nl/csa
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -163,7 +163,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/aanmelding-en-inschrijving/toelatingseisen/vwo-diploma
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -181,7 +181,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/aanmelding-en-inschrijving/toelatingseisen/vwo-diploma
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -207,7 +207,7 @@ Klik hier
 https://www.rug.nl/education/contact/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -225,7 +225,7 @@ Klik hier
 https://www.rug.nl/education/contact/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -243,7 +243,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/aanmelding-en-inschrijving/colloquium-doctum-
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -285,7 +285,7 @@ Klik hier
 https://www.rug.nl/education/contact/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -311,7 +311,7 @@ Klik hier
 https://www.rug.nl/education/contact/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -329,7 +329,7 @@ Klik hier
 https://www.rug.nl/education/verkort/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -347,7 +347,7 @@ Klik hier
 https://www.rug.nl/education/verkort/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -365,7 +365,7 @@ Klik hier
 https://duo.nl/particulier/opleiding-stoppen-of-wijzigen/een-master-gaan-doen.jsp
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -383,7 +383,7 @@ Klik hier
 https://www.rug.nl/education/nederlandse-studenten/uitschrijven/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -409,7 +409,7 @@ Klik hier
 https://www.rug.nl/education/master/international-students/admission-and-application/application-admission-procedure/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -427,7 +427,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/international-students/admission-and-application/refugee-student/preparatory-year
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -453,7 +453,7 @@ Klik hier
 http://www.ou.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -471,7 +471,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/aanmelding-en-inschrijving/colloquium-doctum-
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -489,7 +489,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/aanmelding-en-inschrijving/colloquium-doctum-
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -515,7 +515,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/aanmelding-en-inschrijving/inschrijfprocedure-masteropleiding
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -525,7 +525,7 @@ Ik wil beginnen aan mastervakken en heb mijn bacheloropleiding nog niet afgerond
 <template>
 <think><set name="topic">universitaire bachelor</set></think>
 Nee, dat kan niet. Je kunt alleen aan een masteropleiding beginnen als je in het bezit bent van een bachelordiploma.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -551,7 +551,7 @@ Klik hier
 https://www.rug.nl/education/master/international-students/admission-and-application/application-admission-procedure/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -569,7 +569,7 @@ Klik hier
 https://www.rug.nl//education/contact/onderwijsadministraties
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -579,7 +579,7 @@ Wat is een numerus fixusopleiding
 <template>
 <think><set name="topic">selectie en plaatsing numerus fixusopleiding</set></think>
 Een numerus fixusopleiding is een bacheloropleiding waar een beperkt aantal plaatsen beschikbaar zijn. Door middel van selectie en het toekenen van rangnummers wordt bepaald wie een plaats aangeboden krijgt.  Belangrijk Meld je uiterlijk 15 januari via Studielink aan voor een numerus fixusopleiding als je mee wilt doen met de seelctieprocedure.     
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -597,7 +597,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/aanmelding-en-inschrijving/selectie-en-plaatsing/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -615,7 +615,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/aanmelding-en-inschrijving/matching
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -633,7 +633,7 @@ Klik hier
 https://www.studielink.nl
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -643,7 +643,7 @@ Voor hoeveel numerus fixusopleiding kan ik mij aanmelden
 <template>
 <think><set name="topic">aanmelden numerus fixusopleiding</set></think>
 Je mag je per studiejaar voor maximaal twee numerus fixusopleidingen aanmelden, behalve voor Geneeskunde en Tandheelkunde.  Dit betekent dat je je niet voor twee geneeskunde-opleidingen kunt aanmelden, maar wel voor Geneeskunde en een andere opleiding met een numerus fixus. Bijvoorbeeld: Tandheelkunde  Let op Als je voor beide fixusopleidingen wordt geselecteerd, moet je een keuze maken. Je mag je maar voor één fixusopleiding inschrijven.  
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -661,7 +661,7 @@ Klik hier
 https://www.studielink.nl
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -679,7 +679,7 @@ Klik hier
 https://www.rug.nl/umcg/onderwijs/opleidingen/geneeskunde/geneeskundegids/zijinstroom/index
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -697,7 +697,7 @@ Klik hier
 https://www.rug.nl/csa
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -707,7 +707,7 @@ Hoe vaak mag ik mee doen aan de selectie
 <template>
 <think><set name="topic">selectiepogingen</set></think>
 Afhankelijk van de opleiding mag je één, twee of maximaal drie keer meedoen aan een selectie. Hierbij tellen de pogingen uit het verleden mee.   
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -717,7 +717,7 @@ Hoe weet ik of ik al een selectiepoging hebt verbruikt
 <template>
 <think><set name="topic">selectiepogingen</set></think>
 Eind september vind je in Studielink het aantal verbruikte selectiepogingen.  
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -735,7 +735,7 @@ Klik hier
 https://www.rug.nl/formuliersenp
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -793,7 +793,7 @@ Klik hier
 https://www.rug.nl/umcg/education/dentistry/decentrale-selectie-tandheelkunde-2017---2018
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -811,7 +811,7 @@ Klik hier
 https://www.studielink.nl
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -829,7 +829,7 @@ Klik hier
 https://www.studielink.nl
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -839,7 +839,7 @@ Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal
 <template>
 <think><set name="topic">uitslag en bewijs van toelating</set></think>
 Je kunt deze selectiepoging ongedaan laten maken. Hierdoor verlies je geen selectiepoging en kun je volgend jaar weer meedoen.  Dien voor 1 september via dit formulier een verzoek in formulier is binnenkort beschikbaar Stuur de gevraagde bewijsstukken mee.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -905,7 +905,7 @@ Klik hier
 https://www.rug.nl/umcg/education/dentistry/decentrale-selectie-tandheelkunde-2017---2018
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -923,7 +923,7 @@ Klik hier
 https://www.rug.nl/clrs
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -941,7 +941,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/aanmelding-en-inschrijving/matching
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -959,7 +959,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/aanmelding-en-inschrijving/matching
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -985,7 +985,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/aanmelding-en-inschrijving/selectie-en-plaatsing/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1003,7 +1003,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/aanmelding-en-inschrijving/selectie-en-plaatsing/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1021,7 +1021,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/aanmelding-en-inschrijving/matching
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1031,7 +1031,7 @@ Wat als ik niet kan komen op de matchingsdag
 <template>
 <think><set name="topic">matching aan de RUG</set></think>
 Deelname aan matching is niet verplicht, met uitzondering van de faculteiten Gedrags- en Maatschappijwetenschappen, Medische Wetenschappen, Rechtsgeleerdheid, Science and Engineering en Wijsbegeerte. De numerus fixus-opleidingen bij deze faculteiten hebben geen matching, voor deze opleidingen geldt een andere procedure. In het geval dat je niet kunt meedoen aan de matchingsdag, geef dit dan aan bij de opleiding. De opleiding bepaalt vervolgens wat er verder gebeurt.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1041,7 +1041,7 @@ Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen
 <template>
 <think><set name="topic">matching aan de RUG</set></think>
 Dit is mogelijk, indien dit uitkomt.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1067,7 +1067,7 @@ Klik hier
 https://www.rug.nl/education/contact/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1085,7 +1085,7 @@ Klik hier
 https://www.rug.nl/ssc
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1095,7 +1095,7 @@ Wanneer heb ik aan de studiekeuzecheck voldaan
 <template>
 <think><set name="topic">matching aan de RUG</set></think>
 Je hebt voldaan aan de studiekeuzecheck op het moment dat je aan alle matchingactiviteiten van de opleiding hebt deelgenomen en je een studiekeuzeadvies hebt ontvangen. Het maakt voor het voltooien van de studiekeuzecheck geen verschil of je een oranje of een groen advies hebt ontvangen.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1121,7 +1121,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/aanmelding-en-inschrijving/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1131,7 +1131,7 @@ Moet ik me ieder jaar opnieuw inschrijven
 <template>
 <think><set name="topic">inschrijvingsprocedure</set></think>
 Ja, je schrijft je voor ieder studiejaar opnieuw in. Een studiejaar loopt van 1 september t/m 31 augustus.     
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1165,7 +1165,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/aanmelding-en-inschrijving/instroommomenten-masteropleidingen
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1191,7 +1191,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/aanmelding-en-inschrijving/instroommomenten-masteropleidingen
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1225,7 +1225,7 @@ Klik hier
 https://www.studielink.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1243,7 +1243,7 @@ Klik hier
 https://www.studielink.nl
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1269,7 +1269,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/aanmelding-en-inschrijving/instroommomenten-masteropleidingen
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1287,7 +1287,7 @@ Klik hier
 https://www.studielink.nl
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1313,7 +1313,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/aanmelding-en-inschrijving/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1331,7 +1331,7 @@ Klik hier
 https://www.rug.nl/csa
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1349,7 +1349,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/studiekeuze-en-voorlichting/pre-master/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1367,7 +1367,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/studiekeuze-en-voorlichting/pre-master/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1393,7 +1393,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/aanmelding-en-inschrijving/inschrijfprocedure-masteropleiding
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1403,7 +1403,7 @@ Ik ga volgend jaar een andere opleiding doen aan de RUG dan dit jaar Hoe geef ik
 <template>
 <think><set name="topic">inschrijving wijzigen</set></think>
 Tijdens de herinschrijvingsprocedure via Studielink kun je aangeven dat je je voor een andere opleiding wilt herinschrijven.   
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1421,7 +1421,7 @@ Klik hier
 https://www.rug.nl/education/faq/?tcid=verint_3_7394_8936
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1455,7 +1455,7 @@ Klik hier
 http://www.duo.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1481,7 +1481,7 @@ Klik hier
 https://www.rug.nl/education/information-services/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1515,7 +1515,7 @@ Klik hier
 http://www.duo.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1533,7 +1533,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/aanmelding-en-inschrijving/cancel-admission
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1543,7 +1543,7 @@ Inschrijfprocedure nietNederlandse vooropleiding
 <template>
 <think><set name="topic">inschrijven</set></think>
 International students and Dutch students with non-Dutch qualifications are not automatically admitted to a bachelor's degree programme at the University of Groningen. The full registration procedure will take longer than for Dutch students with regular Dutch qualifications and consists of three steps: application, admission and registration.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1569,7 +1569,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/aanmelding-en-inschrijving/instroommomenten-masteropleidingen
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1587,7 +1587,7 @@ Klik hier
 https://student.portal.rug.nl/infonet/studenten/inuitschrijving/inschrijven/herinschrijven
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1605,7 +1605,7 @@ Klik hier
 https://www.rug.nl/education/information-services/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1623,7 +1623,7 @@ Klik hier
 https://www.rug.nl/education/hoezithet/veelgestelde-vragen?tcid=bureau_2_1597_4585
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1641,7 +1641,7 @@ Klik hier
 https://www.rug.nl/education/information-services/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1659,7 +1659,7 @@ Klik hier
 https://www.rug.nl/education/information-services/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1701,7 +1701,7 @@ Klik hier
 https://www.rug.nl/education/nederlandse-studenten/uitschrijven/afstuderen
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1719,7 +1719,7 @@ Klik hier
 http://info.studielink.nl/nl/studenten/stappenplanstudielink/Pages/Default.aspx
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1737,7 +1737,7 @@ Klik hier
 https://student.portal.rug.nl/infonet/studenten/inuitschrijving/uitschrijven/afstuderen
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1763,7 +1763,7 @@ Klik hier
 https://student.portal.rug.nl/infonet/studenten/inuitschrijving/uitschrijven/afstuderen
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1789,7 +1789,7 @@ Klik hier
 https://student.portal.rug.nl/infonet/studenten/inuitschrijving/uitschrijven/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1807,7 +1807,7 @@ Klik hier
 https://www.rug.nl/education/information-services/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1825,7 +1825,7 @@ Klik hier
 https://www.rug.nl/education/information-services/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1851,7 +1851,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/restitutie
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1869,7 +1869,7 @@ Klik hier
 https://duo.nl/particulier/studiefinanciering-stopzetten.jsp
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1887,7 +1887,7 @@ Klik hier
 https://youtu.be/LP9_kYy1BHc
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1913,7 +1913,7 @@ Klik hier
 https://www.digid.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1931,7 +1931,7 @@ Klik hier
 http://www.studielink.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1949,7 +1949,7 @@ Klik hier
 http://www.studielink.nl
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1975,7 +1975,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/aanmelding-en-inschrijving/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -1993,7 +1993,7 @@ Klik hier
 http://info.studielink.nl/nl/studenten/vraag/Pages/vraag.aspx
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2011,7 +2011,7 @@ Klik hier
 http://info.studielink.nl/nl/studenten/Pages/storingen-onderhoud.aspx
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2029,7 +2029,7 @@ Klik hier
 http://info.studielink.nl/nl/studenten/stappenplanstudielink/Pages/Default.aspx
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2055,7 +2055,7 @@ Klik hier
 http://student.portal.rug.nl/infonet/studenten/ict/collaboration/google/google
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2065,7 +2065,7 @@ Wanneer heb ik recht op een RUGaccount
 <template>
 <think><set name="topic">rugaccount voor studenten</set></think>
 Iedereen die zich via Studielink voor een opleiding aan de RUG heeft aangemeld krijgt een RUG-account.   Ga je uiteindelijk niet studeren aan de RUG, dan wordt je RUG-account verwijderd.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2091,7 +2091,7 @@ Klik hier
 https://www.rug.nl/society-business/centre-for-information-technology/contact-cit-servicedesk
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2101,7 +2101,7 @@ Hoe lang blijft mijn RUGaccount actief
 <template>
 <think><set name="topic">rugaccount voor studenten</set></think>
 Zolang je ingeschreven staat voor een opleiding aan de RUG blijft je RUG-account actief.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2111,7 +2111,7 @@ Wanneer krijg ik mijn RUGaccount
 <template>
 <think><set name="topic">aanmaken RUGaccount</set></think>
 Dit is afhankelijk van de startdatum van je opleiding.      Startdatum: 1 september  Je krijgt je RUG-account vanaf 6 januari.  Andere startdatum  Je krijgt je RUG-account een maand voor de startdatum van je opleiding.    Uitzondering: Ben je een exchange student, gaststudent of cursist? Dan krijg je je RUG-account 3 maanden voor de startdatum van hun opleiding.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2121,7 +2121,7 @@ Wanneer weet ik of mijn RUGaccount beschikbaar is
 <template>
 <think><set name="topic">aanmaken RUGaccount</set></think>
 Je krijgt een e-mail met informatie over het activeren van je RUG-account.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2139,7 +2139,7 @@ Klik hier
 https://www.rug.nl/education/tuition/payment/direct-debit/insufficient-bank-balance
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2157,7 +2157,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/financien/collegegeld/betalen/digitale-machtiging/gevolgen-onvoldoende-saldo-op-rekening
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2167,7 +2167,7 @@ Ik heb een termijn van het collegegeld betaald Wanneer wordt mijn RUGaccount ged
 <template>
 <think><set name="topic">blokkeren RUGaccount</set></think>
 Dit is afhankelijk van de manier waarop je het collegegeld hebt betaald.      Contact betaald of gepind  Je RUG-account wordt uiterlijk de volgende dag gedeblokkeerd.  Overgemaakt op bankrekening van RUG  Je RUG-account wordt pas gedeblokkeerd als de de betaling binnen is bij de RUG. In extreme gevallen kan dit tien dagen duren.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2177,7 +2177,7 @@ Kan ik nog mail ontvangen of versturen als mijn RUGaccount is geblokkeerd
 <template>
 <think><set name="topic">blokkeren RUGaccount</set></think>
 Ja, je mail komt nog gewoon binnen op je account. Alleen kun je deze mail niet lezen, omdat je niet kunt inloggen op het RUG-netwerk of je mailbox.   Je kunt geen mail meer versturen via je RUG-account, omdat je niet kunt inloggen op het RUG-netwerk of je mailbox.   Forwarding-regel ingesteld?  De forwarding-regel blijft tijdens de blokkeerperiode werken. Je e-mailberichten worden gewoon doorgestuurd naar je privé e-mailadres.   Advies  Ben je je RUG-account aan het opruimen, omdat je bent uitgeschreven? Stel dan een automatic reply in.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2187,7 +2187,7 @@ Wat gebeurt er met mijn gegevens als mijn RUGaccount is geblokkeerd
 <template>
 <think><set name="topic">blokkeren RUGaccount</set></think>
 Je e-mailberichten en je bestanden blijven bewaard tot je account wordt gedeblokkeerd.   Uitzondering  Is je account geblokkeerd, omdat je bent uitgeschreven? Dan worden je e-mailberichten en bestanden nog 309 dagen bewaard. Na de 309 dagen wordt je account definitief verwijderd. Je ontvangt hier geen bericht over.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2197,7 +2197,7 @@ Wanneer wordt mijn RUGaccount opgeheven
 <template>
 <think><set name="topic">opheffen RUGaccount</set></think>
 Vanaf het moment dat je officieel bent uitgeschreven, heb je 8 weken 56 dagen de tijd om je mail en bestanden veilig te stellen.   Geblokkeerd  Na 8 weken wordt je account geblokkeerd, maar je mailberichten en bestanden worden nog 309 dagen bewaard.   Definitief verwijderd  Na 309 dagen wordt je account, inclusief de opgeslagen e-mailberichten en bestanden definitief verwijderd. Je ontvangt hier geen bericht van.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2207,7 +2207,7 @@ Hoe weet ik wanneer mijn RUGaccount wordt opgeheven
 <template>
 <think><set name="topic">opheffen RUGaccount</set></think>
 Nadat je officieel bent uitgeschreven, ontvang je een e-mail met de datum waarop je RUG-account wordt geblokkeerd.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2217,7 +2217,7 @@ Wat gebeurt er met mijn RUGaccount als ik binnen een jaar met een nieuwe opleidi
 <template>
 <think><set name="topic">opheffen RUGaccount</set></think>
 Je RUG-account wordt weer actief. De datum waarop je account actief wordt, is afhankelijk van de startdatum van je nieuwe opleiding:  1 september: je account wordt op 1 maart actief. andere datum: je account wordt een maand voor de startdatum van je opleiding actief.  Praktische informatie   Je kunt inloggen met studentnummer en hetzelfde wachtwoord. Je bestanden en e-mailberichten zijn bewaard gebleven.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2235,7 +2235,7 @@ Klik hier
 https://www.rug.nl/education/contact/information-services/formulier-verlenging-toegang-rug-account
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2285,7 +2285,7 @@ Klik hier
 http://uwp.rug.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2295,7 +2295,7 @@ Wat is een RUGpas
 <template>
 <think><set name="topic">rugpas</set></think>
 Je krijgt eenmalig een RUGpas uitgereikt, die jouw hele studieperiode geldig is. Vanaf het moment dat je bent uitgeschreven, kun je de RUGpas niet meer gebruiken.  Je gebruikt de RUGpas om:  koffie en thee te kopen bij de automaten, te printen en te kopiëren, boeken te lenen bij de Universiteitsbibliotheek, toegang tot de Universiteitsbibliotheek, je te identificeren bij inschrijven voor en/of maken van tentamens, te sporten als de kaart 'geaclotiveerd' is.     
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2321,7 +2321,7 @@ Klik hier
 https://www.rug.nl/education/documents/admission/instruction-uploaden-photo-university-card.pdf
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2347,7 +2347,7 @@ Klik hier
 https://mijnrugpas.rug.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2365,7 +2365,7 @@ Klik hier
 http://myprint.rug.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2375,7 +2375,7 @@ Krijg ik elk studiejaar een nieuwe RUGpas
 <template>
 <think><set name="topic">rugpas</set></think>
 Nee. De RUGpas wordt eenmalig uitgereikt en is jouw hele studieperiode geldig.       
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2393,7 +2393,7 @@ Klik hier
 https://www.rug.nl/csa
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2419,7 +2419,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/aanmelding-en-inschrijving/verklaring-inschrijving
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2437,7 +2437,7 @@ Klik hier
 https://www.rug.nl/csa
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2447,7 +2447,7 @@ Veiligheid en toezicht tijdens de introductieperiode
 <template>
 <think><set name="topic">introductieperiode</set></think>
 De RUG hecht er grote waarde aan dat aankomende studenten een leerzame, plezierige introductieperiode beleven die bovenal veilig en verantwoord verloopt. In het verleden hebben zich tijdens de introductieperiode helaas excessen voorgedaan waarbij de veiligheid of gezondheid van de aankomende studenten in het geding was.   Dit heeft ertoe geleid dat in 1998 de Advies Commissie Introductietijden ACI is opgericht. De ACI is een samenwerkingsverband van de Rijksuniversiteit Groningen en de Hanzehogeschool Groningen en adviseert organisaties bij de opzet van hun introductieprogramma zoals KEI-week, studentengezelligheidsverenigingen, studieverenigingen  Jaarlijks beoordeelt en adviseert de ACI  het introductieprogramma van de betrokken partijen. Daarbij wordt met name aandacht besteed aan de veiligheidsaspecten. Hierbij valt te denken aan:  het aantal uren aaneengesloten nachtrust dat geboden moet worden, het aantal begeleiders dat tijdens excursies of evenementen aanwezig moet zijn, regels met betrekking tot het tegengaan van overmatig drankgebruik.   In Groningen is men tevreden met de adviserende taak van de ACI, er is sprake van onderling vertrouwen. In de afgelopen jaren is er sprake van toenemende kwaliteit van de veiligheidsdraaiboeken, toegenomen bewustzijn van risico’s en grotere verantwoordelijkheden van verenigingen met betrekking tot de introductieactiviteiten voor de nieuwe studenten.  
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2465,7 +2465,7 @@ Klik hier
 http://www.keiweek.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2483,7 +2483,7 @@ Klik hier
 http://www.keiweek.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2501,7 +2501,7 @@ Klik hier
 https://www.rug.nl/education/find-out-more/extracurricular-activities-associations/student-societies
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2519,7 +2519,7 @@ Klik hier
 https://www.rug.nl/education/find-out-more/extracurricular-activities-associations/student-societies
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2537,7 +2537,7 @@ Klik hier
 https://www.rug.nl/education/find-out-more/extracurricular-activities-associations/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2555,7 +2555,7 @@ Klik hier
 https://www.rug.nl/education/international-students/getting-started/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2573,7 +2573,7 @@ Klik hier
 https://www.rug.nl/about-us/how-to-find-us/closing-rug-buildings-during-holidays
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2607,7 +2607,7 @@ Klik hier
 http://nestorhelp.rug.nl/default.asp?W1894
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2625,7 +2625,7 @@ Klik hier
 http://progresswww.nl/rug/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2643,7 +2643,7 @@ Klik hier
 http://progresswww.nl/rug/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2669,7 +2669,7 @@ Klik hier
 https://www.rug.nl/studenten/inuitschrijving/contact/onderwijsadministratie
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2687,7 +2687,7 @@ Klik hier
 https://www.rug.nl/studenten/studiebegeleiding/geld/studiekosten
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2697,7 +2697,7 @@ Hoe kom ik aan boeken
 <template>
 <think><set name="topic">vakken tentamens boeken</set></think>
 Je kunt je boeken zelf kopen bij de boekhandel of je kunt, bij de meeste opleidingen, gebruik maken van de mogelijkheid om via de studievereniging van de betreffende opleiding de boeken goedkoper aan te schaffen. Neem voor meer informatie contact op met je eigen faculteit.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2715,7 +2715,7 @@ Klik hier
 https://www.rug.nl/infonet/studenten/opleidingen/minor-programmas/overzicht-minorruimte-per-opleiding-20-21.pdf
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2733,7 +2733,7 @@ Klik hier
 https://www.studielink.nl
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2759,7 +2759,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/aanmelding-en-inschrijving/verklaring-inschrijving
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2777,7 +2777,7 @@ Klik hier
 https://www.rug.nl/education/find-out-more/studying-at-university/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2787,7 +2787,7 @@ Voltijdstudie
 <template>
 <think><set name="topic">inschrijvingsvormen</set></think>
 Als voltijdstudent heb je een studielast colleges en thuiswerk van 40 uur in de week. Je bent dus de hele week bezig met je opleiding. Daarnaast mag je gebruik maken van alle universitaire voorzieningen, zoals de bibliotheken, ICT, sportfaciliteiten en het culturele aanbod. Verder heb je recht op studiebegeleiding van een studieadviseur van je opleiding en/of het Studenten Service Centrum studentendecanen, studentenpsychologen en trainers en je mag stemmen voor de faculteitsraad en de universiteitsraad.   Let op: je kunt alleen studiefinanciering aanvragen als je ingeschreven staat als voltijdstudent.    
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2805,7 +2805,7 @@ Klik hier
 https://www.rug.nl/studiekiezers/opleidingen/deeltijd/studieduur
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2847,7 +2847,7 @@ Klik hier
 https://www.rug.nl/sitemanager/w1yv43q5xzgu5zmnm30wr43k/HtmlEditorX/www.ibg.nl
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2865,7 +2865,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/studiekeuze-en-voorlichting/pre-master/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2883,7 +2883,7 @@ Klik hier
 https://www.rug.nl/science-and-society/lifelong-learning/open
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2901,7 +2901,7 @@ Klik hier
 https://www.rug.nl/education/exchange-programmes/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2927,7 +2927,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/tarieven/wettelijk-collegegeldtarief
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2953,7 +2953,7 @@ Klik hier
 https://www.rug.nl/education/faq/?tcid=verint_3_7395_8988
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2963,7 +2963,7 @@ Toelichting op hoogte instellingscollegegeld
 <template>
 <think><set name="topic">collegegeldtarieven</set></think>
 Op grond van gewijzigde wetgeving per 1 september 2010 komt een student die een tweede zelfde graad wil behalen d.w.z. inschrijving voor een bacheloropleiding terwijl al eerder een bachelorgraad is behaald of inschrijving voor een masteropleiding terwijl al eerder een mastergraad is behaald niet meer in aanmerking voor betaling van het wettelijk collegegeld.  De Rijksoverheid bekostigt per student één bachelorgraad en één mastergraad, zodat het onderwijs voor deze student kan worden aangeboden tegen een laag bedrag aan collegegeld het 'wettelijk collegegeld'. De werkelijke kosten van het onderwijs zijn voor de Rijksuniversiteit Groningen vele male hoger dan het bedrag dat de student hiervoor in de vorm van collegegeld betaalt, het verschil wordt in deze gevallen gecompenseerd door de overheid. De overheid meent dat de kosten van een dergelijke tweede opleiding gedragen moeten worden door de student zelf via het heffen van een kostendekkend collegegeld.  De RUG heeft bij de vaststelling van de instellingstarieven daarom aansluiting gezocht bij de bedragen die de RUG misloopt vanwege het ontbreken van bekostiging van Rijkswege. Het College van Bestuur legt de instellingstarieven elk jaar ter advisering voor aan de Universiteitsraad.    
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2981,7 +2981,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/financien/collegegeld/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -2999,7 +2999,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/tarieven/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3017,7 +3017,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/tarieven/pre-masterprogramma_s
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3043,7 +3043,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/betalen/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3069,7 +3069,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/betalen/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3095,7 +3095,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/betalen/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3113,7 +3113,7 @@ Klik hier
 https://www.rug.nl/education/tuition/payment/employer
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3131,7 +3131,7 @@ Klik hier
 https://www.rug.nl/education/tuition/payment/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3141,7 +3141,7 @@ Ik betaal mijn collegegeld in één keer Wanneer wordt dit afgeschreven
 <template>
 <think><set name="topic">betaling collegegeld</set></think>
 In de laatste week van de maand waarin je bent begonnen.  Bijvoorbeeld:  Je bent begonnen op 1 september, dan wordt in de laatste week van september het bedrag afgeschreven. Je bent begonnen op 1 februari, dan wordt in de laatste week van februari het bedrag afgeschreven.     
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3159,7 +3159,7 @@ Klik hier
 https://www.rug.nl/education/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3177,7 +3177,7 @@ Klik hier
 https://www.rug.nl/education/information-services/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3203,7 +3203,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/betalen/digitale-machtiging/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3229,7 +3229,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/betalen/digitale-machtiging/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3255,7 +3255,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/betalen/digitale-machtiging/gevolgen-onvoldoende-saldo-op-rekening
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3281,7 +3281,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/betalen/digitale-machtiging/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3315,7 +3315,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/betalen/digitale-machtiging/gevolgen-onvoldoende-saldo-op-rekening
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3341,7 +3341,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/betalen/collegegeld-betalen-via-tikkie
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3367,7 +3367,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/betalen/digitale-machtiging/voorwaarden-betaling-per-machtiging
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3393,7 +3393,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/restitutie
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3403,7 +3403,7 @@ Ik studeer binnenkort af Kan ik collegegeld terug krijgen
 <template>
 <think><set name="topic">restitutie collegegeld</set></think>
 Als je tijdens het studiejaar afstudeert en je uitschrijft aan de Rijksuniversiteit Groningen heb je recht op een teruggave restitutie van 1/12 van het betaalde collegegeld voor elke maand van het studiejaar dat je niet meer staat ingeschreven. Behalve als je je per 1 juli of 1 augustus uitschrijft. Over de maanden juli en augustus vindt namelijk geen restitutie plaats.  Je moet wel rekening houden met het feit dat:  de Rijksuniversiteit Groningen je pas definitief kan uitschrijven als zij de uitslag van het examen en het judicium geslaagd van je faculteit heeft ontvangen. Dit kan soms enige tijd duren. er, in geval van een machtiging, nog collegegeld van je giro- bankrekening kan worden afgeschreven. Dit bedrag wordt later verrekend met het restitutiebedrag. de inschrijving wordt beëindigd met ingang van de maand volgend op de maand waarin het examen datering van de bul is behaald. Dit kan gevolgen hebben voor je recht op studiefinanciering en studenten ov-chipkaart.  Bijvoorbeeld: Als je in februari een verzoek tot uitschrijven op grond van afstuderen indient, wordt je per 1 januari uitgeschreven als je afstudeerdatum in december valt. Je hebt dan vanaf 1 januari geen recht meer op studiefinanciering en de studenten ov-chipkaart.      
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3421,7 +3421,7 @@ Klik hier
 https://www.rug.nl/sia
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3431,7 +3431,7 @@ Wanneer krijg ik geen collegegeld terug
 <template>
 <think><set name="topic">restitutie collegegeld</set></think>
 Je krijgt geen collegegeld of vergoeding terug   als je je per 1 juli of 1 augustus uitschrijft. als je je drie maanden na de inschrijving, uitschrijft voor een pre-masterprogramma.     
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3457,7 +3457,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/betalen/digitale-machtiging/gevolgen-onvoldoende-saldo-op-rekening
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3483,7 +3483,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/tarieven/collegegeld-meerdere-inschrijvingen
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3509,7 +3509,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/tarieven/collegegeld-meerdere-inschrijvingen
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3535,7 +3535,7 @@ Klik hier
 https://www.rug.nl/csa
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3561,7 +3561,7 @@ Klik hier
 https://www.rug.nl/csa
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3571,7 +3571,7 @@ Ik betaal in termijnen en nog niet alle termijnen zijn voldaan Kan ik dan toch e
 <template>
 <think><set name="topic">tweede opleiding</set></think>
 Ja, dat kan. De machtiging die je hebt afgegeven is een betalingsgarantie. Op grond daarvan kun je een Bewijs Betaald Collegegeld aanvragen.   
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3597,7 +3597,7 @@ Klik hier
 https://www.rug.nl/education/tuition/payment/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3615,7 +3615,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/financien/collegegeld/tarieven/wettelijk-collegegeldtarief
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3633,7 +3633,7 @@ Klik hier
 https://www.rug.nl/about-ug/organization/rules-and-regulations/general/regeling-inschrijving-en-collegegeld
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3643,7 +3643,7 @@ Voorwaarden voor 1 jaar half collegegegeld
 <template>
 <think><set name="topic">halvering wettelijk collegegeld voor eerstejaars</set></think>
 De halvering van het eerste jaar wettelijk collegegeld geldt voor elke student die:  in of na studiejaar 2018-2019 voor het eerst begint met een opleiding aan een door de overheid gefinancierde bekostigde hogeschool of universiteit; een bacheloropleiding of associate degree-opleiding gaat doen; het wettelijk collegegeld betaalt. Dit geldt voor voltijdstudenten, duale studenten, deeltijdstudenten, studenten aan de Open Universiteit en studenten aan University colleges.     
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3653,7 +3653,7 @@ Voorwaarden voor tweede jaar half collegegeld lerarenopleiding
 <template>
 <think><set name="topic">halvering wettelijk collegegeld voor eerstejaars</set></think>
 De halvering van het tweede jaar collegegeld moet gaan gelden voor elke student die:  in of na studiejaar 2018-2019 voor het eerst begint met een opleiding aan een bekostigde hogeschool of universiteit; een lerarenopleiding aan een bekostigde hogeschool of universiteit volgt; het wettelijk collegegeld betaalt.   Ook bij lerarenmaster tweede jaar half collegegeld mogelijk  Start de student een beacheloropleiding vanaf studiejaar 2018-2019? Dan komt de student voor het eerst in studiejaar 2021-2022 in aanmerking voor een halvering bij een masterlerarenopleiding.    
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3663,7 +3663,7 @@ Voor sommige studenten nog steeds volledig collegegeld
 <template>
 <think><set name="topic">halvering wettelijk collegegeld voor eerstejaars</set></think>
 Het collegegeld wordt niet verlaagd voor studenten die:  al eerder dan het studiejaar 2018-2019 een opleiding in het hoger onderwijs volgden; een masteropleiding volgen; het instellingscollegegeld betalen; een opleiding volgen in het niet-bekostigde hoger onderwijs; aan het experiment vraagfinanciering meedoen.     
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3673,7 +3673,7 @@ Wat gebeurt er als ik mijn collegegeld al heb betaald
 <template>
 <think><set name="topic">halvering wettelijk collegegeld voor eerstejaars</set></think>
 Mocht je het collegegeld al overgemaakt hebben en je komt in aanmerking voor bovenstaande regeling dan zorgen wij dat je het teveel overgemaakte collegegeld zo spoedig mogelijk gerestitueerd krijgt.  Als je de machtiging al hebt ondertekend voor het volledige bedrag en je komt in aanmerking voor bovenstaande regeling dan zal de RUG het gehalveerde tarief innen.    
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3683,7 +3683,7 @@ Infographic collegegeldverlaging; wat geldt voor jou
 <template>
 <think><set name="topic">halvering wettelijk collegegeld voor eerstejaars</set></think>
 
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3709,7 +3709,7 @@ Klik hier
 https://www.rijksoverheid.nl/onderwerpen/hoger-onderwijs/vraag-en-antwoord/veelgestelde-vragen-collegegeldverlaging-hoger-onderwijs
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3743,7 +3743,7 @@ Klik hier
 https://www.rug.nl/education/student-service-centre/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3769,7 +3769,7 @@ Klik hier
 https://student.portal.rug.nl/infonet/studenten/voorzieningen/studenten-service-centrum/contact-and-appointments/student-counsellors
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3795,7 +3795,7 @@ Klik hier
 http://student.portal.rug.nl/infonet/studenten/studenten-service-centrum/decanen
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3813,7 +3813,7 @@ Klik hier
 http://student.portal.rug.nl/infonet/studenten/profileringsfonds/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3831,7 +3831,7 @@ Klik hier
 http://student.portal.rug.nl/infonet/studenten/profileringsfonds/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3857,7 +3857,7 @@ Klik hier
 http://student.portal.rug.nl/infonet/studenten/profileringsfonds/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3883,7 +3883,7 @@ Klik hier
 http://student.portal.rug.nl/infonet/studenten/profileringsfonds/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3893,7 +3893,7 @@ Wanneer ontvang ik het besluit van het College van Bestuur
 <template>
 <think><set name="topic">profileringsfonds</set></think>
 Binnen 8 weken na het indienen van een digitale aanvraag dient het College van Bestuur een besluit te hebben genomen.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3911,7 +3911,7 @@ Klik hier
 https://www.rug.nl/education/hoezithet/veelgestelde-vragen?tcid=bureau_2_5029_5062
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3921,7 +3921,7 @@ De statusbalk van de aanvraag geeft ‘bewijsstukken ontbreken aan’ Hoe weet ik we
 <template>
 <think><set name="topic">profileringsfonds</set></think>
 Je krijgt een e-mail van de Universitaire Fondsencommissie UFC op je RUG-account waarin wordt aangegegen welke bewijsstukken bij je aanvraag ontbreken. Je krijgt 6 weken de tijd om je aanvraag compleet te maken.  Vragen? Neem contact op met het UFC: ufc rug.nl. 
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3939,7 +3939,7 @@ Klik hier
 http://www.ib-groep.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3957,7 +3957,7 @@ Klik hier
 http://myuniversity.rug.nl/infonet/studenten/profileringsfonds/verklaringbestuursperiode.pdf
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3975,7 +3975,7 @@ Klik hier
 http://student.portal.rug.nl/infonet/studenten/profileringsfonds/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -3985,7 +3985,7 @@ Hoe kan ik de UFC bereiken
 <template>
 <think><set name="topic">profileringsfonds</set></think>
 Je kunt het UFC bereiken via e-mail: ufc rug.nl.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4003,7 +4003,7 @@ Klik hier
 https://duo.nl/particulieren/studievoorschot/default.asp
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4021,7 +4021,7 @@ Klik hier
 https://duo.nl/particulieren/international-student/default.asp
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4039,7 +4039,7 @@ Klik hier
 http://www.ib-groep.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4057,7 +4057,7 @@ Klik hier
 https://duo.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4067,7 +4067,7 @@ Wat is het sociaal leenstelsel studievoorschot
 <template>
 <think><set name="topic">studiefinanciering DUO</set></think>
 Per 1 september 2015 bestaat studiefinanciering uit vier onderdelen:  Aanvullende beurs Studentenreisproduct Rentedragende lening Collegegeldkrediet  
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4077,7 +4077,7 @@ Wat is de overgangsregeling voor bachelorstudenten die voor 1 september 2015 een
 <template>
 <think><set name="topic">studiefinanciering DUO</set></think>
 Heb jij vóór 1-9-2015 al een basisbeurs ontvangen voor een opleiding in het HBO of WO? Bij het behalen van je bachelordiploma binnen diplomatermijn worden de maanden prestatiebeurs behorende bij je bacheloropleiding omgezet in een gift. Jij mag je studie onderbroken hebben of van studie gewisseld zijn.   Als je op 1-9-2015 al meer dan 36 maanden basisbeurs hebt gehad, krijg je vanaf 1-9-2015 geen basisbeurs meer. Wel worden alle ontvangen maanden basisbeurs van vóór 1-9-2015 een gift als je binnen 10 jaar een masterdiploma haalt. Als je alleen een bachelordiploma haalt worden 36 maanden basisbeurs en ook de aanvullende beurs een gift.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4087,7 +4087,7 @@ Wat zijn de gevolgen als ik vanaf 1 september 2015 met mijn masteropleiding begi
 <template>
 <think><set name="topic">studiefinanciering DUO</set></think>
 Als je op 1-9-2015 al meer dan 36 maanden basisbeurs hebt gehad, krijg je vanaf 1-9-2015 geen basisbeurs meer. Wel worden alle ontvangen maanden basisbeurs behorende van de nominale studieduur van vóór 1-9-2015 een gift.   voorbeeld  Floor zit in haar vierde jaar van de bachelor psychologie. Zij heeft vanaf 1 september 2011 een basisbeurs. Floor zal tot 1-09-2015 in totaal 48 maanden basisbeurs ontvangen. Vanaf 1-09-2015 krijgt zij geen basisbeurs.  Als Floor vóór 2021 haar diploma voor de tweejarige researchmaster haalt worden de 48 maanden basisbeurs een definitieve gift.  Als Floor vóór 2021 alléén een bachelordiploma haalt worden 36 maanden basisbeurs een definitieve gift.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4105,7 +4105,7 @@ Klik hier
 http://www.duo.nl/particulieren/studievoorschot/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4123,7 +4123,7 @@ Klik hier
 http://www.duo.nl/particulieren/student-hbo-of-universiteit/studeren/collegegeld-betalen.asp
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4133,7 +4133,7 @@ Wat houdt de 1februari regeling precies in
 <template>
 <think><set name="topic">studiefinanciering DUO</set></think>
 Als je je studiefinanciering stop zet voor 1 februari dan blijven de aanvullende beurs en studentenreisproduct een gift. Deze regeling is alleen van kracht als je voor de eerste keer voor een propedeuse staat ingeschreven.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4151,7 +4151,7 @@ Klik hier
 https://www.rug.nl/usd
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4169,7 +4169,7 @@ Klik hier
 https://duo.nl/particulieren/student-hbo-of-universiteit/privesituatie/bijverdienen.asp
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4179,7 +4179,7 @@ Welke landen behoren tot de EU/EER
 <template>
 <think><set name="topic">studiefinanciering DUO</set></think>
 De volgende landen maken deel uit van de EU/EER: België, Bulgarije, Cyprus, Denemarken, Duitsland, Estland, Finland, Frankrijk, Griekenland, Groot-Brittannië, Hongarije, Ierland, Italië, Letland, Liechtenstein, Litouwen, Luxemburg, Malta, Noorwegen, Oostenrijk, Polen, Portugal, Roemenië, Slovenië, Slowakije, Spanje, Tsjechië, IJsland en Zweden. Studenten met de Zwitserse nationaliteit kunnen een beroep doen op collegegeldkrediet en/of studiefinanciering, ondanks het feit dat Zwitserland niet is toegetreden tot de EU/EER.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4189,7 +4189,7 @@ Bij wie kan ik terecht met een persoonlijke vraag
 <template>
 <think><set name="topic">studiefinanciering DUO</set></think>
 Neem contact op met één van de studentendecanen via ssc-info rug.nl als je specifieke vragen over jouw persoonlijke situatie hebt.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4207,7 +4207,7 @@ Klik hier
 http://www.duo.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4225,7 +4225,7 @@ Klik hier
 https://www.rug.nl/studenten/voorzieningen/studentenservicecentrum/decanen/index
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4243,7 +4243,7 @@ Klik hier
 https://www.rug.nl/education/international-students/financial-matters/grant-finder
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4261,7 +4261,7 @@ Klik hier
 https://www.rug.nl/alumni/steun-de-rug/eric-bleumink-fund/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4279,7 +4279,7 @@ Klik hier
 https://www.rug.nl/education/nederlandse-studenten/financien/wat-kost-het
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4305,7 +4305,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/international-students/financial-matters/health-insurance-for-international-students
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4323,7 +4323,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/financien/verzekeringen
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4341,7 +4341,7 @@ Klik hier
 https://www.rug.nl/education/find-out-more/extracurricular-activities-associations/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4359,7 +4359,7 @@ Klik hier
 https://www.rug.nl/education/find-out-more/extracurricular-activities-associations/student-societies
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4377,7 +4377,7 @@ Klik hier
 https://www.rug.nl/education/find-out-more/extracurricular-activities-associations/political
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4395,7 +4395,7 @@ Klik hier
 https://www.rug.nl/education/find-out-more/student-life/sports
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4413,7 +4413,7 @@ Klik hier
 https://www.rug.nl/education/find-out-more/extracurricular-activities-associations/cultural
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4431,7 +4431,7 @@ Klik hier
 https://www.rug.nl/education/find-out-more/extracurricular-activities-associations/international-student-associations
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4449,7 +4449,7 @@ Klik hier
 https://www.rug.nl/honours/Selectieprocedure/request-access-selection-procedure
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4467,7 +4467,7 @@ Klik hier
 https://www.rug.nl/honours/Selectieprocedure/bachelorselectie/procedure
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4485,7 +4485,7 @@ Klik hier
 https://www.rug.nl/honours/Selectieprocedure/request-access-selection-procedure
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4503,7 +4503,7 @@ Klik hier
 https://www.rug.nl/honours/Selectieprocedure/request-access-selection-procedure
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4513,7 +4513,7 @@ Ik heb gesolliciteerd maar ik heb nog niets gehoord
 <template>
 <think><set name="topic">aanmelding en selectieprocedure</set></think>
 Het kan een paar weken duren voor dat je van ons iets hoort, wij hebben namelijk enige tijd nodig om alle sollicitaties te bekijken. Maar je krijgt in ieder geval bericht van ons.  
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4523,7 +4523,7 @@ Ik ben geen Nederlandse student en ik spreek alleen Engels Kan ik mij aanmelden 
 <template>
 <think><set name="topic">aanmelding en selectieprocedure</set></think>
 Ook dan kun je solliciteren, dat is geen probleem. Mocht het verdiepende programma van jouw faculteit in het Nederlands worden gegeven, dan zoeken we een oplossing voor je. De verbredende programma's zijn in het Engels.  
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4533,7 +4533,7 @@ Ik had op mijn eindexamen een 5 voor Engels en de rest waren allemaal goede cijf
 <template>
 <think><set name="topic">aanmelding en selectieprocedure</set></think>
 Op zich is dat geen bezwaar, maar je moet wel goed bij jezelf nagaan of je het Engels bij aanvang van het honoursprogramma zo goed beheerst, dat je het onderwijs bij de verbredende modules met succes kunt volgen.  
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4543,7 +4543,7 @@ Wat is de opzet en de inhoud van het Honoursprogramma
 <template>
 <think><set name="topic">onderwijs  honoursprogramma</set></think>
 Het Honours College geeft talentvolle en gemotiveerde studenten de kans meer uit zichzelf te halen, door een verzwaard programma bachelor 45 ECTS - master 15 ECTS te bieden dat naast de reguliere bachelor- of masteropleiding gevolgd wordt waarvoor geen extra collegegeld betaald hoeft te worden. Het uitgangspunt van deze Honoursprogramma's is de ontwikkeling van talent en eigen initiatief.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4553,7 +4553,7 @@ Hoe ziet mijn verdiepende facultaire programma eruit
 <template>
 <think><set name="topic">onderwijs  honoursprogramma</set></think>
 Het Honours College geeft talentvolle en gemotiveerde studenten de kans meer uit zichzelf te halen, door een verzwaard programma bachelor 45 ECTS - master 15 ECTS te bieden dat naast de reguliere bachelor- of masteropleiding gevolgd wordt waarvoor geen extra collegegeld betaald hoeft te worden. Het uitgangspunt van deze Honoursprogramma's is de ontwikkeling van talent en eigen initiatief.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4563,7 +4563,7 @@ Hoe ziet het verbredende programma eruit
 <template>
 <think><set name="topic">onderwijs  honoursprogramma</set></think>
 Het Honours College geeft talentvolle en gemotiveerde studenten de kans meer uit zichzelf te halen, door een verzwaard programma bachelor 45 ECTS - master 15 ECTS te bieden dat naast de reguliere bachelor- of masteropleiding gevolgd wordt waarvoor geen extra collegegeld betaald hoeft te worden. Het uitgangspunt van deze Honoursprogramma's is de ontwikkeling van talent en eigen initiatief.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4573,7 +4573,7 @@ Wat is de Petrus Camper Leergang
 <template>
 <think><set name="topic">onderwijs  honoursprogramma</set></think>
 Het Honours College geeft talentvolle en gemotiveerde studenten de kans meer uit zichzelf te halen, door een verzwaard programma bachelor 45 ECTS - master 15 ECTS te bieden dat naast de reguliere bachelor- of masteropleiding gevolgd wordt waarvoor geen extra collegegeld betaald hoeft te worden. Het uitgangspunt van deze Honoursprogramma's is de ontwikkeling van talent en eigen initiatief.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4583,7 +4583,7 @@ Wordt al het onderwijs in het Engels gegeven
 <template>
 <think><set name="topic">onderwijs  honoursprogramma</set></think>
 Nee, niet al het onderwijs wordt in het Engels gegeven. Wel zijn alle verbredende modules in het Engels en hebben een aantal faculteiten een Engelstalig facultair programma. De trainingen in de Petrus Camper Leergang worden zowel in het Engels als in het Nederlands gegeven. Daar kun je kiezen bij de inschrijving in Progress.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4601,7 +4601,7 @@ Klik hier
 https://www.rug.nl/honours/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4611,7 +4611,7 @@ Wat heb ik eraan om het Honours College te doen Wat levert het me op
 <template>
 <think><set name="topic">aankomende Honours College student</set></think>
 Niet alleen volg je intensief, kleinschalig onderwijs met een groep gelijkgestemde en gemotiveerde studenten, maar je ontvangt ook, als je het honoursprogramma hebt afgerond een aparte honoursbul, met een aanbevelingsbrief van de Rector Magnificus van de Rijksuniversiteit Groningen. Ook wordt op je diplomasupplement dat bij je bachelorbul hoor, een aantekening gemaakt dat je het honoursprogramme hebt afgerond. Daarmee heb je een voorsprong als je solliciteert naar een selectieve masteropleiding in het buitenland of in Nederland, en later op de arbeidsmarkt.  
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4621,7 +4621,7 @@ Wat is het verschil tussen bij voorbeeld het University College Utrecht of de Ro
 <template>
 <think><set name="topic">aankomende Honours College student</set></think>
 Op het University College en de Roosevelt Academy volg je een aparte, brede bacheloropleiding liberal arts van 180 ects op een eigen campus. Het Groningen Honours College biedt je een extracurriculair honoursprogramma van 45 ects, dat je naast je gewone bacheloropleiding van 180 ects volgt. Je woont en studeert verder gewoon in Groningen. Wel is er een aparte communityruimte in het Academiegebouw, waar je je medehonourstudenten kunt ontmoeten.  
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4631,7 +4631,7 @@ Ik twijfel tussen solliciteren voor het Honours College en een tweede studie erb
 <template>
 <think><set name="topic">aankomende Honours College student</set></think>
 Dat is een lastige vraag. Het hangt van je specifieke belangstelling af en van de vraag wat je graag wilt bereiken en wat je er voor wilt doen. Een tweede studie kan interessant zijn voor een bepaalde positie op de arbeidsmarkt is daar vraag naar?. Je zult waarschijnlijk iets langer over je studie doen, en veel zelf moeten organiseren en plannen, omdat de roosters vaak niet goed aansluiten. Een honoursprogramma is een veel bredere opleiding, dat rekening houdt met je reguliere studie. Je maakt ook onderdeel uit van een gelijkgestemde groep studenten zowel binnen je opleiding als daarbuiten. Verder wordt er aandacht aan je persoonlijke ontwikkeling besteed.  
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4641,7 +4641,7 @@ Kost het Honours College veel tijd Kan ik er nog wat anders bij doen
 <template>
 <think><set name="topic">aankomende Honours College student</set></think>
 Het Honours College verzwaart je studielast met 25%, dat komt neer op 10-12 uur meer studie per week ervan uitgaande dat je per week 40 uur aan je studie besteedt. Als de gewone opleiding je makkelijk afgaat, houd je ruimte en tijd over een extra programma naast de gewone ontspanning. Bij het roosteren van het honoursonderwijs wordt rekening gehouden met je facultaire rooster. Het universitaire deel zal over het algemeen geroosterd worden aan het eind van de middag en het begin van de avond.  
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4651,7 +4651,7 @@ Zijn er extra kosten aan verbonden zoals collegegeld
 <template>
 <think><set name="topic">aankomende Honours College student</set></think>
 Als je deelneemt aan het Honours College hoef je geen extra collegegeld te betalen, maar je moet wel rekening houden met extra kosten voor boeken, excursies en dergelijke. Voor de Summer school eind jaar 2 wordt voor reis- en verblijfkosten een eigen bijdrage gevraagd van 33% met een maximum van 500 euro.  
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4661,7 +4661,7 @@ Ik ben nu 2e jaars student en heb mijn propedeuse gehaald kan ik nog instromen /
 <template>
 <think><set name="topic">aankomende Honours College student</set></think>
 Nee, dat kan niet  Vragen? Neem contact op met het Honours college via honours rug.nl.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4671,7 +4671,7 @@ Ik wil eerst mijn propedeuse halen en dan in het Honours College instromen
 <template>
 <think><set name="topic">aankomende Honours College student</set></think>
 Dit is niet mogelijk. Je kunt alleen in het eerste jaar instromen.  
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4681,7 +4681,7 @@ Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buiten
 <template>
 <think><set name="topic">aankomende Honours College student</set></think>
 In principe kan dat. De Onderwijs- en Examenregeling van het Honoursprogramma bepaalt dat een student toestemming kan vragen om bijvoorbeeld een deel van het honoursprogramma aan een buitenlandse universiteit te doen of om langer over het honoursprogramma te doen. Of die toestemming gegeven wordt zal o.a. afhangen van de studievoortgang en de persoonlijke omstandigheden van de student en de aard van de vakken die in het buitenland worden gedaan.  
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4699,7 +4699,7 @@ Klik hier
 https://www.rug.nl/education/honours-college/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4709,7 +4709,7 @@ Als ik niet meedoe aan het Honours College krijg ik dan minder goed onderwijs
 <template>
 <think><set name="topic">aankomende Honours College student</set></think>
 Nee, je krijgt dan nog steeds degelijk en goed onderwijs. Het Honours College is alleen een extra traject voor gemotiveerde studenten die graag iets extra's zowel verbredend als verdiepend willen doen naast hun reguliere studie.  
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4719,7 +4719,7 @@ Ik heb mijn Honours College programma afgerond maar mijn bachelor nog niet Mag i
 <template>
 <think><set name="topic">honours College student</set></think>
 Nee, je kunt pas een honoursbul ontvangen als je je bachelor hebt afgerond.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4729,7 +4729,7 @@ Ik vond het Honours College erg leuk en doe het daar ook goed maar mijn gewone s
 <template>
 <think><set name="topic">honours College student</set></think>
 Een honoursprogramma is extra onderwijs, de prioriteit ligt bij je reguliere opleiding. Zou je dat niet doen, dan heb je straks een studieachterstand en daar is niemand bij gebaat.   Als het goed is dan heb je hierover al met je facultaire honourscoördinator en studieadviseur gesproken. Het besluit om je niet langer toe te laten wordt - als het goed is - zorgvuldig genomen en daarbij worden alle bijzondere, persoonlijke omstandigheden meegewogen.   Als je het niet met de beslissing eens bent, kun je er bezwaar tegen maken. Hoe je dat doet, kun je vinden in de Onderwijs- en Examenregeling op Nestor.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4739,7 +4739,7 @@ Ik heb dit semester niet veel aan het Honours College gedaan maar andere dingen 
 <template>
 <think><set name="topic">honours College student</set></think>
 Het is mogelijk om tijdelijk wat minder aan het honoursprogramma te doen, bijvoorbeeld omdat je naar het buitenland gaat om te studeren of omdat je bestuurswerkzaamheden gaat doen. Dat moet je wel van te voren aanvragen/overlegen.   Dus ga tijdig naar de facultaire honourscoördinator. Hij of zij weet hoe je dat moet regelen.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4757,7 +4757,7 @@ Klik hier
 https://www.rug.nl/studenten/studiebegeleiding/internationalisering/wat/studeren/index
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4775,7 +4775,7 @@ Klik hier
 https://www.rug.nl/studenten/studiebegeleiding/internationalisering/waar/index
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4793,7 +4793,7 @@ Klik hier
 https://www.rug.nl/studenten/studiebegeleiding/internationalisering/index
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4811,7 +4811,7 @@ Klik hier
 https://www.rug.nl/studenten/studiebegeleiding/internationalisering/waar/index
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4829,7 +4829,7 @@ Klik hier
 https://www.rug.nl/studenten/studiebegeleiding/internationalisering/adressen/adressenfaculteiten
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4847,7 +4847,7 @@ Klik hier
 https://www.rug.nl/studenten/studiebegeleiding/internationalisering/wat/stage/index
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4865,7 +4865,7 @@ Klik hier
 https://www.rug.nl/studenten/studiebegeleiding/internationalisering/index
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4883,7 +4883,7 @@ Klik hier
 http://www.nuffic.nl/nederlandse-studenten/studiebeurs/begroting
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4901,7 +4901,7 @@ Klik hier
 http://myuniversity.rug.nl/infonet/studenten/studeren-buitenland/financiering
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4911,7 +4911,7 @@ Moet ik collegegeld betalen als ik tijdelijk in het buitenland ga studeren
 <template>
 <think><set name="topic">financien</set></think>
 Je kunt alleen via een uitwisselingsprogramma studeren aan een buitenlandse universiteit als je ingeschreven staat aan de Rijksuniversiteit Groningen en het collegegeld hebt betaald. Je hoeft geen collegegeld te betalen aan de buitenlandse universiteit. Als je als reguliere student naar een buitenlandse instelling gaat, moet je waarschijnlijk wel collegegeld betalen.   
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4929,7 +4929,7 @@ Klik hier
 http://myuniversity.rug.nl/infonet/studenten/studeren-buitenland/international-offices
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4947,7 +4947,7 @@ Klik hier
 http://myuniversity.rug.nl/infonet/studenten/studeren-buitenland/international-offices
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4973,7 +4973,7 @@ Klik hier
 http://myuniversity.rug.nl/infonet/studenten/geldzaken/buitenland
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -4991,7 +4991,7 @@ Klik hier
 https://www.rug.nl/studereninhetbuitenland
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5009,7 +5009,7 @@ Klik hier
 https://www.rug.nl/studereninhetbuitenland
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5027,7 +5027,7 @@ Klik hier
 https://www.rug.nl/studenten/studiebegeleiding/internationalisering/allesgeregeld/checklist
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5045,7 +5045,7 @@ Klik hier
 https://www.rug.nl/studenten/studiebegeleiding/internationalisering/adressen/adressenfaculteiten
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5071,7 +5071,7 @@ Klik hier
 https://www.rug.nl/uk
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5105,7 +5105,7 @@ Klik hier
 http://www.joho.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5131,7 +5131,7 @@ Klik hier
 http://student.portal.rug.nl/infonet/studenten/bindend-studie-advies/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5149,7 +5149,7 @@ Klik hier
 https://www.rug.nl/education/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5167,7 +5167,7 @@ Klik hier
 https://www.rug.nl/education/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5185,7 +5185,7 @@ Klik hier
 https://www.rug.nl/education/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5203,7 +5203,7 @@ Klik hier
 https://www.rug.nl/education/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5229,7 +5229,7 @@ Klik hier
 https://www.rug.nl/education/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5247,7 +5247,7 @@ Klik hier
 https://www.rug.nl/education/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5265,7 +5265,7 @@ Klik hier
 https://www.rug.nl/education/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5283,7 +5283,7 @@ Klik hier
 https://www.rug.nl/education/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5301,7 +5301,7 @@ Klik hier
 https://www.rug.nl/education/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5319,7 +5319,7 @@ Klik hier
 https://www.rug.nl/education/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5337,7 +5337,7 @@ Klik hier
 https://www.rug.nl/education/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5355,7 +5355,7 @@ Klik hier
 https://www.rug.nl/education/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5381,7 +5381,7 @@ Klik hier
 http://student.portal.rug.nl/infonet/studenten/regelingen-klacht-inspraak/wet-en-regelgeving/onderwijs/handboek-bsa
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5399,7 +5399,7 @@ Klik hier
 https://www.rug.nl/education/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5417,7 +5417,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/begeleiding-en-advies/functiebeperking/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5523,7 +5523,7 @@ Klik hier
 https://www.rug.nl/education/programme-search/?labels-programme-degree=programme-level-master-regular&amp; abels-programme-degree=programme-level-master-educational&amp; abels-programme-degree=programme-level-master-research&amp; abels-programme-targetGroup=programme-targetGroup-nl&amp; urrentPage=1&amp; earchtext=&amp; ffset=1&amp; ount=10
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5557,7 +5557,7 @@ Klik hier
 https://www.rug.nl/education/student-service-centre/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5575,7 +5575,7 @@ Klik hier
 http://myuniversity.rug.nl/infonet/studenten/aangepast-onderwijs/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5593,7 +5593,7 @@ Klik hier
 http://myuniversity.rug.nl/infonet/studenten/problemen/informatie-rsi
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5611,7 +5611,7 @@ Klik hier
 http://myuniversity.rug.nl/infonet/studenten/geldzaken/geld-links/noodfonds
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5717,7 +5717,7 @@ Klik hier
 https://www.rug.nl/education/programme-search/?labels-programme-degree=programme-level-master-regular&amp; abels-programme-degree=programme-level-master-educational&amp; abels-programme-degree=programme-level-master-research&amp; abels-programme-targetGroup=programme-targetGroup-nl&amp; urrentPage=1&amp; earchtext=&amp; ffset=1&amp; ount=10
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5823,7 +5823,7 @@ Klik hier
 https://www.rug.nl/education/programme-search/?labels-programme-degree=programme-level-master-regular&amp; abels-programme-degree=programme-level-master-educational&amp; abels-programme-degree=programme-level-master-research&amp; abels-programme-targetGroup=programme-targetGroup-nl&amp; urrentPage=1&amp; earchtext=&amp; ffset=1&amp; ount=10
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5929,7 +5929,7 @@ Klik hier
 https://www.rug.nl/education/programme-search/?labels-programme-degree=programme-level-master-regular&amp; abels-programme-degree=programme-level-master-educational&amp; abels-programme-degree=programme-level-master-research&amp; abels-programme-targetGroup=programme-targetGroup-nl&amp; urrentPage=1&amp; earchtext=&amp; ffset=1&amp; ount=10
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5939,7 +5939,7 @@ Wat doet de Advies Commissie Functiebeperkte studenten en hoe kan ik me er voor 
 <template>
 <think><set name="topic">studeren met een functiebeperking</set></think>
 Deze commissie zet zich in voor het belang van alle studenten met een functiebeperking aan de Rijksuniversiteit Groningen. Zij fungeert als een platform en klankbordgroep voor beleidsmakers enerzijds en studenten en docenten anderzijds. De commissie bestaat uit 8 ervaringsdeskundige studenten en eenzelfde hoeveelheid personeelsleden. De commissie komt vijf keer per jaar bij elkaar en daarnaast vinden er naar bevind van zaken werkgroepsbijeenkomsten plaats. Je ontvangt een serieuze vergoeding voor je deelname aan de bijeenkomsten en bouwt mooi aan je cv.   Meer weten?  Neem contact op met het Studenten Service Centrum via ssc-info rug.nl.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5957,7 +5957,7 @@ Klik hier
 https://www.rug.nl/about-us/organization/bureau-of-the-university/amd
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5975,7 +5975,7 @@ Klik hier
 http://www.onderwijsenhandicap.nl/index.cfm?sid=185
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -5993,7 +5993,7 @@ Klik hier
 https://www.rug.nl/ssc
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6019,7 +6019,7 @@ Klik hier
 http://myuniversity.rug.nl/infonet/studenten/studenten-service-centrum/workshop/studievaardigheden/academische-schrijfvaardigheid
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6053,7 +6053,7 @@ Klik hier
 http://myuniversity.rug.nl/infonet/studenten/studenten-service-centrum/workshop/studiekeuze/twijfel-over-je-studiekeuze
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6071,7 +6071,7 @@ Klik hier
 http://myuniversity.rug.nl/infonet/studenten/studenten-service-centrum/workshop/studievaardigheden/effectief-studeren
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6089,7 +6089,7 @@ Klik hier
 https://www.rug.nl/ssc
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6107,7 +6107,7 @@ Klik hier
 http://myuniversity.rug.nl/infonet/studenten/studenten-service-centrum/workshop/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6125,7 +6125,7 @@ Klik hier
 http://myuniversity.rug.nl/infonet/studenten/studenten-service-centrum/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6143,7 +6143,7 @@ Klik hier
 http://myuniversity.rug.nl/infonet/studenten/studenten-service-centrum/workshop/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6201,7 +6201,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/studiekeuze-en-voorlichting/studiekeuzetests
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6211,7 +6211,7 @@ Ik weet niet welke master ik moet kiezen Kan ik daar begeleiding bij krijgen
 <template>
 <think><set name="topic">studiekeuze</set></think>
 Met een bachelordiploma op zak ligt er een wereld voor je open. Ga jij investeren in jezelf en jouw toekomst door te kiezen voor een masteropleiding? Je bent bij ons van harte welkom.  We bieden verschillende soorten masters aan en staan bekend om onze goede bachelor-master aansluitingen: VSNU en Vereniging Hogescholen: "Met 29022 bekende bachelor-master aansluitingen is de Rijksuniversiteit de meest toegankelijke masteraanbieder."
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6229,7 +6229,7 @@ Klik hier
 http://student.portal.rug.nl/infonet/studenten/problemen/studievertraging
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6263,7 +6263,7 @@ Klik hier
 https://www.rug.nl/studievertraging
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6281,7 +6281,7 @@ Klik hier
 https://www.rug.nl/careerservices/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6331,7 +6331,7 @@ Klik hier
 https://www.rug.nl/society-business/language-centre/language-courses-and-communication-training/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6349,7 +6349,7 @@ Klik hier
 http://student.portal.rug.nl/infonet/studenten/studenten-service-centrum/workshop/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6367,7 +6367,7 @@ Klik hier
 https://student.portal.rug.nl/infonet/studenten/studenten-service-centrum/workshop/studievaardigheden/speedreading
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6377,7 +6377,7 @@ Ik heb meerdere titels behaald Mag ik die allemaal voeren
 <template>
 <think><set name="topic">titulatuur en graden</set></think>
 Ja, dat mag. Maar je voert óf de Nederlandse titels bijvoorbeeld mr. drs. A. de Vries óf het internationale equivalent bijvoorbeeld A. de Vries, MA, LLM of A. de Vries, MSc, LLM.   Als je voor meerdere opleidingen dezelfde titel hebt behaald, mag je die titel één keer voeren. Als je voor meerdere opleidingen verschillende titels hebt behaald, kun je ze in combinatie voeren, bijvoorbeeld mr. ir. A Jansen.   Als je voor één opleiding een bachelorgraad hebt behaald en voor een andere opleiding een mastergraad, mag je zowel de bachelor- als mastertitel voeren. Je mag er echter ook voor kiezen om slechts één titel te gebruiken. Als je bijvoorbeeld een bachelor en master natuurkunde heeft behaald, dan kun je dit als volgt weergeven: A. de Vries BSc MSc.   Er is geen officieel voorschrift als het gaat om de volgorde van het voeren van titels of graden. In het algemeen wordt de hoogst behaalde titel het eerst vermeld.  Als je geen geaccrediteerde opleiding hebt gevolgd, heb je uiteraard ook geen daarbij behorende titel. Het is niet verboden om een andere titel te voeren, maar deze is in formele zin betekenisloos.   Er is op het moment een wetsvoorstel in de maak dat het onterecht voeren van titels strafbaar stelt.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6387,7 +6387,7 @@ Ik heb na 2002 een universitaire opleiding afgerond Mag ik in plaats van de tite
 <template>
 <think><set name="topic">titulatuur en graden</set></think>
 Ja, dat mag. Ook als je na de invoering van het bachelor-masterstelsel in 2002 een universitaire opleiding hebt afgerond, mag je in plaats van MSc of MA, de titel drs., mr. of ir. voeren, afhankelijk van de door u afgeronde opleiding.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6397,7 +6397,7 @@ Ik heb voor 2002 een universitaire opleiding afgerond Mag ik in plaats van mijn 
 <template>
 <think><set name="topic">titulatuur en graden</set></think>
 Ja, dat mag. De titel moet echter wel bij de aard van je universitaire opleiding passen. Zo kies je bijvoorbeeld bij een technische of sociaalwetenschappelijke studie voor de toevoeging ‘of Science’ en bij een letterenstudie voor de toevoeging ‘of Arts’. Deze internationale titel plaats je achter je naam. Je mag beide titels echter niet gelijktijdig voeren in je naamsvermelding.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6415,7 +6415,7 @@ Klik hier
 http://www.duo.nl/particulieren/diplomas/u-heeft-een-buitenlands-diploma/een-nederlandse-titel-aanvragen.asp
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6425,7 +6425,7 @@ Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren
 <template>
 <think><set name="topic">titulatuur en graden</set></think>
 Dat hangt af van een aantal criteria. Tot 1986 bestond er in het hbo geen titulatuur behalve voor technische en agrarische opleidingen. Daaraan was de titel ingenieur ing. verbonden. Op grond van het Besluit Titulatuur Invoeringswet WHBO is het echter voor bepaalde vierjarige opleidingen van vóór 1986 alsnog mogelijk een titel te voeren. Als je opleiding in dit besluit genoemd wordt, mag je de titel van baccalaureus bc. voor je naam of de titel Bachelor B achter je naam voeren.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6435,7 +6435,7 @@ Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren
 <template>
 <think><set name="topic">titulatuur en graden</set></think>
 Als je na 1986 bent afgestudeerd aan een hbo-bacheloropleiding op het gebied van landbouw en natuurlijke omgeving of op het gebied van techniek, mag je de titel ingenieur ing. voeren. Voor andere afgeronde hbo-bacheloropleidingen mag je de titel baccalaureus bc. voeren.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6445,7 +6445,7 @@ Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren
 <template>
 <think><set name="topic">titulatuur en graden</set></think>
 Dat hangt ervan af wanneer je de opleiding hebt afgerond. Als je je hbo-masteropleiding vóór 1 januari 2014 hebt afgerond, mag je de mastertitel M voeren. Als je een hbo-masteropleiding hebt afgerond na 1 januari 2014, kun je mogelijk ook de titel MA of MSc voeren, maar alleen als de opleiding opnieuw is beoordeeld geaccrediteerd door de NVAO en deze titel de meest internationaal herkenbare is. Voor meer informatie over de juiste titelvoering, kun je contact opnemen met je onderwijsinstelling. Dit geldt overigens niet voor voortgezette hbo-opleidingen.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6455,7 +6455,7 @@ Ik heb een Associate degree afgerond Welke titel mag ik voeren
 <template>
 <think><set name="topic">titulatuur en graden</set></think>
 Een afgeronde Associate degree geeft recht op de titel Ad. Deze titel plaats je achter je naam.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6465,7 +6465,7 @@ Ik heb een posthbocursus gevolgd Mag ik een titel voeren
 <template>
 <think><set name="topic">titulatuur en graden</set></think>
 Aan post-hbo-cursussen zijn geen titels verbonden. Het is niet verboden om een andere titel dan de beschermde titels te voeren. Overigens is op het moment een wetsvoorstel in de maak dat het onterecht voeren van alle titels strafbaar stelt.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6475,7 +6475,7 @@ Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast 
 <template>
 <think><set name="topic">titulatuur en graden</set></think>
 Ja, je mag de titel ing. voeren, maar niet gelijktijdig met de titel Bachelor. U mag de titels wel afwisselen. De titel ing. mag worden gevoerd als je een hbo-opleiding hebt gevolgd op het terrein van de landbouw en natuurlijke omgeving of op het gebied van de techniek, zoals opgenomen in het Centraal register opleidingen hoger onderwijs.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6485,7 +6485,7 @@ Ik heb een afgeronde MOopleiding 1e en 2e graad Mag ik de titel Master of Educat
 <template>
 <think><set name="topic">titulatuur en graden</set></think>
 Deze vraag wordt meestal gesteld in het kader van de prestatieafspraken, waarin is afgesproken dat MO-opleidingen als masterwaardig worden aangemerkt. Deze afspraak geeft echter niet het recht om de titel Master of Education te voeren. Als je voor 1987 de opleiding hebt afgerond, kun je de titel baccalaureus bc. voeren. Ben je na 1987 afgestudeerd, dan kun je kiezen tussen de titels baccalaureus bc. en Bachelor B..
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6495,7 +6495,7 @@ Mag ik een beschermde titel voeren als ik geen opleiding in het hoger onderwijs 
 <template>
 <think><set name="topic">titulatuur en graden</set></think>
 Nee, dit mag niet. Beschermde titels zijn: dr., ir., mr., drs., ing., en bc. Alleen met een hbo- of universitair diploma mag je afhankelijk van je opleiding, deze titels voeren.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6513,7 +6513,7 @@ Klik hier
 https://www.rug.nl/alumni/contact/edit-personal-details
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6539,12 +6539,12 @@ Klik hier
 http://www.mijndiplomas.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
 <pattern>
-Hoe kom ik aan een gewaarmerkte kopie van mijn diploma/cijferlijst 
+Hoe kom ik aan een gewaarmerkte kopie van mijn diploma en cijferlijst 
 </pattern>
 <template>
 <think><set name="topic">alumni</set></think>
@@ -6573,7 +6573,7 @@ Klik hier
 https://www.rug.nl/csa
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6599,7 +6599,7 @@ Klik hier
 https://www.rug.nl/csa
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6617,7 +6617,7 @@ Klik hier
 https://www.rug.nl/alumni/steun-de-rug/eric-bleumink-fund/doneren/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6635,7 +6635,7 @@ Klik hier
 https://www.rug.nl/about-us/organization/rules-and-regulations/onderwijs/onderwijs-en-examenregelingen/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6653,7 +6653,7 @@ Klik hier
 https://www.rug.nl/about-us/organization/rules-and-regulations/onderwijs/studentenstatuut/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6671,7 +6671,7 @@ Klik hier
 https://www.rug.nl/education/laws-regulations-complaints/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6705,7 +6705,7 @@ Klik hier
 https://gaiisap1.rcbiv.rug.nl:9644/afspraken/login/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6723,7 +6723,7 @@ Klik hier
 https://www.rug.nl/about-us/organization/rules-and-regulations/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6741,7 +6741,7 @@ Klik hier
 https://www.rug.nl/information-services
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6767,7 +6767,7 @@ Klik hier
 https://www.rug.nl/education/master/international-students/admission-and-application/application-admission-procedure/support/contact-admissions-office
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6793,7 +6793,7 @@ Klik hier
 www.rug.nl/mu/ssc
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6811,7 +6811,7 @@ Klik hier
 https://www.rug.nl/education/contact/onderwijsadministraties
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6829,7 +6829,7 @@ Klik hier
 https://www.rug.nl/education/contact/study-advisors/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6847,7 +6847,7 @@ Klik hier
 https://www.rug.nl/education/contact/cashiers-office
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6865,7 +6865,7 @@ Klik hier
 https://www.duo.nl/particulier/student-hbo-of-universiteit/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6891,7 +6891,7 @@ Klik hier
 https://iwcn.nl/newcomers/settling-in/health-matters/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6917,7 +6917,7 @@ Klik hier
 https://www.ghuus.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6935,7 +6935,7 @@ Klik hier
 http://www.ukrant.nl/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6945,7 +6945,7 @@ Universiteitsbibliotheek
 <template>
 <think><set name="topic">voorzieningen</set></think>
 Alle studiezalen in de Universiteitsbibliotheek locaties Binnenstad en Zernike en de Centrale Medische Bibliotheek CMB zijn momenteel gesloten. De dienstverlening is beperkt.
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -6979,7 +6979,7 @@ Klik hier
 https://www.rug.nl/society-business/centre-for-information-technology/contact-cit-servicedesk
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7021,7 +7021,7 @@ Klik hier
 https://www.rug.nl/frw/education/prospective-student
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7031,7 +7031,7 @@ Studentendecaan
 <template>
 <think><set name="topic">voorzieningen</set></think>
 
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7041,7 +7041,7 @@ Studentenpsycholoog
 <template>
 <think><set name="topic">voorzieningen</set></think>
 
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7067,7 +7067,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/betalen/factuur
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7101,7 +7101,7 @@ Klik hier
 https://www.rug.nl/education/master/nederlandse-studenten/aanmelding-en-inschrijving/inschrijfprocedure-bijvakstudent
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7119,7 +7119,7 @@ Klik hier
 https://www.rug.nl//education/contact/onderwijsadministraties
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7137,7 +7137,7 @@ Klik hier
 https://www.rug.nl/education/laws-regulations-complaints/complaintobjectionappeal
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7155,7 +7155,7 @@ Klik hier
 https://www.rug.nl/education/laws-regulations-complaints/complaintobjectionappeal
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7181,7 +7181,7 @@ Klik hier
 https://www.rug.nl/csa
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7207,7 +7207,7 @@ Klik hier
 https://www.rug.nl/csa
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7241,7 +7241,7 @@ Klik hier
 https://www.rug.nl/csa
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7267,7 +7267,7 @@ Klik hier
 https://www.rug.nl/csa
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7293,7 +7293,7 @@ Klik hier
 https://www.rug.nl/csa
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7311,7 +7311,7 @@ Klik hier
 https://www.rug.nl/csa
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7337,7 +7337,7 @@ Klik hier
 https://www.rug.nl/education/contact/information-services/application-form-statements
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7355,7 +7355,7 @@ Klik hier
 https://www.rug.nl/about-us/organization/rules-and-regulations/onderwijs/graduation-fund-regulations
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7373,7 +7373,7 @@ Klik hier
 https://www.rug.nl/about-us/organization/rules-and-regulations/algemeen/regeling-inschrijving-collegegeld
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7391,7 +7391,7 @@ Klik hier
 https://www.rug.nl/about-us/organization/rules-and-regulations/onderwijs/handboek-bsa
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7409,7 +7409,7 @@ Klik hier
 https://www.rug.nl/about-us/organization/rules-and-regulations/
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7427,7 +7427,7 @@ Klik hier
 http://info.studielink.nl/nl/studenten/stappenplanstudielink/Pages/Default.aspx
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7445,7 +7445,7 @@ Klik hier
 https://www.rug.nl/education/international-students/application-procedure/support/instruction-manuals_-overview
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7463,7 +7463,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/aanmelding-en-inschrijving/verklaring-inschrijving
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 <category>
@@ -7481,7 +7481,7 @@ Klik hier
 https://www.rug.nl/education/bachelor/nederlandse-studenten/aanmelding-en-inschrijving/verklaring-inschrijving
 </url>
 </button>
-<br></br><br></br>Is hiermee je vraag over <get name ="topic"/> beantwoord?</template>
+<br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
 </aiml>

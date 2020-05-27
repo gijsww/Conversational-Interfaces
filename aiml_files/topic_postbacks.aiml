@@ -1956,8 +1956,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Wat moet ik doen als ik mijn bul kwijt ben</postback>
 </reply>
 <reply>
-<text>Hoe kom ik aan een gewaarmerkte kopie van mijn diploma/cijferlijst?</text>
-<postback>Hoe kom ik aan een gewaarmerkte kopie van mijn diploma/cijferlijst</postback>
+<text>Hoe kom ik aan een gewaarmerkte kopie van mijn diploma en cijferlijst?</text>
+<postback>Hoe kom ik aan een gewaarmerkte kopie van mijn diploma en cijferlijst</postback>
 </reply>
 <reply>
 <text>Hoe kom ik aan een Engelstalige examenverklaring?</text>
