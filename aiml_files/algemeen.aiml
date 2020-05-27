@@ -1,37 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="2.0">
     <category> 
-      <pattern> hoi #</pattern>
+      <pattern> <set>groeten</set> #</pattern>
       <template>Hoi! Ik ben een chatbot van de Rijksuniversiteit Groningen. Stel me een vraag! </template>
     </category>
     
     <category> 
-      <pattern> hallo #</pattern>
-      <template><srai>hoi #</srai> </template>
-    </category>
-    
-    <category> 
-      <pattern> hi #</pattern>
-      <template><srai>hoi #</srai> </template>
-    </category>
-    
-    <category> 
-      <pattern> Goedendag #</pattern>
-      <template><srai>hoi #</srai> </template>
-    </category>
-    
-    <category> 
-      <pattern> Goedemiddag #</pattern>
-      <template><srai>hoi #</srai> </template>
-    </category>    
-
-    <category> 
-      <pattern> Goedemorgen #</pattern>
-      <template><srai>hoi #</srai> </template>
-    </category>
-    
-    <category> 
-      <pattern> # tot ziens #</pattern>
+      <pattern> # <set>afsluiting</set> #</pattern>
       <template>
       <random>
       <li>Bedankt voor je vragen, tot de volgende keer! </li>
@@ -41,57 +16,6 @@
       </template>
     </category>
 
-    <category> 
-      <pattern> # doei #</pattern>
-      <template><srai># tot ziens #</srai> </template>
-    </category>
-
-    <category> 
-      <pattern> # fijne dag #</pattern>
-      <template><srai># tot ziens #</srai> </template>
-    </category>
-
-    <category> 
-      <pattern> # tot de volgende keer #</pattern>
-      <template><srai># tot ziens #</srai> </template>
-    </category>
-
-    <category> 
-      <pattern> # geen vragen #</pattern>
-      <template><srai># tot ziens #</srai> </template>
-    </category>
-
-    <category> 
-      <pattern> # geen vraag #</pattern>
-      <template><srai># tot ziens #</srai> </template>
-    </category>
-    
-    <category> 
-      <pattern> # voor mij is alles duidelijk #</pattern>
-      <template><srai># tot ziens #</srai> </template>
-    </category>
-    
-     <category> 
-      <pattern> # voor mij is alles duidelijk, #</pattern>
-      <template><srai># tot ziens #</srai> </template>
-    </category>
-    
-    <category> 
-      <pattern> # bedankt #</pattern>
-      <template><srai># tot ziens #</srai> </template>
-    </category>
-    
-    <category> 
-      <pattern> # dankjewel #</pattern>
-      <template><srai># tot ziens #</srai> </template>
-    </category>
-    
-    <category> 
-      <pattern> # dankje #</pattern>
-      <template><srai># tot ziens #</srai> </template>
-    </category>
-
-
     <category>
         <pattern>*</pattern>
         <template>
@@ -99,7 +23,7 @@
             <li>Sorry, daar heb ik geen antwoord op. Zou je je vraag anders kunnen formuleren?
     Ik kan vragen beantwoorden over onderwerpen als: In- en uitschrijven, geldzaken, begeleiding en advies, studieloopbaan en carrière, rechtspositie en activiteiten naast je studie.</li>
             <li>Ik snap niet helemaal wat je vraagt. Je kunt mij alles vragen wat gerelateerd is aan de Rijksuniversiteit Groningen. Ook kan ik moppen vertellen en een munt voor je opgooien.</li>
-            <li> Hmm... Daar weet ik het antwoord niet op.  Ik kan je wel vertellen hoe oud de Rijksuniversiteit Groningen is!</li>
+            <li> Hmm... Daar weet ik het antwoord niet op.  Ik kan je wel vertellen hoe oud de Rijskuniversiteit Groningen is!</li>
             <li> Ik weet veel, maar helaas niet alles. Vraag me iets wat betrekking heeft op het studeren aan de Rijksuniversiteit Groningen.</li>
         </random>
 
@@ -211,7 +135,7 @@
     </category>
 
     <category>
-        <pattern>Hoe oud ben ^</pattern>
+        <pattern><set>leeftijd</set></pattern>
         <template>2 maanden. Hoe oud ben jij?
         </template>
     </category>
@@ -231,14 +155,8 @@
     </category>
 
     <category>
-        <pattern>Hoe heet ^</pattern>
+        <pattern>^ <set>naambot</set> ^</pattern>
         <template>Ik heet Ruggibot, hoe heet jij?
-        </template>
-    </category>
-
-    <category>
-        <pattern>Wat is je naam</pattern>
-        <template><srai>hoe heet je</srai>
         </template>
     </category>
 
@@ -269,13 +187,13 @@
     </category>     
 
     <category>
-        <pattern>Wat is je geslacht</pattern>
+        <pattern><set>geslacht</set></pattern>
         <template>Dat zeg ik liever niet.
         </template>
     </category>    
 
     <category>
-        <pattern>Vertel eens iets grappigs</pattern>
+        <pattern>^ <set>mop</set> ^</pattern>
         <template>
             <random>
                 <li>Als je een stuk biefstuk laat garen door de zon... Mag je dan spreken van een zonnesteak?</li>
@@ -300,53 +218,16 @@
         </template>
     </category>    
 
-     <category>
+    <category>
         <pattern># munt op #</pattern>
         <template><srai># kop of munt #</srai>
         </template>
     </category>
 
-
     <category>
-        <pattern>Kun je ook moppen vertellen</pattern>
-        <template><srai>Vertel eens iets grappigs</srai>
-        </template>
-    </category>
-
-    <category>
-        <pattern>^ mop ^</pattern>
-        <template> <srai>Vertel eens iets grappigs</srai>
-        </template>
-    </category>
-
-    <category>
-        <pattern>^ what ^</pattern>
-        <template> Sorry, ik praat alleen Nederlands. <br></br>
+        <pattern>^ <set>engels</set> ^</pattern>
+        <template> Sorry, ik praat alleen Nederlands.<br/>
         Sorry, I only speak Dutch.
-        </template>
-    </category>
-
-    <category>
-        <pattern>^ why ^</pattern>
-        <template> <srai>^ what ^</srai>
-        </template>
-    </category>
-
-    <category>
-        <pattern>^ how ^</pattern>
-        <template> <srai>^ what ^</srai>
-        </template>
-    </category>
-
-    <category>
-        <pattern>^ can ^</pattern>
-        <template> <srai>^ what ^</srai>
-        </template>
-    </category>
-
-    <category>
-        <pattern>^ know ^</pattern>
-        <template> <srai>^ what ^</srai>
         </template>
     </category>
 
@@ -368,7 +249,16 @@
         </template>
     </category>
 
+    <category>
+        <pattern>^ <set>ja</set> ^</pattern>
+        <template> Nee.
+        </template>
+    </category>
 
-
+    <category>
+        <pattern>^ <set>nee</set> ^</pattern>
+        <template> Ja.
+        </template>
+    </category>
 
 </aiml>
