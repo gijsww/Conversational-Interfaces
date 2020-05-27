@@ -4,7 +4,7 @@
 ^ verschil ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is het verschil tussen aanmelden en inschrijven?</text>
 <postback>Wat is het verschil tussen aanmelden en inschrijven</postback>
@@ -21,7 +21,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ tussen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is het verschil tussen aanmelden en inschrijven?</text>
 <postback>Wat is het verschil tussen aanmelden en inschrijven</postback>
@@ -46,7 +46,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ aanmelden ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is het verschil tussen aanmelden en inschrijven?</text>
 <postback>Wat is het verschil tussen aanmelden en inschrijven</postback>
@@ -87,7 +87,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ inschrijven ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is het verschil tussen aanmelden en inschrijven?</text>
 <postback>Wat is het verschil tussen aanmelden en inschrijven</postback>
@@ -136,7 +136,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ meld ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe meld ik me aan voor een bacheloropleiding?</text>
 <postback>Hoe meld ik me aan voor een bacheloropleiding</postback>
@@ -173,7 +173,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ bacheloropleiding ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe meld ik me aan voor een bacheloropleiding?</text>
 <postback>Hoe meld ik me aan voor een bacheloropleiding</postback>
@@ -202,7 +202,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ masteropleiding ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe meld ik me aan voor een masteropleiding?</text>
 <postback>Hoe meld ik me aan voor een masteropleiding</postback>
@@ -236,7 +236,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ via ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb me aangemeld via Studielink Wat moet ik nu doen?</text>
 <postback>Ik heb me aangemeld via Studielink Wat moet ik nu doen</postback>
@@ -273,7 +273,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ studielink ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb me aangemeld via Studielink Wat moet ik nu doen?</text>
 <postback>Ik heb me aangemeld via Studielink Wat moet ik nu doen</postback>
@@ -342,7 +342,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ persoonsgegevens ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat moet ik doen als mijn persoonsgegevens volgens Studielink niet gecontroleerd kunnen worden?</text>
 <postback>Wat moet ik doen als mijn persoonsgegevens volgens Studielink niet gecontroleerd kunnen worden</postback>
@@ -386,7 +386,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ gaat ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat moet ik doen als er iets mis gaat met mijn aanmelding via Studielink?</text>
 <postback>Wat moet ik doen als er iets mis gaat met mijn aanmelding via Studielink</postback>
@@ -412,7 +412,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ welke ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Welke opleidingen geven rechtstreeks toelating tot de universiteit?</text>
 <postback>Welke opleidingen geven rechtstreeks toelating tot de universiteit</postback>
@@ -493,7 +493,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ opleidingen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Welke opleidingen geven rechtstreeks toelating tot de universiteit?</text>
 <postback>Welke opleidingen geven rechtstreeks toelating tot de universiteit</postback>
@@ -552,7 +552,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ toelating ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Welke opleidingen geven rechtstreeks toelating tot de universiteit?</text>
 <postback>Welke opleidingen geven rechtstreeks toelating tot de universiteit</postback>
@@ -581,7 +581,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ universiteit ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Welke opleidingen geven rechtstreeks toelating tot de universiteit?</text>
 <postback>Welke opleidingen geven rechtstreeks toelating tot de universiteit</postback>
@@ -610,7 +610,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ vwodiploma ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ben ik met een vwodiploma toelaatbaar tot een bacheloropleiding?</text>
 <postback>Ben ik met een vwodiploma toelaatbaar tot een bacheloropleiding</postback>
@@ -627,7 +627,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ toelaatbaar ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ben ik met een vwodiploma toelaatbaar tot een bacheloropleiding?</text>
 <postback>Ben ik met een vwodiploma toelaatbaar tot een bacheloropleiding</postback>
@@ -688,7 +688,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ opleiding ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat kan ik doen als mijn profiel niet toereikend is voor de opleiding van mijn voorkeur?</text>
 <postback>Wat kan ik doen als mijn profiel niet toereikend is voor de opleiding van mijn voorkeur</postback>
@@ -780,7 +780,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ vwo ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kan ik ook toegelaten worden met deelcertificaten als ik mijn VWO diploma niet haal?</text>
 <postback>Kan ik ook toegelaten worden met deelcertificaten als ik mijn VWO diploma niet haal</postback>
@@ -797,7 +797,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ diploma ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kan ik ook toegelaten worden met deelcertificaten als ik mijn VWO diploma niet haal?</text>
 <postback>Kan ik ook toegelaten worden met deelcertificaten als ik mijn VWO diploma niet haal</postback>
@@ -834,7 +834,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ haal ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kan ik ook toegelaten worden met deelcertificaten als ik mijn VWO diploma niet haal?</text>
 <postback>Kan ik ook toegelaten worden met deelcertificaten als ik mijn VWO diploma niet haal</postback>
@@ -855,7 +855,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ hbopropedeuse ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding?</text>
 <postback>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding</postback>
@@ -872,7 +872,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ universitaire ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding?</text>
 <postback>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding</postback>
@@ -918,7 +918,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ gehaald ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Maakt het uit welke hbopropedeuse ik heb gehaald als ik naar de universiteit wil?</text>
 <postback>Maakt het uit welke hbopropedeuse ik heb gehaald als ik naar de universiteit wil</postback>
@@ -939,7 +939,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ instromen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kan ik instromen in een hoger studiejaar?</text>
 <postback>Kan ik instromen in een hoger studiejaar</postback>
@@ -968,7 +968,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ hoger ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kan ik instromen in een hoger studiejaar?</text>
 <postback>Kan ik instromen in een hoger studiejaar</postback>
@@ -985,7 +985,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ studiejaar ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kan ik instromen in een hoger studiejaar?</text>
 <postback>Kan ik instromen in een hoger studiejaar</postback>
@@ -1031,7 +1031,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ masterprogramma ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kan ik met een hbobachelordiploma instromen in een masterprogramma?</text>
 <postback>Kan ik met een hbobachelordiploma instromen in een masterprogramma</postback>
@@ -1048,7 +1048,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ recht ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Heb ik recht op extra studiefinanciering?</text>
 <postback>Heb ik recht op extra studiefinanciering</postback>
@@ -1069,7 +1069,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ extra ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Heb ik recht op extra studiefinanciering?</text>
 <postback>Heb ik recht op extra studiefinanciering</postback>
@@ -1086,7 +1086,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ studiefinanciering ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Heb ik recht op extra studiefinanciering?</text>
 <postback>Heb ik recht op extra studiefinanciering</postback>
@@ -1131,7 +1131,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ stoppen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kan ik stoppen als het niet bevalt?</text>
 <postback>Kan ik stoppen als het niet bevalt</postback>
@@ -1191,7 +1191,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ jaar ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Toelating via het voorbereidend jaar voor anderstaligen?</text>
 <postback>Toelating via het voorbereidend jaar voor anderstaligen</postback>
@@ -1262,7 +1262,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ vooropleiding ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb niet de juiste vooropleiding Kan ik dan toch naar de universiteit?</text>
 <postback>Ik heb niet de juiste vooropleiding Kan ik dan toch naar de universiteit</postback>
@@ -1288,7 +1288,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ mogelijkheden ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb een havodiploma Wat zijn de mogelijkheden?</text>
 <postback>Ik heb een havodiploma Wat zijn de mogelijkheden</postback>
@@ -1345,7 +1345,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ rug ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kan ik met een universitair bachelordiploma instromen in een masterprogramma van de RUG?</text>
 <postback>Kan ik met een universitair bachelordiploma instromen in een masterprogramma van de RUG</postback>
@@ -1402,7 +1402,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ beginnen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik wil beginnen aan mastervakken en heb mijn bacheloropleiding nog niet afgerond Kan ik me alvast registreren voor de masteropleiding?</text>
 <postback>Ik wil beginnen aan mastervakken en heb mijn bacheloropleiding nog niet afgerond Kan ik me alvast registreren voor de masteropleiding</postback>
@@ -1436,7 +1436,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ afgerond ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik wil beginnen aan mastervakken en heb mijn bacheloropleiding nog niet afgerond Kan ik me alvast registreren voor de masteropleiding?</text>
 <postback>Ik wil beginnen aan mastervakken en heb mijn bacheloropleiding nog niet afgerond Kan ik me alvast registreren voor de masteropleiding</postback>
@@ -1485,7 +1485,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ alvast ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik wil beginnen aan mastervakken en heb mijn bacheloropleiding nog niet afgerond Kan ik me alvast registreren voor de masteropleiding?</text>
 <postback>Ik wil beginnen aan mastervakken en heb mijn bacheloropleiding nog niet afgerond Kan ik me alvast registreren voor de masteropleiding</postback>
@@ -1524,7 +1524,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ master ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe meld ik me aan voor een researchmaster of andere master met aanvullende toelatingseisen?</text>
 <postback>Hoe meld ik me aan voor een researchmaster of andere master met aanvullende toelatingseisen</postback>
@@ -1571,7 +1571,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ verklaring ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is een verklaring toelating tot het afsluitend examen VTAE?</text>
 <postback>Wat is een verklaring toelating tot het afsluitend examen VTAE</postback>
@@ -1612,7 +1612,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ afsluitend ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is een verklaring toelating tot het afsluitend examen VTAE?</text>
 <postback>Wat is een verklaring toelating tot het afsluitend examen VTAE</postback>
@@ -1629,7 +1629,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ examen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is een verklaring toelating tot het afsluitend examen VTAE?</text>
 <postback>Wat is een verklaring toelating tot het afsluitend examen VTAE</postback>
@@ -1646,7 +1646,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ vtae ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is een verklaring toelating tot het afsluitend examen VTAE?</text>
 <postback>Wat is een verklaring toelating tot het afsluitend examen VTAE</postback>
@@ -1663,7 +1663,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ numerus ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is een numerus fixusopleiding?</text>
 <postback>Wat is een numerus fixusopleiding</postback>
@@ -1684,7 +1684,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ fixusopleiding ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is een numerus fixusopleiding?</text>
 <postback>Wat is een numerus fixusopleiding</postback>
@@ -1709,7 +1709,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ rijksuniversiteit ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Voor welke opleidingen aan de Rijksuniversiteit Groningen is er een selectie?</text>
 <postback>Voor welke opleidingen aan de Rijksuniversiteit Groningen is er een selectie</postback>
@@ -1734,7 +1734,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ groningen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Voor welke opleidingen aan de Rijksuniversiteit Groningen is er een selectie?</text>
 <postback>Voor welke opleidingen aan de Rijksuniversiteit Groningen is er een selectie</postback>
@@ -1767,7 +1767,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ selectie ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Voor welke opleidingen aan de Rijksuniversiteit Groningen is er een selectie?</text>
 <postback>Voor welke opleidingen aan de Rijksuniversiteit Groningen is er een selectie</postback>
@@ -1813,7 +1813,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ matching ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe zit het met de matching?</text>
 <postback>Hoe zit het met de matching</postback>
@@ -1846,7 +1846,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ hoeveel ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Voor hoeveel numerus fixusopleiding kan ik mij aanmelden?</text>
 <postback>Voor hoeveel numerus fixusopleiding kan ik mij aanmelden</postback>
@@ -1887,7 +1887,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ sta ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik sta al bij de RUG ingeschreven en wil meedoen aan de selectie voor een fixusopleiding Moet ik me ook aanmelden bij Studielink?</text>
 <postback>Ik sta al bij de RUG ingeschreven en wil meedoen aan de selectie voor een fixusopleiding Moet ik me ook aanmelden bij Studielink</postback>
@@ -1912,7 +1912,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ ingeschreven ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik sta al bij de RUG ingeschreven en wil meedoen aan de selectie voor een fixusopleiding Moet ik me ook aanmelden bij Studielink?</text>
 <postback>Ik sta al bij de RUG ingeschreven en wil meedoen aan de selectie voor een fixusopleiding Moet ik me ook aanmelden bij Studielink</postback>
@@ -1941,7 +1941,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ meedoen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik sta al bij de RUG ingeschreven en wil meedoen aan de selectie voor een fixusopleiding Moet ik me ook aanmelden bij Studielink?</text>
 <postback>Ik sta al bij de RUG ingeschreven en wil meedoen aan de selectie voor een fixusopleiding Moet ik me ook aanmelden bij Studielink</postback>
@@ -1988,7 +1988,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ studeren ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb al een HBOV diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie?</text>
 <postback>Ik heb al een HBOV diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie</postback>
@@ -2064,7 +2064,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ mee ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Moeten mijn persoonsgegevens geverifieerd zijn voordat ik mee kan doen aan de selectie?</text>
 <postback>Moeten mijn persoonsgegevens geverifieerd zijn voordat ik mee kan doen aan de selectie</postback>
@@ -2094,7 +2094,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ mag ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe vaak mag ik mee doen aan de selectie?</text>
 <postback>Hoe vaak mag ik mee doen aan de selectie</postback>
@@ -2167,7 +2167,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ weet ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe weet ik of ik al een selectiepoging hebt verbruikt?</text>
 <postback>Hoe weet ik of ik al een selectiepoging hebt verbruikt</postback>
@@ -2266,7 +2266,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ klopt ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat moet ik doen als het aantal geregistreerde selectiepogingen niet klopt?</text>
 <postback>Wat moet ik doen als het aantal geregistreerde selectiepogingen niet klopt</postback>
@@ -2292,7 +2292,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ wanneer ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wanneer weet ik of ik ben geselecteerd?</text>
 <postback>Wanneer weet ik of ik ben geselecteerd</postback>
@@ -2389,7 +2389,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ geselecteerd ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wanneer weet ik of ik ben geselecteerd?</text>
 <postback>Wanneer weet ik of ik ben geselecteerd</postback>
@@ -2410,7 +2410,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ gebeurt ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal?</text>
 <postback>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal</postback>
@@ -2443,7 +2443,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ wel ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal?</text>
 <postback>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal</postback>
@@ -2460,7 +2460,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ waar ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Waar vind ik meer informatie over de selectie?</text>
 <postback>Waar vind ik meer informatie over de selectie</postback>
@@ -2513,7 +2513,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ vind ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Waar vind ik meer informatie over de selectie?</text>
 <postback>Waar vind ik meer informatie over de selectie</postback>
@@ -2542,7 +2542,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ informatie ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Waar vind ik meer informatie over de selectie?</text>
 <postback>Waar vind ik meer informatie over de selectie</postback>
@@ -2583,7 +2583,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ bezwaar ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe kan ik bezwaar aantekenen?</text>
 <postback>Hoe kan ik bezwaar aantekenen</postback>
@@ -2617,7 +2617,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ waarom ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is matching en waarom moet ik meedoen?</text>
 <postback>Wat is matching en waarom moet ik meedoen</postback>
@@ -2642,7 +2642,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ ziet ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe ziet matching er uit?</text>
 <postback>Hoe ziet matching er uit</postback>
@@ -2672,7 +2672,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ alle ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Is er matching bij alle opleidingen?</text>
 <postback>Is er matching bij alle opleidingen</postback>
@@ -2689,7 +2689,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ matchingsdagen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wanneer zijn de matchingsdagen?</text>
 <postback>Wanneer zijn de matchingsdagen</postback>
@@ -2706,7 +2706,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ komen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat als ik niet kan komen op de matchingsdag?</text>
 <postback>Wat als ik niet kan komen op de matchingsdag</postback>
@@ -2741,7 +2741,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ twee ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen?</text>
 <postback>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</postback>
@@ -2782,7 +2782,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ studies ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen?</text>
 <postback>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</postback>
@@ -2834,7 +2834,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ voldaan ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wanneer heb ik aan de studiekeuzecheck voldaan?</text>
 <postback>Wanneer heb ik aan de studiekeuzecheck voldaan</postback>
@@ -2851,7 +2851,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ schrijf ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe schrijf ik me in bij de RUG?</text>
 <postback>Hoe schrijf ik me in bij de RUG</postback>
@@ -2885,7 +2885,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ opnieuw ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Moet ik me ieder jaar opnieuw inschrijven?</text>
 <postback>Moet ik me ieder jaar opnieuw inschrijven</postback>
@@ -2911,7 +2911,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ geeft ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Studielink geeft aan dat ik mij binnen tien dagen moet inschrijven omdat anders mijn plaatsingsbewijs vervalt?</text>
 <postback>Studielink geeft aan dat ik mij binnen tien dagen moet inschrijven omdat anders mijn plaatsingsbewijs vervalt</postback>
@@ -2928,7 +2928,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ binnen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Studielink geeft aan dat ik mij binnen tien dagen moet inschrijven omdat anders mijn plaatsingsbewijs vervalt?</text>
 <postback>Studielink geeft aan dat ik mij binnen tien dagen moet inschrijven omdat anders mijn plaatsingsbewijs vervalt</postback>
@@ -2954,7 +2954,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ dagen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Studielink geeft aan dat ik mij binnen tien dagen moet inschrijven omdat anders mijn plaatsingsbewijs vervalt?</text>
 <postback>Studielink geeft aan dat ik mij binnen tien dagen moet inschrijven omdat anders mijn plaatsingsbewijs vervalt</postback>
@@ -2971,7 +2971,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ anders ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Studielink geeft aan dat ik mij binnen tien dagen moet inschrijven omdat anders mijn plaatsingsbewijs vervalt?</text>
 <postback>Studielink geeft aan dat ik mij binnen tien dagen moet inschrijven omdat anders mijn plaatsingsbewijs vervalt</postback>
@@ -3006,7 +3006,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ word ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe word ik op de hoogte gehouden van mijn inschrijvingsverzoek?</text>
 <postback>Hoe word ik op de hoogte gehouden van mijn inschrijvingsverzoek</postback>
@@ -3027,7 +3027,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ hoogte ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe word ik op de hoogte gehouden van mijn inschrijvingsverzoek?</text>
 <postback>Hoe word ik op de hoogte gehouden van mijn inschrijvingsverzoek</postback>
@@ -3062,7 +3062,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ vakken ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wanneer moet ik me inschrijven als ik vakken wil volgen die pas in het tweede half jaar worden gegeven?</text>
 <postback>Wanneer moet ik me inschrijven als ik vakken wil volgen die pas in het tweede half jaar worden gegeven</postback>
@@ -3087,7 +3087,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ volgen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wanneer moet ik me inschrijven als ik vakken wil volgen die pas in het tweede half jaar worden gegeven?</text>
 <postback>Wanneer moet ik me inschrijven als ik vakken wil volgen die pas in het tweede half jaar worden gegeven</postback>
@@ -3121,7 +3121,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ tweede ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wanneer moet ik me inschrijven als ik vakken wil volgen die pas in het tweede half jaar worden gegeven?</text>
 <postback>Wanneer moet ik me inschrijven als ik vakken wil volgen die pas in het tweede half jaar worden gegeven</postback>
@@ -3142,7 +3142,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ half ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wanneer moet ik me inschrijven als ik vakken wil volgen die pas in het tweede half jaar worden gegeven?</text>
 <postback>Wanneer moet ik me inschrijven als ik vakken wil volgen die pas in het tweede half jaar worden gegeven</postback>
@@ -3171,7 +3171,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ gegeven ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wanneer moet ik me inschrijven als ik vakken wil volgen die pas in het tweede half jaar worden gegeven?</text>
 <postback>Wanneer moet ik me inschrijven als ik vakken wil volgen die pas in het tweede half jaar worden gegeven</postback>
@@ -3188,7 +3188,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ herinschrijving ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe weet ik dat mijn herinschrijving in orde is?</text>
 <postback>Hoe weet ik dat mijn herinschrijving in orde is</postback>
@@ -3232,7 +3232,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ weer ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik stond vorig studiejaar niet ingeschreven Hoe kan ik me weer inschrijven?</text>
 <postback>Ik stond vorig studiejaar niet ingeschreven Hoe kan ik me weer inschrijven</postback>
@@ -3276,7 +3276,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ schrijven ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Houd ik mijn eigen studentnummer als ik me weer opnieuw in wil schrijven?</text>
 <postback>Houd ik mijn eigen studentnummer als ik me weer opnieuw in wil schrijven</postback>
@@ -3293,7 +3293,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ premasterprogramma ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is een premasterprogramma?</text>
 <postback>Wat is een premasterprogramma</postback>
@@ -3314,7 +3314,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ ga ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik ga halverwege het studiejaar aan mijn master beginnen Moet ik me er alvast voor inschrijven?</text>
 <postback>Ik ga halverwege het studiejaar aan mijn master beginnen Moet ik me er alvast voor inschrijven</postback>
@@ -3366,7 +3366,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ doe ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik doe twee studies aan de RUG maar ik wil met één daarvan stoppen Hoe doe ik dat?</text>
 <postback>Ik doe twee studies aan de RUG maar ik wil met één daarvan stoppen Hoe doe ik dat</postback>
@@ -3399,7 +3399,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ één ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik doe twee studies aan de RUG maar ik wil met één daarvan stoppen Hoe doe ik dat?</text>
 <postback>Ik doe twee studies aan de RUG maar ik wil met één daarvan stoppen Hoe doe ik dat</postback>
@@ -3436,7 +3436,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ daarvan ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik doe twee studies aan de RUG maar ik wil met één daarvan stoppen Hoe doe ik dat?</text>
 <postback>Ik doe twee studies aan de RUG maar ik wil met één daarvan stoppen Hoe doe ik dat</postback>
@@ -3462,7 +3462,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ studie ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe verander ik van studie tijdens het collegejaar?</text>
 <postback>Hoe verander ik van studie tijdens het collegejaar</postback>
@@ -3503,7 +3503,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ tijdens ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe verander ik van studie tijdens het collegejaar?</text>
 <postback>Hoe verander ik van studie tijdens het collegejaar</postback>
@@ -3545,7 +3545,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ instelling ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik sta ingeschreven bij de RUG en ik wil me ook inschrijven bij een andere instelling Wat moet ik doen?</text>
 <postback>Ik sta ingeschreven bij de RUG en ik wil me ook inschrijven bij een andere instelling Wat moet ik doen</postback>
@@ -3566,7 +3566,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ regel ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik wil twee studies doen aan de RUG Kan dat Hoe regel ik dat?</text>
 <postback>Ik wil twee studies doen aan de RUG Kan dat Hoe regel ik dat</postback>
@@ -3583,7 +3583,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ inschrijving ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kan ik mijn inschrijving annuleren?</text>
 <postback>Kan ik mijn inschrijving annuleren</postback>
@@ -3652,7 +3652,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ herinschrijven ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe kan ik mij herinschrijven?</text>
 <postback>Hoe kan ik mij herinschrijven</postback>
@@ -3690,7 +3690,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ 1 ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Moet ik mij herinschrijven als ik nog niet weet of ik voor 1 september afstudeer?</text>
 <postback>Moet ik mij herinschrijven als ik nog niet weet of ik voor 1 september afstudeer</postback>
@@ -3739,7 +3739,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ september ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Moet ik mij herinschrijven als ik nog niet weet of ik voor 1 september afstudeer?</text>
 <postback>Moet ik mij herinschrijven als ik nog niet weet of ik voor 1 september afstudeer</postback>
@@ -3785,7 +3785,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ krijg ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Moet ik mij nog herinschrijven als ik mijn diploma in september krijg?</text>
 <postback>Moet ik mij nog herinschrijven als ik mijn diploma in september krijg</postback>
@@ -3857,7 +3857,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ uitschrijven ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe moet ik mij uitschrijven?</text>
 <postback>Hoe moet ik mij uitschrijven</postback>
@@ -3878,7 +3878,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ afstuderen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Word ik na mijn afstuderen automatisch uitgeschreven?</text>
 <postback>Word ik na mijn afstuderen automatisch uitgeschreven</postback>
@@ -3895,7 +3895,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ automatisch ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Word ik na mijn afstuderen automatisch uitgeschreven?</text>
 <postback>Word ik na mijn afstuderen automatisch uitgeschreven</postback>
@@ -3912,7 +3912,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ uitgeschreven ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Word ik na mijn afstuderen automatisch uitgeschreven?</text>
 <postback>Word ik na mijn afstuderen automatisch uitgeschreven</postback>
@@ -3933,7 +3933,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ per ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Per wanneer word ik uitgeschreven?</text>
 <postback>Per wanneer word ik uitgeschreven</postback>
@@ -3981,7 +3981,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ verzoek ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kan ik mijn verzoek tot uitschrijven terugdraaien?</text>
 <postback>Kan ik mijn verzoek tot uitschrijven terugdraaien</postback>
@@ -4016,7 +4016,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ collegegeld ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Restitutie collegegeld?</text>
 <postback>Restitutie collegegeld</postback>
@@ -4157,7 +4157,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ gevolgen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Gevolgen uitschrijving voor studiefinanciering DUO?</text>
 <postback>Gevolgen uitschrijving voor studiefinanciering DUO</postback>
@@ -4183,7 +4183,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ duo ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Gevolgen uitschrijving voor studiefinanciering DUO?</text>
 <postback>Gevolgen uitschrijving voor studiefinanciering DUO</postback>
@@ -4209,7 +4209,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ nieuwe ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Animatiefilmpje over Nieuwe Studielink?</text>
 <postback>Animatiefilmpje over Nieuwe Studielink</postback>
@@ -4242,7 +4242,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ nederlands ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb een Nederlands woonadres?</text>
 <postback>Ik heb een Nederlands woonadres</postback>
@@ -4259,7 +4259,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ woonadres ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb een Nederlands woonadres?</text>
 <postback>Ik heb een Nederlands woonadres</postback>
@@ -4294,7 +4294,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ terecht ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Waar kan ik terecht met mijn vragen over het gebruik van Studielink?</text>
 <postback>Waar kan ik terecht met mijn vragen over het gebruik van Studielink</postback>
@@ -4311,7 +4311,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ vragen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Waar kan ik terecht met mijn vragen over het gebruik van Studielink?</text>
 <postback>Waar kan ik terecht met mijn vragen over het gebruik van Studielink</postback>
@@ -4364,7 +4364,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ rugaccount ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is een RUGaccount?</text>
 <postback>Wat is een RUGaccount</postback>
@@ -4478,7 +4478,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ geblokkeerd ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Waarom is mijn RUGaccount geblokkeerd?</text>
 <postback>Waarom is mijn RUGaccount geblokkeerd</postback>
@@ -4499,7 +4499,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ laten ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe kan ik mijn RUGaccount laten deblokkeren?</text>
 <postback>Hoe kan ik mijn RUGaccount laten deblokkeren</postback>
@@ -4525,7 +4525,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ termijn ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb een termijn van het collegegeld betaald Wanneer wordt mijn RUGaccount gedeblokkeerd?</text>
 <postback>Ik heb een termijn van het collegegeld betaald Wanneer wordt mijn RUGaccount gedeblokkeerd</postback>
@@ -4542,7 +4542,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ betaald ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb een termijn van het collegegeld betaald Wanneer wordt mijn RUGaccount gedeblokkeerd?</text>
 <postback>Ik heb een termijn van het collegegeld betaald Wanneer wordt mijn RUGaccount gedeblokkeerd</postback>
@@ -4601,7 +4601,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ ontvangen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kan ik nog mail ontvangen of versturen als mijn RUGaccount is geblokkeerd?</text>
 <postback>Kan ik nog mail ontvangen of versturen als mijn RUGaccount is geblokkeerd</postback>
@@ -4627,7 +4627,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ gegevens ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat gebeurt er met mijn gegevens als mijn RUGaccount is geblokkeerd?</text>
 <postback>Wat gebeurt er met mijn gegevens als mijn RUGaccount is geblokkeerd</postback>
@@ -4644,7 +4644,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ opgeheven ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wanneer wordt mijn RUGaccount opgeheven?</text>
 <postback>Wanneer wordt mijn RUGaccount opgeheven</postback>
@@ -4661,7 +4661,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ begin ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat gebeurt er met mijn RUGaccount als ik binnen een jaar met een nieuwe opleiding begin?</text>
 <postback>Wat gebeurt er met mijn RUGaccount als ik binnen een jaar met een nieuwe opleiding begin</postback>
@@ -4696,7 +4696,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ krijgen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kan ik na uitschrijven langer toegang krijgen tot mijn RUGaccount?</text>
 <postback>Kan ik na uitschrijven langer toegang krijgen tot mijn RUGaccount</postback>
@@ -4768,7 +4768,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ rugpas ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is een RUGpas?</text>
 <postback>Wat is een RUGpas</postback>
@@ -4813,7 +4813,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ pasfoto ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe kan ik een pasfoto voor de RUGpas uploaden?</text>
 <postback>Hoe kan ik een pasfoto voor de RUGpas uploaden</postback>
@@ -4830,7 +4830,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ uploaden ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe kan ik een pasfoto voor de RUGpas uploaden?</text>
 <postback>Hoe kan ik een pasfoto voor de RUGpas uploaden</postback>
@@ -4847,7 +4847,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ kwijt ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik ben mijn RUGpas kwijt cq deze is gestolen Hoe kom ik aan een nieuwe?</text>
 <postback>Ik ben mijn RUGpas kwijt cq deze is gestolen Hoe kom ik aan een nieuwe</postback>
@@ -4882,7 +4882,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ kom ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik ben mijn RUGpas kwijt cq deze is gestolen Hoe kom ik aan een nieuwe?</text>
 <postback>Ik ben mijn RUGpas kwijt cq deze is gestolen Hoe kom ik aan een nieuwe</postback>
@@ -4931,7 +4931,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ geld ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe kan ik geld storten op mijn RUGpas?</text>
 <postback>Hoe kan ik geld storten op mijn RUGpas</postback>
@@ -4970,7 +4970,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ nodig ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb mijn RUGpas nodig voor inschrijving bij mijn studentenvereniging of sportvereniging Kan ik alvast een inschrijfbewijs krijgen van de universiteit?</text>
 <postback>Ik heb mijn RUGpas nodig voor inschrijving bij mijn studentenvereniging of sportvereniging Kan ik alvast een inschrijfbewijs krijgen van de universiteit</postback>
@@ -5026,7 +5026,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ ontvang ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wanneer ontvang ik mijn RUGpas als ik me tijdens het studiejaar inschrijf?</text>
 <postback>Wanneer ontvang ik mijn RUGpas als ik me tijdens het studiejaar inschrijf</postback>
@@ -5043,7 +5043,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ inschrijf ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wanneer ontvang ik mijn RUGpas als ik me tijdens het studiejaar inschrijf?</text>
 <postback>Wanneer ontvang ik mijn RUGpas als ik me tijdens het studiejaar inschrijf</postback>
@@ -5086,7 +5086,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ introductieperiode ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Veiligheid en toezicht tijdens de introductieperiode?</text>
 <postback>Veiligheid en toezicht tijdens de introductieperiode</postback>
@@ -5103,7 +5103,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ keiweek ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>KEIweek: Introductieweek van de studentenstad?</text>
 <postback>KEIweek: Introductieweek van de studentenstad</postback>
@@ -5147,7 +5147,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ gezelligheidsvereniging ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe kies ik voor een gezelligheidsvereniging?</text>
 <postback>Hoe kies ik voor een gezelligheidsvereniging</postback>
@@ -5164,7 +5164,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ introductie ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe meld ik me aan voor de introductie van een gezelligheidsvereniging?</text>
 <postback>Hoe meld ik me aan voor de introductie van een gezelligheidsvereniging</postback>
@@ -5181,7 +5181,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ facultaire ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe meld ik me aan voor de introductie van een facultaire studievereniging?</text>
 <postback>Hoe meld ik me aan voor de introductie van een facultaire studievereniging</postback>
@@ -5215,7 +5215,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ internationale ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Is er een introductieperiode voor internationale studenten?</text>
 <postback>Is er een introductieperiode voor internationale studenten</postback>
@@ -5236,7 +5236,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ studenten ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Is er een introductieperiode voor internationale studenten?</text>
 <postback>Is er een introductieperiode voor internationale studenten</postback>
@@ -5317,7 +5317,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ tentamens ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Waar vind ik het rooster voor vakken en tentamens?</text>
 <postback>Waar vind ik het rooster voor vakken en tentamens</postback>
@@ -5365,7 +5365,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ boeken ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Welke boeken heb ik nodig en hoeveel kosten die?</text>
 <postback>Welke boeken heb ik nodig en hoeveel kosten die</postback>
@@ -5382,7 +5382,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ kosten ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Welke boeken heb ik nodig en hoeveel kosten die?</text>
 <postback>Welke boeken heb ik nodig en hoeveel kosten die</postback>
@@ -5412,7 +5412,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ adreswijziging ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Mijn adreswijziging doorgeven?</text>
 <postback>Mijn adreswijziging doorgeven</postback>
@@ -5429,7 +5429,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ doorgeven ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Mijn adreswijziging doorgeven?</text>
 <postback>Mijn adreswijziging doorgeven</postback>
@@ -5482,7 +5482,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ student ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Duaal student?</text>
 <postback>Duaal student</postback>
@@ -5601,7 +5601,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ tarieven ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Tarieven bacheloropleidingen?</text>
 <postback>Tarieven bacheloropleidingen</postback>
@@ -5654,7 +5654,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ betalen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Op welke manieren kan ik mijn collegegeld betalen?</text>
 <postback>Op welke manieren kan ik mijn collegegeld betalen</postback>
@@ -5707,7 +5707,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ keer ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik wil het collegegeld in één keer betalen Hoe doe ik dat?</text>
 <postback>Ik wil het collegegeld in één keer betalen Hoe doe ik dat</postback>
@@ -5737,7 +5737,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ werkgever ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Mijn werkgever betaalt het collegegeld maar kan dit niet doen via de machtiging Wat nu?</text>
 <postback>Mijn werkgever betaalt het collegegeld maar kan dit niet doen via de machtiging Wat nu</postback>
@@ -5763,7 +5763,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ machtiging ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Mijn werkgever betaalt het collegegeld maar kan dit niet doen via de machtiging Wat nu?</text>
 <postback>Mijn werkgever betaalt het collegegeld maar kan dit niet doen via de machtiging Wat nu</postback>
@@ -5789,7 +5789,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ betaal ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik betaal mijn collegegeld in één keer Wanneer wordt dit afgeschreven?</text>
 <postback>Ik betaal mijn collegegeld in één keer Wanneer wordt dit afgeschreven</postback>
@@ -5810,7 +5810,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ afgeschreven ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik betaal mijn collegegeld in één keer Wanneer wordt dit afgeschreven?</text>
 <postback>Ik betaal mijn collegegeld in één keer Wanneer wordt dit afgeschreven</postback>
@@ -5866,7 +5866,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ termijnen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe zorg ik er voor dat ik in termijnen kan betalen?</text>
 <postback>Hoe zorg ik er voor dat ik in termijnen kan betalen</postback>
@@ -5899,7 +5899,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ onvoldoende ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik betaal het collegegeld in termijnen Ik heb onvoldoende saldo voor de overschrijving Wat nu?</text>
 <postback>Ik betaal het collegegeld in termijnen Ik heb onvoldoende saldo voor de overschrijving Wat nu</postback>
@@ -5916,7 +5916,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ saldo ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik betaal het collegegeld in termijnen Ik heb onvoldoende saldo voor de overschrijving Wat nu?</text>
 <postback>Ik betaal het collegegeld in termijnen Ik heb onvoldoende saldo voor de overschrijving Wat nu</postback>
@@ -5991,7 +5991,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ voorwaarden ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat zijn de voorwaarden betaling collegegeld per machtiging?</text>
 <postback>Wat zijn de voorwaarden betaling collegegeld per machtiging</postback>
@@ -6025,7 +6025,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ terug ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wanneer krijg ik collegegeld terug?</text>
 <postback>Wanneer krijg ik collegegeld terug</postback>
@@ -6046,7 +6046,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ studeer ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik studeer binnenkort af Kan ik collegegeld terug krijgen?</text>
 <postback>Ik studeer binnenkort af Kan ik collegegeld terug krijgen</postback>
@@ -6099,7 +6099,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ gedaan ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik ben afgestudeerd en heb een verzoek tot uitschrijvingrestitutie collegegeld gedaan Toch wordt er nog steeds collegegeld van mijn rekening afgeschreven Klopt dit wel?</text>
 <postback>Ik ben afgestudeerd en heb een verzoek tot uitschrijvingrestitutie collegegeld gedaan Toch wordt er nog steeds collegegeld van mijn rekening afgeschreven Klopt dit wel</postback>
@@ -6116,7 +6116,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ steeds ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik ben afgestudeerd en heb een verzoek tot uitschrijvingrestitutie collegegeld gedaan Toch wordt er nog steeds collegegeld van mijn rekening afgeschreven Klopt dit wel?</text>
 <postback>Ik ben afgestudeerd en heb een verzoek tot uitschrijvingrestitutie collegegeld gedaan Toch wordt er nog steeds collegegeld van mijn rekening afgeschreven Klopt dit wel</postback>
@@ -6151,7 +6151,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ meerdere ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoeveel collegegeld moet ik betalen als ik voor meerdere opleidingen ingeschreven sta?</text>
 <postback>Hoeveel collegegeld moet ik betalen als ik voor meerdere opleidingen ingeschreven sta</postback>
@@ -6172,7 +6172,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ volg ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Moet ik twee keer collegegeld betalen als ik twee opleidingen aan de Rijksuniversiteit Groningen volg?</text>
 <postback>Moet ik twee keer collegegeld betalen als ik twee opleidingen aan de Rijksuniversiteit Groningen volg</postback>
@@ -6189,7 +6189,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ bewijs ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is een Bewijs Betaald Collegegeld?</text>
 <postback>Wat is een Bewijs Betaald Collegegeld</postback>
@@ -6214,7 +6214,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ naast ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik studeer naast de RUG ook aan een andere onderwijsinstelling in Nederland Hoe kom ik aan een Bewijs Betaald Collegegeld?</text>
 <postback>Ik studeer naast de RUG ook aan een andere onderwijsinstelling in Nederland Hoe kom ik aan een Bewijs Betaald Collegegeld</postback>
@@ -6244,7 +6244,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ nederland ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik studeer naast de RUG ook aan een andere onderwijsinstelling in Nederland Hoe kom ik aan een Bewijs Betaald Collegegeld?</text>
 <postback>Ik studeer naast de RUG ook aan een andere onderwijsinstelling in Nederland Hoe kom ik aan een Bewijs Betaald Collegegeld</postback>
@@ -6342,7 +6342,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ geldt ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Infographic collegegeldverlaging; wat geldt voor jou?</text>
 <postback>Infographic collegegeldverlaging; wat geldt voor jou</postback>
@@ -6368,7 +6368,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ financiële ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Financiële regeling voor studenten met een functiebeperking?</text>
 <postback>Financiële regeling voor studenten met een functiebeperking</postback>
@@ -6389,7 +6389,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ regeling ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Financiële regeling voor studenten met een functiebeperking?</text>
 <postback>Financiële regeling voor studenten met een functiebeperking</postback>
@@ -6410,7 +6410,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ functiebeperking ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Financiële regeling voor studenten met een functiebeperking?</text>
 <postback>Financiële regeling voor studenten met een functiebeperking</postback>
@@ -6466,7 +6466,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ profileringsfonds ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is het Profileringsfonds?</text>
 <postback>Wat is het Profileringsfonds</postback>
@@ -6492,7 +6492,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ aanvraag ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe dien ik een aanvraag voor het Profileringsfonds in?</text>
 <postback>Hoe dien ik een aanvraag voor het Profileringsfonds in</postback>
@@ -6540,7 +6540,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ college ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wanneer ontvang ik het besluit van het College van Bestuur?</text>
 <postback>Wanneer ontvang ik het besluit van het College van Bestuur</postback>
@@ -6613,7 +6613,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ bestuur ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wanneer ontvang ik het besluit van het College van Bestuur?</text>
 <postback>Wanneer ontvang ik het besluit van het College van Bestuur</postback>
@@ -6657,7 +6657,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ bewijsstukken ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>De statusbalk van de aanvraag geeft ‘bewijsstukken ontbreken aan’ Hoe weet ik welke bewijsstukken ontbreken?</text>
 <postback>De statusbalk van de aanvraag geeft ‘bewijsstukken ontbreken aan’ Hoe weet ik welke bewijsstukken ontbreken</postback>
@@ -6678,7 +6678,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ ontbreken ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>De statusbalk van de aanvraag geeft ‘bewijsstukken ontbreken aan’ Hoe weet ik welke bewijsstukken ontbreken?</text>
 <postback>De statusbalk van de aanvraag geeft ‘bewijsstukken ontbreken aan’ Hoe weet ik welke bewijsstukken ontbreken</postback>
@@ -6767,7 +6767,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ sociaal ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Sociaal leenstelsel per 1 september 2015?</text>
 <postback>Sociaal leenstelsel per 1 september 2015</postback>
@@ -6784,7 +6784,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ leenstelsel ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Sociaal leenstelsel per 1 september 2015?</text>
 <postback>Sociaal leenstelsel per 1 september 2015</postback>
@@ -6801,7 +6801,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ 2015 ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Sociaal leenstelsel per 1 september 2015?</text>
 <postback>Sociaal leenstelsel per 1 september 2015</postback>
@@ -6826,7 +6826,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ vraag ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe vraag ik studiefinanciering aan?</text>
 <postback>Hoe vraag ik studiefinanciering aan</postback>
@@ -6843,7 +6843,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ prestatiebeurs ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is een prestatiebeurs?</text>
 <postback>Wat is een prestatiebeurs</postback>
@@ -6887,7 +6887,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ vanaf ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat zijn de gevolgen als ik vanaf 1 september 2015 met mijn masteropleiding begin?</text>
 <postback>Wat zijn de gevolgen als ik vanaf 1 september 2015 met mijn masteropleiding begin</postback>
@@ -6985,7 +6985,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ heen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik ben helemaal door mijn studiefinanciering heen en moet nog een half jaar studeren Wat nu?</text>
 <postback>Ik ben helemaal door mijn studiefinanciering heen en moet nog een half jaar studeren Wat nu</postback>
@@ -7038,7 +7038,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ persoonlijke ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Bij wie kan ik terecht met een persoonlijke vraag?</text>
 <postback>Bij wie kan ik terecht met een persoonlijke vraag</postback>
@@ -7073,7 +7073,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ februari ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik stop voor 1 februari met mijn studie Moet ik mijn studiefinanciering dan terugbetalen?</text>
 <postback>Ik stop voor 1 februari met mijn studie Moet ik mijn studiefinanciering dan terugbetalen</postback>
@@ -7125,7 +7125,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ bleumink ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Erik Bleumink Fonds?</text>
 <postback>Erik Bleumink Fonds</postback>
@@ -7142,7 +7142,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ fonds ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Erik Bleumink Fonds?</text>
 <postback>Erik Bleumink Fonds</postback>
@@ -7163,7 +7163,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ kost ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Studeren wat kost dat?</text>
 <postback>Studeren wat kost dat</postback>
@@ -7207,7 +7207,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ verzekeren ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kunnen studenten zich voordelig tegen ziektekosten verzekeren?</text>
 <postback>Kunnen studenten zich voordelig tegen ziektekosten verzekeren</postback>
@@ -7296,7 +7296,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ solliciteren ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kan ik ook zelf solliciteren naar een plaats in het Honours College of moet ik wachten tot ik een uitnodiging krijg?</text>
 <postback>Kan ik ook zelf solliciteren naar een plaats in het Honours College of moet ik wachten tot ik een uitnodiging krijg</postback>
@@ -7313,7 +7313,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ plaats ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kan ik ook zelf solliciteren naar een plaats in het Honours College of moet ik wachten tot ik een uitnodiging krijg?</text>
 <postback>Kan ik ook zelf solliciteren naar een plaats in het Honours College of moet ik wachten tot ik een uitnodiging krijg</postback>
@@ -7334,7 +7334,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ honours ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kan ik ook zelf solliciteren naar een plaats in het Honours College of moet ik wachten tot ik een uitnodiging krijg?</text>
 <postback>Kan ik ook zelf solliciteren naar een plaats in het Honours College of moet ik wachten tot ik een uitnodiging krijg</postback>
@@ -7408,7 +7408,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ uitnodiging ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Kan ik ook zelf solliciteren naar een plaats in het Honours College of moet ik wachten tot ik een uitnodiging krijg?</text>
 <postback>Kan ik ook zelf solliciteren naar een plaats in het Honours College of moet ik wachten tot ik een uitnodiging krijg</postback>
@@ -7425,7 +7425,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ zeer ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik ben zeer gemotiveerd voor het Honours College maar voldoe niet aan de eisen?</text>
 <postback>Ik ben zeer gemotiveerd voor het Honours College maar voldoe niet aan de eisen</postback>
@@ -7442,7 +7442,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ gemotiveerd ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik ben zeer gemotiveerd voor het Honours College maar voldoe niet aan de eisen?</text>
 <postback>Ik ben zeer gemotiveerd voor het Honours College maar voldoe niet aan de eisen</postback>
@@ -7468,7 +7468,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ eisen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik ben zeer gemotiveerd voor het Honours College maar voldoe niet aan de eisen?</text>
 <postback>Ik ben zeer gemotiveerd voor het Honours College maar voldoe niet aan de eisen</postback>
@@ -7521,7 +7521,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ nederlandse ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik ben geen Nederlandse student en ik spreek alleen Engels Kan ik mij aanmelden voor het Honours College programma?</text>
 <postback>Ik ben geen Nederlandse student en ik spreek alleen Engels Kan ik mij aanmelden voor het Honours College programma</postback>
@@ -7556,7 +7556,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ engels ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik ben geen Nederlandse student en ik spreek alleen Engels Kan ik mij aanmelden voor het Honours College programma?</text>
 <postback>Ik ben geen Nederlandse student en ik spreek alleen Engels Kan ik mij aanmelden voor het Honours College programma</postback>
@@ -7581,7 +7581,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ programma ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik ben geen Nederlandse student en ik spreek alleen Engels Kan ik mij aanmelden voor het Honours College programma?</text>
 <postback>Ik ben geen Nederlandse student en ik spreek alleen Engels Kan ik mij aanmelden voor het Honours College programma</postback>
@@ -7637,7 +7637,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ allemaal ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik had op mijn eindexamen een 5 voor Engels en de rest waren allemaal goede cijfers Is dat een bezwaar?</text>
 <postback>Ik had op mijn eindexamen een 5 voor Engels en de rest waren allemaal goede cijfers Is dat een bezwaar</postback>
@@ -7712,7 +7712,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ eruit ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe ziet mijn verdiepende facultaire programma eruit?</text>
 <postback>Hoe ziet mijn verdiepende facultaire programma eruit</postback>
@@ -7765,7 +7765,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ onderwijs ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wordt al het onderwijs in het Engels gegeven?</text>
 <postback>Wordt al het onderwijs in het Engels gegeven</postback>
@@ -7875,7 +7875,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ twijfel ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik twijfel tussen solliciteren voor het Honours College en een tweede studie erbij doen Wat kan ik het beste doen?</text>
 <postback>Ik twijfel tussen solliciteren voor het Honours College en een tweede studie erbij doen Wat kan ik het beste doen</postback>
@@ -7937,7 +7937,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ 2e ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik ben nu 2e jaars student en heb mijn propedeuse gehaald kan ik nog instromen  meedoen?</text>
 <postback>Ik ben nu 2e jaars student en heb mijn propedeuse gehaald kan ik nog instromen  meedoen</postback>
@@ -7963,7 +7963,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ propedeuse ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik ben nu 2e jaars student en heb mijn propedeuse gehaald kan ik nog instromen  meedoen?</text>
 <postback>Ik ben nu 2e jaars student en heb mijn propedeuse gehaald kan ik nog instromen  meedoen</postback>
@@ -7993,7 +7993,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ halen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik wil eerst mijn propedeuse halen en dan in het Honours College instromen?</text>
 <postback>Ik wil eerst mijn propedeuse halen en dan in het Honours College instromen</postback>
@@ -8048,7 +8048,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ buitenland ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik wilmoet tijdens mijn bachelorstudie een half jaar  een jaar naar het buitenland om daar te studeren Kan dat?</text>
 <postback>Ik wilmoet tijdens mijn bachelorstudie een half jaar  een jaar naar het buitenland om daar te studeren Kan dat</postback>
@@ -8102,7 +8102,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ doet ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen?</text>
 <postback>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen</postback>
@@ -8146,7 +8146,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ minder ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Als ik niet meedoe aan het Honours College krijg ik dan minder goed onderwijs?</text>
 <postback>Als ik niet meedoe aan het Honours College krijg ik dan minder goed onderwijs</postback>
@@ -8163,7 +8163,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ goed ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Als ik niet meedoe aan het Honours College krijg ik dan minder goed onderwijs?</text>
 <postback>Als ik niet meedoe aan het Honours College krijg ik dan minder goed onderwijs</postback>
@@ -8188,7 +8188,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ bachelor ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb mijn Honours College programma afgerond maar mijn bachelor nog niet Mag ik meedoen met de Honours College buluitreiking?</text>
 <postback>Ik heb mijn Honours College programma afgerond maar mijn bachelor nog niet Mag ik meedoen met de Honours College buluitreiking</postback>
@@ -8254,7 +8254,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ hoor ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik vond het Honours College erg leuk en doe het daar ook goed maar mijn gewone studie gaat wat minder Nu hoor ik dat ik moet stoppen Waarom?</text>
 <postback>Ik vond het Honours College erg leuk en doe het daar ook goed maar mijn gewone studie gaat wat minder Nu hoor ik dat ik moet stoppen Waarom</postback>
@@ -8334,7 +8334,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ uitwisseling ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Zijn er taaleisen voor een uitwisseling?</text>
 <postback>Zijn er taaleisen voor een uitwisseling</postback>
@@ -8423,7 +8423,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ beurs ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe kan ik een beurs voor een uitwisselingsprogramma aanvragen?</text>
 <postback>Hoe kan ik een beurs voor een uitwisselingsprogramma aanvragen</postback>
@@ -8444,7 +8444,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ uitwisselingsprogramma ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe kan ik een beurs voor een uitwisselingsprogramma aanvragen?</text>
 <postback>Hoe kan ik een beurs voor een uitwisselingsprogramma aanvragen</postback>
@@ -8465,7 +8465,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ aanvragen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe kan ik een beurs voor een uitwisselingsprogramma aanvragen?</text>
 <postback>Hoe kan ik een beurs voor een uitwisselingsprogramma aanvragen</postback>
@@ -8509,7 +8509,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ studentendecaan ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb voor een particulier fonds een aanbevelingsbrief nodig van een studentendecaan Hoe kom ik daar aan?</text>
 <postback>Ik heb voor een particulier fonds een aanbevelingsbrief nodig van een studentendecaan Hoe kom ik daar aan</postback>
@@ -8597,7 +8597,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ bsa ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat is een BSA?</text>
 <postback>Wat is een BSA</postback>
@@ -8626,7 +8626,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ bindend ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Voor wie geldt het Bindend Studieadvies?</text>
 <postback>Voor wie geldt het Bindend Studieadvies</postback>
@@ -8651,7 +8651,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ studieadvies ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Voor wie geldt het Bindend Studieadvies?</text>
 <postback>Voor wie geldt het Bindend Studieadvies</postback>
@@ -8698,7 +8698,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ punten ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoeveel punten moet ik halen om een positief studieadvies te krijgen?</text>
 <postback>Hoeveel punten moet ik halen om een positief studieadvies te krijgen</postback>
@@ -8803,7 +8803,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ 45 ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik sta bij meer dan één opleiding ingeschreven Moet ik dan bij beide opleidingen 45 punten halen?</text>
 <postback>Ik sta bij meer dan één opleiding ingeschreven Moet ik dan bij beide opleidingen 45 punten halen</postback>
@@ -8856,7 +8856,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ voorzieningen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Welke voorzieningen biedt de RUG aan studenten met een functiebeperking?</text>
 <postback>Welke voorzieningen biedt de RUG aan studenten met een functiebeperking</postback>
@@ -8873,7 +8873,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ biedt ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Welke voorzieningen biedt de RUG aan studenten met een functiebeperking?</text>
 <postback>Welke voorzieningen biedt de RUG aan studenten met een functiebeperking</postback>
@@ -8890,7 +8890,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ regelingen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Welke financiële regelingen bestaan er voor studenten met een functiebeperking?</text>
 <postback>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</postback>
@@ -8952,7 +8952,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ begeleiding ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb dure begeleiding nodig waarvoor ik me niet kan verzekeren Is er hulp mogelijk?</text>
 <postback>Ik heb dure begeleiding nodig waarvoor ik me niet kan verzekeren Is er hulp mogelijk</postback>
@@ -8978,7 +8978,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ hulp ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb dure begeleiding nodig waarvoor ik me niet kan verzekeren Is er hulp mogelijk?</text>
 <postback>Ik heb dure begeleiding nodig waarvoor ik me niet kan verzekeren Is er hulp mogelijk</postback>
@@ -8999,7 +8999,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ mogelijk ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb dure begeleiding nodig waarvoor ik me niet kan verzekeren Is er hulp mogelijk?</text>
 <postback>Ik heb dure begeleiding nodig waarvoor ik me niet kan verzekeren Is er hulp mogelijk</postback>
@@ -9124,7 +9124,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ handicap ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Handicap + Studie expertisecentrum voor onderwijs en handicap?</text>
 <postback>Handicap + Studie expertisecentrum voor onderwijs en handicap</postback>
@@ -9222,7 +9222,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ beter ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe kan ik een tekst beter bestuderen en onthouden?</text>
 <postback>Hoe kan ik een tekst beter bestuderen en onthouden</postback>
@@ -9338,7 +9338,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ cursussen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Studeren in Nederland is soms best ingewikkeld Zijn er cursussen voor internationale studenten?</text>
 <postback>Studeren in Nederland is soms best ingewikkeld Zijn er cursussen voor internationale studenten</postback>
@@ -9391,7 +9391,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ studievertraging ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Wat moet ik doen als ik studievertraging heb?</text>
 <postback>Wat moet ik doen als ik studievertraging heb</postback>
@@ -9435,7 +9435,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ services ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Career Services?</text>
 <postback>Career Services</postback>
@@ -9506,7 +9506,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ titels ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb meerdere titels behaald Mag ik die allemaal voeren?</text>
 <postback>Ik heb meerdere titels behaald Mag ik die allemaal voeren</postback>
@@ -9532,7 +9532,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ voeren ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb meerdere titels behaald Mag ik die allemaal voeren?</text>
 <postback>Ik heb meerdere titels behaald Mag ik die allemaal voeren</postback>
@@ -9589,7 +9589,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ 2002 ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb na 2002 een universitaire opleiding afgerond Mag ik in plaats van de titel MSc of MA bijvoorbeeld de titel drs voeren?</text>
 <postback>Ik heb na 2002 een universitaire opleiding afgerond Mag ik in plaats van de titel MSc of MA bijvoorbeeld de titel drs voeren</postback>
@@ -9606,7 +9606,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ titel ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb na 2002 een universitaire opleiding afgerond Mag ik in plaats van de titel MSc of MA bijvoorbeeld de titel drs voeren?</text>
 <postback>Ik heb na 2002 een universitaire opleiding afgerond Mag ik in plaats van de titel MSc of MA bijvoorbeeld de titel drs voeren</postback>
@@ -9663,7 +9663,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ msc ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb na 2002 een universitaire opleiding afgerond Mag ik in plaats van de titel MSc of MA bijvoorbeeld de titel drs voeren?</text>
 <postback>Ik heb na 2002 een universitaire opleiding afgerond Mag ik in plaats van de titel MSc of MA bijvoorbeeld de titel drs voeren</postback>
@@ -9680,7 +9680,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ ma ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb na 2002 een universitaire opleiding afgerond Mag ik in plaats van de titel MSc of MA bijvoorbeeld de titel drs voeren?</text>
 <postback>Ik heb na 2002 een universitaire opleiding afgerond Mag ik in plaats van de titel MSc of MA bijvoorbeeld de titel drs voeren</postback>
@@ -9706,7 +9706,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ drs ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb na 2002 een universitaire opleiding afgerond Mag ik in plaats van de titel MSc of MA bijvoorbeeld de titel drs voeren?</text>
 <postback>Ik heb na 2002 een universitaire opleiding afgerond Mag ik in plaats van de titel MSc of MA bijvoorbeeld de titel drs voeren</postback>
@@ -9754,7 +9754,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ gevolgd ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb een universitaire masteropleiding in het buitenland gevolgd Mag ik de Nederlandse titel drs voeren?</text>
 <postback>Ik heb een universitaire masteropleiding in het buitenland gevolgd Mag ik de Nederlandse titel drs voeren</postback>
@@ -9771,7 +9771,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ 1986 ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren?</text>
 <postback>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren</postback>
@@ -9788,7 +9788,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ hboopleiding ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren?</text>
 <postback>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren</postback>
@@ -9854,7 +9854,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ ict ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
 <postback>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
@@ -9979,7 +9979,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ gewaarmerkte ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe kom ik aan een gewaarmerkte kopie van mijn diplomacijferlijst?</text>
 <postback>Hoe kom ik aan een gewaarmerkte kopie van mijn diplomacijferlijst</postback>
@@ -9996,7 +9996,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ kopie ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe kom ik aan een gewaarmerkte kopie van mijn diplomacijferlijst?</text>
 <postback>Hoe kom ik aan een gewaarmerkte kopie van mijn diplomacijferlijst</postback>
@@ -10031,7 +10031,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ examenverklaring ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Hoe kom ik aan een Engelstalige examenverklaring?</text>
 <postback>Hoe kom ik aan een Engelstalige examenverklaring</postback>
@@ -10327,7 +10327,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ clrs ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Klachtenformulier CLRS?</text>
 <postback>Klachtenformulier CLRS</postback>
@@ -10443,7 +10443,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ handleidingen ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Handleidingen Studielink?</text>
 <postback>Handleidingen Studielink</postback>
@@ -10469,7 +10469,7 @@ Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tusse
 ^ handleiding ^
 </pattern>
 <template>
-Het is mij nog niet precies duidelijk wat je wil weten staat je vraag hier tussen?<br></br><br></br>
+Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
 <text>Handleiding foto RUGpas uploaden?</text>
 <postback>Handleiding foto RUGpas uploaden</postback>
