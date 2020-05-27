@@ -4676,7 +4676,7 @@ Dit is niet mogelijk. Je kunt alleen in het eerste jaar instromen.
 
 <category>
 <pattern>
-Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buitenland om daar te studeren Kan dat 
+Ik wil of moet tijdens mijn bachelorstudie een half jaar of een jaar naar het buitenland om daar te studeren Kan dat 
 </pattern>
 <template>
 <think><set name="topic">aankomende Honours College student</set></think>
@@ -4686,7 +4686,7 @@ In principe kan dat. De Onderwijs- en Examenregeling van het Honoursprogramma be
 
 <category>
 <pattern>
-Mijn broer/zus/neef/nicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen 
+Mijn broer of zus of neef of nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij of zij informatie krijgen 
 </pattern>
 <template>
 <think><set name="topic">aankomende Honours College student</set></think>
@@ -5962,7 +5962,7 @@ https://www.rug.nl/about-us/organization/bureau-of-the-university/amd
 
 <category>
 <pattern>
-Handicap + Studie expertisecentrum voor onderwijs en handicap 
+Handicap  plus Studie expertisecentrum voor onderwijs en handicap 
 </pattern>
 <template>
 <think><set name="topic">studeren met een functiebeperking</set></think>

@@ -15400,55 +15400,55 @@
 
 <category>
 <pattern>
-^ wilmoet ^  tijdens ^
+^ wil of moet ^  tijdens ^
 </pattern>
 <template>
-<srai>^ wilmoet ^</srai>
+<srai>^ wil of moet ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ wilmoet ^  bachelorstudie ^
+^ wil of moet ^  bachelorstudie ^
 </pattern>
 <template>
-<srai>^ wilmoet ^</srai>
+<srai>^ wil of moet ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ wilmoet ^  half ^
+^ wil of moet ^  half ^
 </pattern>
 <template>
-<srai>^ wilmoet ^</srai>
+<srai>^ wil of moet ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ wilmoet ^  jaar ^
+^ wil of moet ^  jaar ^
 </pattern>
 <template>
-<srai>^ wilmoet ^</srai>
+<srai>^ wil of moet ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ wilmoet ^  buitenland ^
+^ wil of moet ^  buitenland ^
 </pattern>
 <template>
-<srai>^ wilmoet ^</srai>
+<srai>^ wil of moet ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ wilmoet ^  studeren ^
+^ wil of moet ^  studeren ^
 </pattern>
 <template>
-<srai>^ wilmoet ^</srai>
+<srai>^ wil of moet ^</srai>
 </template>
 </category>
 
@@ -15562,82 +15562,82 @@
 
 <category>
 <pattern>
-^ broerzusneefnicht ^  doet ^
+^ broer/zus/neef/nicht ^  doet ^
 </pattern>
 <template>
-<srai>^ broerzusneefnicht ^</srai>
+<srai>^ broer/zus/neef/nicht ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ broerzusneefnicht ^  vwo ^
+^ broer/zus/neef/nicht ^  vwo ^
 </pattern>
 <template>
-<srai>^ broerzusneefnicht ^</srai>
+<srai>^ broer/zus/neef/nicht ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ broerzusneefnicht ^  belangstelling ^
+^ broer/zus/neef/nicht ^  belangstelling ^
 </pattern>
 <template>
-<srai>^ broerzusneefnicht ^</srai>
+<srai>^ broer/zus/neef/nicht ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ broerzusneefnicht ^  honours ^
+^ broer/zus/neef/nicht ^  honours ^
 </pattern>
 <template>
-<srai>^ broerzusneefnicht ^</srai>
+<srai>^ broer/zus/neef/nicht ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ broerzusneefnicht ^  college ^
+^ broer/zus/neef/nicht ^  college ^
 </pattern>
 <template>
-<srai>^ broerzusneefnicht ^</srai>
+<srai>^ broer/zus/neef/nicht ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ broerzusneefnicht ^  waar ^
+^ broer/zus/neef/nicht ^  waar ^
 </pattern>
 <template>
-<srai>^ broerzusneefnicht ^</srai>
+<srai>^ broer/zus/neef/nicht ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ broerzusneefnicht ^  hijzij ^
+^ broer/zus/neef/nicht ^  hij/zij ^
 </pattern>
 <template>
-<srai>^ broerzusneefnicht ^</srai>
+<srai>^ broer/zus/neef/nicht ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ broerzusneefnicht ^  informatie ^
+^ broer/zus/neef/nicht ^  informatie ^
 </pattern>
 <template>
-<srai>^ broerzusneefnicht ^</srai>
+<srai>^ broer/zus/neef/nicht ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ broerzusneefnicht ^  krijgen ^
+^ broer/zus/neef/nicht ^  krijgen ^
 </pattern>
 <template>
-<srai>^ broerzusneefnicht ^</srai>
+<srai>^ broer/zus/neef/nicht ^</srai>
 </template>
 </category>
 
@@ -15688,7 +15688,7 @@
 
 <category>
 <pattern>
-^ doet ^  hijzij ^
+^ doet ^  hij/zij ^
 </pattern>
 <template>
 <srai>^ doet ^</srai>
@@ -15751,7 +15751,7 @@
 
 <category>
 <pattern>
-^ vwo ^  hijzij ^
+^ vwo ^  hij/zij ^
 </pattern>
 <template>
 <srai>^ vwo ^</srai>
@@ -15805,7 +15805,7 @@
 
 <category>
 <pattern>
-^ belangstelling ^  hijzij ^
+^ belangstelling ^  hij/zij ^
 </pattern>
 <template>
 <srai>^ belangstelling ^</srai>
@@ -15841,7 +15841,7 @@
 
 <category>
 <pattern>
-^ honours ^  hijzij ^
+^ honours ^  hij/zij ^
 </pattern>
 <template>
 <srai>^ honours ^</srai>
@@ -15877,7 +15877,7 @@
 
 <category>
 <pattern>
-^ college ^  hijzij ^
+^ college ^  hij/zij ^
 </pattern>
 <template>
 <srai>^ college ^</srai>
@@ -15904,7 +15904,7 @@
 
 <category>
 <pattern>
-^ waar ^  hijzij ^
+^ waar ^  hij/zij ^
 </pattern>
 <template>
 <srai>^ waar ^</srai>
@@ -15922,19 +15922,19 @@
 
 <category>
 <pattern>
-^ hijzij ^  informatie ^
+^ hij/zij ^  informatie ^
 </pattern>
 <template>
-<srai>^ hijzij ^</srai>
+<srai>^ hij/zij ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hijzij ^  krijgen ^
+^ hij/zij ^  krijgen ^
 </pattern>
 <template>
-<srai>^ hijzij ^</srai>
+<srai>^ hij/zij ^</srai>
 </template>
 </category>
 
@@ -20983,7 +20983,7 @@
 ^ handicap ^  studie ^
 </pattern>
 <template>
-<srai>Handicap + Studie, expertisecentrum voor onderwijs en handicap</srai>
+<srai>Handicap  plus Studie, expertisecentrum voor onderwijs en handicap</srai>
 </template>
 </category>
 
@@ -20992,7 +20992,7 @@
 ^ handicap ^  expertisecentrum ^
 </pattern>
 <template>
-<srai>Handicap + Studie, expertisecentrum voor onderwijs en handicap</srai>
+<srai>Handicap  plus Studie, expertisecentrum voor onderwijs en handicap</srai>
 </template>
 </category>
 
@@ -21001,7 +21001,7 @@
 ^ handicap ^  onderwijs ^
 </pattern>
 <template>
-<srai>Handicap + Studie, expertisecentrum voor onderwijs en handicap</srai>
+<srai>Handicap  plus Studie, expertisecentrum voor onderwijs en handicap</srai>
 </template>
 </category>
 
@@ -21010,7 +21010,7 @@
 ^ handicap ^  handicap ^
 </pattern>
 <template>
-<srai>Handicap + Studie, expertisecentrum voor onderwijs en handicap</srai>
+<srai>Handicap  plus Studie, expertisecentrum voor onderwijs en handicap</srai>
 </template>
 </category>
 
@@ -21019,7 +21019,7 @@
 ^ studie ^  expertisecentrum ^
 </pattern>
 <template>
-<srai>Handicap + Studie, expertisecentrum voor onderwijs en handicap</srai>
+<srai>Handicap  plus Studie, expertisecentrum voor onderwijs en handicap</srai>
 </template>
 </category>
 
@@ -21028,7 +21028,7 @@
 ^ studie ^  onderwijs ^
 </pattern>
 <template>
-<srai>Handicap + Studie, expertisecentrum voor onderwijs en handicap</srai>
+<srai>Handicap  plus Studie, expertisecentrum voor onderwijs en handicap</srai>
 </template>
 </category>
 
@@ -21037,7 +21037,7 @@
 ^ studie ^  handicap ^
 </pattern>
 <template>
-<srai>Handicap + Studie, expertisecentrum voor onderwijs en handicap</srai>
+<srai>Handicap  plus Studie, expertisecentrum voor onderwijs en handicap</srai>
 </template>
 </category>
 
@@ -21046,7 +21046,7 @@
 ^ expertisecentrum ^  onderwijs ^
 </pattern>
 <template>
-<srai>Handicap + Studie, expertisecentrum voor onderwijs en handicap</srai>
+<srai>Handicap  plus Studie, expertisecentrum voor onderwijs en handicap</srai>
 </template>
 </category>
 
@@ -21055,7 +21055,7 @@
 ^ expertisecentrum ^  handicap ^
 </pattern>
 <template>
-<srai>Handicap + Studie, expertisecentrum voor onderwijs en handicap</srai>
+<srai>Handicap  plus Studie, expertisecentrum voor onderwijs en handicap</srai>
 </template>
 </category>
 
@@ -21064,7 +21064,7 @@
 ^ onderwijs ^  handicap ^
 </pattern>
 <template>
-<srai>Handicap + Studie, expertisecentrum voor onderwijs en handicap</srai>
+<srai>Handicap  plus Studie, expertisecentrum voor onderwijs en handicap</srai>
 </template>
 </category>
 

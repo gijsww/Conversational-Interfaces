@@ -1394,11 +1394,11 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 </reply>
 <reply>
 <text>Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buitenland om daar te studeren Kan dat?</text>
-<postback>Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buitenland om daar te studeren Kan dat</postback>
+<postback>Ik wil of moet tijdens mijn bachelorstudie een half jaar of een jaar naar het buitenland om daar te studeren Kan dat</postback>
 </reply>
 <reply>
-<text>Mijn broer/zus/neef/nicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen?</text>
-<postback>Mijn broer/zus/neef/nicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen</postback>
+<text>Mijn broer/zus/neef/nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen?</text>
+<postback>Mijn broer of zus of neef of nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij of zij informatie krijgen</postback>
 </reply>
 <reply>
 <text>Als ik niet meedoe aan het Honours College krijg ik dan minder goed onderwijs?</text>
@@ -1660,8 +1660,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Ik heb een functiebeperking en ben afhankelijk van een auto Kan ik een parkeerplaats krijgen</postback>
 </reply>
 <reply>
-<text>Handicap + Studie expertisecentrum voor onderwijs en handicap?</text>
-<postback>Handicap + Studie expertisecentrum voor onderwijs en handicap</postback>
+<text>Handicap  plus Studie expertisecentrum voor onderwijs en handicap?</text>
+<postback>Handicap  plus Studie expertisecentrum voor onderwijs en handicap</postback>
 </reply>
 </template>
 </category>
@@ -1838,11 +1838,11 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 </reply>
 <reply>
 <text>Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buitenland om daar te studeren Kan dat?</text>
-<postback>Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buitenland om daar te studeren Kan dat</postback>
+<postback>Ik wil of moet tijdens mijn bachelorstudie een half jaar of een jaar naar het buitenland om daar te studeren Kan dat</postback>
 </reply>
 <reply>
-<text>Mijn broer/zus/neef/nicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen?</text>
-<postback>Mijn broer/zus/neef/nicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen</postback>
+<text>Mijn broer/zus/neef/nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen?</text>
+<postback>Mijn broer of zus of neef of nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij of zij informatie krijgen</postback>
 </reply>
 <reply>
 <text>Als ik niet meedoe aan het Honours College krijg ik dan minder goed onderwijs?</text>

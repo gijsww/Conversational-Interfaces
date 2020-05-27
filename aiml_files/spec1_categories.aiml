@@ -786,8 +786,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Kan ik ook toegelaten worden met deelcertificaten als ik mijn VWO diploma niet haal</postback>
 </reply>
 <reply>
-<text>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen?</text>
-<postback>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen</postback>
+<text>Mijn broer/zus/neef/nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen?</text>
+<postback>Mijn broer of zus of neef of nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij of zij informatie krijgen</postback>
 </reply>
 </template>
 </category>
@@ -1229,12 +1229,12 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Ik ben helemaal door mijn studiefinanciering heen en moet nog een half jaar studeren Wat nu</postback>
 </reply>
 <reply>
-<text>Ik wilmoet tijdens mijn bachelorstudie een half jaar  een jaar naar het buitenland om daar te studeren Kan dat?</text>
-<postback>Ik wilmoet tijdens mijn bachelorstudie een half jaar  een jaar naar het buitenland om daar te studeren Kan dat</postback>
+<text>Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buitenland om daar te studeren Kan dat?</text>
+<postback>Ik wil of moet tijdens mijn bachelorstudie een half jaar of een jaar naar het buitenland om daar te studeren Kan dat</postback>
 </reply>
 <reply>
-<text>Ik wilmoet tijdens mijn bachelorstudie een half jaar  een jaar naar het buitenland om daar te studeren Kan dat?</text>
-<postback>Ik wilmoet tijdens mijn bachelorstudie een half jaar  een jaar naar het buitenland om daar te studeren Kan dat</postback>
+<text>Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buitenland om daar te studeren Kan dat?</text>
+<postback>Ik wil of moet tijdens mijn bachelorstudie een half jaar of een jaar naar het buitenland om daar te studeren Kan dat</postback>
 </reply>
 </template>
 </category>
@@ -2002,8 +2002,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Studeren wat kost dat</postback>
 </reply>
 <reply>
-<text>Ik wilmoet tijdens mijn bachelorstudie een half jaar  een jaar naar het buitenland om daar te studeren Kan dat?</text>
-<postback>Ik wilmoet tijdens mijn bachelorstudie een half jaar  een jaar naar het buitenland om daar te studeren Kan dat</postback>
+<text>Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buitenland om daar te studeren Kan dat?</text>
+<postback>Ik wil of moet tijdens mijn bachelorstudie een half jaar of een jaar naar het buitenland om daar te studeren Kan dat</postback>
 </reply>
 <reply>
 <text>Welke mogelijkheden zijn er om in het buitenland te studeren?</text>
@@ -2482,8 +2482,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Waar vind ik meer informatie</postback>
 </reply>
 <reply>
-<text>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen?</text>
-<postback>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen</postback>
+<text>Mijn broer/zus/neef/nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen?</text>
+<postback>Mijn broer of zus of neef of nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij of zij informatie krijgen</postback>
 </reply>
 <reply>
 <text>Waar kan ik heen?</text>
@@ -2552,8 +2552,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Waar vind ik meer informatie</postback>
 </reply>
 <reply>
-<text>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen?</text>
-<postback>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen</postback>
+<text>Mijn broer/zus/neef/nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen?</text>
+<postback>Mijn broer of zus of neef of nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij of zij informatie krijgen</postback>
 </reply>
 <reply>
 <text>Waar vind ik informatie over de vakken die ik in het buitenland kan volgen?</text>
@@ -3160,8 +3160,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Ik ben helemaal door mijn studiefinanciering heen en moet nog een half jaar studeren Wat nu</postback>
 </reply>
 <reply>
-<text>Ik wilmoet tijdens mijn bachelorstudie een half jaar  een jaar naar het buitenland om daar te studeren Kan dat?</text>
-<postback>Ik wilmoet tijdens mijn bachelorstudie een half jaar  een jaar naar het buitenland om daar te studeren Kan dat</postback>
+<text>Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buitenland om daar te studeren Kan dat?</text>
+<postback>Ik wil of moet tijdens mijn bachelorstudie een half jaar of een jaar naar het buitenland om daar te studeren Kan dat</postback>
 </reply>
 </template>
 </category>
@@ -3488,8 +3488,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Ik heb al een propedeuse gehaald en ik ga een nieuwe studie volgen val ik dan onder het BSAregime</postback>
 </reply>
 <reply>
-<text>Handicap + Studie expertisecentrum voor onderwijs en handicap?</text>
-<postback>Handicap + Studie expertisecentrum voor onderwijs en handicap</postback>
+<text>Handicap  plus Studie expertisecentrum voor onderwijs en handicap?</text>
+<postback>Handicap  plus Studie expertisecentrum voor onderwijs en handicap</postback>
 </reply>
 <reply>
 <text>Mijn studie loopt niet goed en ik weet niet waar dat aan ligt Hoe kom ik hier achter?</text>
@@ -3517,8 +3517,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Veiligheid en toezicht tijdens de introductieperiode</postback>
 </reply>
 <reply>
-<text>Ik wilmoet tijdens mijn bachelorstudie een half jaar  een jaar naar het buitenland om daar te studeren Kan dat?</text>
-<postback>Ik wilmoet tijdens mijn bachelorstudie een half jaar  een jaar naar het buitenland om daar te studeren Kan dat</postback>
+<text>Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buitenland om daar te studeren Kan dat?</text>
+<postback>Ik wil of moet tijdens mijn bachelorstudie een half jaar of een jaar naar het buitenland om daar te studeren Kan dat</postback>
 </reply>
 <reply>
 <text>Is het verstandiger om tijdens mijn bachelorperiode naar het buitenland te gaan of tijdens mijn masterperiode?</text>
@@ -4718,8 +4718,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Wat is de overgangsregeling voor bachelorstudenten die voor 1 september 2015 een prestatiebeurs krijgen</postback>
 </reply>
 <reply>
-<text>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen?</text>
-<postback>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen</postback>
+<text>Mijn broer/zus/neef/nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen?</text>
+<postback>Mijn broer of zus of neef of nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij of zij informatie krijgen</postback>
 </reply>
 <reply>
 <text>Hoeveel punten moet ik halen om een positief studieadvies te krijgen?</text>
@@ -6582,8 +6582,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Ik wil eerst mijn propedeuse halen en dan in het Honours College instromen</postback>
 </reply>
 <reply>
-<text>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen?</text>
-<postback>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen</postback>
+<text>Mijn broer/zus/neef/nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen?</text>
+<postback>Mijn broer of zus of neef of nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij of zij informatie krijgen</postback>
 </reply>
 <reply>
 <text>Als ik niet meedoe aan het Honours College krijg ik dan minder goed onderwijs?</text>
@@ -7368,8 +7368,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Ik wil eerst mijn propedeuse halen en dan in het Honours College instromen</postback>
 </reply>
 <reply>
-<text>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen?</text>
-<postback>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen</postback>
+<text>Mijn broer/zus/neef/nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen?</text>
+<postback>Mijn broer of zus of neef of nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij of zij informatie krijgen</postback>
 </reply>
 <reply>
 <text>Als ik niet meedoe aan het Honours College krijg ik dan minder goed onderwijs?</text>
@@ -7775,8 +7775,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Als ik niet meedoe aan het Honours College krijg ik dan minder goed onderwijs</postback>
 </reply>
 <reply>
-<text>Handicap + Studie expertisecentrum voor onderwijs en handicap?</text>
-<postback>Handicap + Studie expertisecentrum voor onderwijs en handicap</postback>
+<text>Handicap  plus Studie expertisecentrum voor onderwijs en handicap?</text>
+<postback>Handicap  plus Studie expertisecentrum voor onderwijs en handicap</postback>
 </reply>
 <reply>
 <text>Mag ik een beschermde titel voeren als ik geen opleiding in het hoger onderwijs heb afgerond?</text>
@@ -8030,7 +8030,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 ^ wilmoet ^
 </pattern>
 <template>
-<srai>Ik wilmoet tijdens mijn bachelorstudie een half jaar  een jaar naar het buitenland om daar te studeren Kan dat</srai>
+<srai>Ik wil of moet tijdens mijn bachelorstudie een half jaar of een jaar naar het buitenland om daar te studeren Kan dat</srai>
 </template>
 </category>
 
@@ -8039,7 +8039,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 ^ bachelorstudie ^
 </pattern>
 <template>
-<srai>Ik wilmoet tijdens mijn bachelorstudie een half jaar  een jaar naar het buitenland om daar te studeren Kan dat</srai>
+<srai>Ik wil of moet tijdens mijn bachelorstudie een half jaar of een jaar naar het buitenland om daar te studeren Kan dat</srai>
 </template>
 </category>
 
@@ -8050,8 +8050,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
-<text>Ik wilmoet tijdens mijn bachelorstudie een half jaar  een jaar naar het buitenland om daar te studeren Kan dat?</text>
-<postback>Ik wilmoet tijdens mijn bachelorstudie een half jaar  een jaar naar het buitenland om daar te studeren Kan dat</postback>
+<text>Ik wil/moet tijdens mijn bachelorstudie een half jaar / een jaar naar het buitenland om daar te studeren Kan dat?</text>
+<postback>Ik wil of moet tijdens mijn bachelorstudie een half jaar of een jaar naar het buitenland om daar te studeren Kan dat</postback>
 </reply>
 <reply>
 <text>Welke mogelijkheden zijn er om in het buitenland te studeren?</text>
@@ -8090,10 +8090,10 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 
 <category>
 <pattern>
-^ broerzusneefnicht ^
+^ broer of zus of neef of nicht ^
 </pattern>
 <template>
-<srai>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen</srai>
+<srai>Mijn broer of zus of neef of nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij of zij informatie krijgen</srai>
 </template>
 </category>
 
@@ -8104,8 +8104,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
-<text>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen?</text>
-<postback>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen</postback>
+<text>Mijn broer/zus/neef/nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij/zij informatie krijgen?</text>
+<postback>Mijn broer of zus of neef of nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij of zij informatie krijgen</postback>
 </reply>
 <reply>
 <text>Wat doet de Advies Commissie Functiebeperkte studenten en hoe kan ik me er voor aanmelden?</text>
@@ -8119,16 +8119,16 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 ^ belangstelling ^
 </pattern>
 <template>
-<srai>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen</srai>
+<srai>Mijn broer of zus of neef of nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij of zij informatie krijgen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hijzij ^
+^ hij/zij ^
 </pattern>
 <template>
-<srai>Mijn broerzusneefnicht doet VWO+ en heeft belangstelling voor het Honours College Waar kan hijzij informatie krijgen</srai>
+<srai>Mijn broer of zus of neef of nicht doet VWO plus en heeft belangstelling voor het Honours College Waar kan hij of zij informatie krijgen</srai>
 </template>
 </category>
 
@@ -9126,12 +9126,12 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
-<text>Handicap + Studie expertisecentrum voor onderwijs en handicap?</text>
-<postback>Handicap + Studie expertisecentrum voor onderwijs en handicap</postback>
+<text>Handicap  plus Studie expertisecentrum voor onderwijs en handicap?</text>
+<postback>Handicap  plus Studie expertisecentrum voor onderwijs en handicap</postback>
 </reply>
 <reply>
-<text>Handicap + Studie expertisecentrum voor onderwijs en handicap?</text>
-<postback>Handicap + Studie expertisecentrum voor onderwijs en handicap</postback>
+<text>Handicap  plus Studie expertisecentrum voor onderwijs en handicap?</text>
+<postback>Handicap  plus Studie expertisecentrum voor onderwijs en handicap</postback>
 </reply>
 </template>
 </category>
@@ -9141,7 +9141,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 ^ expertisecentrum ^
 </pattern>
 <template>
-<srai>Handicap + Studie expertisecentrum voor onderwijs en handicap</srai>
+<srai>Handicap  plus Studie expertisecentrum voor onderwijs en handicap</srai>
 </template>
 </category>
 
