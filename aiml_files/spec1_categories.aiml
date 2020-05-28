@@ -607,7 +607,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 
 <category>
 <pattern>
-^ vwodiploma ^
+^ vwo diploma ^
 </pattern>
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
@@ -777,7 +777,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 
 <category>
 <pattern>
-^ vwo ^
+^ vwo  ^
 </pattern>
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
@@ -852,7 +852,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 
 <category>
 <pattern>
-^ hbopropedeuse ^
+^ hbo propedeuse ^
 </pattern>
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
@@ -1019,7 +1019,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 
 <category>
 <pattern>
-^ hbobachelordiploma ^
+^ hbo bachelordiploma ^
 </pattern>
 <template>
 <srai>Kan ik met een hbobachelordiploma instromen in een masterprogramma</srai>
@@ -1967,7 +1967,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 
 <category>
 <pattern>
-^ hbov ^
+^ hbo v ^
 </pattern>
 <template>
 <srai>Ik heb al een HBOV diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie</srai>
@@ -9785,7 +9785,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 
 <category>
 <pattern>
-^ hboopleiding ^
+^ hbo opleiding ^
 </pattern>
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
@@ -9806,7 +9806,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 
 <category>
 <pattern>
-^ hbomasteropleiding ^
+^ hbo masteropleiding ^
 </pattern>
 <template>
 <srai>Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren</srai>
