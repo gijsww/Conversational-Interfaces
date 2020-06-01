@@ -42,7 +42,7 @@
         </template>
     </category>
 
-    <category>
+    <category> 
         <pattern>Wat is 1 plus 1</pattern>
         <template>2.
         </template>
@@ -82,7 +82,7 @@
     <category>
         <pattern>^ student ^</pattern>
         <that>^ student of een aankomend student ^</that>
-        <template><think><set name="info">student</set></think>
+        <template><think><set name="userinfo">student</set></think>
         Wat leuk! In welk jaar van welke studie zit je?
         </template>
     </category>
@@ -91,9 +91,9 @@
         <pattern>^ ben ik student of aankomend student ^</pattern>
         <template>
         <condition>
-          <li name="info" value="unknown">Je hebt me niet verteld of je een student of aankomend student bent.</li>
-          <li name="info" value="">Je hebt me niet verteld of je een student of aankomend student bent.</li>
-          <li>Je bent een <get name="info"/>!</li>
+          <li name="userinfo" value="unknown">Je hebt me niet verteld of je een student of aankomend student bent.</li>
+          <li name="userinfo" value="">Je hebt me niet verteld of je een student of aankomend student bent.</li>
+          <li>Je bent een <get name="userinfo"/>!</li>
         </condition>
         </template>
     </category>
@@ -109,7 +109,7 @@
     <category>
         <pattern>^ aankomend student ^</pattern>
         <that>^ student of een aankomend student ^</that>
-        <template><think><set name="info">aankomend student</set></think>
+        <template><think><set name="userinfo">aankomend student</set></think>
         Wat leuk dat je komt studeren in Groningen. Welke studie ga je doen?
         </template>
     </category>
@@ -124,7 +124,7 @@
     <category>
         <pattern>*</pattern>
         <that>^ student of een aankomend student ^</that>
-        <template> <think><set name="info"><star/></set></think>
+        <template> <think><set name="userinfo"><star/></set></think>
             Dat kan natuurlijk ook! Ik beantwoord graag je vragen. Stel me een vraag!
         </template>
     </category>
