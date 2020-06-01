@@ -32,7 +32,7 @@
     </category>
     
     <category>
-        <pattern># immigratie # </pattern>
+        <pattern># <set>immigratie</set> # </pattern>
         <template>Sorry, ik beantwoord geen vragen die betrekking hebben tot immigratie.
         Als je meer informatie wilt over immigratie, klik dan op deze link.
             <button>
@@ -74,14 +74,9 @@
     </category>
 
     <category>
-        <pattern>Vertel iets over jezelf</pattern>
-        <template>Ik ben Ruggibot the chatbot van de Rijksuniversiteit Groningen. Ik ben gemaakt om studenten en aankomend studenten te helpen hun vragen te beantwoorden. Ben jij een student of een aankomend student?
+        <pattern># <set>info</set> #</pattern>
+        <template>Ik ben Ruggibot the chatbot van de Rijksuniversiteit Groningen. Ik ben gemaakt om studenten en aankomend studenten te helpen hun vragen te beantwoorden. Daarnaast kan ik ook grapjes vertellen en een munt opgoooien. Nu ben ik benieuwd naar jou! Ben jij een student of een aankomend student?
         </template>
-    </category>
-
-    <category>
-        <pattern>Wie ben je </pattern>
-        <template><srai>vertel iets over jezelf</srai></template>
     </category>
 
     <category>
