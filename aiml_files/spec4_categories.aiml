@@ -1936,37 +1936,37 @@
 
 <category>
 <pattern>
-^ geïnteresseerd ^  twee ^  studies ^  twee ^
+^ geinteresseerd ^  twee ^  studies ^  twee ^
 </pattern>
 <template>
-<srai>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</srai>
+<srai>Als ik geinteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ geïnteresseerd ^  twee ^  studies ^  matchingsdagen ^
+^ geinteresseerd ^  twee ^  studies ^  matchingsdagen ^
 </pattern>
 <template>
-<srai>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</srai>
+<srai>Als ik geinteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ geïnteresseerd ^  twee ^  twee ^  matchingsdagen ^
+^ geinteresseerd ^  twee ^  twee ^  matchingsdagen ^
 </pattern>
 <template>
-<srai>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</srai>
+<srai>Als ik geinteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ geïnteresseerd ^  studies ^  twee ^  matchingsdagen ^
+^ geinteresseerd ^  studies ^  twee ^  matchingsdagen ^
 </pattern>
 <template>
-<srai>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</srai>
+<srai>Als ik geinteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</srai>
 </template>
 </category>
 
@@ -1975,7 +1975,7 @@
 ^ twee ^  studies ^  twee ^  matchingsdagen ^
 </pattern>
 <template>
-<srai>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</srai>
+<srai>Als ik geinteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</srai>
 </template>
 </category>
 
@@ -5167,10 +5167,10 @@
 
 <category>
 <pattern>
-^ doe ^  twee ^  studies ^  één ^
+^ doe ^  twee ^  studies ^  een ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
@@ -5203,10 +5203,10 @@
 
 <category>
 <pattern>
-^ doe ^  twee ^  rug ^  één ^
+^ doe ^  twee ^  rug ^  een ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
@@ -5239,28 +5239,28 @@
 
 <category>
 <pattern>
-^ doe ^  twee ^  één ^  daarvan ^
+^ doe ^  twee ^  een ^  daarvan ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ doe ^  twee ^  één ^  stoppen ^
+^ doe ^  twee ^  een ^  stoppen ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ doe ^  twee ^  één ^  doe ^
+^ doe ^  twee ^  een ^  doe ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
@@ -5293,10 +5293,10 @@
 
 <category>
 <pattern>
-^ doe ^  studies ^  rug ^  één ^
+^ doe ^  studies ^  rug ^  een ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
@@ -5329,28 +5329,28 @@
 
 <category>
 <pattern>
-^ doe ^  studies ^  één ^  daarvan ^
+^ doe ^  studies ^  een ^  daarvan ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ doe ^  studies ^  één ^  stoppen ^
+^ doe ^  studies ^  een ^  stoppen ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ doe ^  studies ^  één ^  doe ^
+^ doe ^  studies ^  een ^  doe ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
@@ -5383,28 +5383,28 @@
 
 <category>
 <pattern>
-^ doe ^  rug ^  één ^  daarvan ^
+^ doe ^  rug ^  een ^  daarvan ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ doe ^  rug ^  één ^  stoppen ^
+^ doe ^  rug ^  een ^  stoppen ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ doe ^  rug ^  één ^  doe ^
+^ doe ^  rug ^  een ^  doe ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
@@ -5437,28 +5437,28 @@
 
 <category>
 <pattern>
-^ doe ^  één ^  daarvan ^  stoppen ^
+^ doe ^  een ^  daarvan ^  stoppen ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ doe ^  één ^  daarvan ^  doe ^
+^ doe ^  een ^  daarvan ^  doe ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ doe ^  één ^  stoppen ^  doe ^
+^ doe ^  een ^  stoppen ^  doe ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
@@ -5473,10 +5473,10 @@
 
 <category>
 <pattern>
-^ twee ^  studies ^  rug ^  één ^
+^ twee ^  studies ^  rug ^  een ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
@@ -5509,28 +5509,28 @@
 
 <category>
 <pattern>
-^ twee ^  studies ^  één ^  daarvan ^
+^ twee ^  studies ^  een ^  daarvan ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ twee ^  studies ^  één ^  stoppen ^
+^ twee ^  studies ^  een ^  stoppen ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ twee ^  studies ^  één ^  doe ^
+^ twee ^  studies ^  een ^  doe ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
@@ -5563,28 +5563,28 @@
 
 <category>
 <pattern>
-^ twee ^  rug ^  één ^  daarvan ^
+^ twee ^  rug ^  een ^  daarvan ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ twee ^  rug ^  één ^  stoppen ^
+^ twee ^  rug ^  een ^  stoppen ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ twee ^  rug ^  één ^  doe ^
+^ twee ^  rug ^  een ^  doe ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
@@ -5617,28 +5617,28 @@
 
 <category>
 <pattern>
-^ twee ^  één ^  daarvan ^  stoppen ^
+^ twee ^  een ^  daarvan ^  stoppen ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ twee ^  één ^  daarvan ^  doe ^
+^ twee ^  een ^  daarvan ^  doe ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ twee ^  één ^  stoppen ^  doe ^
+^ twee ^  een ^  stoppen ^  doe ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
@@ -5653,28 +5653,28 @@
 
 <category>
 <pattern>
-^ studies ^  rug ^  één ^  daarvan ^
+^ studies ^  rug ^  een ^  daarvan ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ studies ^  rug ^  één ^  stoppen ^
+^ studies ^  rug ^  een ^  stoppen ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ studies ^  rug ^  één ^  doe ^
+^ studies ^  rug ^  een ^  doe ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
@@ -5707,28 +5707,28 @@
 
 <category>
 <pattern>
-^ studies ^  één ^  daarvan ^  stoppen ^
+^ studies ^  een ^  daarvan ^  stoppen ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ studies ^  één ^  daarvan ^  doe ^
+^ studies ^  een ^  daarvan ^  doe ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ studies ^  één ^  stoppen ^  doe ^
+^ studies ^  een ^  stoppen ^  doe ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
@@ -5743,28 +5743,28 @@
 
 <category>
 <pattern>
-^ rug ^  één ^  daarvan ^  stoppen ^
+^ rug ^  een ^  daarvan ^  stoppen ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ rug ^  één ^  daarvan ^  doe ^
+^ rug ^  een ^  daarvan ^  doe ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ rug ^  één ^  stoppen ^  doe ^
+^ rug ^  een ^  stoppen ^  doe ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
@@ -5779,10 +5779,10 @@
 
 <category>
 <pattern>
-^ één ^  daarvan ^  stoppen ^  doe ^
+^ een ^  daarvan ^  stoppen ^  doe ^
 </pattern>
 <template>
-<srai>Ik doe twee studies aan de RUG, maar ik wil met één daarvan stoppen. Hoe doe ik dat</srai>
+<srai>Ik doe twee studies aan de RUG, maar ik wil met een daarvan stoppen. Hoe doe ik dat</srai>
 </template>
 </category>
 
@@ -5914,28 +5914,28 @@
 
 <category>
 <pattern>
-^ maand ^  herinschrijven ^  één ^  onderdeel ^
+^ maand ^  herinschrijven ^  een ^  onderdeel ^
 </pattern>
 <template>
-<srai>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden</srai>
+<srai>Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ maand ^  herinschrijven ^  één ^  opleiding ^
+^ maand ^  herinschrijven ^  een ^  opleiding ^
 </pattern>
 <template>
-<srai>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden</srai>
+<srai>Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ maand ^  herinschrijven ^  één ^  afronden ^
+^ maand ^  herinschrijven ^  een ^  afronden ^
 </pattern>
 <template>
-<srai>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden</srai>
+<srai>Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden</srai>
 </template>
 </category>
 
@@ -5944,7 +5944,7 @@
 ^ maand ^  herinschrijven ^  onderdeel ^  opleiding ^
 </pattern>
 <template>
-<srai>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden</srai>
+<srai>Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden</srai>
 </template>
 </category>
 
@@ -5953,7 +5953,7 @@
 ^ maand ^  herinschrijven ^  onderdeel ^  afronden ^
 </pattern>
 <template>
-<srai>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden</srai>
+<srai>Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden</srai>
 </template>
 </category>
 
@@ -5962,34 +5962,34 @@
 ^ maand ^  herinschrijven ^  opleiding ^  afronden ^
 </pattern>
 <template>
-<srai>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden</srai>
+<srai>Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ maand ^  één ^  onderdeel ^  opleiding ^
+^ maand ^  een ^  onderdeel ^  opleiding ^
 </pattern>
 <template>
-<srai>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden</srai>
+<srai>Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ maand ^  één ^  onderdeel ^  afronden ^
+^ maand ^  een ^  onderdeel ^  afronden ^
 </pattern>
 <template>
-<srai>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden</srai>
+<srai>Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ maand ^  één ^  opleiding ^  afronden ^
+^ maand ^  een ^  opleiding ^  afronden ^
 </pattern>
 <template>
-<srai>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden</srai>
+<srai>Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden</srai>
 </template>
 </category>
 
@@ -5998,34 +5998,34 @@
 ^ maand ^  onderdeel ^  opleiding ^  afronden ^
 </pattern>
 <template>
-<srai>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden</srai>
+<srai>Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ herinschrijven ^  één ^  onderdeel ^  opleiding ^
+^ herinschrijven ^  een ^  onderdeel ^  opleiding ^
 </pattern>
 <template>
-<srai>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden</srai>
+<srai>Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ herinschrijven ^  één ^  onderdeel ^  afronden ^
+^ herinschrijven ^  een ^  onderdeel ^  afronden ^
 </pattern>
 <template>
-<srai>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden</srai>
+<srai>Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ herinschrijven ^  één ^  opleiding ^  afronden ^
+^ herinschrijven ^  een ^  opleiding ^  afronden ^
 </pattern>
 <template>
-<srai>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden</srai>
+<srai>Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden</srai>
 </template>
 </category>
 
@@ -6034,16 +6034,16 @@
 ^ herinschrijven ^  onderdeel ^  opleiding ^  afronden ^
 </pattern>
 <template>
-<srai>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden</srai>
+<srai>Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  onderdeel ^  opleiding ^  afronden ^
+^ een ^  onderdeel ^  opleiding ^  afronden ^
 </pattern>
 <template>
-<srai>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden</srai>
+<srai>Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden</srai>
 </template>
 </category>
 
@@ -8335,28 +8335,28 @@
 
 <category>
 <pattern>
-^ collegegeld ^  één ^  keer ^  betalen ^
+^ collegegeld ^  een ^  keer ^  betalen ^
 </pattern>
 <template>
-<srai>Ik wil het collegegeld in één keer betalen. Hoe doe ik dat</srai>
+<srai>Ik wil het collegegeld in een keer betalen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ collegegeld ^  één ^  keer ^  doe ^
+^ collegegeld ^  een ^  keer ^  doe ^
 </pattern>
 <template>
-<srai>Ik wil het collegegeld in één keer betalen. Hoe doe ik dat</srai>
+<srai>Ik wil het collegegeld in een keer betalen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ collegegeld ^  één ^  betalen ^  doe ^
+^ collegegeld ^  een ^  betalen ^  doe ^
 </pattern>
 <template>
-<srai>Ik wil het collegegeld in één keer betalen. Hoe doe ik dat</srai>
+<srai>Ik wil het collegegeld in een keer betalen. Hoe doe ik dat</srai>
 </template>
 </category>
 
@@ -8365,16 +8365,16 @@
 ^ collegegeld ^  keer ^  betalen ^  doe ^
 </pattern>
 <template>
-<srai>Ik wil het collegegeld in één keer betalen. Hoe doe ik dat</srai>
+<srai>Ik wil het collegegeld in een keer betalen. Hoe doe ik dat</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  keer ^  betalen ^  doe ^
+^ een ^  keer ^  betalen ^  doe ^
 </pattern>
 <template>
-<srai>Ik wil het collegegeld in één keer betalen. Hoe doe ik dat</srai>
+<srai>Ik wil het collegegeld in een keer betalen. Hoe doe ik dat</srai>
 </template>
 </category>
 
@@ -8434,28 +8434,28 @@
 
 <category>
 <pattern>
-^ betaal ^  collegegeld ^  één ^  keer ^
+^ betaal ^  collegegeld ^  een ^  keer ^
 </pattern>
 <template>
-<srai>Ik betaal mijn collegegeld in één keer. Wanneer wordt dit afgeschreven</srai>
+<srai>Ik betaal mijn collegegeld in een keer. Wanneer wordt dit afgeschreven</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ betaal ^  collegegeld ^  één ^  wanneer ^
+^ betaal ^  collegegeld ^  een ^  wanneer ^
 </pattern>
 <template>
-<srai>Ik betaal mijn collegegeld in één keer. Wanneer wordt dit afgeschreven</srai>
+<srai>Ik betaal mijn collegegeld in een keer. Wanneer wordt dit afgeschreven</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ betaal ^  collegegeld ^  één ^  afgeschreven ^
+^ betaal ^  collegegeld ^  een ^  afgeschreven ^
 </pattern>
 <template>
-<srai>Ik betaal mijn collegegeld in één keer. Wanneer wordt dit afgeschreven</srai>
+<srai>Ik betaal mijn collegegeld in een keer. Wanneer wordt dit afgeschreven</srai>
 </template>
 </category>
 
@@ -8464,7 +8464,7 @@
 ^ betaal ^  collegegeld ^  keer ^  wanneer ^
 </pattern>
 <template>
-<srai>Ik betaal mijn collegegeld in één keer. Wanneer wordt dit afgeschreven</srai>
+<srai>Ik betaal mijn collegegeld in een keer. Wanneer wordt dit afgeschreven</srai>
 </template>
 </category>
 
@@ -8473,7 +8473,7 @@
 ^ betaal ^  collegegeld ^  keer ^  afgeschreven ^
 </pattern>
 <template>
-<srai>Ik betaal mijn collegegeld in één keer. Wanneer wordt dit afgeschreven</srai>
+<srai>Ik betaal mijn collegegeld in een keer. Wanneer wordt dit afgeschreven</srai>
 </template>
 </category>
 
@@ -8482,34 +8482,34 @@
 ^ betaal ^  collegegeld ^  wanneer ^  afgeschreven ^
 </pattern>
 <template>
-<srai>Ik betaal mijn collegegeld in één keer. Wanneer wordt dit afgeschreven</srai>
+<srai>Ik betaal mijn collegegeld in een keer. Wanneer wordt dit afgeschreven</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ betaal ^  één ^  keer ^  wanneer ^
+^ betaal ^  een ^  keer ^  wanneer ^
 </pattern>
 <template>
-<srai>Ik betaal mijn collegegeld in één keer. Wanneer wordt dit afgeschreven</srai>
+<srai>Ik betaal mijn collegegeld in een keer. Wanneer wordt dit afgeschreven</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ betaal ^  één ^  keer ^  afgeschreven ^
+^ betaal ^  een ^  keer ^  afgeschreven ^
 </pattern>
 <template>
-<srai>Ik betaal mijn collegegeld in één keer. Wanneer wordt dit afgeschreven</srai>
+<srai>Ik betaal mijn collegegeld in een keer. Wanneer wordt dit afgeschreven</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ betaal ^  één ^  wanneer ^  afgeschreven ^
+^ betaal ^  een ^  wanneer ^  afgeschreven ^
 </pattern>
 <template>
-<srai>Ik betaal mijn collegegeld in één keer. Wanneer wordt dit afgeschreven</srai>
+<srai>Ik betaal mijn collegegeld in een keer. Wanneer wordt dit afgeschreven</srai>
 </template>
 </category>
 
@@ -8518,34 +8518,34 @@
 ^ betaal ^  keer ^  wanneer ^  afgeschreven ^
 </pattern>
 <template>
-<srai>Ik betaal mijn collegegeld in één keer. Wanneer wordt dit afgeschreven</srai>
+<srai>Ik betaal mijn collegegeld in een keer. Wanneer wordt dit afgeschreven</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ collegegeld ^  één ^  keer ^  wanneer ^
+^ collegegeld ^  een ^  keer ^  wanneer ^
 </pattern>
 <template>
-<srai>Ik betaal mijn collegegeld in één keer. Wanneer wordt dit afgeschreven</srai>
+<srai>Ik betaal mijn collegegeld in een keer. Wanneer wordt dit afgeschreven</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ collegegeld ^  één ^  keer ^  afgeschreven ^
+^ collegegeld ^  een ^  keer ^  afgeschreven ^
 </pattern>
 <template>
-<srai>Ik betaal mijn collegegeld in één keer. Wanneer wordt dit afgeschreven</srai>
+<srai>Ik betaal mijn collegegeld in een keer. Wanneer wordt dit afgeschreven</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ collegegeld ^  één ^  wanneer ^  afgeschreven ^
+^ collegegeld ^  een ^  wanneer ^  afgeschreven ^
 </pattern>
 <template>
-<srai>Ik betaal mijn collegegeld in één keer. Wanneer wordt dit afgeschreven</srai>
+<srai>Ik betaal mijn collegegeld in een keer. Wanneer wordt dit afgeschreven</srai>
 </template>
 </category>
 
@@ -8554,16 +8554,16 @@
 ^ collegegeld ^  keer ^  wanneer ^  afgeschreven ^
 </pattern>
 <template>
-<srai>Ik betaal mijn collegegeld in één keer. Wanneer wordt dit afgeschreven</srai>
+<srai>Ik betaal mijn collegegeld in een keer. Wanneer wordt dit afgeschreven</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  keer ^  wanneer ^  afgeschreven ^
+^ een ^  keer ^  wanneer ^  afgeschreven ^
 </pattern>
 <template>
-<srai>Ik betaal mijn collegegeld in één keer. Wanneer wordt dit afgeschreven</srai>
+<srai>Ik betaal mijn collegegeld in een keer. Wanneer wordt dit afgeschreven</srai>
 </template>
 </category>
 
@@ -15553,10 +15553,10 @@
 
 <category>
 <pattern>
-^ gebeurt ^  één ^  opleidingen ^  afrond ^
+^ gebeurt ^  een ^  opleidingen ^  afrond ^
 </pattern>
 <template>
-<srai>Wat gebeurt er als ik één van de opleidingen afrond</srai>
+<srai>Wat gebeurt er als ik een van de opleidingen afrond</srai>
 </template>
 </category>
 
@@ -15805,19 +15805,19 @@
 
 <category>
 <pattern>
-^ financiële ^  regeling ^  studenten ^  functiebeperking ^
+^ financiele ^  regeling ^  studenten ^  functiebeperking ^
 </pattern>
 <template>
-<srai>Financiële regeling voor studenten met een functiebeperking</srai>
+<srai>Financiele regeling voor studenten met een functiebeperking</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ onvoorziene ^  financiële ^  problemen ^  kom ^
+^ onvoorziene ^  financiele ^  problemen ^  kom ^
 </pattern>
 <template>
-<srai>Wat kan ik doen als ik onvoorziene financiële problemen tegen kom</srai>
+<srai>Wat kan ik doen als ik onvoorziene financiele problemen tegen kom</srai>
 </template>
 </category>
 
@@ -44830,28 +44830,28 @@
 
 <category>
 <pattern>
-^ tellen ^  vrijstellingen ^  mee ^  bsanorm ^
+^ tellen ^  vrijstellingen ^  mee ^  bsa norm ^
 </pattern>
 <template>
-<srai>Tellen vrijstellingen mee in de BSA-norm</srai>
+<srai>Tellen vrijstellingen mee in de BSA norm</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ bindend ^  studieadvies ^  één ^  opleiding ^
+^ bindend ^  studieadvies ^  een ^  opleiding ^
 </pattern>
 <template>
-<srai>Kan een Bindend Studieadvies voor meer dan één opleiding gelden</srai>
+<srai>Kan een Bindend Studieadvies voor meer dan een opleiding gelden</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ bindend ^  studieadvies ^  één ^  gelden ^
+^ bindend ^  studieadvies ^  een ^  gelden ^
 </pattern>
 <template>
-<srai>Kan een Bindend Studieadvies voor meer dan één opleiding gelden</srai>
+<srai>Kan een Bindend Studieadvies voor meer dan een opleiding gelden</srai>
 </template>
 </category>
 
@@ -44860,25 +44860,25 @@
 ^ bindend ^  studieadvies ^  opleiding ^  gelden ^
 </pattern>
 <template>
-<srai>Kan een Bindend Studieadvies voor meer dan één opleiding gelden</srai>
+<srai>Kan een Bindend Studieadvies voor meer dan een opleiding gelden</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ bindend ^  één ^  opleiding ^  gelden ^
+^ bindend ^  een ^  opleiding ^  gelden ^
 </pattern>
 <template>
-<srai>Kan een Bindend Studieadvies voor meer dan één opleiding gelden</srai>
+<srai>Kan een Bindend Studieadvies voor meer dan een opleiding gelden</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ studieadvies ^  één ^  opleiding ^  gelden ^
+^ studieadvies ^  een ^  opleiding ^  gelden ^
 </pattern>
 <template>
-<srai>Kan een Bindend Studieadvies voor meer dan één opleiding gelden</srai>
+<srai>Kan een Bindend Studieadvies voor meer dan een opleiding gelden</srai>
 </template>
 </category>
 
@@ -45019,190 +45019,190 @@
 
 <category>
 <pattern>
-^ sta ^  één ^  opleiding ^  ingeschreven ^
+^ sta ^  een ^  opleiding ^  ingeschreven ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  opleiding ^  beide ^
+^ sta ^  een ^  opleiding ^  beide ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  opleiding ^  opleidingen ^
+^ sta ^  een ^  opleiding ^  opleidingen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  opleiding ^  45 ^
+^ sta ^  een ^  opleiding ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  opleiding ^  punten ^
+^ sta ^  een ^  opleiding ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  opleiding ^  halen ^
+^ sta ^  een ^  opleiding ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  ingeschreven ^  beide ^
+^ sta ^  een ^  ingeschreven ^  beide ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  ingeschreven ^  opleidingen ^
+^ sta ^  een ^  ingeschreven ^  opleidingen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  ingeschreven ^  45 ^
+^ sta ^  een ^  ingeschreven ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  ingeschreven ^  punten ^
+^ sta ^  een ^  ingeschreven ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  ingeschreven ^  halen ^
+^ sta ^  een ^  ingeschreven ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  beide ^  opleidingen ^
+^ sta ^  een ^  beide ^  opleidingen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  beide ^  45 ^
+^ sta ^  een ^  beide ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  beide ^  punten ^
+^ sta ^  een ^  beide ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  beide ^  halen ^
+^ sta ^  een ^  beide ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  opleidingen ^  45 ^
+^ sta ^  een ^  opleidingen ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  opleidingen ^  punten ^
+^ sta ^  een ^  opleidingen ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  opleidingen ^  halen ^
+^ sta ^  een ^  opleidingen ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  45 ^  punten ^
+^ sta ^  een ^  45 ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  45 ^  halen ^
+^ sta ^  een ^  45 ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ sta ^  één ^  punten ^  halen ^
+^ sta ^  een ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45211,7 +45211,7 @@
 ^ sta ^  opleiding ^  ingeschreven ^  beide ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45220,7 +45220,7 @@
 ^ sta ^  opleiding ^  ingeschreven ^  opleidingen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45229,7 +45229,7 @@
 ^ sta ^  opleiding ^  ingeschreven ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45238,7 +45238,7 @@
 ^ sta ^  opleiding ^  ingeschreven ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45247,7 +45247,7 @@
 ^ sta ^  opleiding ^  ingeschreven ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45256,7 +45256,7 @@
 ^ sta ^  opleiding ^  beide ^  opleidingen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45265,7 +45265,7 @@
 ^ sta ^  opleiding ^  beide ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45274,7 +45274,7 @@
 ^ sta ^  opleiding ^  beide ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45283,7 +45283,7 @@
 ^ sta ^  opleiding ^  beide ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45292,7 +45292,7 @@
 ^ sta ^  opleiding ^  opleidingen ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45301,7 +45301,7 @@
 ^ sta ^  opleiding ^  opleidingen ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45310,7 +45310,7 @@
 ^ sta ^  opleiding ^  opleidingen ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45319,7 +45319,7 @@
 ^ sta ^  opleiding ^  45 ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45328,7 +45328,7 @@
 ^ sta ^  opleiding ^  45 ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45337,7 +45337,7 @@
 ^ sta ^  opleiding ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45346,7 +45346,7 @@
 ^ sta ^  ingeschreven ^  beide ^  opleidingen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45355,7 +45355,7 @@
 ^ sta ^  ingeschreven ^  beide ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45364,7 +45364,7 @@
 ^ sta ^  ingeschreven ^  beide ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45373,7 +45373,7 @@
 ^ sta ^  ingeschreven ^  beide ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45382,7 +45382,7 @@
 ^ sta ^  ingeschreven ^  opleidingen ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45391,7 +45391,7 @@
 ^ sta ^  ingeschreven ^  opleidingen ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45400,7 +45400,7 @@
 ^ sta ^  ingeschreven ^  opleidingen ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45409,7 +45409,7 @@
 ^ sta ^  ingeschreven ^  45 ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45418,7 +45418,7 @@
 ^ sta ^  ingeschreven ^  45 ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45427,7 +45427,7 @@
 ^ sta ^  ingeschreven ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45436,7 +45436,7 @@
 ^ sta ^  beide ^  opleidingen ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45445,7 +45445,7 @@
 ^ sta ^  beide ^  opleidingen ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45454,7 +45454,7 @@
 ^ sta ^  beide ^  opleidingen ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45463,7 +45463,7 @@
 ^ sta ^  beide ^  45 ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45472,7 +45472,7 @@
 ^ sta ^  beide ^  45 ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45481,7 +45481,7 @@
 ^ sta ^  beide ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45490,7 +45490,7 @@
 ^ sta ^  opleidingen ^  45 ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45499,7 +45499,7 @@
 ^ sta ^  opleidingen ^  45 ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45508,7 +45508,7 @@
 ^ sta ^  opleidingen ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45517,322 +45517,322 @@
 ^ sta ^  45 ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleiding ^  ingeschreven ^  beide ^
+^ een ^  opleiding ^  ingeschreven ^  beide ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleiding ^  ingeschreven ^  opleidingen ^
+^ een ^  opleiding ^  ingeschreven ^  opleidingen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleiding ^  ingeschreven ^  45 ^
+^ een ^  opleiding ^  ingeschreven ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleiding ^  ingeschreven ^  punten ^
+^ een ^  opleiding ^  ingeschreven ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleiding ^  ingeschreven ^  halen ^
+^ een ^  opleiding ^  ingeschreven ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleiding ^  beide ^  opleidingen ^
+^ een ^  opleiding ^  beide ^  opleidingen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleiding ^  beide ^  45 ^
+^ een ^  opleiding ^  beide ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleiding ^  beide ^  punten ^
+^ een ^  opleiding ^  beide ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleiding ^  beide ^  halen ^
+^ een ^  opleiding ^  beide ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleiding ^  opleidingen ^  45 ^
+^ een ^  opleiding ^  opleidingen ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleiding ^  opleidingen ^  punten ^
+^ een ^  opleiding ^  opleidingen ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleiding ^  opleidingen ^  halen ^
+^ een ^  opleiding ^  opleidingen ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleiding ^  45 ^  punten ^
+^ een ^  opleiding ^  45 ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleiding ^  45 ^  halen ^
+^ een ^  opleiding ^  45 ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleiding ^  punten ^  halen ^
+^ een ^  opleiding ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  ingeschreven ^  beide ^  opleidingen ^
+^ een ^  ingeschreven ^  beide ^  opleidingen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  ingeschreven ^  beide ^  45 ^
+^ een ^  ingeschreven ^  beide ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  ingeschreven ^  beide ^  punten ^
+^ een ^  ingeschreven ^  beide ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  ingeschreven ^  beide ^  halen ^
+^ een ^  ingeschreven ^  beide ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  ingeschreven ^  opleidingen ^  45 ^
+^ een ^  ingeschreven ^  opleidingen ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  ingeschreven ^  opleidingen ^  punten ^
+^ een ^  ingeschreven ^  opleidingen ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  ingeschreven ^  opleidingen ^  halen ^
+^ een ^  ingeschreven ^  opleidingen ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  ingeschreven ^  45 ^  punten ^
+^ een ^  ingeschreven ^  45 ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  ingeschreven ^  45 ^  halen ^
+^ een ^  ingeschreven ^  45 ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  ingeschreven ^  punten ^  halen ^
+^ een ^  ingeschreven ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  beide ^  opleidingen ^  45 ^
+^ een ^  beide ^  opleidingen ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  beide ^  opleidingen ^  punten ^
+^ een ^  beide ^  opleidingen ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  beide ^  opleidingen ^  halen ^
+^ een ^  beide ^  opleidingen ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  beide ^  45 ^  punten ^
+^ een ^  beide ^  45 ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  beide ^  45 ^  halen ^
+^ een ^  beide ^  45 ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  beide ^  punten ^  halen ^
+^ een ^  beide ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleidingen ^  45 ^  punten ^
+^ een ^  opleidingen ^  45 ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleidingen ^  45 ^  halen ^
+^ een ^  opleidingen ^  45 ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  opleidingen ^  punten ^  halen ^
+^ een ^  opleidingen ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ één ^  45 ^  punten ^  halen ^
+^ een ^  45 ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45841,7 +45841,7 @@
 ^ opleiding ^  ingeschreven ^  beide ^  opleidingen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45850,7 +45850,7 @@
 ^ opleiding ^  ingeschreven ^  beide ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45859,7 +45859,7 @@
 ^ opleiding ^  ingeschreven ^  beide ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45868,7 +45868,7 @@
 ^ opleiding ^  ingeschreven ^  beide ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45877,7 +45877,7 @@
 ^ opleiding ^  ingeschreven ^  opleidingen ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45886,7 +45886,7 @@
 ^ opleiding ^  ingeschreven ^  opleidingen ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45895,7 +45895,7 @@
 ^ opleiding ^  ingeschreven ^  opleidingen ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45904,7 +45904,7 @@
 ^ opleiding ^  ingeschreven ^  45 ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45913,7 +45913,7 @@
 ^ opleiding ^  ingeschreven ^  45 ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45922,7 +45922,7 @@
 ^ opleiding ^  ingeschreven ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45931,7 +45931,7 @@
 ^ opleiding ^  beide ^  opleidingen ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45940,7 +45940,7 @@
 ^ opleiding ^  beide ^  opleidingen ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45949,7 +45949,7 @@
 ^ opleiding ^  beide ^  opleidingen ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45958,7 +45958,7 @@
 ^ opleiding ^  beide ^  45 ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45967,7 +45967,7 @@
 ^ opleiding ^  beide ^  45 ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45976,7 +45976,7 @@
 ^ opleiding ^  beide ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45985,7 +45985,7 @@
 ^ opleiding ^  opleidingen ^  45 ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -45994,7 +45994,7 @@
 ^ opleiding ^  opleidingen ^  45 ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -46003,7 +46003,7 @@
 ^ opleiding ^  opleidingen ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -46012,7 +46012,7 @@
 ^ opleiding ^  45 ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -46021,7 +46021,7 @@
 ^ ingeschreven ^  beide ^  opleidingen ^  45 ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -46030,7 +46030,7 @@
 ^ ingeschreven ^  beide ^  opleidingen ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -46039,7 +46039,7 @@
 ^ ingeschreven ^  beide ^  opleidingen ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -46048,7 +46048,7 @@
 ^ ingeschreven ^  beide ^  45 ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -46057,7 +46057,7 @@
 ^ ingeschreven ^  beide ^  45 ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -46066,7 +46066,7 @@
 ^ ingeschreven ^  beide ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -46075,7 +46075,7 @@
 ^ ingeschreven ^  opleidingen ^  45 ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -46084,7 +46084,7 @@
 ^ ingeschreven ^  opleidingen ^  45 ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -46093,7 +46093,7 @@
 ^ ingeschreven ^  opleidingen ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -46102,7 +46102,7 @@
 ^ ingeschreven ^  45 ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -46111,7 +46111,7 @@
 ^ beide ^  opleidingen ^  45 ^  punten ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -46120,7 +46120,7 @@
 ^ beide ^  opleidingen ^  45 ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -46129,7 +46129,7 @@
 ^ beide ^  opleidingen ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -46138,7 +46138,7 @@
 ^ beide ^  45 ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -46147,7 +46147,7 @@
 ^ opleidingen ^  45 ^  punten ^  halen ^
 </pattern>
 <template>
-<srai>Ik sta bij meer dan één opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
+<srai>Ik sta bij meer dan een opleiding ingeschreven. Moet ik dan bij beide opleidingen 45 punten halen</srai>
 </template>
 </category>
 
@@ -48646,55 +48646,55 @@
 
 <category>
 <pattern>
-^ welke ^  financiële ^  regelingen ^  bestaan ^
+^ welke ^  financiele ^  regelingen ^  bestaan ^
 </pattern>
 <template>
-<srai>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</srai>
+<srai>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ welke ^  financiële ^  regelingen ^  studenten ^
+^ welke ^  financiele ^  regelingen ^  studenten ^
 </pattern>
 <template>
-<srai>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</srai>
+<srai>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ welke ^  financiële ^  regelingen ^  functiebeperking ^
+^ welke ^  financiele ^  regelingen ^  functiebeperking ^
 </pattern>
 <template>
-<srai>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</srai>
+<srai>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ welke ^  financiële ^  bestaan ^  studenten ^
+^ welke ^  financiele ^  bestaan ^  studenten ^
 </pattern>
 <template>
-<srai>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</srai>
+<srai>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ welke ^  financiële ^  bestaan ^  functiebeperking ^
+^ welke ^  financiele ^  bestaan ^  functiebeperking ^
 </pattern>
 <template>
-<srai>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</srai>
+<srai>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ welke ^  financiële ^  studenten ^  functiebeperking ^
+^ welke ^  financiele ^  studenten ^  functiebeperking ^
 </pattern>
 <template>
-<srai>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</srai>
+<srai>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</srai>
 </template>
 </category>
 
@@ -48703,7 +48703,7 @@
 ^ welke ^  regelingen ^  bestaan ^  studenten ^
 </pattern>
 <template>
-<srai>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</srai>
+<srai>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</srai>
 </template>
 </category>
 
@@ -48712,7 +48712,7 @@
 ^ welke ^  regelingen ^  bestaan ^  functiebeperking ^
 </pattern>
 <template>
-<srai>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</srai>
+<srai>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</srai>
 </template>
 </category>
 
@@ -48721,7 +48721,7 @@
 ^ welke ^  regelingen ^  studenten ^  functiebeperking ^
 </pattern>
 <template>
-<srai>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</srai>
+<srai>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</srai>
 </template>
 </category>
 
@@ -48730,43 +48730,43 @@
 ^ welke ^  bestaan ^  studenten ^  functiebeperking ^
 </pattern>
 <template>
-<srai>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</srai>
+<srai>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ financiële ^  regelingen ^  bestaan ^  studenten ^
+^ financiele ^  regelingen ^  bestaan ^  studenten ^
 </pattern>
 <template>
-<srai>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</srai>
+<srai>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ financiële ^  regelingen ^  bestaan ^  functiebeperking ^
+^ financiele ^  regelingen ^  bestaan ^  functiebeperking ^
 </pattern>
 <template>
-<srai>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</srai>
+<srai>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ financiële ^  regelingen ^  studenten ^  functiebeperking ^
+^ financiele ^  regelingen ^  studenten ^  functiebeperking ^
 </pattern>
 <template>
-<srai>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</srai>
+<srai>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ financiële ^  bestaan ^  studenten ^  functiebeperking ^
+^ financiele ^  bestaan ^  studenten ^  functiebeperking ^
 </pattern>
 <template>
-<srai>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</srai>
+<srai>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</srai>
 </template>
 </category>
 
@@ -48775,7 +48775,7 @@
 ^ regelingen ^  bestaan ^  studenten ^  functiebeperking ^
 </pattern>
 <template>
-<srai>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</srai>
+<srai>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</srai>
 </template>
 </category>
 
@@ -75160,10 +75160,10 @@
 
 <category>
 <pattern>
-^ verklaring ^  beëindiging ^  inschrijving ^  afstuderen ^
+^ verklaring ^  beeindiging ^  inschrijving ^  afstuderen ^
 </pattern>
 <template>
-<srai>Verklaring beëindiging inschrijving bij afstuderen</srai>
+<srai>Verklaring beeindiging inschrijving bij afstuderen</srai>
 </template>
 </category>
 

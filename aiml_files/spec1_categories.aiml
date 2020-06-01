@@ -462,8 +462,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Welke voorzieningen biedt de RUG aan studenten met een functiebeperking</postback>
 </reply>
 <reply>
-<text>Welke financiële regelingen bestaan er voor studenten met een functiebeperking?</text>
-<postback>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</postback>
+<text>Welke financiele regelingen bestaan er voor studenten met een functiebeperking?</text>
+<postback>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</postback>
 </reply>
 <reply>
 <text>Ik weet niet welke master ik moet kiezen Kan ik daar begeleiding bij krijgen?</text>
@@ -1593,8 +1593,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Verklaring betaald collegegeld</postback>
 </reply>
 <reply>
-<text>Verklaring beëindiging inschrijving bij afstuderen?</text>
-<postback>Verklaring beëindiging inschrijving bij afstuderen</postback>
+<text>Verklaring beeindiging inschrijving bij afstuderen?</text>
+<postback>Verklaring beeindiging inschrijving bij afstuderen</postback>
 </reply>
 <reply>
 <text>Aanvragen verklaring door organisatie?</text>
@@ -2074,8 +2074,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Hoe vaak mag ik mee doen aan de selectie</postback>
 </reply>
 <reply>
-<text>Tellen vrijstellingen mee in de BSAnorm?</text>
-<postback>Tellen vrijstellingen mee in de BSAnorm</postback>
+<text>Tellen vrijstellingen mee in de BSA norm?</text>
+<postback>Tellen vrijstellingen mee in de BSA norm</postback>
 </reply>
 </template>
 </category>
@@ -2695,8 +2695,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Wanneer zijn de matchingsdagen</postback>
 </reply>
 <reply>
-<text>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen?</text>
-<postback>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</postback>
+<text>Als ik geinteresseerd ben in twee studies kan ik dan naar twee matchingsdagen?</text>
+<postback>Als ik geinteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</postback>
 </reply>
 </template>
 </category>
@@ -2729,10 +2729,10 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 
 <category>
 <pattern>
-^ geïnteresseerd ^
+^ geinteresseerd ^
 </pattern>
 <template>
-<srai>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</srai>
+<srai>Als ik geinteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</srai>
 </template>
 </category>
 
@@ -2743,12 +2743,12 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
-<text>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen?</text>
-<postback>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</postback>
+<text>Als ik geinteresseerd ben in twee studies kan ik dan naar twee matchingsdagen?</text>
+<postback>Als ik geinteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</postback>
 </reply>
 <reply>
-<text>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen?</text>
-<postback>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</postback>
+<text>Als ik geinteresseerd ben in twee studies kan ik dan naar twee matchingsdagen?</text>
+<postback>Als ik geinteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</postback>
 </reply>
 <reply>
 <text>Ik doe twee studies aan de RUG maar ik wil met één daarvan stoppen Hoe doe ik dat?</text>
@@ -2784,8 +2784,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
-<text>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen?</text>
-<postback>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</postback>
+<text>Als ik geinteresseerd ben in twee studies kan ik dan naar twee matchingsdagen?</text>
+<postback>Als ik geinteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</postback>
 </reply>
 <reply>
 <text>Ik doe twee studies aan de RUG maar ik wil met één daarvan stoppen Hoe doe ik dat?</text>
@@ -3597,8 +3597,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Verklaring van inschrijving</postback>
 </reply>
 <reply>
-<text>Verklaring beëindiging inschrijving bij afstuderen?</text>
-<postback>Verklaring beëindiging inschrijving bij afstuderen</postback>
+<text>Verklaring beeindiging inschrijving bij afstuderen?</text>
+<postback>Verklaring beeindiging inschrijving bij afstuderen</postback>
 </reply>
 <reply>
 <text>Regeling Inschrijving en Collegegeld RIC?</text>
@@ -3884,8 +3884,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Word ik na mijn afstuderen automatisch uitgeschreven</postback>
 </reply>
 <reply>
-<text>Verklaring beëindiging inschrijving bij afstuderen?</text>
-<postback>Verklaring beëindiging inschrijving bij afstuderen</postback>
+<text>Verklaring beeindiging inschrijving bij afstuderen?</text>
+<postback>Verklaring beeindiging inschrijving bij afstuderen</postback>
 </reply>
 </template>
 </category>
@@ -4900,8 +4900,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Ik studeer naast de RUG ook aan een andere onderwijsinstelling in Nederland Hoe kom ik aan een Bewijs Betaald Collegegeld</postback>
 </reply>
 <reply>
-<text>Wat kan ik doen als ik onvoorziene financiële problemen tegen kom?</text>
-<postback>Wat kan ik doen als ik onvoorziene financiële problemen tegen kom</postback>
+<text>Wat kan ik doen als ik onvoorziene financiele problemen tegen kom?</text>
+<postback>Wat kan ik doen als ik onvoorziene financiele problemen tegen kom</postback>
 </reply>
 <reply>
 <text>Ik heb voor een particulier fonds een aanbevelingsbrief nodig van een studentendecaan Hoe kom ik daar aan?</text>
@@ -5246,8 +5246,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Voor sommige studenten nog steeds volledig collegegeld</postback>
 </reply>
 <reply>
-<text>Financiële regeling voor studenten met een functiebeperking?</text>
-<postback>Financiële regeling voor studenten met een functiebeperking</postback>
+<text>Financiele regeling voor studenten met een functiebeperking?</text>
+<postback>Financiele regeling voor studenten met een functiebeperking</postback>
 </reply>
 <reply>
 <text>Kunnen studenten zich voordelig tegen ziektekosten verzekeren?</text>
@@ -5258,8 +5258,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Welke voorzieningen biedt de RUG aan studenten met een functiebeperking</postback>
 </reply>
 <reply>
-<text>Welke financiële regelingen bestaan er voor studenten met een functiebeperking?</text>
-<postback>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</postback>
+<text>Welke financiele regelingen bestaan er voor studenten met een functiebeperking?</text>
+<postback>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</postback>
 </reply>
 <reply>
 <text>Wat doet de Advies Commissie Functiebeperkte studenten en hoe kan ik me er voor aanmelden?</text>
@@ -6365,21 +6365,21 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 
 <category>
 <pattern>
-^ financiële ^
+^ financiele ^
 </pattern>
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
-<text>Financiële regeling voor studenten met een functiebeperking?</text>
-<postback>Financiële regeling voor studenten met een functiebeperking</postback>
+<text>Financiele regeling voor studenten met een functiebeperking?</text>
+<postback>Financiele regeling voor studenten met een functiebeperking</postback>
 </reply>
 <reply>
-<text>Wat kan ik doen als ik onvoorziene financiële problemen tegen kom?</text>
-<postback>Wat kan ik doen als ik onvoorziene financiële problemen tegen kom</postback>
+<text>Wat kan ik doen als ik onvoorziene financiele problemen tegen kom?</text>
+<postback>Wat kan ik doen als ik onvoorziene financiele problemen tegen kom</postback>
 </reply>
 <reply>
-<text>Welke financiële regelingen bestaan er voor studenten met een functiebeperking?</text>
-<postback>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</postback>
+<text>Welke financiele regelingen bestaan er voor studenten met een functiebeperking?</text>
+<postback>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</postback>
 </reply>
 </template>
 </category>
@@ -6391,8 +6391,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
-<text>Financiële regeling voor studenten met een functiebeperking?</text>
-<postback>Financiële regeling voor studenten met een functiebeperking</postback>
+<text>Financiele regeling voor studenten met een functiebeperking?</text>
+<postback>Financiele regeling voor studenten met een functiebeperking</postback>
 </reply>
 <reply>
 <text>Wat houdt de 1februari regeling precies in?</text>
@@ -6412,8 +6412,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
-<text>Financiële regeling voor studenten met een functiebeperking?</text>
-<postback>Financiële regeling voor studenten met een functiebeperking</postback>
+<text>Financiele regeling voor studenten met een functiebeperking?</text>
+<postback>Financiele regeling voor studenten met een functiebeperking</postback>
 </reply>
 <reply>
 <text>Wat is een functiebeperking?</text>
@@ -6424,8 +6424,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Welke voorzieningen biedt de RUG aan studenten met een functiebeperking</postback>
 </reply>
 <reply>
-<text>Welke financiële regelingen bestaan er voor studenten met een functiebeperking?</text>
-<postback>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</postback>
+<text>Welke financiele regelingen bestaan er voor studenten met een functiebeperking?</text>
+<postback>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</postback>
 </reply>
 <reply>
 <text>Ik heb een functiebeperking en ben afhankelijk van een auto Kan ik een parkeerplaats krijgen?</text>
@@ -6439,7 +6439,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 ^ onvoorziene ^
 </pattern>
 <template>
-<srai>Wat kan ik doen als ik onvoorziene financiële problemen tegen kom</srai>
+<srai>Wat kan ik doen als ik onvoorziene financiele problemen tegen kom</srai>
 </template>
 </category>
 
@@ -6448,7 +6448,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 ^ problemen ^
 </pattern>
 <template>
-<srai>Wat kan ik doen als ik onvoorziene financiële problemen tegen kom</srai>
+<srai>Wat kan ik doen als ik onvoorziene financiele problemen tegen kom</srai>
 </template>
 </category>
 
@@ -8740,7 +8740,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 ^ tellen ^
 </pattern>
 <template>
-<srai>Tellen vrijstellingen mee in de BSAnorm</srai>
+<srai>Tellen vrijstellingen mee in de BSA norm</srai>
 </template>
 </category>
 
@@ -8749,16 +8749,16 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 ^ vrijstellingen ^
 </pattern>
 <template>
-<srai>Tellen vrijstellingen mee in de BSAnorm</srai>
+<srai>Tellen vrijstellingen mee in de BSA norm</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ bsanorm ^
+^ bsa norm ^
 </pattern>
 <template>
-<srai>Tellen vrijstellingen mee in de BSAnorm</srai>
+<srai>Tellen vrijstellingen mee in de BSA norm</srai>
 </template>
 </category>
 
@@ -8892,8 +8892,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
-<text>Welke financiële regelingen bestaan er voor studenten met een functiebeperking?</text>
-<postback>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</postback>
+<text>Welke financiele regelingen bestaan er voor studenten met een functiebeperking?</text>
+<postback>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</postback>
 </reply>
 <reply>
 <text>Meer informatie regelingen ?</text>
@@ -8907,7 +8907,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 ^ bestaan ^
 </pattern>
 <template>
-<srai>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</srai>
+<srai>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</srai>
 </template>
 </category>
 
@@ -10350,10 +10350,10 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 
 <category>
 <pattern>
-^ beëindiging ^
+^ beeindiging ^
 </pattern>
 <template>
-<srai>Verklaring beëindiging inschrijving bij afstuderen</srai>
+<srai>Verklaring beeindiging inschrijving bij afstuderen</srai>
 </template>
 </category>
 

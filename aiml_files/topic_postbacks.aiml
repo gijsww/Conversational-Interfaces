@@ -302,7 +302,7 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 </reply>
 <reply>
 <text>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen?</text>
-<postback>Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</postback>
+<postback>Als ik geinteresseerd ben in twee studies kan ik dan naar twee matchingsdagen</postback>
 </reply>
 <reply>
 <text>Wat als de opleiding niet bij me past?</text>
@@ -400,8 +400,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Ik ga volgend jaar een andere opleiding doen aan de RUG dan dit jaar Hoe geef ik dit aan</postback>
 </reply>
 <reply>
-<text>Ik doe twee studies aan de RUG maar ik wil met één daarvan stoppen Hoe doe ik dat?</text>
-<postback>Ik doe twee studies aan de RUG maar ik wil met één daarvan stoppen Hoe doe ik dat</postback>
+<text>Ik doe twee studies aan de RUG maar ik wil met een daarvan stoppen Hoe doe ik dat?</text>
+<postback>Ik doe twee studies aan de RUG maar ik wil met een daarvan stoppen Hoe doe ik dat</postback>
 </reply>
 <reply>
 <text>Hoe verander ik van studie tijdens het collegejaar?</text>
@@ -475,8 +475,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Moet ik mij nog herinschrijven als ik mijn diploma in september krijg</postback>
 </reply>
 <reply>
-<text>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden?</text>
-<postback>Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden</postback>
+<text>Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden?</text>
+<postback>Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden</postback>
 </reply>
 </template>
 </category>
@@ -885,8 +885,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Op welke manieren kan ik mijn collegegeld betalen</postback>
 </reply>
 <reply>
-<text>Ik wil het collegegeld in één keer betalen Hoe doe ik dat?</text>
-<postback>Ik wil het collegegeld in één keer betalen Hoe doe ik dat</postback>
+<text>Ik wil het collegegeld in een keer betalen Hoe doe ik dat?</text>
+<postback>Ik wil het collegegeld in een keer betalen Hoe doe ik dat</postback>
 </reply>
 <reply>
 <text>Kan ik ook contant betalen?</text>
@@ -901,8 +901,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Mijn ouders betalen mijn collegegeld Hoe regel ik dat</postback>
 </reply>
 <reply>
-<text>Ik betaal mijn collegegeld in één keer Wanneer wordt dit afgeschreven?</text>
-<postback>Ik betaal mijn collegegeld in één keer Wanneer wordt dit afgeschreven</postback>
+<text>Ik betaal mijn collegegeld in een keer Wanneer wordt dit afgeschreven?</text>
+<postback>Ik betaal mijn collegegeld in een keer Wanneer wordt dit afgeschreven</postback>
 </reply>
 <reply>
 <text>Voor wanneer moet ik het collegegeld betalen?</text>
@@ -1017,8 +1017,8 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Ik heb aan een andere instelling al collegegeld betaald Moet ik dat ook aan de Rijksuniversiteit Groningen doen</postback>
 </reply>
 <reply>
-<text>Wat gebeurt er als ik één van de opleidingen afrond?</text>
-<postback>Wat gebeurt er als ik één van de opleidingen afrond</postback>
+<text>Wat gebeurt er als ik een van de opleidingen afrond?</text>
+<postback>Wat gebeurt er als ik een van de opleidingen afrond</postback>
 </reply>
 </template>
 </category>
@@ -1062,10 +1062,10 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 
 <category>
 <pattern>
-financiële ondersteuning
+financiele ondersteuning
 </pattern>
 <template>
-<srai>Financiële regeling voor studenten met een functiebeperking </srai>
+<srai>Financiele regeling voor studenten met een functiebeperking </srai>
 </template>
 </category>
 
@@ -1077,7 +1077,7 @@ noodsituaties
 Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
 <text>Wat kan ik doen als ik onvoorziene financiële problemen tegen kom?</text>
-<postback>Wat kan ik doen als ik onvoorziene financiële problemen tegen kom</postback>
+<postback>Wat kan ik doen als ik onvoorziene financiele problemen tegen kom</postback>
 </reply>
 <reply>
 <text>Wat moet ik doen als ik geen geld heb om een dyslexieonderzoek te laten doen?</text>
@@ -1563,20 +1563,20 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Hoeveel punten moet ik halen om een positief studieadvies te krijgen</postback>
 </reply>
 <reply>
-<text>Tellen vrijstellingen mee in de BSAnorm?</text>
-<postback>Tellen vrijstellingen mee in de BSAnorm</postback>
+<text>Tellen vrijstellingen mee in de BSA norm?</text>
+<postback>Tellen vrijstellingen mee in de BSA norm</postback>
 </reply>
 <reply>
-<text>Kan een Bindend Studieadvies voor meer dan één opleiding gelden?</text>
-<postback>Kan een Bindend Studieadvies voor meer dan één opleiding gelden</postback>
+<text>Kan een Bindend Studieadvies voor meer dan een opleiding gelden?</text>
+<postback>Kan een Bindend Studieadvies voor meer dan een opleiding gelden</postback>
 </reply>
 <reply>
 <text>Hoelang mag ik me niet inschrijven bij een opleiding als ik een BSA heb gekregen?</text>
 <postback>Hoelang mag ik me niet inschrijven bij een opleiding als ik een BSA heb gekregen</postback>
 </reply>
 <reply>
-<text>Ik sta bij meer dan één opleiding ingeschreven Moet ik dan bij beide opleidingen 45 punten halen?</text>
-<postback>Ik sta bij meer dan één opleiding ingeschreven Moet ik dan bij beide opleidingen 45 punten halen</postback>
+<text>Ik sta bij meer dan een opleiding ingeschreven Moet ik dan bij beide opleidingen 45 punten halen?</text>
+<postback>Ik sta bij meer dan een opleiding ingeschreven Moet ik dan bij beide opleidingen 45 punten halen</postback>
 </reply>
 <reply>
 <text>Wat gebeurd er als ik meerdere opleidingen volg en ik bij geen enkele 45 punten haal?</text>
@@ -1625,7 +1625,7 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 </reply>
 <reply>
 <text>Welke financiële regelingen bestaan er voor studenten met een functiebeperking?</text>
-<postback>Welke financiële regelingen bestaan er voor studenten met een functiebeperking</postback>
+<postback>Welke financiele regelingen bestaan er voor studenten met een functiebeperking</postback>
 </reply>
 <reply>
 <text>Wat moet ik doen om in aanmerking voor universitaire voorzieningen te komen?</text>
@@ -2046,7 +2046,7 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 </reply>
 <reply>
 <text>Verklaring beëindiging inschrijving bij afstuderen?</text>
-<postback>Verklaring beëindiging inschrijving bij afstuderen</postback>
+<postback>Verklaring beeindiging inschrijving bij afstuderen</postback>
 </reply>
 <reply>
 <text>Bewijs betaald collegegeld BBC voor andere instelling?</text>

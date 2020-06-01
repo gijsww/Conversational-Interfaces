@@ -642,7 +642,7 @@ Voor hoeveel numerus fixusopleiding kan ik mij aanmelden
 </pattern>
 <template>
 <think><set name="topic">aanmelden numerus fixusopleiding</set></think>
-Je mag je per studiejaar voor maximaal twee numerus fixusopleidingen aanmelden, behalve voor Geneeskunde en Tandheelkunde.  Dit betekent dat je je niet voor twee geneeskunde-opleidingen kunt aanmelden, maar wel voor Geneeskunde en een andere opleiding met een numerus fixus. Bijvoorbeeld: Tandheelkunde  Let op Als je voor beide fixusopleidingen wordt geselecteerd, moet je een keuze maken. Je mag je maar voor één fixusopleiding inschrijven.  
+Je mag je per studiejaar voor maximaal twee numerus fixusopleidingen aanmelden, behalve voor Geneeskunde en Tandheelkunde.  Dit betekent dat je je niet voor twee geneeskunde-opleidingen kunt aanmelden, maar wel voor Geneeskunde en een andere opleiding met een numerus fixus. Bijvoorbeeld: Tandheelkunde  Let op Als je voor beide fixusopleidingen wordt geselecteerd, moet je een keuze maken. Je mag je maar voor een fixusopleiding inschrijven.  
 <br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
@@ -706,7 +706,7 @@ Hoe vaak mag ik mee doen aan de selectie
 </pattern>
 <template>
 <think><set name="topic">selectiepogingen</set></think>
-Afhankelijk van de opleiding mag je één, twee of maximaal drie keer meedoen aan een selectie. Hierbij tellen de pogingen uit het verleden mee.   
+Afhankelijk van de opleiding mag je een, twee of maximaal drie keer meedoen aan een selectie. Hierbij tellen de pogingen uit het verleden mee.   
 <br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
@@ -932,7 +932,7 @@ Wat is matching en waarom moet ik meedoen
 </pattern>
 <template>
 <think><set name="topic">matching aan de RUG</set></think>
-In de wet staat dat aankomend studenten die zich voor het eerst aanmelden voor een studie zonder selectie het recht hebben om deel te nemen aan een studiekeuzeactiviteit. Teveel studenten stoppen met hun studie in het eerste jaar, vaak doordat ze geen goed beeld hadden van de studie. Door deel te nemen aan matchingsactiviteiten krijg je een reëel beeld van de studie en heb je de mogelijkheid om je verwachtingen te checken. Past de studie die ik heb gekozen bij mij? En pas ik bij de studie? Sluit de opleiding aan bij mijn interesses en capaciteiten?   Voor alle opleidingen zonder numerus fixus van de faculteiten Gedrags- en Maatschappijwetenschappen, Medische Wetenschappen, Rechtsgeleerdheid, Science and Engineering en Wijsbegeerte is deelname aan matching verplicht om ingeschreven te worden. Wil je meer weten over de matchingsprocedure van jouw faculteit? Bekijk dan de facultaire matchingpagina.
+In de wet staat dat aankomend studenten die zich voor het eerst aanmelden voor een studie zonder selectie het recht hebben om deel te nemen aan een studiekeuzeactiviteit. Teveel studenten stoppen met hun studie in het eerste jaar, vaak doordat ze geen goed beeld hadden van de studie. Door deel te nemen aan matchingsactiviteiten krijg je een reeel beeld van de studie en heb je de mogelijkheid om je verwachtingen te checken. Past de studie die ik heb gekozen bij mij? En pas ik bij de studie? Sluit de opleiding aan bij mijn interesses en capaciteiten?   Voor alle opleidingen zonder numerus fixus van de faculteiten Gedrags- en Maatschappijwetenschappen, Medische Wetenschappen, Rechtsgeleerdheid, Science and Engineering en Wijsbegeerte is deelname aan matching verplicht om ingeschreven te worden. Wil je meer weten over de matchingsprocedure van jouw faculteit? Bekijk dan de facultaire matchingpagina.
 <button>
 <text>
 Klik hier
@@ -1036,7 +1036,7 @@ Deelname aan matching is niet verplicht, met uitzondering van de faculteiten Ged
 
 <category>
 <pattern>
-Als ik geïnteresseerd ben in twee studies kan ik dan naar twee matchingsdagen 
+Als ik geinteresseerd ben in twee studies kan ik dan naar twee matchingsdagen 
 </pattern>
 <template>
 <think><set name="topic">matching aan de RUG</set></think>
@@ -1140,7 +1140,7 @@ Tot wanneer kan ik me inschrijven
 </pattern>
 <template>
 <think><set name="topic">inschrijvingsprocedure</set></think>
-Je wordt per 1 september ingeschreven als je voor 31 augustus via Studielink:  een herinschrijvingsverzoek hebt ingediend, én de betaling van het collegegeld hebt geregeld.   Te laat? De inschrijving wordt opgeschoven naar het eerstvolgende inschrijfmoment van de opleiding.   bacheloropleiding: 1 september. Na 1 september kun je alleen ingeschreven worden met toestemming van de opleiding. Neem voor meer informatie contact op met de studieadviseur.  masteropleiding: eerstvolgende instroommoment van de betreffende masteropleiding studievertraging: maximaal een half jaar.     
+Je wordt per 1 september ingeschreven als je voor 31 augustus via Studielink:  een herinschrijvingsverzoek hebt ingediend, een de betaling van het collegegeld hebt geregeld.   Te laat? De inschrijving wordt opgeschoven naar het eerstvolgende inschrijfmoment van de opleiding.   bacheloropleiding: 1 september. Na 1 september kun je alleen ingeschreven worden met toestemming van de opleiding. Neem voor meer informatie contact op met de studieadviseur.  masteropleiding: eerstvolgende instroommoment van de betreffende masteropleiding studievertraging: maximaal een half jaar.     
 <button>
 <text>
 Klik hier
@@ -1408,7 +1408,7 @@ Tijdens de herinschrijvingsprocedure via Studielink kun je aangeven dat je je vo
 
 <category>
 <pattern>
-Ik doe twee studies aan de RUG maar ik wil met één daarvan stoppen Hoe doe ik dat 
+Ik doe twee studies aan de RUG maar ik wil met een daarvan stoppen Hoe doe ik dat 
 </pattern>
 <template>
 <think><set name="topic">inschrijving wijzigen</set></think>
@@ -1614,7 +1614,7 @@ Wat moet ik doen als ik me niet wil herinschrijven
 </pattern>
 <template>
 <think><set name="topic">herinschrijven</set></think>
-Geef in Studielink aan dat je stopt met je opleiding.  Meer informatie vind je in één van de handleidingen van Studielink.
+Geef in Studielink aan dat je stopt met je opleiding.  Meer informatie vind je in een van de handleidingen van Studielink.
 <button>
 <text>
 Klik hier
@@ -1664,7 +1664,7 @@ https://www.rug.nl/education/information-services/
 
 <category>
 <pattern>
-Kan ik mij voor een maand herinschrijven als ik nog maar één onderdeel van mijn opleiding moet afronden 
+Kan ik mij voor een maand herinschrijven als ik nog maar een onderdeel van mijn opleiding moet afronden 
 </pattern>
 <template>
 <think><set name="topic">herinschrijven</set></think>
@@ -1772,7 +1772,7 @@ Ik doe twee studies aan de RUG en ik wil met een daarvan stoppen Hoe doe ik dat
 </pattern>
 <template>
 <think><set name="topic">uitschrijven</set></think>
-Dien via Studielink een verzoek tot uitschrijving in voor één van de opleidingen.  Meer informatie vind je op de pagina Uitschrijven op de Student Portal.  
+Dien via Studielink een verzoek tot uitschrijving in voor een van de opleidingen.  Meer informatie vind je op de pagina Uitschrijven op de Student Portal.  
 <button>
 <text>
 Klik hier
@@ -2074,7 +2074,7 @@ Hoe kan ik mijn RUGaccount activeren
 </pattern>
 <template>
 <think><set name="topic">rugaccount voor studenten</set></think>
-Je activeert je RUG-account via de Password Self Service Portal.   Vul je studentnummer in met de 'S' ervoor. Klik op 'gebruikersaccount activeren'. Je ontvangt een code en verdere instructies op je privé e-mailadres. Dit is het e-mailadres dat je in Studielink hebt opgegeven.  Zijn er problemen of heb je vragen? Neem contact op met de CIT servicedesk
+Je activeert je RUG-account via de Password Self Service Portal.   Vul je studentnummer in met de 'S' ervoor. Klik op 'gebruikersaccount activeren'. Je ontvangt een code en verdere instructies op je privee e-mailadres. Dit is het e-mailadres dat je in Studielink hebt opgegeven.  Zijn er problemen of heb je vragen? Neem contact op met de CIT servicedesk
 <button>
 <text>
 Klik hier
@@ -2176,7 +2176,7 @@ Kan ik nog mail ontvangen of versturen als mijn RUGaccount is geblokkeerd
 </pattern>
 <template>
 <think><set name="topic">blokkeren RUGaccount</set></think>
-Ja, je mail komt nog gewoon binnen op je account. Alleen kun je deze mail niet lezen, omdat je niet kunt inloggen op het RUG-netwerk of je mailbox.   Je kunt geen mail meer versturen via je RUG-account, omdat je niet kunt inloggen op het RUG-netwerk of je mailbox.   Forwarding-regel ingesteld?  De forwarding-regel blijft tijdens de blokkeerperiode werken. Je e-mailberichten worden gewoon doorgestuurd naar je privé e-mailadres.   Advies  Ben je je RUG-account aan het opruimen, omdat je bent uitgeschreven? Stel dan een automatic reply in.
+Ja, je mail komt nog gewoon binnen op je account. Alleen kun je deze mail niet lezen, omdat je niet kunt inloggen op het RUG-netwerk of je mailbox.   Je kunt geen mail meer versturen via je RUG-account, omdat je niet kunt inloggen op het RUG-netwerk of je mailbox.   Forwarding-regel ingesteld?  De forwarding-regel blijft tijdens de blokkeerperiode werken. Je e-mailberichten worden gewoon doorgestuurd naar je privee e-mailadres.   Advies  Ben je je RUG-account aan het opruimen, omdat je bent uitgeschreven? Stel dan een automatic reply in.
 <br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
@@ -2244,7 +2244,7 @@ Mijn studie eindigt hoe stel ik mijn gegevens veilig
 </pattern>
 <template>
 <think><set name="topic">rugaccount voor studenten</set></think>
-Na het beëindigen van je studie stopt de toegang tot de RUG-faciliteiten. Verplaats of bewaar tijdig je e-mail, gegevens in andere Google Apps bv Drive en je bestanden op X:\.      Bestanden op X:\    Log in op uwp.rug.nl en verplaats of kopieer de bestanden van X:\ naar een lokale schijf op je pc als volgt:       * Download de versie van  Citrix Workspace app die bij je pc past.       * Installeer de Citrix Workspace app volgens de aanwijzingen       * Geef UWP.RUG.NL op als serveradres       De eerste keer dat je inlogt op uwp.rug.nl, nadat je de Citrix Workspace app hebt geïnstalleerd, vraagt deze om toegang tot lokale data C:\schijf, D:\ etc.. Daarna hoef je niets meer te doen, de Citrix Workspace app draait op de achtergrond.    Wanneer de app niet om toegang tot lokale data vraagt, probeer dan het volgende:       * Klik op het icoon van Citrix Workspace app, en open het programma       * Geef als serveradres op: uwp.rug.nl       * Klik op Next       * Vul je S-nummer en wachtwoord in       * Klik op Logon       * Vul bij Domain\user in: workspace\S-nummer en nogmaals je wachtwoord       * Klik op het plusteken aan de linkerzijde van het scherm       * Kies een applicaties, deze verschijnt op de Citrix desktop       * Start de applicaties door erop te dubbelklikken       Je hebt nu toegang tot je lokale data op je pc, je data op de uwp en de applicaties via uwp.rug.nl.
+Na het beeindigen van je studie stopt de toegang tot de RUG-faciliteiten. Verplaats of bewaar tijdig je e-mail, gegevens in andere Google Apps bv Drive en je bestanden op X:\.      Bestanden op X:\    Log in op uwp.rug.nl en verplaats of kopieer de bestanden van X:\ naar een lokale schijf op je pc als volgt:       * Download de versie van  Citrix Workspace app die bij je pc past.       * Installeer de Citrix Workspace app volgens de aanwijzingen       * Geef UWP.RUG.NL op als serveradres       De eerste keer dat je inlogt op uwp.rug.nl, nadat je de Citrix Workspace app hebt geinstalleerd, vraagt deze om toegang tot lokale data C:\schijf, D:\ etc.. Daarna hoef je niets meer te doen, de Citrix Workspace app draait op de achtergrond.    Wanneer de app niet om toegang tot lokale data vraagt, probeer dan het volgende:       * Klik op het icoon van Citrix Workspace app, en open het programma       * Geef als serveradres op: uwp.rug.nl       * Klik op Next       * Vul je S-nummer en wachtwoord in       * Klik op Logon       * Vul bij Domain\user in: workspace\S-nummer en nogmaals je wachtwoord       * Klik op het plusteken aan de linkerzijde van het scherm       * Kies een applicaties, deze verschijnt op de Citrix desktop       * Start de applicaties door erop te dubbelklikken       Je hebt nu toegang tot je lokale data op je pc, je data op de uwp en de applicaties via uwp.rug.nl.
 <button>
 <text>
 Klik hier
@@ -2294,7 +2294,7 @@ Wat is een RUGpas
 </pattern>
 <template>
 <think><set name="topic">rugpas</set></think>
-Je krijgt eenmalig een RUGpas uitgereikt, die jouw hele studieperiode geldig is. Vanaf het moment dat je bent uitgeschreven, kun je de RUGpas niet meer gebruiken.  Je gebruikt de RUGpas om:  koffie en thee te kopen bij de automaten, te printen en te kopiëren, boeken te lenen bij de Universiteitsbibliotheek, toegang tot de Universiteitsbibliotheek, je te identificeren bij inschrijven voor en/of maken van tentamens, te sporten als de kaart 'geaclotiveerd' is.     
+Je krijgt eenmalig een RUGpas uitgereikt, die jouw hele studieperiode geldig is. Vanaf het moment dat je bent uitgeschreven, kun je de RUGpas niet meer gebruiken.  Je gebruikt de RUGpas om:  koffie en thee te kopen bij de automaten, te printen en te kopieren, boeken te lenen bij de Universiteitsbibliotheek, toegang tot de Universiteitsbibliotheek, je te identificeren bij inschrijven voor en/of maken van tentamens, te sporten als de kaart 'geaclotiveerd' is.     
 <br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
@@ -2706,7 +2706,7 @@ Wat zijn minoren
 </pattern>
 <template>
 <think><set name="topic">vakken tentamens boeken</set></think>
-De meeste bacheloropleidingen hebben een minorruimte van 15 of 30 EC opgenomen in semester 1 van studiejaar 3. In deze periode volg je geen vakken van jouw reguliere bachelor, maar verbreed of verdiep je jouw kennis en vaardigheden. Dit doe je middels een universitair, facultair of persoonlijk minorpakket, een studieperiode in het buitenland of een stage. Op deze website vind je meer informatie over de wijze waarop jij jouw minorruimte kunt inrichten. Waarom een minorruimte? De minorruimte biedt jou de mogelijkheid een accent aan te brengen in jouw studie. Je krijgt zo de kans jouw eigen studiepad uit te stippelen. Je kunt de minorruimte gebruiken om jouw horizon te verbreden of juist kennis en vaardigheden te verdiepen. Daarnaast kun je je persoonlijk ontwikkelen door een tijd in het buitenland te studeren of juist kennismaken met de arbeidsmarkt via een stage. Invulling minorruimte Het verschilt per studie of je een minorruimte hebt, hoe groot deze ruimte is en op welke manier je de minorruimte mag invullen. In dit schema kun je per bachelor opzoeken wat de regels zijn. In het algemeen zijn er zes mogelijkheden om de minorruimte in te vullen:  Universitair minorpakket: deze pakketten zijn toegankelijk voor studenten van alle opleidingen. Je komt zo in aanraking met studenten van allerlei opleidingen en met verschillende perspectieven op een onderwerp dat verder afstaat van jouw bachelor. Via een universitair minorpakket verbreed je jouw kennis en vaardigheden. Facultair minorpakket: sommige faculteiten bieden minorpakketten aan die alleen toegankelijk zijn voor studenten van de eigen faculteit. Via een facultair minorpakket verdiep je jouw kennis en vaardigheden. In sommige gevallen kan een facultair minorpakket de mogelijkheid bieden over te stappen naar een andere master binnen de faculteit. Persoonlijk minorpakket: dit pakket stel je zelf samen en geeft je de kans om jouw eigen interesses te volgen. Persoonlijke minorpakketten moet je altijd vooraf ter goedkeuring voorleggen aan de examencommissie van jouw opleiding. Jouw studieadviseur kan je meer vertellen over hoe je een persoonlijk minorpakket samenstelt en laat goedkeuren. Educatieve minor: als je een bachelor volgt in de richting van een schoolvak, kun je kennismaken met lesgeven in het voortgezet onderwijs via de Educatieve Minor. Na afronding van de Educatieve Minor én jouw bachelor ontvang je een beperkte tweedegraads lesbevoegdheid. Daarmee mag je lesgeven in de onderbouw van havo/vwo en op de theoretische leerweg van het vmbo. Studeren in het buitenland: je kunt jouw minorruimte ook invullen met een periode studeren aan een buitenlandse universiteit. Als je meer wilt weten over deze mogelijkheid, neem dan contact op met jouw studieadviseur. Onderzoeks- of maatschappelijke stage: een aantal opleidingen biedt de mogelijkheid om stage te lopen binnen de minorruimte. Als je meer wilt weten over deze mogelijkheid, neem dan contact op met jouw studieadviseur.  Toegankelijkheid Om een minorpakket te mogen volgen, dien je de propedeutische fase van je opleiding te hebben afgerond. Masterstudenten kunnen geen minorpakket volgen als onderdeel van hun masteropleiding. Hbo-studenten zijn niet toelaatbaar tot de minorpakketten aan de RUG. De universitaire minorpakketten zijn in principe toegankelijk voor alle studenten, ongeacht vooropleiding. In sommige gevallen is de overlap tussen het minorpakket en de reguliere opleiding echter te groot en is de inschrijving niet toegestaan. Dit staat vermeld in de minorbeschrijving. Facultaire minorpakketten zijn alleen bestemd voor studenten die studeren binnen die faculteit. Minorruimte per opleiding In dit schema kun je opzoeken of jouw bachelor een minorruimte heeft en hoe je die kunt invullen. Sommige opleidingen bieden geen minorruimte aan, omdat er bijvoorbeeld eisen vanuit het beroepenveld worden gesteld aan het onderwijsprogramma. Indien jouw opleiding geen minorruimte aanbiedt, maar je wel op zoek bent naar verdieping of verbreding, kun je contact opnemen met de studieadviseur van jouw opleiding.  Overzicht Minorruimte per opleiding
+De meeste bacheloropleidingen hebben een minorruimte van 15 of 30 EC opgenomen in semester 1 van studiejaar 3. In deze periode volg je geen vakken van jouw reguliere bachelor, maar verbreed of verdiep je jouw kennis en vaardigheden. Dit doe je middels een universitair, facultair of persoonlijk minorpakket, een studieperiode in het buitenland of een stage. Op deze website vind je meer informatie over de wijze waarop jij jouw minorruimte kunt inrichten. Waarom een minorruimte? De minorruimte biedt jou de mogelijkheid een accent aan te brengen in jouw studie. Je krijgt zo de kans jouw eigen studiepad uit te stippelen. Je kunt de minorruimte gebruiken om jouw horizon te verbreden of juist kennis en vaardigheden te verdiepen. Daarnaast kun je je persoonlijk ontwikkelen door een tijd in het buitenland te studeren of juist kennismaken met de arbeidsmarkt via een stage. Invulling minorruimte Het verschilt per studie of je een minorruimte hebt, hoe groot deze ruimte is en op welke manier je de minorruimte mag invullen. In dit schema kun je per bachelor opzoeken wat de regels zijn. In het algemeen zijn er zes mogelijkheden om de minorruimte in te vullen:  Universitair minorpakket: deze pakketten zijn toegankelijk voor studenten van alle opleidingen. Je komt zo in aanraking met studenten van allerlei opleidingen en met verschillende perspectieven op een onderwerp dat verder afstaat van jouw bachelor. Via een universitair minorpakket verbreed je jouw kennis en vaardigheden. Facultair minorpakket: sommige faculteiten bieden minorpakketten aan die alleen toegankelijk zijn voor studenten van de eigen faculteit. Via een facultair minorpakket verdiep je jouw kennis en vaardigheden. In sommige gevallen kan een facultair minorpakket de mogelijkheid bieden over te stappen naar een andere master binnen de faculteit. Persoonlijk minorpakket: dit pakket stel je zelf samen en geeft je de kans om jouw eigen interesses te volgen. Persoonlijke minorpakketten moet je altijd vooraf ter goedkeuring voorleggen aan de examencommissie van jouw opleiding. Jouw studieadviseur kan je meer vertellen over hoe je een persoonlijk minorpakket samenstelt en laat goedkeuren. Educatieve minor: als je een bachelor volgt in de richting van een schoolvak, kun je kennismaken met lesgeven in het voortgezet onderwijs via de Educatieve Minor. Na afronding van de Educatieve Minor een jouw bachelor ontvang je een beperkte tweedegraads lesbevoegdheid. Daarmee mag je lesgeven in de onderbouw van havo/vwo en op de theoretische leerweg van het vmbo. Studeren in het buitenland: je kunt jouw minorruimte ook invullen met een periode studeren aan een buitenlandse universiteit. Als je meer wilt weten over deze mogelijkheid, neem dan contact op met jouw studieadviseur. Onderzoeks- of maatschappelijke stage: een aantal opleidingen biedt de mogelijkheid om stage te lopen binnen de minorruimte. Als je meer wilt weten over deze mogelijkheid, neem dan contact op met jouw studieadviseur.  Toegankelijkheid Om een minorpakket te mogen volgen, dien je de propedeutische fase van je opleiding te hebben afgerond. Masterstudenten kunnen geen minorpakket volgen als onderdeel van hun masteropleiding. Hbo-studenten zijn niet toelaatbaar tot de minorpakketten aan de RUG. De universitaire minorpakketten zijn in principe toegankelijk voor alle studenten, ongeacht vooropleiding. In sommige gevallen is de overlap tussen het minorpakket en de reguliere opleiding echter te groot en is de inschrijving niet toegestaan. Dit staat vermeld in de minorbeschrijving. Facultaire minorpakketten zijn alleen bestemd voor studenten die studeren binnen die faculteit. Minorruimte per opleiding In dit schema kun je opzoeken of jouw bachelor een minorruimte heeft en hoe je die kunt invullen. Sommige opleidingen bieden geen minorruimte aan, omdat er bijvoorbeeld eisen vanuit het beroepenveld worden gesteld aan het onderwijsprogramma. Indien jouw opleiding geen minorruimte aanbiedt, maar je wel op zoek bent naar verdieping of verbreding, kun je contact opnemen met de studieadviseur van jouw opleiding.  Overzicht Minorruimte per opleiding
 <button>
 <text>
 Klik hier
@@ -2768,7 +2768,7 @@ Opbouw van een universitaire opleiding
 </pattern>
 <template>
 <think><set name="topic">inschrijvingsvormen</set></think>
-Een universitaire opleiding is opgebouwd uit twee fases:  een driejarige bacheloropleiding, die wordt afgesloten met een bachelordiploma. een masteropleiding van één, twee of drie jaar.    Meer informatie over de opbouw van een universitaire opleiding vind je op de website.    
+Een universitaire opleiding is opgebouwd uit twee fases:  een driejarige bacheloropleiding, die wordt afgesloten met een bachelordiploma. een masteropleiding van een, twee of drie jaar.    Meer informatie over de opbouw van een universitaire opleiding vind je op de website.    
 <button>
 <text>
 Klik hier
@@ -2936,7 +2936,7 @@ Instellingscollegegeldtarief
 </pattern>
 <template>
 <think><set name="topic">collegegeldtarieven</set></think>
-Als je op het moment van inschrijven of gedurende het studiejaar niet meer aan alle voorwaarden voor het wettelijk collegegeld voldoet, moet je het instellingscollegegeld betalen. Er zijn twee categorieën: instellingscollegegeld I en het hogere instellingscollegegeld II. De categorie waartoe je behoort, is afhankelijk van je persoonlijke situatie.   Instellingscollegegeld I  Het instellingscollegegeld I is in hoogte gelijk aan het wettelijk collegegeld. Je betaalt het instellingscollegegeld I als één van de onderstaande situaties van toepassing is.   UAF Je bent door het UAF als vluchteling-student erkend.  Erasmus Mundus-opleiding  Je bent door de faculteit erkend als deelnemer aan een Erasmus Mundus-opleiding aan de Rijksuniversiteit Groningen en je voldoet niet aan de voorwaarden voor het wettelijk collegegeld.   Instellingscollegegeld II Je betaalt het instellingscollegegeld II als je niet voldoet aan de voorwaarden voor het wettelijk collegegeld en het instellingscollegegeld I. De hoogte van het instellingscollegegeld II is afhankelijk van de gekozen bacheloropleiding of masteropleiding.   Meer informatie    Toelichting hoogte instellingscollegegeld                
+Als je op het moment van inschrijven of gedurende het studiejaar niet meer aan alle voorwaarden voor het wettelijk collegegeld voldoet, moet je het instellingscollegegeld betalen. Er zijn twee categorieen: instellingscollegegeld I en het hogere instellingscollegegeld II. De categorie waartoe je behoort, is afhankelijk van je persoonlijke situatie.   Instellingscollegegeld I  Het instellingscollegegeld I is in hoogte gelijk aan het wettelijk collegegeld. Je betaalt het instellingscollegegeld I als een van de onderstaande situaties van toepassing is.   UAF Je bent door het UAF als vluchteling-student erkend.  Erasmus Mundus-opleiding  Je bent door de faculteit erkend als deelnemer aan een Erasmus Mundus-opleiding aan de Rijksuniversiteit Groningen en je voldoet niet aan de voorwaarden voor het wettelijk collegegeld.   Instellingscollegegeld II Je betaalt het instellingscollegegeld II als je niet voldoet aan de voorwaarden voor het wettelijk collegegeld en het instellingscollegegeld I. De hoogte van het instellingscollegegeld II is afhankelijk van de gekozen bacheloropleiding of masteropleiding.   Meer informatie    Toelichting hoogte instellingscollegegeld                
 <button>
 <text>
 Klik hier
@@ -2962,7 +2962,7 @@ Toelichting op hoogte instellingscollegegeld
 </pattern>
 <template>
 <think><set name="topic">collegegeldtarieven</set></think>
-Op grond van gewijzigde wetgeving per 1 september 2010 komt een student die een tweede zelfde graad wil behalen d.w.z. inschrijving voor een bacheloropleiding terwijl al eerder een bachelorgraad is behaald of inschrijving voor een masteropleiding terwijl al eerder een mastergraad is behaald niet meer in aanmerking voor betaling van het wettelijk collegegeld.  De Rijksoverheid bekostigt per student één bachelorgraad en één mastergraad, zodat het onderwijs voor deze student kan worden aangeboden tegen een laag bedrag aan collegegeld het 'wettelijk collegegeld'. De werkelijke kosten van het onderwijs zijn voor de Rijksuniversiteit Groningen vele male hoger dan het bedrag dat de student hiervoor in de vorm van collegegeld betaalt, het verschil wordt in deze gevallen gecompenseerd door de overheid. De overheid meent dat de kosten van een dergelijke tweede opleiding gedragen moeten worden door de student zelf via het heffen van een kostendekkend collegegeld.  De RUG heeft bij de vaststelling van de instellingstarieven daarom aansluiting gezocht bij de bedragen die de RUG misloopt vanwege het ontbreken van bekostiging van Rijkswege. Het College van Bestuur legt de instellingstarieven elk jaar ter advisering voor aan de Universiteitsraad.    
+Op grond van gewijzigde wetgeving per 1 september 2010 komt een student die een tweede zelfde graad wil behalen d.w.z. inschrijving voor een bacheloropleiding terwijl al eerder een bachelorgraad is behaald of inschrijving voor een masteropleiding terwijl al eerder een mastergraad is behaald niet meer in aanmerking voor betaling van het wettelijk collegegeld.  De Rijksoverheid bekostigt per student een bachelorgraad en een mastergraad, zodat het onderwijs voor deze student kan worden aangeboden tegen een laag bedrag aan collegegeld het 'wettelijk collegegeld'. De werkelijke kosten van het onderwijs zijn voor de Rijksuniversiteit Groningen vele male hoger dan het bedrag dat de student hiervoor in de vorm van collegegeld betaalt, het verschil wordt in deze gevallen gecompenseerd door de overheid. De overheid meent dat de kosten van een dergelijke tweede opleiding gedragen moeten worden door de student zelf via het heffen van een kostendekkend collegegeld.  De RUG heeft bij de vaststelling van de instellingstarieven daarom aansluiting gezocht bij de bedragen die de RUG misloopt vanwege het ontbreken van bekostiging van Rijkswege. Het College van Bestuur legt de instellingstarieven elk jaar ter advisering voor aan de Universiteitsraad.    
 <br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
@@ -3048,11 +3048,11 @@ https://www.rug.nl/education/master/nederlandse-studenten/financien/collegegeld/
 
 <category>
 <pattern>
-Ik wil het collegegeld in één keer betalen Hoe doe ik dat 
+Ik wil het collegegeld in een keer betalen Hoe doe ik dat 
 </pattern>
 <template>
 <think><set name="topic">betaling collegegeld</set></think>
-Je kunt het collegegeld op verschillende manieren in één keer betalen.  Een overzicht van de verschillende betalingsmogelijkheden vind je op de onderstaande pagina's op onze website:    Bachelor betalingsmogelijkheden   Master betalingsmogelijkheden      
+Je kunt het collegegeld op verschillende manieren in een keer betalen.  Een overzicht van de verschillende betalingsmogelijkheden vind je op de onderstaande pagina's op onze website:    Bachelor betalingsmogelijkheden   Master betalingsmogelijkheden      
 <button>
 <text>
 Klik hier
@@ -3136,7 +3136,7 @@ https://www.rug.nl/education/tuition/payment/
 
 <category>
 <pattern>
-Ik betaal mijn collegegeld in één keer Wanneer wordt dit afgeschreven 
+Ik betaal mijn collegegeld in een keer Wanneer wordt dit afgeschreven 
 </pattern>
 <template>
 <think><set name="topic">betaling collegegeld</set></think>
@@ -3212,7 +3212,7 @@ Wanneer worden de termijnen afgeschreven en hoeveel geld wordt er dan afgeschrev
 </pattern>
 <template>
 <think><set name="topic">collegegeld in termijnen betalen</set></think>
-Het collegegeld wordt geïnd in de laatste week van de maanden september, november, januari, maart en mei.  Per termijn betaal je 1/5 deel van je collegegeld. Bij de eerste termijn wordt, naast 1/5 deel van je collegegeld, ook de administratiekosten geïnd.  Meer informatie vind je op de onderstaande pagina's op onze website:   Bachelor: Machtiging voor eenmalige of gespreide inning   Master: Machtiging voor eenmalige of gespreide inning
+Het collegegeld wordt geind in de laatste week van de maanden september, november, januari, maart en mei.  Per termijn betaal je 1/5 deel van je collegegeld. Bij de eerste termijn wordt, naast 1/5 deel van je collegegeld, ook de administratiekosten geind.  Meer informatie vind je op de onderstaande pagina's op onze website:   Bachelor: Machtiging voor eenmalige of gespreide inning   Master: Machtiging voor eenmalige of gespreide inning
 <button>
 <text>
 Klik hier
@@ -3264,7 +3264,7 @@ Ik schrijf me in de loop van het studiejaar in Kan ik dan ook mijn collegegeld i
 </pattern>
 <template>
 <think><set name="topic">collegegeld in termijnen betalen</set></think>
-Ja, dat kan.   De termijnen worden in de laatste week van de maanden september, november, januari, maart en mei geïnd. Dit betekent dat het moment van inschrijven bepaalt in hoeveel termijnen je het verschuldigde collegegeld kunt betalen.   Bijvoorbeeld:   een student die zich per 1 oktober inschrijft, kan het verschuldigde collegegeld in vier termijnen betalen. een student die zich per 1 december inschrijft, kan het verschuldigde collegegeld in drie termijnen betalen   Meer informatie vind je op de onderstaande pagina's op onze website:   Bachelor: Machtiging voor eenmalige of gespreide inning   Master: Machtiging voor eenmalige of gespreide inning
+Ja, dat kan.   De termijnen worden in de laatste week van de maanden september, november, januari, maart en mei geind. Dit betekent dat het moment van inschrijven bepaalt in hoeveel termijnen je het verschuldigde collegegeld kunt betalen.   Bijvoorbeeld:   een student die zich per 1 oktober inschrijft, kan het verschuldigde collegegeld in vier termijnen betalen. een student die zich per 1 december inschrijft, kan het verschuldigde collegegeld in drie termijnen betalen   Meer informatie vind je op de onderstaande pagina's op onze website:   Bachelor: Machtiging voor eenmalige of gespreide inning   Master: Machtiging voor eenmalige of gespreide inning
 <button>
 <text>
 Klik hier
@@ -3402,7 +3402,7 @@ Ik studeer binnenkort af Kan ik collegegeld terug krijgen
 </pattern>
 <template>
 <think><set name="topic">restitutie collegegeld</set></think>
-Als je tijdens het studiejaar afstudeert en je uitschrijft aan de Rijksuniversiteit Groningen heb je recht op een teruggave restitutie van 1/12 van het betaalde collegegeld voor elke maand van het studiejaar dat je niet meer staat ingeschreven. Behalve als je je per 1 juli of 1 augustus uitschrijft. Over de maanden juli en augustus vindt namelijk geen restitutie plaats.  Je moet wel rekening houden met het feit dat:  de Rijksuniversiteit Groningen je pas definitief kan uitschrijven als zij de uitslag van het examen en het judicium geslaagd van je faculteit heeft ontvangen. Dit kan soms enige tijd duren. er, in geval van een machtiging, nog collegegeld van je giro- bankrekening kan worden afgeschreven. Dit bedrag wordt later verrekend met het restitutiebedrag. de inschrijving wordt beëindigd met ingang van de maand volgend op de maand waarin het examen datering van de bul is behaald. Dit kan gevolgen hebben voor je recht op studiefinanciering en studenten ov-chipkaart.  Bijvoorbeeld: Als je in februari een verzoek tot uitschrijven op grond van afstuderen indient, wordt je per 1 januari uitgeschreven als je afstudeerdatum in december valt. Je hebt dan vanaf 1 januari geen recht meer op studiefinanciering en de studenten ov-chipkaart.      
+Als je tijdens het studiejaar afstudeert en je uitschrijft aan de Rijksuniversiteit Groningen heb je recht op een teruggave restitutie van 1/12 van het betaalde collegegeld voor elke maand van het studiejaar dat je niet meer staat ingeschreven. Behalve als je je per 1 juli of 1 augustus uitschrijft. Over de maanden juli en augustus vindt namelijk geen restitutie plaats.  Je moet wel rekening houden met het feit dat:  de Rijksuniversiteit Groningen je pas definitief kan uitschrijven als zij de uitslag van het examen en het judicium geslaagd van je faculteit heeft ontvangen. Dit kan soms enige tijd duren. er, in geval van een machtiging, nog collegegeld van je giro- bankrekening kan worden afgeschreven. Dit bedrag wordt later verrekend met het restitutiebedrag. de inschrijving wordt beeindigd met ingang van de maand volgend op de maand waarin het examen datering van de bul is behaald. Dit kan gevolgen hebben voor je recht op studiefinanciering en studenten ov-chipkaart.  Bijvoorbeeld: Als je in februari een verzoek tot uitschrijven op grond van afstuderen indient, wordt je per 1 januari uitgeschreven als je afstudeerdatum in december valt. Je hebt dan vanaf 1 januari geen recht meer op studiefinanciering en de studenten ov-chipkaart.      
 <br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
@@ -3492,7 +3492,7 @@ Moet ik twee keer collegegeld betalen als ik twee opleidingen aan de Rijksuniver
 </pattern>
 <template>
 <think><set name="topic">tweede opleiding</set></think>
-Je kunt je voor meerdere bachelor- of masteropleidingen tegelijkertijd inschrijven. Afhankelijk van het collegegeldtarief dat je voor de verschillende opleidingen moet betalen, betaal je of één keer het wettelijk collegegeld of je betaalt voor elke opleiding apart.  Meer informatie vind je op de onderstaande pagina's op onze website:   Bachelor: Collegegeld bij meerdere inschrijvingen   Master: Collegegeld bij meerdere inschrijvingen       
+Je kunt je voor meerdere bachelor- of masteropleidingen tegelijkertijd inschrijven. Afhankelijk van het collegegeldtarief dat je voor de verschillende opleidingen moet betalen, betaal je of een keer het wettelijk collegegeld of je betaalt voor elke opleiding apart.  Meer informatie vind je op de onderstaande pagina's op onze website:   Bachelor: Collegegeld bij meerdere inschrijvingen   Master: Collegegeld bij meerdere inschrijvingen       
 <button>
 <text>
 Klik hier
@@ -3602,7 +3602,7 @@ https://www.rug.nl/education/tuition/payment/
 
 <category>
 <pattern>
-Wat gebeurt er als ik één van de opleidingen afrond 
+Wat gebeurt er als ik een van de opleidingen afrond 
 </pattern>
 <template>
 <think><set name="topic">tweede opleiding</set></think>
@@ -3624,7 +3624,7 @@ Waarom halvering collegegeld eerstejaars
 </pattern>
 <template>
 <think><set name="topic">halvering wettelijk collegegeld voor eerstejaars</set></think>
-De hoogte van het collegegeld kan voor iedereen een financiële drempel zijn. Daarom halveert het kabinet het collegegeld van eerstejaars studenten vanaf het studiejaar 2018-2019. Daarnaast wil het kabinet dat meer mensen kiezen voor een baan in het onderwijs. Studenten aan een lerarenopleidingen krijgen daarom een extra jaar korting op het collegegeld.  Voldoet een student aan de voorwaarden voor halvering van het collegegeld? Dan is het collegegeld voor hem of haar in:  studiejaar 2019-2020 € 1.041 in plaats van € 2.083. studiejaar 2020-2021 € 1.071 in plaats van € 2.143.  Uitzondering  Voor de bacheloropleidingen bij Campus Fryslân en University College Groningen geldt een korting van 50% van het wettelijk collegegeld voor eerstejaars studenten.   Voldoet een student aan de voorwaarden voor halvering van het collegegeld? Dan is het collegegeld voor hem of haar in:  studiejaar 2020-2021 € 3.178 in plaats van € 4.249.  Voor huidige studenten dien nog recht hebben op enkele maanden verlaagd collegegeldtarief, geldt een overgangsbepaling. Deze is opgenomen in de Regeling Inchrijving en Collegegeld.
+De hoogte van het collegegeld kan voor iedereen een financiele drempel zijn. Daarom halveert het kabinet het collegegeld van eerstejaars studenten vanaf het studiejaar 2018-2019. Daarnaast wil het kabinet dat meer mensen kiezen voor een baan in het onderwijs. Studenten aan een lerarenopleidingen krijgen daarom een extra jaar korting op het collegegeld.  Voldoet een student aan de voorwaarden voor halvering van het collegegeld? Dan is het collegegeld voor hem of haar in:  studiejaar 2019-2020 € 1.041 in plaats van € 2.083. studiejaar 2020-2021 € 1.071 in plaats van € 2.143.  Uitzondering  Voor de bacheloropleidingen bij Campus Fryslân en University College Groningen geldt een korting van 50% van het wettelijk collegegeld voor eerstejaars studenten.   Voldoet een student aan de voorwaarden voor halvering van het collegegeld? Dan is het collegegeld voor hem of haar in:  studiejaar 2020-2021 € 3.178 in plaats van € 4.249.  Voor huidige studenten dien nog recht hebben op enkele maanden verlaagd collegegeldtarief, geldt een overgangsbepaling. Deze is opgenomen in de Regeling Inchrijving en Collegegeld.
 <button>
 <text>
 Klik hier
@@ -3714,11 +3714,11 @@ https://www.rijksoverheid.nl/onderwerpen/hoger-onderwijs/vraag-en-antwoord/veelg
 
 <category>
 <pattern>
-Financiële regeling voor studenten met een functiebeperking 
+Financiele regeling voor studenten met een functiebeperking 
 </pattern>
 <template>
-<think><set name="topic">financiële ondersteuning</set></think>
-Kleine vertragingen kunnen financieel gecompenseerd worden door het Profileringsfonds van de RUG. Daarvoor gelden een aantal voorwaarden.  Bij een substantiële studievertraging door een functiebeperking kun je eenmalig een jaar verlenging van je studiefinanciering aanvragen bij DUO. Ook daaraan zijn voorwaarden verbonden. Daarnaast is het in uitzonderlijke situaties mogelijk om de diplomatermijn te verlengen.    Wat moet je doen?  Als je studievertraging oploopt en je denkt in aanmerking te komen voor financiële compensatie, meldt die vertraging dan altijd bij je studieadviseur en maak een afspraak met een studentendecaan van het Studenten Service Centrum. De studentendecanen vormen een belangrijke schakel in de aanvraagprocedure bij DUO.  Overleg met de studentendecaan hoe je je verzoek op het DUO-formulier aangeeft. Als je alles hebt ingevuld en je arts of psycholoog zijn deel heeft getekend, stuur je het formulier naar het Studenten Service Centrum. Als de studentendecaan je aanvraag ondersteund en de Rijksuniversiteit Groningen het formulier officieel heeft getekend moet je het weer afhalen bij het SSC. Jij stuurt het vervolgens naar DUO. Maak een kopie van je aanvraag voordat je het op de bus doet.  Let op!  DUO  accepteert alleen formulieren die zijn goedgekeurd door de studentendecanen. Het heeft dus geen zin om het formulier te laten tekenen door je studieadviseur of hoogleraar.  Vragen? Neem contact op met het Studenten Service Centre via ssc-info rug.nl.
+<think><set name="topic">financiele ondersteuning</set></think>
+Kleine vertragingen kunnen financieel gecompenseerd worden door het Profileringsfonds van de RUG. Daarvoor gelden een aantal voorwaarden.  Bij een substantiele studievertraging door een functiebeperking kun je eenmalig een jaar verlenging van je studiefinanciering aanvragen bij DUO. Ook daaraan zijn voorwaarden verbonden. Daarnaast is het in uitzonderlijke situaties mogelijk om de diplomatermijn te verlengen.    Wat moet je doen?  Als je studievertraging oploopt en je denkt in aanmerking te komen voor financiele compensatie, meldt die vertraging dan altijd bij je studieadviseur en maak een afspraak met een studentendecaan van het Studenten Service Centrum. De studentendecanen vormen een belangrijke schakel in de aanvraagprocedure bij DUO.  Overleg met de studentendecaan hoe je je verzoek op het DUO-formulier aangeeft. Als je alles hebt ingevuld en je arts of psycholoog zijn deel heeft getekend, stuur je het formulier naar het Studenten Service Centrum. Als de studentendecaan je aanvraag ondersteund en de Rijksuniversiteit Groningen het formulier officieel heeft getekend moet je het weer afhalen bij het SSC. Jij stuurt het vervolgens naar DUO. Maak een kopie van je aanvraag voordat je het op de bus doet.  Let op!  DUO  accepteert alleen formulieren die zijn goedgekeurd door de studentendecanen. Het heeft dus geen zin om het formulier te laten tekenen door je studieadviseur of hoogleraar.  Vragen? Neem contact op met het Studenten Service Centre via ssc-info rug.nl.
 <button>
 <text>
 Klik hier
@@ -3748,7 +3748,7 @@ https://www.rug.nl/education/student-service-centre/
 
 <category>
 <pattern>
-Wat kan ik doen als ik onvoorziene financiële problemen tegen kom 
+Wat kan ik doen als ik onvoorziene financiele problemen tegen kom 
 </pattern>
 <template>
 <think><set name="topic">noodsituaties</set></think>
@@ -3804,7 +3804,7 @@ Wat is het Profileringsfonds
 </pattern>
 <template>
 <think><set name="topic">profileringsfonds</set></think>
-Het Profileringsfonds verstrekt financiële ondersteuning aan studenten die studievertraging oplopen door bijzondere familie-omstandigheden, een bestuurs- of medezeggenschapsfunctie of het beoefenen van topsport.  Meer informatie vind je op de pagina Profileringsfonds op de Student Portal inloggen met P- of S-nummer.
+Het Profileringsfonds verstrekt financiele ondersteuning aan studenten die studievertraging oplopen door bijzondere familie-omstandigheden, een bestuurs- of medezeggenschapsfunctie of het beoefenen van topsport.  Meer informatie vind je op de pagina Profileringsfonds op de Student Portal inloggen met P- of S-nummer.
 <button>
 <text>
 Klik hier
@@ -3930,7 +3930,7 @@ Wat moet ik doen als ik geen 'Bericht Studiefinanciering' over de gevraagde basi
 </pattern>
 <template>
 <think><set name="topic">profileringsfonds</set></think>
-Als het Bericht Studiefinanciering over de gevraagde basisbeursperiode niet meer in je bezit is:     kun je dit bericht opvragen bij DUO. moet je, als de basisbeursperiode is verstreken, het laatste Bericht Studiefinanciering over de basisbeursperiode opsturen, waaruit de hoogte van de basisbeurs en eventuele aanvullende beurs blijkt en waaruit blijkt wanneer de basisbeursperiode is geëindigd.   Vragen? Neem contact op met het UFC: ufc rug.nl.
+Als het Bericht Studiefinanciering over de gevraagde basisbeursperiode niet meer in je bezit is:     kun je dit bericht opvragen bij DUO. moet je, als de basisbeursperiode is verstreken, het laatste Bericht Studiefinanciering over de basisbeursperiode opsturen, waaruit de hoogte van de basisbeurs en eventuele aanvullende beurs blijkt en waaruit blijkt wanneer de basisbeursperiode is geeindigd.   Vragen? Neem contact op met het UFC: ufc rug.nl.
 <button>
 <text>
 Klik hier
@@ -3994,7 +3994,7 @@ Sociaal leenstelsel per 1 september 2015
 </pattern>
 <template>
 <think><set name="topic">studiefinanciering DUO</set></think>
-Op dinsdag 20 januari heeft de Eerste Kamer gedebatteerd over het sociaal leenstelsel. Het wetsvoorstel om de studiebeurs te vervangen door het studievoorschot, zoals het leenstelsel officieel wordt genoemd, is aangenomen.   Meer informatie of vragen?    Kijk op de website van DUO voor meer informatie over de Wet Studievoorschot Hoger Onderwijs. Neem contact op met één van de studentendecanen via ssc-info rug.n als je specifieke vragen over jouw persoonlijke situatie hebt.
+Op dinsdag 20 januari heeft de Eerste Kamer gedebatteerd over het sociaal leenstelsel. Het wetsvoorstel om de studiebeurs te vervangen door het studievoorschot, zoals het leenstelsel officieel wordt genoemd, is aangenomen.   Meer informatie of vragen?    Kijk op de website van DUO voor meer informatie over de Wet Studievoorschot Hoger Onderwijs. Neem contact op met een van de studentendecanen via ssc-info rug.n als je specifieke vragen over jouw persoonlijke situatie hebt.
 <button>
 <text>
 Klik hier
@@ -4086,7 +4086,7 @@ Wat zijn de gevolgen als ik vanaf 1 september 2015 met mijn masteropleiding begi
 </pattern>
 <template>
 <think><set name="topic">studiefinanciering DUO</set></think>
-Als je op 1-9-2015 al meer dan 36 maanden basisbeurs hebt gehad, krijg je vanaf 1-9-2015 geen basisbeurs meer. Wel worden alle ontvangen maanden basisbeurs behorende van de nominale studieduur van vóór 1-9-2015 een gift.   voorbeeld  Floor zit in haar vierde jaar van de bachelor psychologie. Zij heeft vanaf 1 september 2011 een basisbeurs. Floor zal tot 1-09-2015 in totaal 48 maanden basisbeurs ontvangen. Vanaf 1-09-2015 krijgt zij geen basisbeurs.  Als Floor vóór 2021 haar diploma voor de tweejarige researchmaster haalt worden de 48 maanden basisbeurs een definitieve gift.  Als Floor vóór 2021 alléén een bachelordiploma haalt worden 36 maanden basisbeurs een definitieve gift.
+Als je op 1-9-2015 al meer dan 36 maanden basisbeurs hebt gehad, krijg je vanaf 1-9-2015 geen basisbeurs meer. Wel worden alle ontvangen maanden basisbeurs behorende van de nominale studieduur van vóór 1-9-2015 een gift.   voorbeeld  Floor zit in haar vierde jaar van de bachelor psychologie. Zij heeft vanaf 1 september 2011 een basisbeurs. Floor zal tot 1-09-2015 in totaal 48 maanden basisbeurs ontvangen. Vanaf 1-09-2015 krijgt zij geen basisbeurs.  Als Floor vóór 2021 haar diploma voor de tweejarige researchmaster haalt worden de 48 maanden basisbeurs een definitieve gift.  Als Floor vóór 2021 alleen een bachelordiploma haalt worden 36 maanden basisbeurs een definitieve gift.
 <br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
@@ -4178,7 +4178,7 @@ Welke landen behoren tot de EU of EER
 </pattern>
 <template>
 <think><set name="topic">studiefinanciering DUO</set></think>
-De volgende landen maken deel uit van de EU of EER: België, Bulgarije, Cyprus, Denemarken, Duitsland, Estland, Finland, Frankrijk, Griekenland, Groot-Brittannië, Hongarije, Ierland, Italië, Letland, Liechtenstein, Litouwen, Luxemburg, Malta, Noorwegen, Oostenrijk, Polen, Portugal, Roemenië, Slovenië, Slowakije, Spanje, Tsjechië, IJsland en Zweden. Studenten met de Zwitserse nationaliteit kunnen een beroep doen op collegegeldkrediet en/of studiefinanciering, ondanks het feit dat Zwitserland niet is toegetreden tot de EU of EER.
+De volgende landen maken deel uit van de EU of EER: Belgie, Bulgarije, Cyprus, Denemarken, Duitsland, Estland, Finland, Frankrijk, Griekenland, Groot-Brittannie, Hongarije, Ierland, Italie, Letland, Liechtenstein, Litouwen, Luxemburg, Malta, Noorwegen, Oostenrijk, Polen, Portugal, Roemenie, Slovenie, Slowakije, Spanje, Tsjechie, IJsland en Zweden. Studenten met de Zwitserse nationaliteit kunnen een beroep doen op collegegeldkrediet en/of studiefinanciering, ondanks het feit dat Zwitserland niet is toegetreden tot de EU of EER.
 <br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
@@ -4188,7 +4188,7 @@ Bij wie kan ik terecht met een persoonlijke vraag
 </pattern>
 <template>
 <think><set name="topic">studiefinanciering DUO</set></think>
-Neem contact op met één van de studentendecanen via ssc-info rug.nl als je specifieke vragen over jouw persoonlijke situatie hebt.
+Neem contact op met een van de studentendecanen via ssc-info rug.nl als je specifieke vragen over jouw persoonlijke situatie hebt.
 <br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
@@ -4216,7 +4216,7 @@ Ik stop voor 1 februari met mijn studie Moet ik mijn studiefinanciering dan teru
 </pattern>
 <template>
 <think><set name="topic">studiefinanciering DUO</set></think>
-Als je in je eerste studiefinancieringsjaar de studiefinanciering stopzet voor 1 februari en daar in hetzelfde studiejaar geen gebruik meer van maakt, dan wordt de prestatiebeurs die je tot dat moment hebt gehad omgezet in een gift. Zou je nooit meer studeren, dan hoef je deze maanden niet terug te betalen aan DUO.  Houd er, op het moment dat je je weer inschrijft voor een studie, wel rekening mee dat je voor deze studie minder studiefinancieringsmaanden hebt. De studiefinancieringsmaanden van je eerste studiejaar zijn immers al als gift omgezet en kun je niet opnieuw inzetten.  Heb je te maken met bijzondere omstandigheden en denk je erover om te stoppen met je studie, dan kun je voor vragen en advies altijd terecht bij één van de studentendecanen van het Studenten Service Centrum.   
+Als je in je eerste studiefinancieringsjaar de studiefinanciering stopzet voor 1 februari en daar in hetzelfde studiejaar geen gebruik meer van maakt, dan wordt de prestatiebeurs die je tot dat moment hebt gehad omgezet in een gift. Zou je nooit meer studeren, dan hoef je deze maanden niet terug te betalen aan DUO.  Houd er, op het moment dat je je weer inschrijft voor een studie, wel rekening mee dat je voor deze studie minder studiefinancieringsmaanden hebt. De studiefinancieringsmaanden van je eerste studiejaar zijn immers al als gift omgezet en kun je niet opnieuw inzetten.  Heb je te maken met bijzondere omstandigheden en denk je erover om te stoppen met je studie, dan kun je voor vragen en advies altijd terecht bij een van de studentendecanen van het Studenten Service Centrum.   
 <button>
 <text>
 Klik hier
@@ -5000,7 +5000,7 @@ Wanneer moet ik beginnen
 </pattern>
 <template>
 <think><set name="topic">praktische zaken</set></think>
-Het is belangrijk om minstens een jaar van te voren te beginnen met de voorbereiding. Dit heeft onder andere te maken met de deadlines van diverse beurzen en fondsen. Er zijn namelijk beurzen en fondsen, die je maar één keer in het jaar kunt aanvragen. Daarnaast moet je rekening houden met de deadlines van de verschillende uitwisselingsprogramma’s. Zo kun je je maar één keer in het jaar aanmelden voor één van de universitaire uitwisselingsprogramma’s. Op de website vind je meer informatie over studeren en stage lopen in het buitenland.         
+Het is belangrijk om minstens een jaar van te voren te beginnen met de voorbereiding. Dit heeft onder andere te maken met de deadlines van diverse beurzen en fondsen. Er zijn namelijk beurzen en fondsen, die je maar een keer in het jaar kunt aanvragen. Daarnaast moet je rekening houden met de deadlines van de verschillende uitwisselingsprogramma’s. Zo kun je je maar een keer in het jaar aanmelden voor een van de universitaire uitwisselingsprogramma’s. Op de website vind je meer informatie over studeren en stage lopen in het buitenland.         
 <button>
 <text>
 Klik hier
@@ -5190,7 +5190,7 @@ https://www.rug.nl/education/study-advisors/
 
 <category>
 <pattern>
-Tellen vrijstellingen mee in de BSAnorm 
+Tellen vrijstellingen mee in de BSA norm 
 </pattern>
 <template>
 <think><set name="topic">bindend Studieadvies BSA</set></think>
@@ -5208,11 +5208,11 @@ https://www.rug.nl/education/study-advisors/
 
 <category>
 <pattern>
-Kan een Bindend Studieadvies voor meer dan één opleiding gelden 
+Kan een Bindend Studieadvies voor meer dan een opleiding gelden 
 </pattern>
 <template>
 <think><set name="topic">bindend Studieadvies BSA</set></think>
-Een negatief Bindend Studieadvies BSA dat voor één opleiding wordt gegeven, kan ook gelden voor een cluster van verwante opleidingen. Dit betekent dat je je niet kunt inschrijven voor de opleidingen die bij dat cluster horen.  Aan de Rijksuniversiteit Groningen zijn bepaalde opleidingen aan de Faculteit Economie en Bedrijfskunde, Faculteit Bètawetenschappen en Technologie, en de Faculteit Rechten geclusterd. Op de website vind je een overzicht van deze clustering.  Vragen?  Neem contact op met de studieadviseur.
+Een negatief Bindend Studieadvies BSA dat voor een opleiding wordt gegeven, kan ook gelden voor een cluster van verwante opleidingen. Dit betekent dat je je niet kunt inschrijven voor de opleidingen die bij dat cluster horen.  Aan de Rijksuniversiteit Groningen zijn bepaalde opleidingen aan de Faculteit Economie en Bedrijfskunde, Faculteit Bètawetenschappen en Technologie, en de Faculteit Rechten geclusterd. Op de website vind je een overzicht van deze clustering.  Vragen?  Neem contact op met de studieadviseur.
 <button>
 <text>
 Klik hier
@@ -5252,11 +5252,11 @@ https://www.rug.nl/education/study-advisors/
 
 <category>
 <pattern>
-Ik sta bij meer dan één opleiding ingeschreven Moet ik dan bij beide opleidingen 45 punten halen 
+Ik sta bij meer dan een opleiding ingeschreven Moet ik dan bij beide opleidingen 45 punten halen 
 </pattern>
 <template>
 <think><set name="topic">bindend Studieadvies BSA</set></think>
-De Rijksuniversiteit van Groningen vind het belangrijk dat goede studenten de keuze moeten hebben om twee of meer opleidingen te volgen, maar het is te veel gevraagd om te verlangen dat studenten voor beide opleidingen aan de BSA-norm voldoen.  Als je bij één van de opleidingen aan de BSA-norm hebt voldaan, vervalt dat jaar de verplichting om bij andere opleidingen aan de norm te voldoen. Nadat je de propedeutische fase hebt afgerond, hoef je niet meer te voldoen aan de BSA-verplichting bij inschrijvingen bij andere opleidingen.  Vragen?  Neem contact op met de studieadviseur.
+De Rijksuniversiteit van Groningen vind het belangrijk dat goede studenten de keuze moeten hebben om twee of meer opleidingen te volgen, maar het is te veel gevraagd om te verlangen dat studenten voor beide opleidingen aan de BSA-norm voldoen.  Als je bij een van de opleidingen aan de BSA-norm hebt voldaan, vervalt dat jaar de verplichting om bij andere opleidingen aan de norm te voldoen. Nadat je de propedeutische fase hebt afgerond, hoef je niet meer te voldoen aan de BSA-verplichting bij inschrijvingen bij andere opleidingen.  Vragen?  Neem contact op met de studieadviseur.
 <button>
 <text>
 Klik hier
@@ -5292,7 +5292,7 @@ Hoeveel punten moet ik halen als ik mij na 1 februari inschrijf voor een twee op
 </pattern>
 <template>
 <think><set name="topic">bindend Studieadvies BSA</set></think>
-Bij een inschrijving na 1 februari bij een tweede opleiding geldt de reguliere norm: aan het einde van het collegejaar dien je bij één van beide opleidingen aan de BSA-norm te hebben voldaan.  Vragen?  Neem contact op met de studieadviseur.
+Bij een inschrijving na 1 februari bij een tweede opleiding geldt de reguliere norm: aan het einde van het collegejaar dien je bij een van beide opleidingen aan de BSA-norm te hebben voldaan.  Vragen?  Neem contact op met de studieadviseur.
 <button>
 <text>
 Klik hier
@@ -5328,7 +5328,7 @@ Hoeveel punten moet ik halen als ik mij na 1 februari inschrijf
 </pattern>
 <template>
 <think><set name="topic">bindend Studieadvies BSA</set></think>
-Bij een inschrijving na 1 februari geldt een norm van 20 EC.  Voorbeeld: Als je je na 1 februari 2020 inschrijft voor een opleiding moet je eind augustus 2022 20 EC gehaald hebben.   Tweede opleiding  Bij een inschrijving na 1 februari bij een tweede opleiding geldt de reguliere norm: aan het einde van het collegejaar dien je bij één van beide opleidingen aan de BSA-norm te hebben voldaan.  Vragen? Neem contact op met de studieadviseur.
+Bij een inschrijving na 1 februari geldt een norm van 20 EC.  Voorbeeld: Als je je na 1 februari 2020 inschrijft voor een opleiding moet je eind augustus 2022 20 EC gehaald hebben.   Tweede opleiding  Bij een inschrijving na 1 februari bij een tweede opleiding geldt de reguliere norm: aan het einde van het collegejaar dien je bij een van beide opleidingen aan de BSA-norm te hebben voldaan.  Vragen? Neem contact op met de studieadviseur.
 <button>
 <text>
 Klik hier
@@ -5346,7 +5346,7 @@ Ik wil stoppen met studeren aan de Rijksuniversiteit Groningen krijg ik nog een 
 </pattern>
 <template>
 <think><set name="topic">bindend Studieadvies BSA</set></think>
-Uitschrijven    Uitschrijven voor 1 maart  De 1 maart-datum wordt in de BSA-regeling als een ijkmoment gehanteerd voor uitschrijven bij de opleiding. Als een eerstejaars student zich vóór 1 maart heeft uitgeschreven bij de opleiding, zal er geen BSA worden afgegeven voor die opleiding en mag een student in principe in het daaropvolgende jaar opnieuw aan dezelfde, of aanverwante, studie beginnen. De eerder behaalde resultaten blijven staan.    Let op: wanneer de student wil switchen van opleiding in hetzelfde studiejaar zie de paragraaf over ‘switchen van opleiding binnen de RUG’ hieronder.    Een student die zich vóór 1 maart uitschrijft en zich het daaropvolgende jaar opnieuw voor dezelfde studie of een studie uit hetzelfde cluster inschrijft begint weer met een ‘schone lei’. Deze student dient dus, net zoals een ‘zuivere’ eerste-jaarstudent, in het jaar van herinschrijving te voldoen aan de BSA-norm van 45 ECTS.   Let op: dit principe is maar één keer mogelijk per opleiding. Schrijft een student zich voor de tweede keer voor dezelfde opleiding vóór of per 1 maart uit, dan volgt aan het einde van dat studiejaar alsnog een Bindend Studieadvies.    Van belang is dat het hier gaat om de datum waarop de student is uitgeschreven en niet om de datum waarop de student het verzoek indient. Het verzoek tot uitschrijving dient dus uiterlijk in de maand februari te worden ingediend bij Studielink.     Uitschrijven na 1 maart   Een student die zich na 1 maart uitschrijft bij de opleiding of bij de RUG, ontvangt een BSA voor de opleiding waar hij in het eerste semester stond ingeschreven.    Dienst Uitvoering Onderwijs DUO   De DUO kent een ‘1 februari-regeling’. Volgens deze wettelijke regeling ontvangen studenten hun studentenreisproduct en eventueel aanvullende beurs als gift als zij de studiefinanciering vóór 1 februari stopzetten1. Dit is niet het geval als een student zich uitschrijft per 1 maart en het studentenreisproduct en eventueel aanvullende beurs ook dan stopzetten. Een student dient daarom, om voor de 1 februari-regeling van DUO in aanmerking te komen, rekening te houden met het stopzetten van de studiefinanciering en studentenreisproduct voor of per 1 februari bij DUO.     Deze DUO-regeling geldt alleen voor studenten die voor het eerst staan ingeschreven voor een opleiding in het Hoger Onderwijs. De verbruikte studiefinancieringsmaanden worden afgetrokken van het totaal aantal maanden waarop een student recht heeft. Van belang is dat het hier gaat om de datum waarop de student is uitgeschreven en niet om de datum waarop de student het verzoek indient. Het verzoek tot uitschrijving dient dus uiterlijk in de maand januari februari te worden ingediend bij Studielink.    Vragen?  Neem contact op met de studieadviseur.
+Uitschrijven    Uitschrijven voor 1 maart  De 1 maart-datum wordt in de BSA-regeling als een ijkmoment gehanteerd voor uitschrijven bij de opleiding. Als een eerstejaars student zich vóór 1 maart heeft uitgeschreven bij de opleiding, zal er geen BSA worden afgegeven voor die opleiding en mag een student in principe in het daaropvolgende jaar opnieuw aan dezelfde, of aanverwante, studie beginnen. De eerder behaalde resultaten blijven staan.    Let op: wanneer de student wil switchen van opleiding in hetzelfde studiejaar zie de paragraaf over ‘switchen van opleiding binnen de RUG’ hieronder.    Een student die zich vóór 1 maart uitschrijft en zich het daaropvolgende jaar opnieuw voor dezelfde studie of een studie uit hetzelfde cluster inschrijft begint weer met een ‘schone lei’. Deze student dient dus, net zoals een ‘zuivere’ eerste-jaarstudent, in het jaar van herinschrijving te voldoen aan de BSA-norm van 45 ECTS.   Let op: dit principe is maar een keer mogelijk per opleiding. Schrijft een student zich voor de tweede keer voor dezelfde opleiding vóór of per 1 maart uit, dan volgt aan het einde van dat studiejaar alsnog een Bindend Studieadvies.    Van belang is dat het hier gaat om de datum waarop de student is uitgeschreven en niet om de datum waarop de student het verzoek indient. Het verzoek tot uitschrijving dient dus uiterlijk in de maand februari te worden ingediend bij Studielink.     Uitschrijven na 1 maart   Een student die zich na 1 maart uitschrijft bij de opleiding of bij de RUG, ontvangt een BSA voor de opleiding waar hij in het eerste semester stond ingeschreven.    Dienst Uitvoering Onderwijs DUO   De DUO kent een ‘1 februari-regeling’. Volgens deze wettelijke regeling ontvangen studenten hun studentenreisproduct en eventueel aanvullende beurs als gift als zij de studiefinanciering vóór 1 februari stopzetten1. Dit is niet het geval als een student zich uitschrijft per 1 maart en het studentenreisproduct en eventueel aanvullende beurs ook dan stopzetten. Een student dient daarom, om voor de 1 februari-regeling van DUO in aanmerking te komen, rekening te houden met het stopzetten van de studiefinanciering en studentenreisproduct voor of per 1 februari bij DUO.     Deze DUO-regeling geldt alleen voor studenten die voor het eerst staan ingeschreven voor een opleiding in het Hoger Onderwijs. De verbruikte studiefinancieringsmaanden worden afgetrokken van het totaal aantal maanden waarop een student recht heeft. Van belang is dat het hier gaat om de datum waarop de student is uitgeschreven en niet om de datum waarop de student het verzoek indient. Het verzoek tot uitschrijving dient dus uiterlijk in de maand januari februari te worden ingediend bij Studielink.    Vragen?  Neem contact op met de studieadviseur.
 <button>
 <text>
 Klik hier
@@ -5408,7 +5408,7 @@ Wat is een functiebeperking
 </pattern>
 <template>
 <think><set name="topic">studeren met een functiebeperking</set></think>
-Alle gezondheidsproblemen die leiden tot studiebelemmeringen. Denk hierbij aan:   ADHD Auditieve beperking Autisme ASS Dyslexie of dyscalculie Lichamelijke beperking inclusief: chronische ziektes, zoals de ziekte van Crohn, diabetes, astma of CVS Psychische problemen Visuele beperking  Ook gezondheidsproblemen die van tijdelijke aard zijn kunnen leiden tot een functiebeperking en dus aanleiding geven voor aangepast onderwijs of extra financiële ondersteuning.   Meer informatie of vragen?   Kijk op de pagina Functiebeperkte studenten. Neem contact op met het Studenten Service Centrum via ssc-info rug.nl.
+Alle gezondheidsproblemen die leiden tot studiebelemmeringen. Denk hierbij aan:   ADHD Auditieve beperking Autisme ASS Dyslexie of dyscalculie Lichamelijke beperking inclusief: chronische ziektes, zoals de ziekte van Crohn, diabetes, astma of CVS Psychische problemen Visuele beperking  Ook gezondheidsproblemen die van tijdelijke aard zijn kunnen leiden tot een functiebeperking en dus aanleiding geven voor aangepast onderwijs of extra financiele ondersteuning.   Meer informatie of vragen?   Kijk op de pagina Functiebeperkte studenten. Neem contact op met het Studenten Service Centrum via ssc-info rug.nl.
 <button>
 <text>
 Klik hier
@@ -5528,11 +5528,11 @@ https://www.rug.nl/education/programme-search/?labels-programme-degree=programme
 
 <category>
 <pattern>
-Welke financiële regelingen bestaan er voor studenten met een functiebeperking 
+Welke financiele regelingen bestaan er voor studenten met een functiebeperking 
 </pattern>
 <template>
 <think><set name="topic">studeren met een functiebeperking</set></think>
-Kleine vertragingen kunnen financieel gecompenseerd worden door het Profileringsfonds van de RUG. Daarvoor gelden een aantal voorwaarden.  Bij een substantiële studievertraging door een functiebeperking kun je eenmalig een jaar verlenging van je studiefinanciering aanvragen bij DUO. Ook daaraan zijn voorwaarden verbonden. Daarnaast is het in uitzonderlijke situaties mogelijk om de diplomatermijn te verlengen.    Wat moet je doen?  Als je studievertraging oploopt en je denkt in aanmerking te komen voor financiële compensatie, meldt die vertraging dan altijd bij je studieadviseur en maak een afspraak met een studentendecaan van het Studenten Service Centrum. De studentendecanen vormen een belangrijke schakel in de aanvraagprocedure bij DUO.  Overleg met de studentendecaan hoe je je verzoek op het DUO-formulier aangeeft. Als je alles hebt ingevuld en je arts of psycholoog zijn deel heeft getekend, stuur je het formulier naar het Studenten Service Centrum. Als de studentendecaan je aanvraag ondersteund en de Rijksuniversiteit Groningen het formulier officieel heeft getekend moet je het weer afhalen bij het SSC. Jij stuurt het vervolgens naar DUO. Maak een kopie van je aanvraag voordat je het op de bus doet.  Let op!  DUO  accepteert alleen formulieren die zijn goedgekeurd door de studentendecanen. Het heeft dus geen zin om het formulier te laten tekenen door je studieadviseur of hoogleraar.  Vragen? Neem contact op met het Studenten Service Centre via ssc-info rug.nl.
+Kleine vertragingen kunnen financieel gecompenseerd worden door het Profileringsfonds van de RUG. Daarvoor gelden een aantal voorwaarden.  Bij een substantiele studievertraging door een functiebeperking kun je eenmalig een jaar verlenging van je studiefinanciering aanvragen bij DUO. Ook daaraan zijn voorwaarden verbonden. Daarnaast is het in uitzonderlijke situaties mogelijk om de diplomatermijn te verlengen.    Wat moet je doen?  Als je studievertraging oploopt en je denkt in aanmerking te komen voor financiele compensatie, meldt die vertraging dan altijd bij je studieadviseur en maak een afspraak met een studentendecaan van het Studenten Service Centrum. De studentendecanen vormen een belangrijke schakel in de aanvraagprocedure bij DUO.  Overleg met de studentendecaan hoe je je verzoek op het DUO-formulier aangeeft. Als je alles hebt ingevuld en je arts of psycholoog zijn deel heeft getekend, stuur je het formulier naar het Studenten Service Centrum. Als de studentendecaan je aanvraag ondersteund en de Rijksuniversiteit Groningen het formulier officieel heeft getekend moet je het weer afhalen bij het SSC. Jij stuurt het vervolgens naar DUO. Maak een kopie van je aanvraag voordat je het op de bus doet.  Let op!  DUO  accepteert alleen formulieren die zijn goedgekeurd door de studentendecanen. Het heeft dus geen zin om het formulier te laten tekenen door je studieadviseur of hoogleraar.  Vragen? Neem contact op met het Studenten Service Centre via ssc-info rug.nl.
 <button>
 <text>
 Klik hier
@@ -5984,7 +5984,7 @@ Wat kan ik doen als ik last heb van faalangst of tentamenvrees
 </pattern>
 <template>
 <think><set name="topic">studiedips en andere studieproblemen</set></think>
-Als je last hebt van faalangst of tentamenvrees kun je bij het Studenten Service Centrum een training volgen of  individueel advies krijgen van één van de stduentenpsychologen.  Vragen? Neem contact op met Studenten Service Centrum via ssc-info rug.nl.
+Als je last hebt van faalangst of tentamenvrees kun je bij het Studenten Service Centrum een training volgen of  individueel advies krijgen van een van de stduentenpsychologen.  Vragen? Neem contact op met Studenten Service Centrum via ssc-info rug.nl.
 <button>
 <text>
 Klik hier
@@ -6376,7 +6376,7 @@ Ik heb meerdere titels behaald Mag ik die allemaal voeren
 </pattern>
 <template>
 <think><set name="topic">titulatuur en graden</set></think>
-Ja, dat mag. Maar je voert óf de Nederlandse titels bijvoorbeeld mr. drs. A. de Vries óf het internationale equivalent bijvoorbeeld A. de Vries, MA, LLM of A. de Vries, MSc, LLM.   Als je voor meerdere opleidingen dezelfde titel hebt behaald, mag je die titel één keer voeren. Als je voor meerdere opleidingen verschillende titels hebt behaald, kun je ze in combinatie voeren, bijvoorbeeld mr. ir. A Jansen.   Als je voor één opleiding een bachelorgraad hebt behaald en voor een andere opleiding een mastergraad, mag je zowel de bachelor- als mastertitel voeren. Je mag er echter ook voor kiezen om slechts één titel te gebruiken. Als je bijvoorbeeld een bachelor en master natuurkunde heeft behaald, dan kun je dit als volgt weergeven: A. de Vries BSc MSc.   Er is geen officieel voorschrift als het gaat om de volgorde van het voeren van titels of graden. In het algemeen wordt de hoogst behaalde titel het eerst vermeld.  Als je geen geaccrediteerde opleiding hebt gevolgd, heb je uiteraard ook geen daarbij behorende titel. Het is niet verboden om een andere titel te voeren, maar deze is in formele zin betekenisloos.   Er is op het moment een wetsvoorstel in de maak dat het onterecht voeren van titels strafbaar stelt.
+Ja, dat mag. Maar je voert óf de Nederlandse titels bijvoorbeeld mr. drs. A. de Vries óf het internationale equivalent bijvoorbeeld A. de Vries, MA, LLM of A. de Vries, MSc, LLM.   Als je voor meerdere opleidingen dezelfde titel hebt behaald, mag je die titel een keer voeren. Als je voor meerdere opleidingen verschillende titels hebt behaald, kun je ze in combinatie voeren, bijvoorbeeld mr. ir. A Jansen.   Als je voor een opleiding een bachelorgraad hebt behaald en voor een andere opleiding een mastergraad, mag je zowel de bachelor- als mastertitel voeren. Je mag er echter ook voor kiezen om slechts een titel te gebruiken. Als je bijvoorbeeld een bachelor en master natuurkunde heeft behaald, dan kun je dit als volgt weergeven: A. de Vries BSc MSc.   Er is geen officieel voorschrift als het gaat om de volgorde van het voeren van titels of graden. In het algemeen wordt de hoogst behaalde titel het eerst vermeld.  Als je geen geaccrediteerde opleiding hebt gevolgd, heb je uiteraard ook geen daarbij behorende titel. Het is niet verboden om een andere titel te voeren, maar deze is in formele zin betekenisloos.   Er is op het moment een wetsvoorstel in de maak dat het onterecht voeren van titels strafbaar stelt.
 <br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
@@ -6522,7 +6522,7 @@ Wat moet ik doen als ik mijn bul kwijt ben
 </pattern>
 <template>
 <think><set name="topic">alumni</set></think>
-Je kunt geen nieuwe bul krijgen, omdat een bul maar één keer wordt uitgereikt. Je kunt wel een digitaal uittreksel van je diploma downloaden via het diplomaregister van DUO. Log in met je DigiD.   Een digitaal uittreksel van diplomagegevens uit het diplomaregister heeft dezelfde waarde als een papieren gewaarmerkte kopie.  Meer informatie? Kijk op de website www.mijndiplomas.nl.
+Je kunt geen nieuwe bul krijgen, omdat een bul maar een keer wordt uitgereikt. Je kunt wel een digitaal uittreksel van je diploma downloaden via het diplomaregister van DUO. Log in met je DigiD.   Een digitaal uittreksel van diplomagegevens uit het diplomaregister heeft dezelfde waarde als een papieren gewaarmerkte kopie.  Meer informatie? Kijk op de website www.mijndiplomas.nl.
 <button>
 <text>
 Klik hier
@@ -6680,7 +6680,7 @@ Vertrouwenspersoon en studentendecaan
 </pattern>
 <template>
 <think><set name="topic">rechtspositie</set></think>
-Er zijn op de universiteit twee instanties waar je terecht kunt met een vertrouwelijke vraag, een klacht of een bezwaar/beroepsprocedure.    Vertrouwenspersoon  De vertrouwenspersoon houdt zich bezig met discriminatie, intimidatie, agressie en geweld.  Studentendecaan inloggen Student Portal Een studentendecaan van het Studenten Service Centrum heeft veel kennis over studiefaciliteiten, studiefinanciering, studievertraging en financiële ondersteuningsmogelijkheden.  De vertrouwenspersoon en de studentendecanen behandelen soms vergelijkbare studentproblemen, maar brengen wel eigen accenten aan. Soms word je naar iemand anders doorverwezen.   Vragen?   Neem contact op met het Studenten Service Centrum via ssc-info rug.nl. Maak digitaal een afspraak met een studentendecaan.
+Er zijn op de universiteit twee instanties waar je terecht kunt met een vertrouwelijke vraag, een klacht of een bezwaar/beroepsprocedure.    Vertrouwenspersoon  De vertrouwenspersoon houdt zich bezig met discriminatie, intimidatie, agressie en geweld.  Studentendecaan inloggen Student Portal Een studentendecaan van het Studenten Service Centrum heeft veel kennis over studiefaciliteiten, studiefinanciering, studievertraging en financiele ondersteuningsmogelijkheden.  De vertrouwenspersoon en de studentendecanen behandelen soms vergelijkbare studentproblemen, maar brengen wel eigen accenten aan. Soms word je naar iemand anders doorverwezen.   Vragen?   Neem contact op met het Studenten Service Centrum via ssc-info rug.nl. Maak digitaal een afspraak met een studentendecaan.
 <button>
 <text>
 Klik hier
@@ -6900,7 +6900,7 @@ Huisvesting
 </pattern>
 <template>
 <think><set name="topic">voorzieningen</set></think>
-Wil je op kamers in Groningen? Dat is een prima idee, want wonen in Groningen is een beleving op zich en verrijkt absoluut je studententijd. We hebben een aantal tips om je te helpen bij het vinden van een mooie kamer.  Begin op tijd met zoeken Groningen is een populaire studentenstad, elk jaar zoeken 20.000 studenten een kamer. In vergelijking met andere steden valt het vinden van een kamer in Groningen mee, maar het kan zeker een uitdaging zijn. De allerbelangrijkste tip is dan ook: begin echt op tijd met zoeken. Als je namelijk wacht tot de zomervakantie, dan is de kans klein dat je op tijd een fijne woonplek hebt gevonden. Begin dus al met zoeken zodra je weet dat je in Groningen wil wonen. Wat zijn je woonwensen? Voordat je begint met zoeken, is het slim om na te denken over je woonwensen. Woon je het liefst samen met medestudenten of past alleen wonen beter bij je? En: welke wijken spreken je aan? Past het bij je om hartje binnenstad te wonen, of kies je liever voor een wat rustigere wijk met veel groen? Als je weet wat je wil, maakt dit het zoeken en vinden makkelijker. Kamers in Groningen zijn er echt in alle soorten en maten: klein, groot, met gedeelde badkamer of keuken, met een gezamenlijke huiskamer of keuken, studio’s, met dakterras of met tuin. Dus: voor elk wat wils. Het kan natuurlijk zo zijn dat niet al je woonwensen gelijk worden ingewilligd, maar als je hier eenmaal woont, is het zoeken van je droomkamer een stuk makkelijker. Particulier of via de woningbouw? De meeste studenten in Groningen huren hun kamer van een particuliere eigenaar. Dit kan via een kamerverhuurbedrijf, maar veel kamers worden ook “viavia” verhuurd: de vertrekkende student regelt dan zelf een nieuwe huurder. Lefier en Nijestee zijn woningbouwverenigingen die studentenkamers verhuren. Particuliere verhuurders vind je bijvoorbeeld via Kamernet of door lid te worden van specifieke Facebookgroepen. Schrijf je ook in bij woningnetgroningen.nl. Dit is dé website waar het woningaanbod van de woningcorporaties wordt verzameld. Je vindt er sociale huurwoningen, maar ook woningen in de vrije sector. Ghuus helpt jou bij het zoeken naar een studenten-/jongerenwoning in Groningen. Wil je weten wanneer er nieuwe woonruimte is die bij jouw wensen past dan kun je je bij Ghuus inschrijven. Online zoeken en veel reageren Op platformen zoals Kamernet of in Facebookgroepen is het belangrijk dat je het kameraanbod goed in de gaten houdt en snel reageert. Maak je reactie zo persoonlijk mogelijk, vertel bijvoorbeeld iets over jezelf. Zo kunnen toekomstige huisgenoten goed inschatten of je bij ze past. Schakel ook vrienden en familie in om voor je uit te kijken of een oproepje te doen op sociale media. Hospiteren Vaak word je gevraagd om te komen hospiteren. Je bekijkt dan de kamer die je op het oog hebt en maakt kennis met je eventuele huisgenoten om te kijken of er een klik is: heel belangrijk als je in hetzelfde huis woont. Houd er rekening mee dat er vaak veel mensen komen kijken op zo’n hospiteeravond. Tijdelijke woonruimte Lukt het niet direct om vaste huisvesting te vinden? Overweeg dan een tijdelijke kamer. Studenten die voor een periode in het buitenland verblijven in verband met een stage of uitwisseling willen hun kamer vaak graag onderverhuren. Je kunt zo toch al genieten van het leven in Groningen en rustig op zoek naar een kamer voor langere tijd. Op kamers in Groningen De Rijksuniversiteit Groningen biedt zelf geen studentenhuisvesting aan, maar werkt wel doorlopend samen met de gemeente en woningbouwverenigingen om er voor te zorgen dat er genoeg woonruimte is voor de studenten.
+Wil je op kamers in Groningen? Dat is een prima idee, want wonen in Groningen is een beleving op zich en verrijkt absoluut je studententijd. We hebben een aantal tips om je te helpen bij het vinden van een mooie kamer.  Begin op tijd met zoeken Groningen is een populaire studentenstad, elk jaar zoeken 20.000 studenten een kamer. In vergelijking met andere steden valt het vinden van een kamer in Groningen mee, maar het kan zeker een uitdaging zijn. De allerbelangrijkste tip is dan ook: begin echt op tijd met zoeken. Als je namelijk wacht tot de zomervakantie, dan is de kans klein dat je op tijd een fijne woonplek hebt gevonden. Begin dus al met zoeken zodra je weet dat je in Groningen wil wonen. Wat zijn je woonwensen? Voordat je begint met zoeken, is het slim om na te denken over je woonwensen. Woon je het liefst samen met medestudenten of past alleen wonen beter bij je? En: welke wijken spreken je aan? Past het bij je om hartje binnenstad te wonen, of kies je liever voor een wat rustigere wijk met veel groen? Als je weet wat je wil, maakt dit het zoeken en vinden makkelijker. Kamers in Groningen zijn er echt in alle soorten en maten: klein, groot, met gedeelde badkamer of keuken, met een gezamenlijke huiskamer of keuken, studio’s, met dakterras of met tuin. Dus: voor elk wat wils. Het kan natuurlijk zo zijn dat niet al je woonwensen gelijk worden ingewilligd, maar als je hier eenmaal woont, is het zoeken van je droomkamer een stuk makkelijker. Particulier of via de woningbouw? De meeste studenten in Groningen huren hun kamer van een particuliere eigenaar. Dit kan via een kamerverhuurbedrijf, maar veel kamers worden ook “viavia” verhuurd: de vertrekkende student regelt dan zelf een nieuwe huurder. Lefier en Nijestee zijn woningbouwverenigingen die studentenkamers verhuren. Particuliere verhuurders vind je bijvoorbeeld via Kamernet of door lid te worden van specifieke Facebookgroepen. Schrijf je ook in bij woningnetgroningen.nl. Dit is dee website waar het woningaanbod van de woningcorporaties wordt verzameld. Je vindt er sociale huurwoningen, maar ook woningen in de vrije sector. Ghuus helpt jou bij het zoeken naar een studenten-/jongerenwoning in Groningen. Wil je weten wanneer er nieuwe woonruimte is die bij jouw wensen past dan kun je je bij Ghuus inschrijven. Online zoeken en veel reageren Op platformen zoals Kamernet of in Facebookgroepen is het belangrijk dat je het kameraanbod goed in de gaten houdt en snel reageert. Maak je reactie zo persoonlijk mogelijk, vertel bijvoorbeeld iets over jezelf. Zo kunnen toekomstige huisgenoten goed inschatten of je bij ze past. Schakel ook vrienden en familie in om voor je uit te kijken of een oproepje te doen op sociale media. Hospiteren Vaak word je gevraagd om te komen hospiteren. Je bekijkt dan de kamer die je op het oog hebt en maakt kennis met je eventuele huisgenoten om te kijken of er een klik is: heel belangrijk als je in hetzelfde huis woont. Houd er rekening mee dat er vaak veel mensen komen kijken op zo’n hospiteeravond. Tijdelijke woonruimte Lukt het niet direct om vaste huisvesting te vinden? Overweeg dan een tijdelijke kamer. Studenten die voor een periode in het buitenland verblijven in verband met een stage of uitwisseling willen hun kamer vaak graag onderverhuren. Je kunt zo toch al genieten van het leven in Groningen en rustig op zoek naar een kamer voor langere tijd. Op kamers in Groningen De Rijksuniversiteit Groningen biedt zelf geen studentenhuisvesting aan, maar werkt wel doorlopend samen met de gemeente en woningbouwverenigingen om er voor te zorgen dat er genoeg woonruimte is voor de studenten.
 <button>
 <text>
 Klik hier
@@ -7246,11 +7246,11 @@ https://www.rug.nl/csa
 
 <category>
 <pattern>
-Verklaring beëindiging inschrijving bij afstuderen 
+Verklaring beeindiging inschrijving bij afstuderen 
 </pattern>
 <template>
 <think><set name="topic">aanvragen verklaringen student</set></think>
-Je kunt een verklaring beëindiging inschrijving bij afstuderen op twee manieren aanvragen:  Vul het Aanvraagformulier verklaring in en ontvang de verklaring per post of e-mail. Haal de verklaring persoonlijk op bij de Centrale Studenten Administratie.
+Je kunt een verklaring beeindiging inschrijving bij afstuderen op twee manieren aanvragen:  Vul het Aanvraagformulier verklaring in en ontvang de verklaring per post of e-mail. Haal de verklaring persoonlijk op bij de Centrale Studenten Administratie.
 <button>
 <text>
 Klik hier
@@ -7346,7 +7346,7 @@ Profileringsfondsregeling
 </pattern>
 <template>
 <think><set name="topic">regelingen overzicht</set></think>
-In deze regeling zijn de regels opgenomen voor het aanvragen van financiële ondersteuning bij studievertraging door overmacht, deelname aan medezeggenschaps- en bestuursfunctie, en bij het beoefen van topsport.   Meer informatie vind je op de pagina Regeling Profileringsfonds op onze website.
+In deze regeling zijn de regels opgenomen voor het aanvragen van financiele ondersteuning bij studievertraging door overmacht, deelname aan medezeggenschaps- en bestuursfunctie, en bij het beoefen van topsport.   Meer informatie vind je op de pagina Regeling Profileringsfonds op onze website.
 <button>
 <text>
 Klik hier
