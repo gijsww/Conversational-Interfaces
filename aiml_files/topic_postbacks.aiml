@@ -968,7 +968,7 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 </reply>
 <reply>
 <text>Ik ben afgestudeerd en heb een verzoek tot uitschrijving/restitutie collegegeld gedaan Toch wordt er nog steeds collegegeld van mijn rekening afgeschreven Klopt dit wel?</text>
-<postback>Ik ben afgestudeerd en heb een verzoek tot uitschrijving/restitutie collegegeld gedaan Toch wordt er nog steeds collegegeld van mijn rekening afgeschreven Klopt dit wel</postback>
+<postback>Ik ben afgestudeerd en heb een verzoek tot uitschrijving of restitutie collegegeld gedaan Toch wordt er nog steeds collegegeld van mijn rekening afgeschreven Klopt dit wel</postback>
 </reply>
 <reply>
 <text>Wanneer krijg ik geen collegegeld terug?</text>
@@ -1195,7 +1195,7 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 </reply>
 <reply>
 <text>Welke landen behoren tot de EU/EER?</text>
-<postback>Welke landen behoren tot de EU/EER</postback>
+<postback>Welke landen behoren tot de EU of EER</postback>
 </reply>
 <reply>
 <text>Bij wie kan ik terecht met een persoonlijke vraag?</text>
@@ -1386,7 +1386,7 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 </reply>
 <reply>
 <text>Ik ben nu 2e jaars student en heb mijn propedeuse gehaald kan ik nog instromen / meedoen?</text>
-<postback>Ik ben nu 2e jaars student en heb mijn propedeuse gehaald kan ik nog instromen / meedoen</postback>
+<postback>Ik ben nu 2e jaars student en heb mijn propedeuse gehaald kan ik nog instromen of meedoen</postback>
 </reply>
 <reply>
 <text>Ik wil eerst mijn propedeuse halen en dan in het Honours College instromen?</text>
@@ -1736,7 +1736,7 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 </reply>
 <reply>
 <text>Ik heb studievertraging Moet ik dan naar een studieadviseur en/of een studentendecaan?</text>
-<postback>Ik heb studievertraging Moet ik dan naar een studieadviseur en/of een studentendecaan</postback>
+<postback>Ik heb studievertraging Moet ik dan naar een studieadviseur en of een studentendecaan</postback>
 </reply>
 </template>
 </category>

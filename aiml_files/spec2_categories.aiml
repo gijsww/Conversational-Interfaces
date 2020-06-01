@@ -2380,7 +2380,7 @@
 ^ gebeurt ^  wel ^
 </pattern>
 <template>
-<srai>Wat gebeurt er als ik wel ben geselecteerd, maar mijn diploma niet haal</srai>
+<srai>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal</srai>
 </template>
 </category>
 
@@ -2389,7 +2389,7 @@
 ^ gebeurt ^  geselecteerd ^
 </pattern>
 <template>
-<srai>Wat gebeurt er als ik wel ben geselecteerd, maar mijn diploma niet haal</srai>
+<srai>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal</srai>
 </template>
 </category>
 
@@ -2398,7 +2398,7 @@
 ^ gebeurt ^  diploma ^
 </pattern>
 <template>
-<srai>Wat gebeurt er als ik wel ben geselecteerd, maar mijn diploma niet haal</srai>
+<srai>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal</srai>
 </template>
 </category>
 
@@ -2407,7 +2407,7 @@
 ^ gebeurt ^  haal ^
 </pattern>
 <template>
-<srai>Wat gebeurt er als ik wel ben geselecteerd, maar mijn diploma niet haal</srai>
+<srai>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal</srai>
 </template>
 </category>
 
@@ -2416,7 +2416,7 @@
 ^ wel ^  geselecteerd ^
 </pattern>
 <template>
-<srai>Wat gebeurt er als ik wel ben geselecteerd, maar mijn diploma niet haal</srai>
+<srai>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal</srai>
 </template>
 </category>
 
@@ -2425,7 +2425,7 @@
 ^ wel ^  diploma ^
 </pattern>
 <template>
-<srai>Wat gebeurt er als ik wel ben geselecteerd, maar mijn diploma niet haal</srai>
+<srai>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal</srai>
 </template>
 </category>
 
@@ -2434,7 +2434,7 @@
 ^ wel ^  haal ^
 </pattern>
 <template>
-<srai>Wat gebeurt er als ik wel ben geselecteerd, maar mijn diploma niet haal</srai>
+<srai>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal</srai>
 </template>
 </category>
 
@@ -2443,7 +2443,7 @@
 ^ geselecteerd ^  diploma ^
 </pattern>
 <template>
-<srai>Wat gebeurt er als ik wel ben geselecteerd, maar mijn diploma niet haal</srai>
+<srai>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal</srai>
 </template>
 </category>
 
@@ -2452,7 +2452,7 @@
 ^ geselecteerd ^  haal ^
 </pattern>
 <template>
-<srai>Wat gebeurt er als ik wel ben geselecteerd, maar mijn diploma niet haal</srai>
+<srai>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal</srai>
 </template>
 </category>
 
