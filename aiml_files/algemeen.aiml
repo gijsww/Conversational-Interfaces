@@ -222,7 +222,11 @@
     <category>
         <pattern>^ <set>engels</set> ^</pattern>
         <template> Sorry, ik praat alleen Nederlands.<br/>
-        Sorry, I only speak Dutch.
+        Sorry, I only speak Dutch. You can access the English frequently asked questions below.
+        <button>
+            <text>English FAQ</text>
+            <url>https://www.rug.nl/education/faq/</url>
+        </button>
         </template>
     </category>
 
