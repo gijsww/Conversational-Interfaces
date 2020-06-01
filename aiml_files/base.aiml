@@ -3408,7 +3408,7 @@ Als je tijdens het studiejaar afstudeert en je uitschrijft aan de Rijksuniversit
 
 <category>
 <pattern>
-Ik ben afgestudeerd en heb een verzoek tot uitschrijving/restitutie collegegeld gedaan Toch wordt er nog steeds collegegeld van mijn rekening afgeschreven Klopt dit wel 
+Ik ben afgestudeerd en heb een verzoek tot uitschrijving of restitutie collegegeld gedaan Toch wordt er nog steeds collegegeld van mijn rekening afgeschreven Klopt dit wel 
 </pattern>
 <template>
 <think><set name="topic">restitutie collegegeld</set></think>
@@ -4174,11 +4174,11 @@ https://duo.nl/particulieren/student-hbo-of-universiteit/privesituatie/bijverdie
 
 <category>
 <pattern>
-Welke landen behoren tot de EU/EER 
+Welke landen behoren tot de EU of EER 
 </pattern>
 <template>
 <think><set name="topic">studiefinanciering DUO</set></think>
-De volgende landen maken deel uit van de EU/EER: België, Bulgarije, Cyprus, Denemarken, Duitsland, Estland, Finland, Frankrijk, Griekenland, Groot-Brittannië, Hongarije, Ierland, Italië, Letland, Liechtenstein, Litouwen, Luxemburg, Malta, Noorwegen, Oostenrijk, Polen, Portugal, Roemenië, Slovenië, Slowakije, Spanje, Tsjechië, IJsland en Zweden. Studenten met de Zwitserse nationaliteit kunnen een beroep doen op collegegeldkrediet en/of studiefinanciering, ondanks het feit dat Zwitserland niet is toegetreden tot de EU/EER.
+De volgende landen maken deel uit van de EU of EER: België, Bulgarije, Cyprus, Denemarken, Duitsland, Estland, Finland, Frankrijk, Griekenland, Groot-Brittannië, Hongarije, Ierland, Italië, Letland, Liechtenstein, Litouwen, Luxemburg, Malta, Noorwegen, Oostenrijk, Polen, Portugal, Roemenië, Slovenië, Slowakije, Spanje, Tsjechië, IJsland en Zweden. Studenten met de Zwitserse nationaliteit kunnen een beroep doen op collegegeldkrediet en/of studiefinanciering, ondanks het feit dat Zwitserland niet is toegetreden tot de EU of EER.
 <br/><br/>Is hiermee je vraag over <lowercase><get name ="topic"/></lowercase> beantwoord?</template>
 </category>
 
@@ -4656,7 +4656,7 @@ Als je deelneemt aan het Honours College hoef je geen extra collegegeld te betal
 
 <category>
 <pattern>
-Ik ben nu 2e jaars student en heb mijn propedeuse gehaald kan ik nog instromen / meedoen 
+Ik ben nu 2e jaars student en heb mijn propedeuse gehaald kan ik nog instromen of meedoen 
 </pattern>
 <template>
 <think><set name="topic">aankomende Honours College student</set></think>
@@ -6234,7 +6234,7 @@ http://student.portal.rug.nl/infonet/studenten/problemen/studievertraging
 
 <category>
 <pattern>
-Ik heb studievertraging Moet ik dan naar een studieadviseur en/of een studentendecaan 
+Ik heb studievertraging Moet ik dan naar een studieadviseur en of een studentendecaan 
 </pattern>
 <template>
 <think><set name="topic">studievertraging</set></think>

@@ -1885,7 +1885,7 @@
 ^ gebeurt ^  wel ^  geselecteerd ^  diploma ^
 </pattern>
 <template>
-<srai>Wat gebeurt er als ik wel ben geselecteerd, maar mijn diploma niet haal</srai>
+<srai>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal</srai>
 </template>
 </category>
 
@@ -1894,7 +1894,7 @@
 ^ gebeurt ^  wel ^  geselecteerd ^  haal ^
 </pattern>
 <template>
-<srai>Wat gebeurt er als ik wel ben geselecteerd, maar mijn diploma niet haal</srai>
+<srai>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal</srai>
 </template>
 </category>
 
@@ -1903,7 +1903,7 @@
 ^ gebeurt ^  wel ^  diploma ^  haal ^
 </pattern>
 <template>
-<srai>Wat gebeurt er als ik wel ben geselecteerd, maar mijn diploma niet haal</srai>
+<srai>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal</srai>
 </template>
 </category>
 
@@ -1912,7 +1912,7 @@
 ^ gebeurt ^  geselecteerd ^  diploma ^  haal ^
 </pattern>
 <template>
-<srai>Wat gebeurt er als ik wel ben geselecteerd, maar mijn diploma niet haal</srai>
+<srai>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal</srai>
 </template>
 </category>
 
@@ -1921,7 +1921,7 @@
 ^ wel ^  geselecteerd ^  diploma ^  haal ^
 </pattern>
 <template>
-<srai>Wat gebeurt er als ik wel ben geselecteerd, maar mijn diploma niet haal</srai>
+<srai>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal</srai>
 </template>
 </category>
 
