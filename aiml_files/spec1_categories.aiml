@@ -187,8 +187,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Ben ik met een vwodiploma oude stijl toelaatbaar tot een bacheloropleiding</postback>
 </reply>
 <reply>
-<text>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding?</text>
-<postback>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding</postback>
+<text>Ben ik met een hbo propedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding?</text>
+<postback>Ben ik met een hbo propedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding</postback>
 </reply>
 <reply>
 <text>Ik wil beginnen aan mastervakken en heb mijn bacheloropleiding nog niet afgerond Kan ik me alvast registreren voor de masteropleiding?</text>
@@ -418,8 +418,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Welke opleidingen geven rechtstreeks toelating tot de universiteit</postback>
 </reply>
 <reply>
-<text>Maakt het uit welke hbopropedeuse ik heb gehaald als ik naar de universiteit wil?</text>
-<postback>Maakt het uit welke hbopropedeuse ik heb gehaald als ik naar de universiteit wil</postback>
+<text>Maakt het uit welke hbo propedeuse ik heb gehaald als ik naar de universiteit wil?</text>
+<postback>Maakt het uit welke hbo propedeuse ik heb gehaald als ik naar de universiteit wil</postback>
 </reply>
 <reply>
 <text>Voor welke opleidingen aan de Rijksuniversiteit Groningen is er een selectie?</text>
@@ -474,12 +474,12 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Welke trainingen en cursussen biedt de RUG aan</postback>
 </reply>
 <reply>
-<text>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren?</text>
-<postback>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren</postback>
+<text>Ik heb na 1986 een hbo opleiding afgerond Welke titel mag ik voeren?</text>
+<postback>Ik heb na 1986 een hbo opleiding afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren?</text>
-<postback>Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren</postback>
+<text>Ik heb een hbo masteropleiding afgerond Welke titel mag ik voeren?</text>
+<postback>Ik heb een hbo masteropleiding afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
 <text>Ik heb een Associate degree afgerond Welke titel mag ik voeren?</text>
@@ -587,8 +587,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Welke opleidingen geven rechtstreeks toelating tot de universiteit</postback>
 </reply>
 <reply>
-<text>Maakt het uit welke hbopropedeuse ik heb gehaald als ik naar de universiteit wil?</text>
-<postback>Maakt het uit welke hbopropedeuse ik heb gehaald als ik naar de universiteit wil</postback>
+<text>Maakt het uit welke hbo propedeuse ik heb gehaald als ik naar de universiteit wil?</text>
+<postback>Maakt het uit welke hbo propedeuse ik heb gehaald als ik naar de universiteit wil</postback>
 </reply>
 <reply>
 <text>Ben ik met een buitenlandse diploma toelaatbaar tot de universiteit?</text>
@@ -637,8 +637,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Ben ik met een vwodiploma oude stijl toelaatbaar tot een bacheloropleiding</postback>
 </reply>
 <reply>
-<text>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding?</text>
-<postback>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding</postback>
+<text>Ben ik met een hbo propedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding?</text>
+<postback>Ben ik met een hbo propedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding</postback>
 </reply>
 <reply>
 <text>Ben ik met een buitenlandse diploma toelaatbaar tot de universiteit?</text>
@@ -803,16 +803,16 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Kan ik ook toegelaten worden met deelcertificaten als ik mijn VWO diploma niet haal</postback>
 </reply>
 <reply>
-<text>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding?</text>
-<postback>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding</postback>
+<text>Ben ik met een hbo propedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding?</text>
+<postback>Ben ik met een hbo propedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding</postback>
 </reply>
 <reply>
 <text>Ben ik met een buitenlandse diploma toelaatbaar tot de universiteit?</text>
 <postback>Ben ik met een buitenlandse diploma toelaatbaar tot de universiteit</postback>
 </reply>
 <reply>
-<text>Ik heb al een HBOV diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie?</text>
-<postback>Ik heb al een HBOV diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie</postback>
+<text>Ik heb al een HBO V diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie?</text>
+<postback>Ik heb al een HBO V diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie</postback>
 </reply>
 <reply>
 <text>Wat gebeurt er als ik wel ben geselecteerd maar mijn diploma niet haal?</text>
@@ -852,17 +852,17 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 
 <category>
 <pattern>
-^ hbo propedeuse ^
+^ hbo  propedeuse ^
 </pattern>
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
-<text>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding?</text>
-<postback>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding</postback>
+<text>Ben ik met een hbo propedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding?</text>
+<postback>Ben ik met een hbo propedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding</postback>
 </reply>
 <reply>
-<text>Maakt het uit welke hbopropedeuse ik heb gehaald als ik naar de universiteit wil?</text>
-<postback>Maakt het uit welke hbopropedeuse ik heb gehaald als ik naar de universiteit wil</postback>
+<text>Maakt het uit welke hbo propedeuse ik heb gehaald als ik naar de universiteit wil?</text>
+<postback>Maakt het uit welke hbo propedeuse ik heb gehaald als ik naar de universiteit wil</postback>
 </reply>
 </template>
 </category>
@@ -874,8 +874,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
-<text>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding?</text>
-<postback>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding</postback>
+<text>Ben ik met een hbo propedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding?</text>
+<postback>Ben ik met een hbo propedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding</postback>
 </reply>
 <reply>
 <text>Opbouw van een universitaire opleiding?</text>
@@ -909,7 +909,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 ^ maakt ^
 </pattern>
 <template>
-<srai>Maakt het uit welke hbopropedeuse ik heb gehaald als ik naar de universiteit wil</srai>
+<srai>Maakt het uit welke hbo propedeuse ik heb gehaald als ik naar de universiteit wil</srai>
 </template>
 </category>
 
@@ -920,8 +920,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
-<text>Maakt het uit welke hbopropedeuse ik heb gehaald als ik naar de universiteit wil?</text>
-<postback>Maakt het uit welke hbopropedeuse ik heb gehaald als ik naar de universiteit wil</postback>
+<text>Maakt het uit welke hbo propedeuse ik heb gehaald als ik naar de universiteit wil?</text>
+<postback>Maakt het uit welke hbo propedeuse ik heb gehaald als ik naar de universiteit wil</postback>
 </reply>
 <reply>
 <text>Ik ben nu 2e jaars student en heb mijn propedeuse gehaald kan ik nog instromen  meedoen?</text>
@@ -945,8 +945,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Kan ik instromen in een hoger studiejaar</postback>
 </reply>
 <reply>
-<text>Kan ik met een hbobachelordiploma instromen in een masterprogramma?</text>
-<postback>Kan ik met een hbobachelordiploma instromen in een masterprogramma</postback>
+<text>Kan ik met een hbo bachelordiploma instromen in een masterprogramma?</text>
+<postback>Kan ik met een hbo bachelordiploma instromen in een masterprogramma</postback>
 </reply>
 <reply>
 <text>Kan ik met een universitair bachelordiploma instromen in een masterprogramma van de RUG?</text>
@@ -1019,10 +1019,10 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 
 <category>
 <pattern>
-^ hbo bachelordiploma ^
+^ hbo  bachelordiploma ^
 </pattern>
 <template>
-<srai>Kan ik met een hbobachelordiploma instromen in een masterprogramma</srai>
+<srai>Kan ik met een hbo bachelordiploma instromen in een masterprogramma</srai>
 </template>
 </category>
 
@@ -1033,8 +1033,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
-<text>Kan ik met een hbobachelordiploma instromen in een masterprogramma?</text>
-<postback>Kan ik met een hbobachelordiploma instromen in een masterprogramma</postback>
+<text>Kan ik met een hbo bachelordiploma instromen in een masterprogramma?</text>
+<postback>Kan ik met een hbo bachelordiploma instromen in een masterprogramma</postback>
 </reply>
 <reply>
 <text>Kan ik met een universitair bachelordiploma instromen in een masterprogramma van de RUG?</text>
@@ -1454,24 +1454,24 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Ik heb voor 2002 een universitaire opleiding afgerond Mag ik in plaats van mijn drs mr of irtitel de titels MSc MA of LLM voeren</postback>
 </reply>
 <reply>
-<text>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren?</text>
-<postback>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren</postback>
+<text>Ik heb voor 1986 een hbo opleiding afgerond Mag ik een titel voeren?</text>
+<postback>Ik heb voor 1986 een hbo opleiding afgerond Mag ik een titel voeren</postback>
 </reply>
 <reply>
-<text>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren?</text>
-<postback>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren</postback>
+<text>Ik heb na 1986 een hbo opleiding afgerond Welke titel mag ik voeren?</text>
+<postback>Ik heb na 1986 een hbo opleiding afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren?</text>
-<postback>Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren</postback>
+<text>Ik heb een hbo masteropleiding afgerond Welke titel mag ik voeren?</text>
+<postback>Ik heb een hbo masteropleiding afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
 <text>Ik heb een Associate degree afgerond Welke titel mag ik voeren?</text>
 <postback>Ik heb een Associate degree afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
-<postback>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
+<text>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
+<postback>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
 </reply>
 <reply>
 <text>Mag ik een beschermde titel voeren als ik geen opleiding in het hoger onderwijs heb afgerond?</text>
@@ -1777,8 +1777,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Ik sta al bij de RUG ingeschreven en wil meedoen aan de selectie voor een fixusopleiding Moet ik me ook aanmelden bij Studielink</postback>
 </reply>
 <reply>
-<text>Ik heb al een HBOV diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie?</text>
-<postback>Ik heb al een HBOV diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie</postback>
+<text>Ik heb al een HBO V diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie?</text>
+<postback>Ik heb al een HBO V diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie</postback>
 </reply>
 <reply>
 <text>Moeten mijn persoonsgegevens geverifieerd zijn voordat ik mee kan doen aan de selectie?</text>
@@ -1947,8 +1947,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Ik sta al bij de RUG ingeschreven en wil meedoen aan de selectie voor een fixusopleiding Moet ik me ook aanmelden bij Studielink</postback>
 </reply>
 <reply>
-<text>Ik heb al een HBOV diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie?</text>
-<postback>Ik heb al een HBOV diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie</postback>
+<text>Ik heb al een HBO V diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie?</text>
+<postback>Ik heb al een HBO V diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie</postback>
 </reply>
 <reply>
 <text>Wat is matching en waarom moet ik meedoen?</text>
@@ -1967,10 +1967,10 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 
 <category>
 <pattern>
-^ hbo v ^
+^ hbo  v ^
 </pattern>
 <template>
-<srai>Ik heb al een HBOV diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie</srai>
+<srai>Ik heb al een HBO V diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie</srai>
 </template>
 </category>
 
@@ -1979,7 +1979,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 ^ geneeskunde ^
 </pattern>
 <template>
-<srai>Ik heb al een HBOV diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie</srai>
+<srai>Ik heb al een HBO V diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie</srai>
 </template>
 </category>
 
@@ -1990,8 +1990,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
-<text>Ik heb al een HBOV diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie?</text>
-<postback>Ik heb al een HBOV diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie</postback>
+<text>Ik heb al een HBO V diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie?</text>
+<postback>Ik heb al een HBO V diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie</postback>
 </reply>
 <reply>
 <text>Ik ben helemaal door mijn studiefinanciering heen en moet nog een half jaar studeren Wat nu?</text>
@@ -2128,28 +2128,28 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Ik heb een universitaire masteropleiding in het buitenland gevolgd Mag ik de Nederlandse titel drs voeren</postback>
 </reply>
 <reply>
-<text>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren?</text>
-<postback>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren</postback>
+<text>Ik heb voor 1986 een hbo opleiding afgerond Mag ik een titel voeren?</text>
+<postback>Ik heb voor 1986 een hbo opleiding afgerond Mag ik een titel voeren</postback>
 </reply>
 <reply>
-<text>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren?</text>
-<postback>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren</postback>
+<text>Ik heb na 1986 een hbo opleiding afgerond Welke titel mag ik voeren?</text>
+<postback>Ik heb na 1986 een hbo opleiding afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren?</text>
-<postback>Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren</postback>
+<text>Ik heb een hbo masteropleiding afgerond Welke titel mag ik voeren?</text>
+<postback>Ik heb een hbo masteropleiding afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
 <text>Ik heb een Associate degree afgerond Welke titel mag ik voeren?</text>
 <postback>Ik heb een Associate degree afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een posthbocursus gevolgd Mag ik een titel voeren?</text>
-<postback>Ik heb een posthbocursus gevolgd Mag ik een titel voeren</postback>
+<text>Ik heb een post hbo  cursus gevolgd Mag ik een titel voeren?</text>
+<postback>Ik heb een post hbo  cursus gevolgd Mag ik een titel voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
-<postback>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
+<text>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
+<postback>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
 </reply>
 <reply>
 <text>Ik heb een afgeronde MOopleiding 1e en 2e graad Mag ik de titel Master of Education M ED voeren?</text>
@@ -6224,8 +6224,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Mag ik naast de studiefinanciering bijverdienen</postback>
 </reply>
 <reply>
-<text>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
-<postback>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
+<text>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
+<postback>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
 </reply>
 </template>
 </category>
@@ -8194,8 +8194,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Ik heb mijn Honours College programma afgerond maar mijn bachelor nog niet Mag ik meedoen met de Honours College buluitreiking</postback>
 </reply>
 <reply>
-<text>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
-<postback>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
+<text>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
+<postback>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
 </reply>
 <reply>
 <text>Toelating tot bijvak bachelor of master?</text>
@@ -9550,28 +9550,28 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Ik heb een universitaire masteropleiding in het buitenland gevolgd Mag ik de Nederlandse titel drs voeren</postback>
 </reply>
 <reply>
-<text>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren?</text>
-<postback>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren</postback>
+<text>Ik heb voor 1986 een hbo opleiding afgerond Mag ik een titel voeren?</text>
+<postback>Ik heb voor 1986 een hbo opleiding afgerond Mag ik een titel voeren</postback>
 </reply>
 <reply>
-<text>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren?</text>
-<postback>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren</postback>
+<text>Ik heb na 1986 een hbo opleiding afgerond Welke titel mag ik voeren?</text>
+<postback>Ik heb na 1986 een hbo opleiding afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren?</text>
-<postback>Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren</postback>
+<text>Ik heb een hbo masteropleiding afgerond Welke titel mag ik voeren?</text>
+<postback>Ik heb een hbo masteropleiding afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
 <text>Ik heb een Associate degree afgerond Welke titel mag ik voeren?</text>
 <postback>Ik heb een Associate degree afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een posthbocursus gevolgd Mag ik een titel voeren?</text>
-<postback>Ik heb een posthbocursus gevolgd Mag ik een titel voeren</postback>
+<text>Ik heb een post hbo cursus gevolgd Mag ik een titel voeren?</text>
+<postback>Ik heb een post hbo cursus gevolgd Mag ik een titel voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
-<postback>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
+<text>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
+<postback>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
 </reply>
 <reply>
 <text>Ik heb een afgeronde MOopleiding 1e en 2e graad Mag ik de titel Master of Education M ED voeren?</text>
@@ -9620,32 +9620,32 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Ik heb een universitaire masteropleiding in het buitenland gevolgd Mag ik de Nederlandse titel drs voeren</postback>
 </reply>
 <reply>
-<text>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren?</text>
-<postback>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren</postback>
+<text>Ik heb voor 1986 een hbo opleiding afgerond Mag ik een titel voeren?</text>
+<postback>Ik heb voor 1986 een hbo opleiding afgerond Mag ik een titel voeren</postback>
 </reply>
 <reply>
-<text>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren?</text>
-<postback>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren</postback>
+<text>Ik heb na 1986 een hbo opleiding afgerond Welke titel mag ik voeren?</text>
+<postback>Ik heb na 1986 een hbo opleiding afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren?</text>
-<postback>Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren</postback>
+<text>Ik heb een hbo masteropleiding afgerond Welke titel mag ik voeren?</text>
+<postback>Ik heb een hbo masteropleiding afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
 <text>Ik heb een Associate degree afgerond Welke titel mag ik voeren?</text>
 <postback>Ik heb een Associate degree afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een posthbocursus gevolgd Mag ik een titel voeren?</text>
-<postback>Ik heb een posthbocursus gevolgd Mag ik een titel voeren</postback>
+<text>Ik heb een post hbo  cursus gevolgd Mag ik een titel voeren?</text>
+<postback>Ik heb een post hbo  cursus gevolgd Mag ik een titel voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
-<postback>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
+<text>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
+<postback>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
-<postback>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
+<text>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
+<postback>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
 </reply>
 <reply>
 <text>Ik heb een afgeronde MOopleiding 1e en 2e graad Mag ik de titel Master of Education M ED voeren?</text>
@@ -9760,8 +9760,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <postback>Ik heb een universitaire masteropleiding in het buitenland gevolgd Mag ik de Nederlandse titel drs voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een posthbocursus gevolgd Mag ik een titel voeren?</text>
-<postback>Ik heb een posthbocursus gevolgd Mag ik een titel voeren</postback>
+<text>Ik heb een post hbo  cursus gevolgd Mag ik een titel voeren?</text>
+<postback>Ik heb een post hbo  cursus gevolgd Mag ik een titel voeren</postback>
 </reply>
 </template>
 </category>
@@ -9773,43 +9773,43 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
-<text>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren?</text>
-<postback>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren</postback>
+<text>Ik heb voor 1986 een hbo opleiding afgerond Mag ik een titel voeren?</text>
+<postback>Ik heb voor 1986 een hbo opleiding afgerond Mag ik een titel voeren</postback>
 </reply>
 <reply>
-<text>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren?</text>
-<postback>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren</postback>
+<text>Ik heb na 1986 een hbo opleiding afgerond Welke titel mag ik voeren?</text>
+<postback>Ik heb na 1986 een hbo opleiding afgerond Welke titel mag ik voeren</postback>
 </reply>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbo opleiding ^
+^ hbo  opleiding ^
 </pattern>
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
-<text>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren?</text>
-<postback>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren</postback>
+<text>Ik heb voor 1986 een hbo opleiding afgerond Mag ik een titel voeren?</text>
+<postback>Ik heb voor 1986 een hbo opleiding afgerond Mag ik een titel voeren</postback>
 </reply>
 <reply>
-<text>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren?</text>
-<postback>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren</postback>
+<text>Ik heb na 1986 een hbo opleiding afgerond Welke titel mag ik voeren?</text>
+<postback>Ik heb na 1986 een hbo opleiding afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
-<postback>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
+<text>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
+<postback>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
 </reply>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbo masteropleiding ^
+^ hbo  masteropleiding ^
 </pattern>
 <template>
-<srai>Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren</srai>
+<srai>Ik heb een hbo masteropleiding afgerond Welke titel mag ik voeren</srai>
 </template>
 </category>
 
@@ -9833,10 +9833,10 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 
 <category>
 <pattern>
-^ posthbocursus ^
+^ post hbo  cursus ^
 </pattern>
 <template>
-<srai>Ik heb een posthbocursus gevolgd Mag ik een titel voeren</srai>
+<srai>Ik heb een post hbo  cursus gevolgd Mag ik een titel voeren</srai>
 </template>
 </category>
 
@@ -9845,7 +9845,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 ^ techniek ^
 </pattern>
 <template>
-<srai>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</srai>
 </template>
 </category>
 
@@ -9856,8 +9856,8 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 <template>
 Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tussen?<br></br><br></br>
 <reply>
-<text>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
-<postback>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
+<text>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
+<postback>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
 </reply>
 <reply>
 <text>Kennisbank met meest gestelde vragen over ICT?</text>
@@ -9871,7 +9871,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 ^ landbouw ^
 </pattern>
 <template>
-<srai>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</srai>
 </template>
 </category>
 
@@ -9880,7 +9880,7 @@ Het is mij nog niet precies duidelijk wat je wil weten, staat je vraag hier tuss
 ^ ing ^
 </pattern>
 <template>
-<srai>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</srai>
 </template>
 </category>
 

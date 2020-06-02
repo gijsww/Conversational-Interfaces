@@ -73,20 +73,20 @@ hbo vooropleiding bachelor en propedeuse
 <template>
 Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je precies weten over <get name ="topic"/>?<br></br><br></br>
 <reply>
-<text>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding?</text>
-<postback>Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding</postback>
+<text>Ben ik met een hbo propedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding?</text>
+<postback>Ben ik met een hbo propedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding</postback>
 </reply>
 <reply>
-<text>Maakt het uit welke hbopropedeuse ik heb gehaald als ik naar de universiteit wil?</text>
-<postback>Maakt het uit welke hbopropedeuse ik heb gehaald als ik naar de universiteit wil</postback>
+<text>Maakt het uit welke hbo propedeuse ik heb gehaald als ik naar de universiteit wil?</text>
+<postback>Maakt het uit welke hbo propedeuse ik heb gehaald als ik naar de universiteit wil</postback>
 </reply>
 <reply>
 <text>Kan ik instromen in een hoger studiejaar?</text>
 <postback>Kan ik instromen in een hoger studiejaar</postback>
 </reply>
 <reply>
-<text>Kan ik met een hbobachelordiploma instromen in een masterprogramma?</text>
-<postback>Kan ik met een hbobachelordiploma instromen in een masterprogramma</postback>
+<text>Kan ik met een hbo bachelordiploma instromen in een masterprogramma?</text>
+<postback>Kan ik met een hbo bachelordiploma instromen in een masterprogramma</postback>
 </reply>
 <reply>
 <text>Heb ik recht op extra studiefinanciering?</text>
@@ -1794,28 +1794,28 @@ Misschien staat het antwoord dat je zoekt tussen een van deze vragen: Wat wil je
 <postback>Ik heb een universitaire masteropleiding in het buitenland gevolgd Mag ik de Nederlandse titel drs voeren</postback>
 </reply>
 <reply>
-<text>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren?</text>
-<postback>Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren</postback>
+<text>Ik heb voor 1986 een hbo opleiding afgerond Mag ik een titel voeren?</text>
+<postback>Ik heb voor 1986 een hbo opleiding afgerond Mag ik een titel voeren</postback>
 </reply>
 <reply>
-<text>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren?</text>
-<postback>Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren</postback>
+<text>Ik heb na 1986 een hbo opleiding afgerond Welke titel mag ik voeren?</text>
+<postback>Ik heb na 1986 een hbo opleiding afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren?</text>
-<postback>Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren</postback>
+<text>Ik heb een hbo masteropleiding afgerond Welke titel mag ik voeren?</text>
+<postback>Ik heb een hbo masteropleiding afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
 <text>Ik heb een Associate degree afgerond Welke titel mag ik voeren?</text>
 <postback>Ik heb een Associate degree afgerond Welke titel mag ik voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een posthbocursus gevolgd Mag ik een titel voeren?</text>
-<postback>Ik heb een posthbocursus gevolgd Mag ik een titel voeren</postback>
+<text>Ik heb een post hbo cursus gevolgd Mag ik een titel voeren?</text>
+<postback>Ik heb een post hbo cursus gevolgd Mag ik een titel voeren</postback>
 </reply>
 <reply>
-<text>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
-<postback>Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
+<text>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren?</text>
+<postback>Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren</postback>
 </reply>
 <reply>
 <text>Ik heb een afgeronde MOopleiding 1e en 2e graad Mag ik de titel Master of Education M ED voeren?</text>

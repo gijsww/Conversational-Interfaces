@@ -83,7 +83,7 @@
         <pattern>^ student ^</pattern>
         <that>^ student of een aankomend student ^</that>
         <template><think><set name="userinfo">student</set></think>
-        Wat leuk! In welk jaar van welke studie zit je?
+        Wat leuk! Welke studie volg je?
         </template>
     </category>
 
@@ -101,7 +101,7 @@
 
     <category>
         <pattern> * </pattern>.
-        <that>^ welk jaar van welke studie zit je ^</that>
+        <that># welke studie volg je #</that>
         <template>Goed bezig! Dat lijkt mij ook een leuke studie. Welke vraag kan ik voor je beantwoorden?
         </template>
     </category>
@@ -116,7 +116,7 @@
 
     <category>
         <pattern> * </pattern>.
-        <that>^ Welke studie ga je doen ^</that>
+        <that># Welke studie ga je doen #</that>
         <template>Dat lijkt mij ook een leuke studie. Welke vraag kan ik voor je beantwoorden?
         </template>
     </category>

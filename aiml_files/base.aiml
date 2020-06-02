@@ -248,7 +248,7 @@ https://www.rug.nl/education/bachelor/nederlandse-studenten/aanmelding-en-inschr
 
 <category>
 <pattern>
-Ben ik met een hbopropedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding 
+Ben ik met een hbo propedeuse of diploma toelaatbaar tot een universitaire bacheloropleiding 
 </pattern>
 <template>
 <think><set name="topic">hbo vooropleiding bachelor en propedeuse</set></think>
@@ -290,7 +290,7 @@ https://www.rug.nl/education/contact/study-advisors/
 
 <category>
 <pattern>
-Maakt het uit welke hbopropedeuse ik heb gehaald als ik naar de universiteit wil 
+Maakt het uit welke hbo propedeuse ik heb gehaald als ik naar de universiteit wil 
 </pattern>
 <template>
 <think><set name="topic">hbo vooropleiding bachelor en propedeuse</set></think>
@@ -334,7 +334,7 @@ https://www.rug.nl/education/verkort/
 
 <category>
 <pattern>
-Kan ik met een hbobachelordiploma instromen in een masterprogramma 
+Kan ik met een hbo bachelordiploma instromen in een masterprogramma 
 </pattern>
 <template>
 <think><set name="topic">hbo vooropleiding bachelor en propedeuse</set></think>
@@ -666,7 +666,7 @@ https://www.studielink.nl
 
 <category>
 <pattern>
-Ik heb al een HBOV diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie 
+Ik heb al een HBO V diploma en wil geneeskunde studeren Moet ik meedoen aan de selectie 
 </pattern>
 <template>
 <think><set name="topic">aanmelden numerus fixusopleiding</set></think>
@@ -6420,7 +6420,7 @@ http://www.duo.nl/particulieren/diplomas/u-heeft-een-buitenlands-diploma/een-ned
 
 <category>
 <pattern>
-Ik heb voor 1986 een hboopleiding afgerond Mag ik een titel voeren 
+Ik heb voor 1986 een hbo opleiding afgerond Mag ik een titel voeren 
 </pattern>
 <template>
 <think><set name="topic">titulatuur en graden</set></think>
@@ -6430,7 +6430,7 @@ Dat hangt af van een aantal criteria. Tot 1986 bestond er in het hbo geen titula
 
 <category>
 <pattern>
-Ik heb na 1986 een hboopleiding afgerond Welke titel mag ik voeren 
+Ik heb na 1986 een hbo opleiding afgerond Welke titel mag ik voeren 
 </pattern>
 <template>
 <think><set name="topic">titulatuur en graden</set></think>
@@ -6440,7 +6440,7 @@ Als je na 1986 bent afgestudeerd aan een hbo-bacheloropleiding op het gebied van
 
 <category>
 <pattern>
-Ik heb een hbomasteropleiding afgerond Welke titel mag ik voeren 
+Ik heb een hbo masteropleiding afgerond Welke titel mag ik voeren 
 </pattern>
 <template>
 <think><set name="topic">titulatuur en graden</set></think>
@@ -6460,7 +6460,7 @@ Een afgeronde Associate degree geeft recht op de titel Ad. Deze titel plaats je 
 
 <category>
 <pattern>
-Ik heb een posthbocursus gevolgd Mag ik een titel voeren 
+Ik heb een post hbo cursus gevolgd Mag ik een titel voeren 
 </pattern>
 <template>
 <think><set name="topic">titulatuur en graden</set></think>
@@ -6470,7 +6470,7 @@ Aan post-hbo-cursussen zijn geen titels verbonden. Het is niet verboden om een a
 
 <category>
 <pattern>
-Ik heb een hboopleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren 
+Ik heb een hbo opleiding in de techniek ICT of landbouw afgerond Mag ik nu naast de titel Bachelor ook de titel ing voeren 
 </pattern>
 <template>
 <think><set name="topic">titulatuur en graden</set></think>

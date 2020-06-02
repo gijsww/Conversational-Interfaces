@@ -298,37 +298,37 @@
 
 <category>
 <pattern>
-^ hbopropedeuse ^  diploma ^  toelaatbaar ^  universitaire ^
+^ hbo  propedeuse ^  diploma ^  toelaatbaar ^  universitaire ^
 </pattern>
 <template>
-<srai>Ben ik met een hbo-propedeuse of -diploma toelaatbaar tot een universitaire bacheloropleiding</srai>
+<srai>Ben ik met een hbo  propedeuse of -diploma toelaatbaar tot een universitaire bacheloropleiding</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbopropedeuse ^  diploma ^  toelaatbaar ^  bacheloropleiding ^
+^ hbo  propedeuse ^  diploma ^  toelaatbaar ^  bacheloropleiding ^
 </pattern>
 <template>
-<srai>Ben ik met een hbo-propedeuse of -diploma toelaatbaar tot een universitaire bacheloropleiding</srai>
+<srai>Ben ik met een hbo  propedeuse of -diploma toelaatbaar tot een universitaire bacheloropleiding</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbopropedeuse ^  diploma ^  universitaire ^  bacheloropleiding ^
+^ hbo  propedeuse ^  diploma ^  universitaire ^  bacheloropleiding ^
 </pattern>
 <template>
-<srai>Ben ik met een hbo-propedeuse of -diploma toelaatbaar tot een universitaire bacheloropleiding</srai>
+<srai>Ben ik met een hbo  propedeuse of -diploma toelaatbaar tot een universitaire bacheloropleiding</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbopropedeuse ^  toelaatbaar ^  universitaire ^  bacheloropleiding ^
+^ hbo  propedeuse ^  toelaatbaar ^  universitaire ^  bacheloropleiding ^
 </pattern>
 <template>
-<srai>Ben ik met een hbo-propedeuse of -diploma toelaatbaar tot een universitaire bacheloropleiding</srai>
+<srai>Ben ik met een hbo  propedeuse of -diploma toelaatbaar tot een universitaire bacheloropleiding</srai>
 </template>
 </category>
 
@@ -337,25 +337,25 @@
 ^ diploma ^  toelaatbaar ^  universitaire ^  bacheloropleiding ^
 </pattern>
 <template>
-<srai>Ben ik met een hbo-propedeuse of -diploma toelaatbaar tot een universitaire bacheloropleiding</srai>
+<srai>Ben ik met een hbo  propedeuse of -diploma toelaatbaar tot een universitaire bacheloropleiding</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ maakt ^  welke ^  hbopropedeuse ^  gehaald ^
+^ maakt ^  welke ^  hbo  propedeuse ^  gehaald ^
 </pattern>
 <template>
-<srai>Maakt het uit welke hbo-propedeuse ik heb gehaald als ik naar de universiteit wil</srai>
+<srai>Maakt het uit welke hbo  propedeuse ik heb gehaald als ik naar de universiteit wil</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ maakt ^  welke ^  hbopropedeuse ^  universiteit ^
+^ maakt ^  welke ^  hbo  propedeuse ^  universiteit ^
 </pattern>
 <template>
-<srai>Maakt het uit welke hbo-propedeuse ik heb gehaald als ik naar de universiteit wil</srai>
+<srai>Maakt het uit welke hbo  propedeuse ik heb gehaald als ik naar de universiteit wil</srai>
 </template>
 </category>
 
@@ -364,25 +364,25 @@
 ^ maakt ^  welke ^  gehaald ^  universiteit ^
 </pattern>
 <template>
-<srai>Maakt het uit welke hbo-propedeuse ik heb gehaald als ik naar de universiteit wil</srai>
+<srai>Maakt het uit welke hbo  propedeuse ik heb gehaald als ik naar de universiteit wil</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ maakt ^  hbopropedeuse ^  gehaald ^  universiteit ^
+^ maakt ^  hbo  propedeuse ^  gehaald ^  universiteit ^
 </pattern>
 <template>
-<srai>Maakt het uit welke hbo-propedeuse ik heb gehaald als ik naar de universiteit wil</srai>
+<srai>Maakt het uit welke hbo  propedeuse ik heb gehaald als ik naar de universiteit wil</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ welke ^  hbopropedeuse ^  gehaald ^  universiteit ^
+^ welke ^  hbo  propedeuse ^  gehaald ^  universiteit ^
 </pattern>
 <template>
-<srai>Maakt het uit welke hbo-propedeuse ik heb gehaald als ik naar de universiteit wil</srai>
+<srai>Maakt het uit welke hbo  propedeuse ik heb gehaald als ik naar de universiteit wil</srai>
 </template>
 </category>
 
@@ -1576,91 +1576,91 @@
 
 <category>
 <pattern>
-^ hbov ^  diploma ^  geneeskunde ^  studeren ^
+^ hbo v ^  diploma ^  geneeskunde ^  studeren ^
 </pattern>
 <template>
-<srai>Ik heb al een HBO-V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
+<srai>Ik heb al een HBO V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbov ^  diploma ^  geneeskunde ^  meedoen ^
+^ hbo v ^  diploma ^  geneeskunde ^  meedoen ^
 </pattern>
 <template>
-<srai>Ik heb al een HBO-V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
+<srai>Ik heb al een HBO V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbov ^  diploma ^  geneeskunde ^  selectie ^
+^ hbo v ^  diploma ^  geneeskunde ^  selectie ^
 </pattern>
 <template>
-<srai>Ik heb al een HBO-V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
+<srai>Ik heb al een HBO V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbov ^  diploma ^  studeren ^  meedoen ^
+^ hbo v ^  diploma ^  studeren ^  meedoen ^
 </pattern>
 <template>
-<srai>Ik heb al een HBO-V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
+<srai>Ik heb al een HBO V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbov ^  diploma ^  studeren ^  selectie ^
+^ hbo v ^  diploma ^  studeren ^  selectie ^
 </pattern>
 <template>
-<srai>Ik heb al een HBO-V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
+<srai>Ik heb al een HBO V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbov ^  diploma ^  meedoen ^  selectie ^
+^ hbo v ^  diploma ^  meedoen ^  selectie ^
 </pattern>
 <template>
-<srai>Ik heb al een HBO-V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
+<srai>Ik heb al een HBO V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbov ^  geneeskunde ^  studeren ^  meedoen ^
+^ hbo v ^  geneeskunde ^  studeren ^  meedoen ^
 </pattern>
 <template>
-<srai>Ik heb al een HBO-V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
+<srai>Ik heb al een HBO V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbov ^  geneeskunde ^  studeren ^  selectie ^
+^ hbo v ^  geneeskunde ^  studeren ^  selectie ^
 </pattern>
 <template>
-<srai>Ik heb al een HBO-V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
+<srai>Ik heb al een HBO V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbov ^  geneeskunde ^  meedoen ^  selectie ^
+^ hbo v ^  geneeskunde ^  meedoen ^  selectie ^
 </pattern>
 <template>
-<srai>Ik heb al een HBO-V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
+<srai>Ik heb al een HBO V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbov ^  studeren ^  meedoen ^  selectie ^
+^ hbo v ^  studeren ^  meedoen ^  selectie ^
 </pattern>
 <template>
-<srai>Ik heb al een HBO-V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
+<srai>Ik heb al een HBO V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
 </template>
 </category>
 
@@ -1669,7 +1669,7 @@
 ^ diploma ^  geneeskunde ^  studeren ^  meedoen ^
 </pattern>
 <template>
-<srai>Ik heb al een HBO-V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
+<srai>Ik heb al een HBO V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
 </template>
 </category>
 
@@ -1678,7 +1678,7 @@
 ^ diploma ^  geneeskunde ^  studeren ^  selectie ^
 </pattern>
 <template>
-<srai>Ik heb al een HBO-V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
+<srai>Ik heb al een HBO V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
 </template>
 </category>
 
@@ -1687,7 +1687,7 @@
 ^ diploma ^  geneeskunde ^  meedoen ^  selectie ^
 </pattern>
 <template>
-<srai>Ik heb al een HBO-V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
+<srai>Ik heb al een HBO V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
 </template>
 </category>
 
@@ -1696,7 +1696,7 @@
 ^ diploma ^  studeren ^  meedoen ^  selectie ^
 </pattern>
 <template>
-<srai>Ik heb al een HBO-V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
+<srai>Ik heb al een HBO V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
 </template>
 </category>
 
@@ -1705,7 +1705,7 @@
 ^ geneeskunde ^  studeren ^  meedoen ^  selectie ^
 </pattern>
 <template>
-<srai>Ik heb al een HBO-V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
+<srai>Ik heb al een HBO V diploma en wil geneeskunde studeren. Moet ik meedoen aan de selectie</srai>
 </template>
 </category>
 
@@ -65602,7 +65602,7 @@
 
 <category>
 <pattern>
-^ 1986 ^  hboopleiding ^  afgerond ^  mag ^
+^ 1986 ^  hbo  opleiding ^  afgerond ^  mag ^
 </pattern>
 <template>
 <srai>^ 1986 ^</srai>
@@ -65611,7 +65611,7 @@
 
 <category>
 <pattern>
-^ 1986 ^  hboopleiding ^  afgerond ^  titel ^
+^ 1986 ^  hbo  opleiding ^  afgerond ^  titel ^
 </pattern>
 <template>
 <srai>^ 1986 ^</srai>
@@ -65620,7 +65620,7 @@
 
 <category>
 <pattern>
-^ 1986 ^  hboopleiding ^  afgerond ^  voeren ^
+^ 1986 ^  hbo  opleiding ^  afgerond ^  voeren ^
 </pattern>
 <template>
 <srai>^ 1986 ^</srai>
@@ -65629,16 +65629,16 @@
 
 <category>
 <pattern>
-^ 1986 ^  hboopleiding ^  mag ^  titel ^
+^ 1986 ^  hbo  opleiding ^  mag ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb voor 1986 een hbo-opleiding afgerond. Mag ik een titel voeren</srai>
+<srai>Ik heb voor 1986 een hbo  opleiding afgerond. Mag ik een titel voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ 1986 ^  hboopleiding ^  mag ^  voeren ^
+^ 1986 ^  hbo  opleiding ^  mag ^  voeren ^
 </pattern>
 <template>
 <srai>^ 1986 ^</srai>
@@ -65647,7 +65647,7 @@
 
 <category>
 <pattern>
-^ 1986 ^  hboopleiding ^  titel ^  voeren ^
+^ 1986 ^  hbo  opleiding ^  titel ^  voeren ^
 </pattern>
 <template>
 <srai>^ 1986 ^</srai>
@@ -65659,7 +65659,7 @@
 ^ 1986 ^  afgerond ^  mag ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb voor 1986 een hbo-opleiding afgerond. Mag ik een titel voeren</srai>
+<srai>Ik heb voor 1986 een hbo  opleiding afgerond. Mag ik een titel voeren</srai>
 </template>
 </category>
 
@@ -65686,88 +65686,88 @@
 ^ 1986 ^  mag ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb voor 1986 een hbo-opleiding afgerond. Mag ik een titel voeren</srai>
+<srai>Ik heb voor 1986 een hbo  opleiding afgerond. Mag ik een titel voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  mag ^  titel ^
+^ hbo  opleiding ^  afgerond ^  mag ^  titel ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo  opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  mag ^  voeren ^
+^ hbo  opleiding ^  afgerond ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo  opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  titel ^  voeren ^
+^ hbo  opleiding ^  afgerond ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo  opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  mag ^  titel ^  voeren ^
+^ hbo  opleiding ^  mag ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo  opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ 1986 ^  hboopleiding ^  afgerond ^  welke ^
+^ 1986 ^  hbo  opleiding ^  afgerond ^  welke ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ 1986 ^  hboopleiding ^  welke ^  titel ^
+^ 1986 ^  hbo  opleiding ^  welke ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ 1986 ^  hboopleiding ^  welke ^  mag ^
+^ 1986 ^  hbo  opleiding ^  welke ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ 1986 ^  hboopleiding ^  welke ^  voeren ^
+^ 1986 ^  hbo  opleiding ^  welke ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ 1986 ^  hboopleiding ^  titel ^  mag ^
+^ 1986 ^  hbo  opleiding ^  titel ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
@@ -65776,7 +65776,7 @@
 ^ 1986 ^  afgerond ^  welke ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  pleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
@@ -65785,7 +65785,7 @@
 ^ 1986 ^  afgerond ^  welke ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
@@ -65794,7 +65794,7 @@
 ^ 1986 ^  afgerond ^  welke ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
@@ -65803,7 +65803,7 @@
 ^ 1986 ^  afgerond ^  titel ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
@@ -65812,7 +65812,7 @@
 ^ 1986 ^  welke ^  titel ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
@@ -65821,7 +65821,7 @@
 ^ 1986 ^  welke ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
@@ -65830,7 +65830,7 @@
 ^ 1986 ^  welke ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
@@ -65839,79 +65839,79 @@
 ^ 1986 ^  titel ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  welke ^  titel ^
+^ hbo  opleiding ^  afgerond ^  welke ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  welke ^  mag ^
+^ hbo  opleiding ^  afgerond ^  welke ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  welke ^  voeren ^
+^ hbo o pleiding ^  afgerond ^  welke ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  titel ^  mag ^
+^ hbo  opleiding ^  afgerond ^  titel ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  welke ^  titel ^  mag ^
+^ hbo o pleiding ^  welke ^  titel ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  welke ^  titel ^  voeren ^
+^ hbo  opleiding ^  welke ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  welke ^  mag ^  voeren ^
+^ hbo  opleiding ^  welke ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  ppleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  titel ^  mag ^  voeren ^
+^ hbo  opleiding ^  titel ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb na 1986 een hbo-opleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb na 1986 een hbo  opleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
@@ -65962,91 +65962,91 @@
 
 <category>
 <pattern>
-^ hbomasteropleiding ^  afgerond ^  welke ^  titel ^
+^ hbo  masteropleiding ^  afgerond ^  welke ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-masteropleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb een hbo  masteropleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbomasteropleiding ^  afgerond ^  welke ^  mag ^
+^ hbo  masteropleiding ^  afgerond ^  welke ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-masteropleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb een hbo  masteropleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbomasteropleiding ^  afgerond ^  welke ^  voeren ^
+^ hbo  masteropleiding ^  afgerond ^  welke ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-masteropleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb een hbo  masteropleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbomasteropleiding ^  afgerond ^  titel ^  mag ^
+^ hbo  masteropleiding ^  afgerond ^  titel ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-masteropleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb een hbo  masteropleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbomasteropleiding ^  afgerond ^  titel ^  voeren ^
+^ hbo  masteropleiding ^  afgerond ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-masteropleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb een hbo  masteropleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbomasteropleiding ^  afgerond ^  mag ^  voeren ^
+^ hbo  masteropleiding ^  afgerond ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-masteropleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb een hbo  masteropleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbomasteropleiding ^  welke ^  titel ^  mag ^
+^ hbo  masteropleiding ^  welke ^  titel ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-masteropleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb een hbo  masteropleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbomasteropleiding ^  welke ^  titel ^  voeren ^
+^ hbo  masteropleiding ^  welke ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-masteropleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb een hbo  masteropleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbomasteropleiding ^  welke ^  mag ^  voeren ^
+^ hbo  masteropleiding ^  welke ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-masteropleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb een hbo  masteropleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hbomasteropleiding ^  titel ^  mag ^  voeren ^
+^ hbo  masteropleiding ^  titel ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-masteropleiding afgerond. Welke titel mag ik voeren</srai>
+<srai>Ik heb een hbo  masteropleiding afgerond. Welke titel mag ik voeren</srai>
 </template>
 </category>
 
@@ -66322,1234 +66322,1234 @@
 
 <category>
 <pattern>
-^ posthbocursus ^  gevolgd ^  mag ^  titel ^
+^ post hbo cursus ^  gevolgd ^  mag ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een post-hbo-cursus gevolgd. Mag ik een titel voeren</srai>
+<srai>Ik heb een post hbo cursus gevolgd. Mag ik een titel voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ posthbocursus ^  gevolgd ^  mag ^  voeren ^
+^ post hbo cursus ^  gevolgd ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een post-hbo-cursus gevolgd. Mag ik een titel voeren</srai>
+<srai>Ik heb een post hbo cursus gevolgd. Mag ik een titel voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ posthbocursus ^  gevolgd ^  titel ^  voeren ^
+^ post hbo cursus ^  gevolgd ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een post-hbo-cursus gevolgd. Mag ik een titel voeren</srai>
+<srai>Ik heb een post hbo cursus gevolgd. Mag ik een titel voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ posthbocursus ^  mag ^  titel ^  voeren ^
+^ post hbo cursus ^  mag ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een post-hbo-cursus gevolgd. Mag ik een titel voeren</srai>
+<srai>Ik heb een post hbo cursus gevolgd. Mag ik een titel voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  ict ^  landbouw ^
+^ hbo opleiding ^  techniek ^  ict ^  landbouw ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  ict ^  afgerond ^
+^ hbo opleiding ^  techniek ^  ict ^  afgerond ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  ict ^  mag ^
+^ hbo opleiding ^  techniek ^  ict ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  ict ^  naast ^
+^ hbo opleiding ^  techniek ^  ict ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  ict ^  titel ^
+^ hbo opleiding ^  techniek ^  ict ^  titel ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  ict ^  bachelor ^
+^ hbo opleiding ^  techniek ^  ict ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  ict ^  ing ^
+^ hbo opleiding ^  techniek ^  ict ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  ict ^  voeren ^
+^ hbo opleiding ^  techniek ^  ict ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  landbouw ^  afgerond ^
+^ hbo opleiding ^  techniek ^  landbouw ^  afgerond ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  landbouw ^  mag ^
+^ hbo opleiding ^  techniek ^  landbouw ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  landbouw ^  naast ^
+^ hbo opleiding ^  techniek ^  landbouw ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  landbouw ^  titel ^
+^ hbo opleiding ^  techniek ^  landbouw ^  titel ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  landbouw ^  bachelor ^
+^ hbo opleiding ^  techniek ^  landbouw ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  landbouw ^  ing ^
+^ hbo opleiding ^  techniek ^  landbouw ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  landbouw ^  voeren ^
+^ hbo opleiding ^  techniek ^  landbouw ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  afgerond ^  mag ^
+^ hbo opleiding ^  techniek ^  afgerond ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  afgerond ^  naast ^
+^ hbo opleiding ^  techniek ^  afgerond ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  afgerond ^  titel ^
+^ hbo opleiding ^  techniek ^  afgerond ^  titel ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  afgerond ^  bachelor ^
+^ hbo opleiding ^  techniek ^  afgerond ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  afgerond ^  ing ^
+^ hbo opleiding ^  techniek ^  afgerond ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  afgerond ^  voeren ^
+^ hbo opleiding ^  techniek ^  afgerond ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  mag ^  naast ^
+^ hbo opleiding ^  techniek ^  mag ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  mag ^  titel ^
+^ hbo opleiding ^  techniek ^  mag ^  titel ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  mag ^  bachelor ^
+^ hbo opleiding ^  techniek ^  mag ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  mag ^  ing ^
+^ hbo opleiding ^  techniek ^  mag ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  mag ^  voeren ^
+^ hbo opleiding ^  techniek ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  naast ^  titel ^
+^ hbo opleiding ^  techniek ^  naast ^  titel ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  naast ^  bachelor ^
+^ hbo opleiding ^  techniek ^  naast ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  naast ^  ing ^
+^ hbo opleiding ^  techniek ^  naast ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  naast ^  voeren ^
+^ hbo opleiding ^  techniek ^  naast ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  titel ^  bachelor ^
+^ hbo opleiding ^  techniek ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  titel ^  titel ^
+^ hbo opleiding ^  techniek ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  titel ^  ing ^
+^ hbo opleiding ^  techniek ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  titel ^  voeren ^
+^ hbo opleiding ^  techniek ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  bachelor ^  titel ^
+^ hbo opleiding ^  techniek ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  bachelor ^  ing ^
+^ hbo opleiding ^  techniek ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  bachelor ^  voeren ^
+^ hbo opleiding ^  techniek ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  techniek ^  ing ^  voeren ^
+^ hbo opleiding ^  techniek ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  landbouw ^  afgerond ^
+^ hbo opleiding ^  ict ^  landbouw ^  afgerond ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  landbouw ^  mag ^
+^ hbo opleiding ^  ict ^  landbouw ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  landbouw ^  naast ^
+^ hbo opleiding ^  ict ^  landbouw ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  landbouw ^  titel ^
+^ hbo opleiding ^  ict ^  landbouw ^  titel ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  landbouw ^  bachelor ^
+^ hbo opleiding ^  ict ^  landbouw ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  landbouw ^  ing ^
+^ hbo opleiding ^  ict ^  landbouw ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  landbouw ^  voeren ^
+^ hbo opleiding ^  ict ^  landbouw ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  afgerond ^  mag ^
+^ hbo opleiding ^  ict ^  afgerond ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  afgerond ^  naast ^
+^ hbo opleiding ^  ict ^  afgerond ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  afgerond ^  titel ^
+^ hbo opleiding ^  ict ^  afgerond ^  titel ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  afgerond ^  bachelor ^
+^ hbo opleiding ^  ict ^  afgerond ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  afgerond ^  ing ^
+^ hbo opleiding ^  ict ^  afgerond ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  afgerond ^  voeren ^
+^ hbo opleiding ^  ict ^  afgerond ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  mag ^  naast ^
+^ hbo opleiding ^  ict ^  mag ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  mag ^  titel ^
+^ hbo opleiding ^  ict ^  mag ^  titel ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  mag ^  bachelor ^
+^ hbo opleiding ^  ict ^  mag ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  mag ^  ing ^
+^ hbo opleiding ^  ict ^  mag ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  mag ^  voeren ^
+^ hbo opleiding ^  ict ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  naast ^  titel ^
+^ hbo opleiding ^  ict ^  naast ^  titel ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  naast ^  bachelor ^
+^ hbo opleiding ^  ict ^  naast ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  naast ^  ing ^
+^ hbo opleiding ^  ict ^  naast ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  naast ^  voeren ^
+^ hbo opleiding ^  ict ^  naast ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  titel ^  bachelor ^
+^ hbo opleiding ^  ict ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  titel ^  titel ^
+^ hbo opleiding ^  ict ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  titel ^  ing ^
+^ hbo opleiding ^  ict ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  titel ^  voeren ^
+^ hbo opleiding ^  ict ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  bachelor ^  titel ^
+^ hbo opleiding ^  ict ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  bachelor ^  ing ^
+^ hbo opleiding ^  ict ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  bachelor ^  voeren ^
+^ hbo opleiding ^  ict ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  ict ^  ing ^  voeren ^
+^ hbo opleiding ^  ict ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  afgerond ^  mag ^
+^ hbo opleiding ^  landbouw ^  afgerond ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  afgerond ^  naast ^
+^ hbo opleiding ^  landbouw ^  afgerond ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  afgerond ^  titel ^
+^ hbo opleiding ^  landbouw ^  afgerond ^  titel ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  afgerond ^  bachelor ^
+^ hbo opleiding ^  landbouw ^  afgerond ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  afgerond ^  ing ^
+^ hbo opleiding ^  landbouw ^  afgerond ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  afgerond ^  voeren ^
+^ hbo opleiding ^  landbouw ^  afgerond ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  mag ^  naast ^
+^ hbo opleiding ^  landbouw ^  mag ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  mag ^  titel ^
+^ hbo opleiding ^  landbouw ^  mag ^  titel ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  mag ^  bachelor ^
+^ hbo opleiding ^  landbouw ^  mag ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  mag ^  ing ^
+^ hbo opleiding ^  landbouw ^  mag ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  mag ^  voeren ^
+^ hbo opleiding ^  landbouw ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  naast ^  titel ^
+^ hbo opleiding ^  landbouw ^  naast ^  titel ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  naast ^  bachelor ^
+^ hbo opleiding ^  landbouw ^  naast ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  naast ^  ing ^
+^ hbo opleiding ^  landbouw ^  naast ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  naast ^  voeren ^
+^ hbo opleiding ^  landbouw ^  naast ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  titel ^  bachelor ^
+^ hbo opleiding ^  landbouw ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  titel ^  titel ^
+^ hbo opleiding ^  landbouw ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  titel ^  ing ^
+^ hbo opleiding ^  landbouw ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  titel ^  voeren ^
+^ hbo opleiding ^  landbouw ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  bachelor ^  titel ^
+^ hbo opleiding ^  landbouw ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  bachelor ^  ing ^
+^ hbo opleiding ^  landbouw ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  bachelor ^  voeren ^
+^ hbo opleiding ^  landbouw ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  landbouw ^  ing ^  voeren ^
+^ hbo opleiding ^  landbouw ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  mag ^  naast ^
+^ hbo opleiding ^  afgerond ^  mag ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  mag ^  bachelor ^
+^ hbo opleiding ^  afgerond ^  mag ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  mag ^  ing ^
+^ hbo opleiding ^  afgerond ^  mag ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  naast ^  titel ^
+^ hbo opleiding ^  afgerond ^  naast ^  titel ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  naast ^  bachelor ^
+^ hbo opleiding ^  afgerond ^  naast ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  naast ^  ing ^
+^ hbo opleiding ^  afgerond ^  naast ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  naast ^  voeren ^
+^ hbo opleiding ^  afgerond ^  naast ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  titel ^  bachelor ^
+^ hbo opleiding ^  afgerond ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  titel ^  titel ^
+^ hbo opleiding ^  afgerond ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  titel ^  ing ^
+^ hbo opleiding ^  afgerond ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  bachelor ^  titel ^
+^ hbo opleiding ^  afgerond ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  bachelor ^  ing ^
+^ hbo opleiding ^  afgerond ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  bachelor ^  voeren ^
+^ hbo opleiding ^  afgerond ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  afgerond ^  ing ^  voeren ^
+^ hbo opleiding ^  afgerond ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  mag ^  naast ^  titel ^
+^ hbo opleiding ^  mag ^  naast ^  titel ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  mag ^  naast ^  bachelor ^
+^ hbo opleiding ^  mag ^  naast ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  mag ^  naast ^  ing ^
+^ hbo opleiding ^  mag ^  naast ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  mag ^  naast ^  voeren ^
+^ hbo opleiding ^  mag ^  naast ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  mag ^  titel ^  bachelor ^
+^ hbo opleiding ^  mag ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  mag ^  titel ^  titel ^
+^ hbo opleiding ^  mag ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  mag ^  titel ^  ing ^
+^ hbo opleiding ^  mag ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  mag ^  bachelor ^  titel ^
+^ hbo opleiding ^  mag ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  mag ^  bachelor ^  ing ^
+^ hbo opleiding ^  mag ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  mag ^  bachelor ^  voeren ^
+^ hbo opleiding ^  mag ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  mag ^  ing ^  voeren ^
+^ hbo opleiding ^  mag ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  naast ^  titel ^  bachelor ^
+^ hbo opleiding ^  naast ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  naast ^  titel ^  titel ^
+^ hbo opleiding ^  naast ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  naast ^  titel ^  ing ^
+^ hbo opleiding ^  naast ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  naast ^  titel ^  voeren ^
+^ hbo opleiding ^  naast ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  naast ^  bachelor ^  titel ^
+^ hbo opleiding ^  naast ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  naast ^  bachelor ^  ing ^
+^ hbo opleiding ^  naast ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  naast ^  bachelor ^  voeren ^
+^ hbo opleiding ^  naast ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  naast ^  ing ^  voeren ^
+^ hbo opleiding ^  naast ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  titel ^  bachelor ^  titel ^
+^ hbo opleiding ^  titel ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  titel ^  bachelor ^  ing ^
+^ hbo opleiding ^  titel ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  titel ^  bachelor ^  voeren ^
+^ hbo opleiding ^  titel ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  titel ^  titel ^  ing ^
+^ hbo opleiding ^  titel ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  titel ^  titel ^  voeren ^
+^ hbo opleiding ^  titel ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  titel ^  ing ^  voeren ^
+^ hbo opleiding ^  titel ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>^ hboopleiding ^</srai>
+<srai>^ hbo opleiding ^</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  bachelor ^  titel ^  ing ^
+^ hbo opleiding ^  bachelor ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  bachelor ^  titel ^  voeren ^
+^ hbo opleiding ^  bachelor ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
 <category>
 <pattern>
-^ hboopleiding ^  bachelor ^  ing ^  voeren ^
+^ hbo opleiding ^  bachelor ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67558,7 +67558,7 @@
 ^ techniek ^  ict ^  landbouw ^  afgerond ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67567,7 +67567,7 @@
 ^ techniek ^  ict ^  landbouw ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67576,7 +67576,7 @@
 ^ techniek ^  ict ^  landbouw ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67594,7 +67594,7 @@
 ^ techniek ^  ict ^  landbouw ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67603,7 +67603,7 @@
 ^ techniek ^  ict ^  landbouw ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67612,7 +67612,7 @@
 ^ techniek ^  ict ^  landbouw ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67621,7 +67621,7 @@
 ^ techniek ^  ict ^  afgerond ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67630,7 +67630,7 @@
 ^ techniek ^  ict ^  afgerond ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67648,7 +67648,7 @@
 ^ techniek ^  ict ^  afgerond ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67657,7 +67657,7 @@
 ^ techniek ^  ict ^  afgerond ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67666,7 +67666,7 @@
 ^ techniek ^  ict ^  afgerond ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67675,7 +67675,7 @@
 ^ techniek ^  ict ^  mag ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67693,7 +67693,7 @@
 ^ techniek ^  ict ^  mag ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67702,7 +67702,7 @@
 ^ techniek ^  ict ^  mag ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67711,7 +67711,7 @@
 ^ techniek ^  ict ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67729,7 +67729,7 @@
 ^ techniek ^  ict ^  naast ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67738,7 +67738,7 @@
 ^ techniek ^  ict ^  naast ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67747,7 +67747,7 @@
 ^ techniek ^  ict ^  naast ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67756,7 +67756,7 @@
 ^ techniek ^  ict ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67765,7 +67765,7 @@
 ^ techniek ^  ict ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67792,7 +67792,7 @@
 ^ techniek ^  ict ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67801,7 +67801,7 @@
 ^ techniek ^  ict ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67810,7 +67810,7 @@
 ^ techniek ^  ict ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67819,7 +67819,7 @@
 ^ techniek ^  ict ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67828,7 +67828,7 @@
 ^ techniek ^  landbouw ^  afgerond ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67837,7 +67837,7 @@
 ^ techniek ^  landbouw ^  afgerond ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67855,7 +67855,7 @@
 ^ techniek ^  landbouw ^  afgerond ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67864,7 +67864,7 @@
 ^ techniek ^  landbouw ^  afgerond ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67873,7 +67873,7 @@
 ^ techniek ^  landbouw ^  afgerond ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67882,7 +67882,7 @@
 ^ techniek ^  landbouw ^  mag ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67900,7 +67900,7 @@
 ^ techniek ^  landbouw ^  mag ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67909,7 +67909,7 @@
 ^ techniek ^  landbouw ^  mag ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67918,7 +67918,7 @@
 ^ techniek ^  landbouw ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67936,7 +67936,7 @@
 ^ techniek ^  landbouw ^  naast ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67945,7 +67945,7 @@
 ^ techniek ^  landbouw ^  naast ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67954,7 +67954,7 @@
 ^ techniek ^  landbouw ^  naast ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67963,7 +67963,7 @@
 ^ techniek ^  landbouw ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67972,7 +67972,7 @@
 ^ techniek ^  landbouw ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -67999,7 +67999,7 @@
 ^ techniek ^  landbouw ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68008,7 +68008,7 @@
 ^ techniek ^  landbouw ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68017,7 +68017,7 @@
 ^ techniek ^  landbouw ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68026,7 +68026,7 @@
 ^ techniek ^  landbouw ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68035,7 +68035,7 @@
 ^ techniek ^  afgerond ^  mag ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68053,7 +68053,7 @@
 ^ techniek ^  afgerond ^  mag ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68062,7 +68062,7 @@
 ^ techniek ^  afgerond ^  mag ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68071,7 +68071,7 @@
 ^ techniek ^  afgerond ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68089,7 +68089,7 @@
 ^ techniek ^  afgerond ^  naast ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68098,7 +68098,7 @@
 ^ techniek ^  afgerond ^  naast ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68107,7 +68107,7 @@
 ^ techniek ^  afgerond ^  naast ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68116,7 +68116,7 @@
 ^ techniek ^  afgerond ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68125,7 +68125,7 @@
 ^ techniek ^  afgerond ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68152,7 +68152,7 @@
 ^ techniek ^  afgerond ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68161,7 +68161,7 @@
 ^ techniek ^  afgerond ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68170,7 +68170,7 @@
 ^ techniek ^  afgerond ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68179,7 +68179,7 @@
 ^ techniek ^  afgerond ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68197,7 +68197,7 @@
 ^ techniek ^  mag ^  naast ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68206,7 +68206,7 @@
 ^ techniek ^  mag ^  naast ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68215,7 +68215,7 @@
 ^ techniek ^  mag ^  naast ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68224,7 +68224,7 @@
 ^ techniek ^  mag ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68233,7 +68233,7 @@
 ^ techniek ^  mag ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68260,7 +68260,7 @@
 ^ techniek ^  mag ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68269,7 +68269,7 @@
 ^ techniek ^  mag ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68278,7 +68278,7 @@
 ^ techniek ^  mag ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68287,7 +68287,7 @@
 ^ techniek ^  mag ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68296,7 +68296,7 @@
 ^ techniek ^  naast ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68305,7 +68305,7 @@
 ^ techniek ^  naast ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68332,7 +68332,7 @@
 ^ techniek ^  naast ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68341,7 +68341,7 @@
 ^ techniek ^  naast ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68350,7 +68350,7 @@
 ^ techniek ^  naast ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68359,7 +68359,7 @@
 ^ techniek ^  naast ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68368,7 +68368,7 @@
 ^ techniek ^  titel ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68377,7 +68377,7 @@
 ^ techniek ^  titel ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68386,7 +68386,7 @@
 ^ techniek ^  titel ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68395,7 +68395,7 @@
 ^ techniek ^  titel ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68404,7 +68404,7 @@
 ^ techniek ^  titel ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68422,7 +68422,7 @@
 ^ techniek ^  bachelor ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68431,7 +68431,7 @@
 ^ techniek ^  bachelor ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68440,7 +68440,7 @@
 ^ techniek ^  bachelor ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68449,7 +68449,7 @@
 ^ ict ^  landbouw ^  afgerond ^  mag ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68458,7 +68458,7 @@
 ^ ict ^  landbouw ^  afgerond ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68476,7 +68476,7 @@
 ^ ict ^  landbouw ^  afgerond ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68485,7 +68485,7 @@
 ^ ict ^  landbouw ^  afgerond ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68494,7 +68494,7 @@
 ^ ict ^  landbouw ^  afgerond ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68503,7 +68503,7 @@
 ^ ict ^  landbouw ^  mag ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68521,7 +68521,7 @@
 ^ ict ^  landbouw ^  mag ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68530,7 +68530,7 @@
 ^ ict ^  landbouw ^  mag ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68539,7 +68539,7 @@
 ^ ict ^  landbouw ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68557,7 +68557,7 @@
 ^ ict ^  landbouw ^  naast ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68566,7 +68566,7 @@
 ^ ict ^  landbouw ^  naast ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68575,7 +68575,7 @@
 ^ ict ^  landbouw ^  naast ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68584,7 +68584,7 @@
 ^ ict ^  landbouw ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68593,7 +68593,7 @@
 ^ ict ^  landbouw ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68620,7 +68620,7 @@
 ^ ict ^  landbouw ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68629,7 +68629,7 @@
 ^ ict ^  landbouw ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68638,7 +68638,7 @@
 ^ ict ^  landbouw ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68647,7 +68647,7 @@
 ^ ict ^  landbouw ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68656,7 +68656,7 @@
 ^ ict ^  afgerond ^  mag ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68674,7 +68674,7 @@
 ^ ict ^  afgerond ^  mag ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68683,7 +68683,7 @@
 ^ ict ^  afgerond ^  mag ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68692,7 +68692,7 @@
 ^ ict ^  afgerond ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68710,7 +68710,7 @@
 ^ ict ^  afgerond ^  naast ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68719,7 +68719,7 @@
 ^ ict ^  afgerond ^  naast ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68728,7 +68728,7 @@
 ^ ict ^  afgerond ^  naast ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68737,7 +68737,7 @@
 ^ ict ^  afgerond ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68746,7 +68746,7 @@
 ^ ict ^  afgerond ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68773,7 +68773,7 @@
 ^ ict ^  afgerond ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68782,7 +68782,7 @@
 ^ ict ^  afgerond ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68791,7 +68791,7 @@
 ^ ict ^  afgerond ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68800,7 +68800,7 @@
 ^ ict ^  afgerond ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68818,7 +68818,7 @@
 ^ ict ^  mag ^  naast ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68827,7 +68827,7 @@
 ^ ict ^  mag ^  naast ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68836,7 +68836,7 @@
 ^ ict ^  mag ^  naast ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68845,7 +68845,7 @@
 ^ ict ^  mag ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68854,7 +68854,7 @@
 ^ ict ^  mag ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68881,7 +68881,7 @@
 ^ ict ^  mag ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68890,7 +68890,7 @@
 ^ ict ^  mag ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68899,7 +68899,7 @@
 ^ ict ^  mag ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68908,7 +68908,7 @@
 ^ ict ^  mag ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68917,7 +68917,7 @@
 ^ ict ^  naast ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68926,7 +68926,7 @@
 ^ ict ^  naast ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68953,7 +68953,7 @@
 ^ ict ^  naast ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68962,7 +68962,7 @@
 ^ ict ^  naast ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68971,7 +68971,7 @@
 ^ ict ^  naast ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68980,7 +68980,7 @@
 ^ ict ^  naast ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68989,7 +68989,7 @@
 ^ ict ^  titel ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -68998,7 +68998,7 @@
 ^ ict ^  titel ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69007,7 +69007,7 @@
 ^ ict ^  titel ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69016,7 +69016,7 @@
 ^ ict ^  titel ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69025,7 +69025,7 @@
 ^ ict ^  titel ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69043,7 +69043,7 @@
 ^ ict ^  bachelor ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69052,7 +69052,7 @@
 ^ ict ^  bachelor ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69061,7 +69061,7 @@
 ^ ict ^  bachelor ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69070,7 +69070,7 @@
 ^ landbouw ^  afgerond ^  mag ^  naast ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69088,7 +69088,7 @@
 ^ landbouw ^  afgerond ^  mag ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69097,7 +69097,7 @@
 ^ landbouw ^  afgerond ^  mag ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69106,7 +69106,7 @@
 ^ landbouw ^  afgerond ^  mag ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69124,7 +69124,7 @@
 ^ landbouw ^  afgerond ^  naast ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69133,7 +69133,7 @@
 ^ landbouw ^  afgerond ^  naast ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69142,7 +69142,7 @@
 ^ landbouw ^  afgerond ^  naast ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69151,7 +69151,7 @@
 ^ landbouw ^  afgerond ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69160,7 +69160,7 @@
 ^ landbouw ^  afgerond ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69187,7 +69187,7 @@
 ^ landbouw ^  afgerond ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69196,7 +69196,7 @@
 ^ landbouw ^  afgerond ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69205,7 +69205,7 @@
 ^ landbouw ^  afgerond ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69214,7 +69214,7 @@
 ^ landbouw ^  afgerond ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69232,7 +69232,7 @@
 ^ landbouw ^  mag ^  naast ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69241,7 +69241,7 @@
 ^ landbouw ^  mag ^  naast ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69250,7 +69250,7 @@
 ^ landbouw ^  mag ^  naast ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69259,7 +69259,7 @@
 ^ landbouw ^  mag ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69268,7 +69268,7 @@
 ^ landbouw ^  mag ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69295,7 +69295,7 @@
 ^ landbouw ^  mag ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69304,7 +69304,7 @@
 ^ landbouw ^  mag ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69313,7 +69313,7 @@
 ^ landbouw ^  mag ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69322,7 +69322,7 @@
 ^ landbouw ^  mag ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69331,7 +69331,7 @@
 ^ landbouw ^  naast ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69340,7 +69340,7 @@
 ^ landbouw ^  naast ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69367,7 +69367,7 @@
 ^ landbouw ^  naast ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69376,7 +69376,7 @@
 ^ landbouw ^  naast ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69385,7 +69385,7 @@
 ^ landbouw ^  naast ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69394,7 +69394,7 @@
 ^ landbouw ^  naast ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69403,7 +69403,7 @@
 ^ landbouw ^  titel ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69412,7 +69412,7 @@
 ^ landbouw ^  titel ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69421,7 +69421,7 @@
 ^ landbouw ^  titel ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69430,7 +69430,7 @@
 ^ landbouw ^  titel ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69439,7 +69439,7 @@
 ^ landbouw ^  titel ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69457,7 +69457,7 @@
 ^ landbouw ^  bachelor ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69466,7 +69466,7 @@
 ^ landbouw ^  bachelor ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69475,7 +69475,7 @@
 ^ landbouw ^  bachelor ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69493,7 +69493,7 @@
 ^ afgerond ^  mag ^  naast ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69502,7 +69502,7 @@
 ^ afgerond ^  mag ^  naast ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69511,7 +69511,7 @@
 ^ afgerond ^  mag ^  naast ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69520,7 +69520,7 @@
 ^ afgerond ^  mag ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69538,7 +69538,7 @@
 ^ afgerond ^  mag ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69547,7 +69547,7 @@
 ^ afgerond ^  mag ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69556,7 +69556,7 @@
 ^ afgerond ^  mag ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69565,7 +69565,7 @@
 ^ afgerond ^  mag ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69574,7 +69574,7 @@
 ^ afgerond ^  naast ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69583,7 +69583,7 @@
 ^ afgerond ^  naast ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69610,7 +69610,7 @@
 ^ afgerond ^  naast ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69619,7 +69619,7 @@
 ^ afgerond ^  naast ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69628,7 +69628,7 @@
 ^ afgerond ^  naast ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69637,7 +69637,7 @@
 ^ afgerond ^  naast ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69646,7 +69646,7 @@
 ^ afgerond ^  titel ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69655,7 +69655,7 @@
 ^ afgerond ^  titel ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69664,7 +69664,7 @@
 ^ afgerond ^  titel ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69673,7 +69673,7 @@
 ^ afgerond ^  titel ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69691,7 +69691,7 @@
 ^ afgerond ^  bachelor ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69700,7 +69700,7 @@
 ^ afgerond ^  bachelor ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69709,7 +69709,7 @@
 ^ afgerond ^  bachelor ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69718,7 +69718,7 @@
 ^ mag ^  naast ^  titel ^  bachelor ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69727,7 +69727,7 @@
 ^ mag ^  naast ^  titel ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69754,7 +69754,7 @@
 ^ mag ^  naast ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69763,7 +69763,7 @@
 ^ mag ^  naast ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69772,7 +69772,7 @@
 ^ mag ^  naast ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69781,7 +69781,7 @@
 ^ mag ^  naast ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69790,7 +69790,7 @@
 ^ mag ^  titel ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69799,7 +69799,7 @@
 ^ mag ^  titel ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69808,7 +69808,7 @@
 ^ mag ^  titel ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69817,7 +69817,7 @@
 ^ mag ^  titel ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69835,7 +69835,7 @@
 ^ mag ^  bachelor ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69844,7 +69844,7 @@
 ^ mag ^  bachelor ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69853,7 +69853,7 @@
 ^ mag ^  bachelor ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69862,7 +69862,7 @@
 ^ naast ^  titel ^  bachelor ^  titel ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69871,7 +69871,7 @@
 ^ naast ^  titel ^  bachelor ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69880,7 +69880,7 @@
 ^ naast ^  titel ^  bachelor ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69889,7 +69889,7 @@
 ^ naast ^  titel ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69898,7 +69898,7 @@
 ^ naast ^  titel ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69916,7 +69916,7 @@
 ^ naast ^  bachelor ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69925,7 +69925,7 @@
 ^ naast ^  bachelor ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69934,7 +69934,7 @@
 ^ naast ^  bachelor ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69943,7 +69943,7 @@
 ^ titel ^  bachelor ^  titel ^  ing ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69952,7 +69952,7 @@
 ^ titel ^  bachelor ^  titel ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69961,7 +69961,7 @@
 ^ titel ^  bachelor ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69970,7 +69970,7 @@
 ^ titel ^  titel ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
@@ -69979,7 +69979,7 @@
 ^ bachelor ^  titel ^  ing ^  voeren ^
 </pattern>
 <template>
-<srai>Ik heb een hbo-opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
+<srai>Ik heb een hbo opleiding in de techniek, ICT, of landbouw afgerond. Mag ik nu, naast de titel Bachelor, ook de titel ing. voeren</srai>
 </template>
 </category>
 
