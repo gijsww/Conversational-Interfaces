@@ -247,6 +247,13 @@
         <template> <srai>Hoe lang bestaat de universteit al</srai>
         </template>
     </category>
+    
+    <category>
+        <pattern># bestaat # RUG #</pattern>
+        <template> De Rijksuniversteit Groningen is opgericht in 1614.
+        </template>
+    </category>
+    
 
     <category>
         <pattern>^ <set>ja</set> ^</pattern>
